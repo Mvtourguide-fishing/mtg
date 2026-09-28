@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getHeroMediaByNodeIds } from "@/lib/media/repository";
 import type { MediaAsset } from "@/lib/media/types";
 import { createClient } from "@/lib/supabase/public";
@@ -111,7 +112,7 @@ function locationSummaryOf(row: NodeLocationRow, heroImage: MediaAsset | null = 
 }
 
 /** The single `location_type = 'country'` node (Maldives). */
-export async function getCountry(): Promise<LocationDetail | null> {
+async function getCountryUncached(): Promise<LocationDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -127,8 +128,10 @@ export async function getCountry(): Promise<LocationDetail | null> {
   return locationDetailOf(data, heroImage);
 }
 
+export const getCountry = cachedRead(getCountryUncached, ["locations:country"], 900);
+
 /** Every published atoll, with its inhabited-island count, ordered by name. */
-export async function getAtolls(): Promise<AtollSummary[]> {
+async function getAtollsUncached(): Promise<AtollSummary[]> {
   const supabase = await createClient();
 
   const { data, error } = await supabase
@@ -153,6 +156,8 @@ export async function getAtolls(): Promise<AtollSummary[]> {
     })
     .filter((a): a is AtollSummary => a !== null);
 }
+
+export const getAtolls = cachedRead(getAtollsUncached, ["locations:atolls"], 900);
 
 /**
  * Inhabited-island counts per atoll in a single grouped query, so the
@@ -184,7 +189,7 @@ async function getIslandCountsByAtoll(atollIds: string[]): Promise<Map<string, n
   return counts;
 }
 
-export async function getAtollBySlug(slug: string): Promise<AtollDetail | null> {
+async function getAtollBySlugUncached(slug: string): Promise<AtollDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -202,13 +207,15 @@ export async function getAtollBySlug(slug: string): Promise<AtollDetail | null> 
   return { ...detail, locationType: "atoll" };
 }
 
+export const getAtollBySlug = cachedRead(getAtollBySlugUncached, ["locations:atoll-by-slug"], 900);
+
 export interface GetIslandsOptions {
   page?: number;
   pageSize?: number;
 }
 
 /** All published islands, paginated (the Maldives has ~190+ inhabited islands). */
-export async function getIslands(options: GetIslandsOptions = {}): Promise<PaginatedResult<IslandSummary>> {
+async function getIslandsUncached(options: GetIslandsOptions = {}): Promise<PaginatedResult<IslandSummary>> {
   const page = Math.max(1, options.page ?? 1);
   const pageSize = Math.min(100, Math.max(1, options.pageSize ?? 48));
   const from = (page - 1) * pageSize;
@@ -241,11 +248,13 @@ export async function getIslands(options: GetIslandsOptions = {}): Promise<Pagin
   return { items, total: count ?? items.length, page, pageSize };
 }
 
+export const getIslands = cachedRead(getIslandsUncached, ["locations:islands"], 900);
+
 /** All islands belonging to one atoll (by atoll node id) — a single query,
  * not one per island. Split out from getIslandsByAtoll() below so a caller
  * that already has the atoll's id (e.g. an island's own parentId) can skip
  * the extra slug->id lookup that function does. */
-export async function getIslandsByAtollId(atollId: string): Promise<IslandSummary[]> {
+async function getIslandsByAtollIdUncached(atollId: string): Promise<IslandSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -269,6 +278,8 @@ export async function getIslandsByAtollId(atollId: string): Promise<IslandSummar
     .filter((i): i is IslandSummary => i !== null);
 }
 
+export const getIslandsByAtollId = cachedRead(getIslandsByAtollIdUncached, ["locations:islands-by-atoll-id"], 900);
+
 /** All islands belonging to one atoll (by atoll slug) — a single query, not
  * one per island. */
 export async function getIslandsByAtoll(atollSlug: string): Promise<IslandSummary[]> {
@@ -277,7 +288,7 @@ export async function getIslandsByAtoll(atollSlug: string): Promise<IslandSummar
   return getIslandsByAtollId(atoll.id);
 }
 
-export async function getIslandBySlug(slug: string): Promise<IslandDetail | null> {
+async function getIslandBySlugUncached(slug: string): Promise<IslandDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -295,8 +306,10 @@ export async function getIslandBySlug(slug: string): Promise<IslandDetail | null
   return { ...detail, locationType: "island" };
 }
 
+export const getIslandBySlug = cachedRead(getIslandBySlugUncached, ["locations:island-by-slug"], 900);
+
 /** Any locations parented under `locationId` (localities, sites, etc.). */
-export async function getChildLocations(locationId: string): Promise<LocationSummary[]> {
+async function getChildLocationsUncached(locationId: string): Promise<LocationSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -312,6 +325,8 @@ export async function getChildLocations(locationId: string): Promise<LocationSum
   const heroByNodeId = await getHeroMediaByNodeIds(data.map((row) => row.id));
   return data.map((row) => locationSummaryOf(row, heroByNodeId.get(row.id) ?? null)).filter((l): l is LocationSummary => l !== null);
 }
+
+export const getChildLocations = cachedRead(getChildLocationsUncached, ["locations:children"], 900);
 
 export interface SearchLocationsOptions {
   locationType?: LocationType;
@@ -354,7 +369,7 @@ export async function searchLocations(
  * the accommodation repository, since this module already owns the
  * nodes+locations join shape.
  */
-export async function getLocationSummariesByIds(ids: string[]): Promise<Map<string, LocationSummary>> {
+async function getLocationSummariesByIdsUncached(ids: string[]): Promise<Map<string, LocationSummary>> {
   const map = new Map<string, LocationSummary>();
   if (ids.length === 0) return map;
 
@@ -377,6 +392,8 @@ export async function getLocationSummariesByIds(ids: string[]): Promise<Map<stri
   return map;
 }
 
+export const getLocationSummariesByIds = cachedRead(getLocationSummariesByIdsUncached, ["locations:by-ids"], 900);
+
 export async function getLocationSummaryById(id: string): Promise<LocationSummary | null> {
   const map = await getLocationSummariesByIds([id]);
   return map.get(id) ?? null;
@@ -386,7 +403,7 @@ export async function getLocationSummaryById(id: string): Promise<LocationSummar
  * (real MTG island slugs, verified at import time — see
  * import-legacy-island-content.mjs) into renderable summaries without one
  * query per nearby island. */
-export async function getLocationSummariesBySlugs(slugs: string[]): Promise<Map<string, LocationSummary>> {
+async function getLocationSummariesBySlugsUncached(slugs: string[]): Promise<Map<string, LocationSummary>> {
   const map = new Map<string, LocationSummary>();
   if (slugs.length === 0) return map;
 
@@ -409,6 +426,12 @@ export async function getLocationSummariesBySlugs(slugs: string[]): Promise<Map<
   return map;
 }
 
+export const getLocationSummariesBySlugs = cachedRead(
+  getLocationSummariesBySlugsUncached,
+  ["locations:summaries-by-slugs"],
+  900,
+);
+
 /**
  * Generic site-type queries, added for Task 8. Dive sites, and later surf
  * breaks (Task 9), are both `locations` rows distinguished only by
@@ -423,7 +446,7 @@ export interface GetLocationsByTypeOptions {
   pageSize?: number;
 }
 
-export async function getLocationsByType(
+async function getLocationsByTypeUncached(
   locationType: LocationType,
   options: GetLocationsByTypeOptions = {},
 ): Promise<PaginatedResult<LocationSummary>> {
@@ -450,7 +473,9 @@ export async function getLocationsByType(
   return { items, total: count ?? items.length, page, pageSize };
 }
 
-export async function getLocationsByTypeAndAtoll(locationType: LocationType, atollId: string): Promise<LocationSummary[]> {
+export const getLocationsByType = cachedRead(getLocationsByTypeUncached, ["locations:by-type"], 900);
+
+async function getLocationsByTypeAndAtollUncached(locationType: LocationType, atollId: string): Promise<LocationSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -467,7 +492,9 @@ export async function getLocationsByTypeAndAtoll(locationType: LocationType, ato
   return data.map((row) => locationSummaryOf(row, heroByNodeId.get(row.id) ?? null)).filter((l): l is LocationSummary => l !== null);
 }
 
-export async function getLocationBySlugAndType(slug: string, locationType: LocationType): Promise<LocationDetail | null> {
+export const getLocationsByTypeAndAtoll = cachedRead(getLocationsByTypeAndAtollUncached, ["locations:by-type-and-atoll"], 900);
+
+async function getLocationBySlugAndTypeUncached(slug: string, locationType: LocationType): Promise<LocationDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -483,11 +510,13 @@ export async function getLocationBySlugAndType(slug: string, locationType: Locat
   return locationDetailOf(data, heroImage);
 }
 
+export const getLocationBySlugAndType = cachedRead(getLocationBySlugAndTypeUncached, ["locations:by-slug-and-type"], 900);
+
 /** Same as getLocationBySlugAndType but without a location_type filter —
  * for callers (Task 10 transfers) where the endpoint can legitimately be
  * more than one type (an island or an airport), so the caller doesn't
  * already know which type to ask for. */
-export async function getLocationBySlug(slug: string): Promise<LocationDetail | null> {
+async function getLocationBySlugUncached(slug: string): Promise<LocationDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -502,6 +531,8 @@ export async function getLocationBySlug(slug: string): Promise<LocationDetail | 
   return locationDetailOf(data, heroImage);
 }
 
+export const getLocationBySlug = cachedRead(getLocationBySlugUncached, ["locations:by-slug"], 900);
+
 /** `nodes.attributes` for one node — the JSONB home for genuinely flexible,
  * category-specific descriptive facts (dive site depth/current/marine-life
  * notes, per the architecture's JSONB-boundaries rule), never for data that
@@ -511,7 +542,7 @@ export async function getNodeAttributes(nodeId: string): Promise<Record<string, 
   return map.get(nodeId) ?? {};
 }
 
-export async function getNodeAttributesByIds(nodeIds: string[]): Promise<Map<string, Record<string, unknown>>> {
+async function getNodeAttributesByIdsUncached(nodeIds: string[]): Promise<Map<string, Record<string, unknown>>> {
   const map = new Map<string, Record<string, unknown>>();
   if (nodeIds.length === 0) return map;
 
@@ -527,6 +558,8 @@ export async function getNodeAttributesByIds(nodeIds: string[]): Promise<Map<str
   }
   return map;
 }
+
+export const getNodeAttributesByIds = cachedRead(getNodeAttributesByIdsUncached, ["locations:node-attributes"], 900);
 
 /** An island's own destination-guide content, if it has one — reads the
  * `island_*` keys import-legacy-island-content.mjs writes into
@@ -565,7 +598,7 @@ export async function getAtollContent(nodeId: string): Promise<AtollContentProfi
  * relation (primary or secondary) — used to find, e.g., every diving
  * activity that visits a given dive site even though the site is usually
  * a secondary tag, not the activity's primary location. */
-export async function getNodeIdsAtLocation(locationId: string): Promise<string[]> {
+async function getNodeIdsAtLocationUncached(locationId: string): Promise<string[]> {
   const supabase = await createClient();
   const { data } = await supabase
     .from("node_locations")
@@ -575,10 +608,12 @@ export async function getNodeIdsAtLocation(locationId: string): Promise<string[]
   return Array.from(new Set((data ?? []).map((row) => row.node_id)));
 }
 
+export const getNodeIdsAtLocation = cachedRead(getNodeIdsAtLocationUncached, ["locations:node-ids-at-location"], 900);
+
 /** Every location tagged *to* `nodeId` via node_locations (any relation) —
  * the reverse of getNodeIdsAtLocation. Used to find, e.g., the specific
  * dive site(s) a diving activity visits when that's documented. */
-export async function getLocationIdsForNode(nodeId: string): Promise<string[]> {
+async function getLocationIdsForNodeUncached(nodeId: string): Promise<string[]> {
   const supabase = await createClient();
   const { data } = await supabase
     .from("node_locations")
@@ -587,3 +622,5 @@ export async function getLocationIdsForNode(nodeId: string): Promise<string[]> {
     .returns<Array<{ location_id: string }>>();
   return Array.from(new Set((data ?? []).map((row) => row.location_id)));
 }
+
+export const getLocationIdsForNode = cachedRead(getLocationIdsForNodeUncached, ["locations:location-ids-for-node"], 900);

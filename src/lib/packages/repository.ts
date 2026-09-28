@@ -1,6 +1,7 @@
 import "server-only";
 
 import { getAccommodationSummariesByIds } from "@/lib/accommodations/repository";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getActivitySummariesByIds } from "@/lib/activities/repository";
 import { getCategoriesByGroup, getCategoryBySlug, getNodeIdsByCategory } from "@/lib/categories/repository";
 import type { CategoryGroup, CategorySummary } from "@/lib/categories/types";
@@ -188,7 +189,7 @@ async function resolveTaxonomyNodeIdFilter(options: GetPackagesOptions): Promise
   return Array.from(new Set(intersected));
 }
 
-export async function getPackages(options: GetPackagesOptions = {}): Promise<PaginatedResult<PackageSummary>> {
+async function getPackagesUncached(options: GetPackagesOptions = {}): Promise<PaginatedResult<PackageSummary>> {
   const page = Math.max(1, options.page ?? 1);
   const pageSize = Math.min(100, Math.max(1, options.pageSize ?? 24));
   const from = (page - 1) * pageSize;
@@ -253,6 +254,10 @@ export async function getPackages(options: GetPackagesOptions = {}): Promise<Pag
   );
   return { items, total: count ?? items.length, page, pageSize };
 }
+
+// Same rationale as src/lib/activities/repository.ts's getActivities: the
+// packages listing/filter pages hit this uncached on every render.
+export const getPackages = cachedRead(getPackagesUncached, ["packages:list"], 300);
 
 /** Every category this package is tagged with, split by taxonomy group —
  * one `node_categories` query, then filtered against each group's already
@@ -422,7 +427,7 @@ async function getStagesForPackage(packageId: string): Promise<PackageItineraryS
   return stageRows.map((s) => stageOf(s, itemsByStage.get(s.id) ?? []));
 }
 
-export async function getPackageBySlug(slug: string): Promise<PackageDetail | null> {
+async function getPackageBySlugUncached(slug: string): Promise<PackageDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -464,6 +469,8 @@ export async function getPackageBySlug(slug: string): Promise<PackageDetail | nu
     inclusions: categories.inclusion,
   };
 }
+
+export const getPackageBySlug = cachedRead(getPackageBySlugUncached, ["packages:by-slug"], 300);
 
 /** Batch lookup by node id — mirrors getAccommodationSummariesByIds /
  * getActivitySummariesByIds, kept for symmetry even though no caller needs

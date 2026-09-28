@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { Review } from "@/lib/reviews/types";
 
@@ -14,7 +15,7 @@ type ReviewRow = {
 
 /** Only status='published' rows — a submitted review sits at 'pending'
  * until moderated, so it never appears as if it were vetted instantly. */
-export async function getReviewsForNode(nodeId: string): Promise<Review[]> {
+async function getReviewsForNodeUncached(nodeId: string): Promise<Review[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("reviews")
@@ -35,3 +36,5 @@ export async function getReviewsForNode(nodeId: string): Promise<Review[]> {
     createdAt: row.created_at,
   }));
 }
+
+export const getReviewsForNode = cachedRead(getReviewsForNodeUncached, ["reviews-for-node"]);

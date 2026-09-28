@@ -28,6 +28,22 @@ export async function updateSession(request: NextRequest) {
     return supabaseResponse;
   }
 
+  // The overwhelming majority of requests — every anonymous visitor and
+  // every crawler/bot hitting the public catalog pages — carry no Supabase
+  // auth cookie at all. There is no session to refresh for them, so
+  // calling auth.getUser() here would do nothing except make a wasted
+  // network round trip to the Supabase Auth API on every single one of
+  // those requests. Since this proxy runs on almost every route (see the
+  // matcher below), that wasted call was happening on every page view of
+  // every visitor, all day, and was a major contributor to the project's
+  // Supabase compute/disk-IO exhaustion (see the incident note this fix
+  // was added for). Only pay for the auth round trip when a session
+  // cookie is actually present.
+  const hasSupabaseAuthCookie = request.cookies.getAll().some((cookie) => cookie.name.startsWith("sb-") && cookie.name.endsWith("-auth-token"));
+  if (!hasSupabaseAuthCookie) {
+    return supabaseResponse;
+  }
+
   const supabase = createServerClient(
     url,
     anonKey,

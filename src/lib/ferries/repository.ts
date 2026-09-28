@@ -2,6 +2,7 @@ import "server-only";
 
 import { getLocationSummariesByIds } from "@/lib/locations/repository";
 import { getMediaAssetsByIds } from "@/lib/media/repository";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { FerryRoute, FerryStop } from "@/lib/ferries/types";
 
@@ -21,7 +22,7 @@ type FerryRouteRow = {
   sort_order: number;
 };
 
-export async function getFerryRoutes(): Promise<FerryRoute[]> {
+async function getFerryRoutesUncached(): Promise<FerryRoute[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("ferry_routes")
@@ -53,3 +54,5 @@ export async function getFerryRoutes(): Promise<FerryRoute[]> {
     heroImage: row.hero_media_id ? mediaById.get(row.hero_media_id) ?? null : null,
   }));
 }
+
+export const getFerryRoutes = cachedRead(getFerryRoutesUncached, ["ferry-routes"]);

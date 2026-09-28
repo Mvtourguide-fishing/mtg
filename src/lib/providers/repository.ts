@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { PaginatedResult, ProviderDetail, ProviderSummary } from "@/lib/providers/types";
 
@@ -88,7 +89,7 @@ export interface GetProvidersOptions {
   pageSize?: number;
 }
 
-export async function getProviders(options: GetProvidersOptions = {}): Promise<PaginatedResult<ProviderSummary>> {
+async function getProvidersUncached(options: GetProvidersOptions = {}): Promise<PaginatedResult<ProviderSummary>> {
   const page = Math.max(1, options.page ?? 1);
   const pageSize = Math.min(100, Math.max(1, options.pageSize ?? 48));
   const from = (page - 1) * pageSize;
@@ -109,6 +110,8 @@ export async function getProviders(options: GetProvidersOptions = {}): Promise<P
   const items = data.map(providerSummaryOf).filter((p): p is ProviderSummary => p !== null);
   return { items, total: count ?? items.length, page, pageSize };
 }
+
+export const getProviders = cachedRead(getProvidersUncached, ["providers"]);
 
 export async function getProviderBySlug(slug: string): Promise<ProviderDetail | null> {
   const supabase = await createClient();

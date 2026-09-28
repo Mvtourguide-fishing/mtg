@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getLocationSummariesByIds, getLocationSummaryById, getNodeAttributesByIds } from "@/lib/locations/repository";
 import type { LocationSummary } from "@/lib/locations/types";
 import { getHeroMediaByNodeIds, getMediaAssetsByIds, getMediaForNode } from "@/lib/media/repository";
@@ -172,7 +173,7 @@ export interface GetAccommodationsOptions extends AccommodationFilters {
   pageSize?: number;
 }
 
-export async function getAccommodations(
+async function getAccommodationsUncached(
   options: GetAccommodationsOptions = {},
 ): Promise<PaginatedResult<AccommodationSummary>> {
   const page = Math.max(1, options.page ?? 1);
@@ -235,6 +236,8 @@ export async function getAccommodations(
   return { items, total: count ?? items.length, page, pageSize };
 }
 
+export const getAccommodations = cachedRead(getAccommodationsUncached, ["accommodations:list"], 300);
+
 export async function getAccommodationsByType(
   type: AccommodationType,
   options: Omit<GetAccommodationsOptions, "type"> = {},
@@ -280,7 +283,7 @@ export async function getNearbyAccommodations(
 
 /** Every accommodation operated by a given provider — powers the reverse
  * "Provider → Accommodations" link (§17). */
-export async function getAccommodationsByProvider(providerId: string): Promise<AccommodationSummary[]> {
+async function getAccommodationsByProviderUncached(providerId: string): Promise<AccommodationSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -300,6 +303,12 @@ export async function getAccommodationsByProvider(providerId: string): Promise<A
   ]);
   return bares.map((b) => toSummary(b, locationsByNodeId.get(b.id) ?? null, heroByNodeId.get(b.id) ?? null));
 }
+
+export const getAccommodationsByProvider = cachedRead(
+  getAccommodationsByProviderUncached,
+  ["accommodations:by-provider"],
+  300,
+);
 
 type AccommodationRoomRow = {
   id: string;
@@ -355,7 +364,7 @@ async function getAccommodationRooms(accommodationId: string): Promise<Accommoda
   }));
 }
 
-export async function getAccommodationBySlug(slug: string): Promise<AccommodationDetail | null> {
+async function getAccommodationBySlugUncached(slug: string): Promise<AccommodationDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -402,9 +411,11 @@ export async function getAccommodationBySlug(slug: string): Promise<Accommodatio
   };
 }
 
+export const getAccommodationBySlug = cachedRead(getAccommodationBySlugUncached, ["accommodations:by-slug"], 300);
+
 /** Batch lookup by node id — used by the package repository to resolve
  * itinerary items without an N+1 query per item (Task 11). */
-export async function getAccommodationSummariesByIds(ids: string[]): Promise<Map<string, AccommodationSummary>> {
+async function getAccommodationSummariesByIdsUncached(ids: string[]): Promise<Map<string, AccommodationSummary>> {
   const map = new Map<string, AccommodationSummary>();
   if (ids.length === 0) return map;
 
@@ -429,6 +440,12 @@ export async function getAccommodationSummariesByIds(ids: string[]): Promise<Map
   }
   return map;
 }
+
+export const getAccommodationSummariesByIds = cachedRead(
+  getAccommodationSummariesByIdsUncached,
+  ["accommodations:summaries-by-ids"],
+  300,
+);
 
 export interface SearchAccommodationsOptions {
   limit?: number;
