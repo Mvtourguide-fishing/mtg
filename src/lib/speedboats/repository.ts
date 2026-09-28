@@ -1,6 +1,7 @@
 import "server-only";
 
 import { getHeroMediaByNodeIds, getMediaForNode } from "@/lib/media/repository";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { SpeedboatDetail, SpeedboatSummary } from "@/lib/speedboats/types";
 
@@ -52,7 +53,7 @@ function summaryOf(row: NodeSpeedboatRow, heroImage: import("@/lib/media/types")
   };
 }
 
-export async function getSpeedboats(): Promise<SpeedboatSummary[]> {
+async function getSpeedboatsUncached(): Promise<SpeedboatSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -69,6 +70,8 @@ export async function getSpeedboats(): Promise<SpeedboatSummary[]> {
     .map((row) => summaryOf(row, heroByNodeId.get(row.id) ?? null))
     .filter((s): s is SpeedboatSummary => s !== null);
 }
+
+export const getSpeedboats = cachedRead(getSpeedboatsUncached, ["speedboats"]);
 
 export async function getSpeedboatBySlug(slug: string): Promise<SpeedboatDetail | null> {
   const supabase = await createClient();

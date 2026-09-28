@@ -1,6 +1,7 @@
 import "server-only";
 
 import { getHeroMediaByNodeIds } from "@/lib/media/repository";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { VehicleSummary, VehicleType } from "@/lib/vehicles/types";
 
@@ -26,7 +27,7 @@ type NodeVehicleRow = {
  * comment. The page that renders this list already handles an empty
  * result with an honest "fleet details coming soon" state rather than a
  * broken layout. */
-export async function getVehicles(): Promise<VehicleSummary[]> {
+async function getVehiclesUncached(): Promise<VehicleSummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -57,3 +58,6 @@ export async function getVehicles(): Promise<VehicleSummary[]> {
     })
     .filter((v): v is VehicleSummary => v !== null);
 }
+
+export const getVehicles = cachedRead(getVehiclesUncached, ["vehicles"]);
+
