@@ -24,6 +24,10 @@ const nextConfig: NextConfig = {
     ];
   },
   images: {
+    // Supabase Storage serves the original public assets directly. Keeping
+    // Next.js Image Optimization disabled avoids Vercel's 402 optimizer limit
+    // while preserving the existing Supabase URLs and all image components.
+    unoptimized: true,
     remotePatterns: [
       // Supabase Storage public bucket URLs (see src/lib/media/types.ts's
       // publicStorageUrl and the "media" bucket created in
