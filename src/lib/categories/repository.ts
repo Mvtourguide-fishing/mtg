@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { createClient } from "@/lib/supabase/public";
 import type { CategoryGroup, CategorySummary } from "@/lib/categories/types";
 
@@ -36,7 +37,7 @@ function categorySummaryOf(row: NodeCategoryRow): CategorySummary | null {
   return { id: row.id, slug: row.slug, title: row.title, categoryGroup: c.category_group };
 }
 
-export async function getCategoriesByGroup(group: CategoryGroup): Promise<CategorySummary[]> {
+async function getCategoriesByGroupUncached(group: CategoryGroup): Promise<CategorySummary[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -51,7 +52,7 @@ export async function getCategoriesByGroup(group: CategoryGroup): Promise<Catego
   return data.map(categorySummaryOf).filter((c): c is CategorySummary => c !== null);
 }
 
-export async function getCategoryBySlug(slug: string, group?: CategoryGroup): Promise<CategorySummary | null> {
+async function getCategoryBySlugUncached(slug: string, group?: CategoryGroup): Promise<CategorySummary | null> {
   const supabase = await createClient();
   let query = supabase
     .from("nodes")
@@ -70,7 +71,7 @@ export async function getCategoryBySlug(slug: string, group?: CategoryGroup): Pr
 /** node_ids of every node tagged with this category — used to compose a
  * category-tag filter on top of another repository's relational filters
  * (see ActivityFilters.nodeIds). */
-export async function getNodeIdsByCategory(categoryId: string): Promise<string[]> {
+async function getNodeIdsByCategoryUncached(categoryId: string): Promise<string[]> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("node_categories")
@@ -81,3 +82,10 @@ export async function getNodeIdsByCategory(categoryId: string): Promise<string[]
   if (error || !data) return [];
   return data.map((row) => row.node_id);
 }
+
+// Taxonomy barely ever changes (an admin edits it, not a visitor), and it's
+// read on every single fishing/diving/activities/packages page render —
+// caching it is pure upside. See src/lib/cache/cached-read.ts for why.
+export const getCategoriesByGroup = cachedRead(getCategoriesByGroupUncached, ["categories:by-group"], 900);
+export const getCategoryBySlug = cachedRead(getCategoryBySlugUncached, ["categories:by-slug"], 900);
+export const getNodeIdsByCategory = cachedRead(getNodeIdsByCategoryUncached, ["categories:node-ids"], 900);

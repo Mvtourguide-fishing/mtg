@@ -1,5 +1,6 @@
 import "server-only";
 
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getLocationSummariesByIds, getLocationSummaryById } from "@/lib/locations/repository";
 import type { LocationSummary } from "@/lib/locations/types";
 import { getHeroMediaByNodeIds, getMediaForNode } from "@/lib/media/repository";
@@ -158,7 +159,7 @@ export interface GetActivitiesOptions extends ActivityFilters {
   pageSize?: number;
 }
 
-export async function getActivities(options: GetActivitiesOptions = {}): Promise<PaginatedResult<ActivitySummary>> {
+async function getActivitiesUncached(options: GetActivitiesOptions = {}): Promise<PaginatedResult<ActivitySummary>> {
   const page = Math.max(1, options.page ?? 1);
   const pageSize = Math.min(100, Math.max(1, options.pageSize ?? 24));
   const from = (page - 1) * pageSize;
@@ -215,6 +216,12 @@ export async function getActivities(options: GetActivitiesOptions = {}): Promise
   const items = bares.map((b) => toSummary(b, locationsByNodeId.get(b.id) ?? null, heroByNodeId.get(b.id) ?? null));
   return { items, total: count ?? items.length, page, pageSize };
 }
+
+// The directory/filter pages (fishing, diving, activities) call this on
+// every page view with no caching anywhere, including crawler traffic
+// hitting many filter-param permutations — see src/lib/cache/cached-read.ts
+// for why that was exhausting Supabase compute/disk-IO.
+export const getActivities = cachedRead(getActivitiesUncached, ["activities:list"], 300);
 
 export async function getActivitiesByCategory(
   category: ActivityCategory,
@@ -276,7 +283,7 @@ export async function getActivitiesByProvider(providerId: string): Promise<Activ
   return result.items;
 }
 
-export async function getActivityBySlug(slug: string): Promise<ActivityDetail | null> {
+async function getActivityBySlugUncached(slug: string): Promise<ActivityDetail | null> {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("nodes")
@@ -314,9 +321,11 @@ export async function getActivityBySlug(slug: string): Promise<ActivityDetail | 
   };
 }
 
+export const getActivityBySlug = cachedRead(getActivityBySlugUncached, ["activities:by-slug"], 300);
+
 /** Batch lookup by node id — used by the package repository to resolve
  * itinerary items without an N+1 query per item (Task 11). */
-export async function getActivitySummariesByIds(ids: string[]): Promise<Map<string, ActivitySummary>> {
+async function getActivitySummariesByIdsUncached(ids: string[]): Promise<Map<string, ActivitySummary>> {
   const map = new Map<string, ActivitySummary>();
   if (ids.length === 0) return map;
 
@@ -341,6 +350,8 @@ export async function getActivitySummariesByIds(ids: string[]): Promise<Map<stri
   }
   return map;
 }
+
+export const getActivitySummariesByIds = cachedRead(getActivitySummariesByIdsUncached, ["activities:by-ids"], 300);
 
 export interface SearchActivitiesOptions {
   limit?: number;

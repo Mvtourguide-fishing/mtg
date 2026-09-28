@@ -7,6 +7,7 @@ import {
   type GetActivitiesOptions,
 } from "@/lib/activities/repository";
 import type { ActivityDetail, ActivitySummary, PaginatedResult as ActivityPaginatedResult } from "@/lib/activities/types";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getCategoriesByGroup, getCategoryBySlug, getNodeIdsByCategory } from "@/lib/categories/repository";
 import type { CategorySummary } from "@/lib/categories/types";
 import { getHeroMediaByNodeIds } from "@/lib/media/repository";
@@ -81,7 +82,7 @@ export async function searchDivingActivities(query: string, options: { limit?: n
 /** Every "activity-type" taxonomy tag actually applied to at least one
  * diving activity — the diving-type filter chips are driven entirely by
  * what the seeded data supports, same pattern as fishing types. */
-export async function getDivingTypesInUse(): Promise<CategorySummary[]> {
+async function getDivingTypesInUseUncached(): Promise<CategorySummary[]> {
   const allTypes = await getCategoriesByGroup("activity-type");
   if (allTypes.length === 0) return [];
 
@@ -93,6 +94,8 @@ export async function getDivingTypesInUse(): Promise<CategorySummary[]> {
   const taggedIdSets = await Promise.all(allTypes.map((t) => getNodeIdsByCategory(t.id)));
   return allTypes.filter((_, i) => taggedIdSets[i].some((id) => divingIds.has(id)));
 }
+
+export const getDivingTypesInUse = cachedRead(getDivingTypesInUseUncached, ["diving:types-in-use"], 900);
 
 export async function getDivingActivitiesByType(
   typeSlug: string,

@@ -7,6 +7,7 @@ import {
   type GetActivitiesOptions,
 } from "@/lib/activities/repository";
 import type { ActivityDetail, ActivitySummary, PaginatedResult } from "@/lib/activities/types";
+import { cachedRead } from "@/lib/cache/cached-read";
 import { getCategoriesByGroup, getCategoryBySlug, getNodeIdsByCategory } from "@/lib/categories/repository";
 import type { CategorySummary } from "@/lib/categories/types";
 import { createClient } from "@/lib/supabase/public";
@@ -59,7 +60,7 @@ export async function searchFishingActivities(query: string, options: { limit?: 
 /** Every "activity-type" taxonomy tag actually applied to at least one
  * fishing activity — the fishing-type filter chips are driven entirely by
  * what the seeded data supports, never a hardcoded list. */
-export async function getFishingTypesInUse(): Promise<CategorySummary[]> {
+async function getFishingTypesInUseUncached(): Promise<CategorySummary[]> {
   const allTypes = await getCategoriesByGroup("activity-type");
   if (allTypes.length === 0) return [];
 
@@ -76,6 +77,8 @@ export async function getFishingTypesInUse(): Promise<CategorySummary[]> {
   const usedIds = new Set((data ?? []).map((row) => row.category_id));
   return allTypes.filter((t) => usedIds.has(t.id));
 }
+
+export const getFishingTypesInUse = cachedRead(getFishingTypesInUseUncached, ["fishing:types-in-use"], 900);
 
 export async function getFishingActivitiesByType(
   typeSlug: string,
