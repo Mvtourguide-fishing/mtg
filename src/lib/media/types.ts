@@ -40,7 +40,15 @@ export interface NodeMediaItem {
 export function publicStorageUrl(storagePath: string): string | null {
   const base = process.env.NEXT_PUBLIC_SUPABASE_URL;
   if (!base) return null;
-  const encodedPath = storagePath
+
+  // Older imported rows may already contain a complete Storage URL. Wrapping
+  // those values a second time produces a valid-looking but broken URL, so
+  // preserve them as-is. This keeps migrated and newly-created media working
+  // with the same renderer.
+  if (/^https?:\/\//i.test(storagePath)) return storagePath;
+
+  const normalizedPath = storagePath.replace(/^\/+/, "").replace(/^media\//, "");
+  const encodedPath = normalizedPath
     .split("/")
     .map((segment) => encodeURIComponent(segment))
     .join("/");
