@@ -1,0 +1,47 @@
+{
+  "folder": "Vakarufalhi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Vakarufalhi/Vakarufalhi-Maldives.html",
+  "legacyTitle": "Vakarufalhi Maldives Island Resort",
+  "legacyH1": "Vakarufalhi Maldives Island Resort",
+  "metaDescription": "Vakarufalhi Maldives Island is a five star resort located in SOuth Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "8c-NtpnhG10",
+  "descriptionParagraphs": [
+    "Vakarufalhi Island, with its coconut trees and white sandy beaches, is nestled away in a secluded area of the South Ari Atoll. It has lovely villas with panoramic sea views and a water sports facility with PADI certified scuba diving. There is Wi-Fi connectivity available. The air-conditioned villas are large and have a ceiling fan, a lounge room with a 42-inch plasma TV, and a mini-bar. There is a tea/coffee maker and a private bathroom with shower, complimentary amenities, and a hairdryer. Guests may unwind and take in the scenery while receiving a treatment at the spa. There is also an internet café and a library. Laundry and a souvenir store are also available.",
+    "Air-conditioned villas with direct beach access have a ceiling fan, a lounge room with a 42-inch plasma TV, and a fully equipped minibar. There is a tea/coffee maker and an en suite bathroom with shower, complimentary amenities, and a hairdryer.",
+    "This overwater home has a semi-open-air bathroom, a lawn, and a private verandah with a day bed. This large villa also has a ceiling fan, a lounge room with a 42-inch plasma TV, and a fully equipped minibar. There is a tea/coffee maker and a hairdryer available. Please keep in mind that children under the age of 12 are not permitted to stay in this property.",
+    "A tranquil hideaway in the centre of outstanding beauty offers a laid-back tropical refuge. Vakarufalhi Maldives has traditional structures perched over the resort's pristine seas. Each Villa is created in a modern manner that complements the natural beauty of the surroundings. Vakarufalhi Maldives will make every experience at the resort unique by catering to every demand.",
+    "Vakarufalhi is a 4 star resort located on South Ari Atoll, a 25-minute seaplane flight from Velana International Airport. It provides the ideal small island hideaway break, offering an All Inclusive Plan option. Relax on the beautiful beach, snorkel on the outstanding house reef in the clear lagoon, scuba dive with ProDivers, and so much more! Choose between doing nothing and participating in water sports, activities, excursions, and entertainment programmes."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Vakarufalhi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Vakarufalhi-Island-Maldives-Diving.webp",
+    "Vakarufalhi-Island-Maldives-South-Ari-Atoll.webp",
+    "Vakarufalhi-Island-Maldives.webp",
+    "Vakarufalhi-Island-Resort-Maldives.webp",
+    "Vakarufalhi-Maldives-Beach-Villa.webp",
+    "Vakarufalhi-Maldives-Beach-Villa1.webp",
+    "Vakarufalhi-Maldives-Beach.webp",
+    "Vakarufalhi-Maldives-Dining.webp",
+    "Vakarufalhi-Maldives-South-Ari-Atoll.webp",
+    "Vakarufalhi-Maldives-Spa.webp",
+    "Vakarufalhi-Maldives-Water-Villa.webp",
+    "Vakarufalhi-Maldives-Water-Villa1.webp",
+    "Vakarufalhi-Maldives-map.webp",
+    "Vakarufalhi-Maldives.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "Waldorf-Astoria",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Waldorf-Astoria/Waldorf-Astoria-Maldives-Ithaafushi.html",
+  "legacyTitle": "Waldorf Astoria Maldives Ithaafushi Island Resort",
+  "legacyH1": "Waldorf Astoria Maldives Ithaafushi Island Resort",
+  "metaDescription": "Waldorf Astoria Maldives Ithaafushi Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "northern"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "gXK48Tb4Pic",
+  "descriptionParagraphs": [
+    "The Waldorf Astoria Maldives Ithaafushi resort is a 45-minute boat ride from Velana International Airport, nestled among beautiful dunes and crystal blue seas. The resort has 11 acclaimed dining locations, including Michelin-starred chef Dave Pynt's Zuma Maldives and Terra, the only private hand-crafted bamboo dining pods in the Maldives, a world-class spa retreat, the only water wellness centre of its type in the Maldives, and an exclusive private island. The Waldorf Astoria Maldives Ithaafushi offers 119 beach, reef, and overwater villas with private pools, including a private island, as well as world-class facilities for a wonderful visit. Ithaafushi - The Private Island is the largest Maldivian private island in the Indian Ocean, spanning 32,000 square metres and accommodating up to 24 guests across two elegantly designed villas and one four-bedroom residence, ideal for bonding with loved ones or celebrating life's significant milestones with close friends.",
+    "This contemporary property has enough interior living, eating, and sleeping space. Relax on a daybed or hammock by the pool, surrounded by swaying palm palms.",
+    "These overwater homes provide breathtaking ocean views through floor-to-ceiling windows. There is space for both indoor and outdoor life.",
+    "There are 119 villas spread out over three private islands. Choose from one, two, or three-bedroom villas, each with its own private pool, swing daybeds, dining gazebos, and in-water couches, and all with unobstructed views of the Indian Ocean.",
+    "The magnificent Waldorf Astoria Maldives Ithaafushi is nestled among beautiful dunes and crystal blue lagoons, about 45 minutes by boat from Malé International Airport.",
+    "Discover a unique dining experience in one of 11 strategically located restaurants and bars, or just dine on your villa's own terrace with a tailor-made personalised menu."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Waldorf-Astoria/images",
+  "imageCount": 12,
+  "imageFiles": [
+    "Waldorf-Astoria-Maldives-Ithaafushi-Beach-Pool-Villa.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Beach-Pool-Villa1.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Isalnd-Resort.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Male-Atoll.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Over-Water-Pool-Villa.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Over-Water-Pool-Villa1.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Pool.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Resort-Male-Atoll.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-Resort.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-beach.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi-map.webp",
+    "Waldorf-Astoria-Maldives-Ithaafushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

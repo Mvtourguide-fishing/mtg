@@ -1,0 +1,78 @@
+{
+  "folder": "Soneva-Jani",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Soneva-Jani/Soneva-Jani-Maldives.html",
+  "legacyTitle": "Soneva Jani Maldives Island Resort",
+  "legacyH1": "Soneva Jani Maldives Island Resort",
+  "metaDescription": "Soneva Jani Maldives Island is a five star resort located in Noonu Atoll, Maldives",
+  "metaAtollCodes": [
+    "N"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "N",
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "f3smYTocVT0",
+  "descriptionParagraphs": [
+    "Soneva Jani is tucked away in the calm waters of the Noonu Atoll, where sun-drenched blue sky and turquoise seas reach out in every direction. There are only 51 over-water and three island properties, the largest and most luxury villas in the Maldives, each constructed for utmost seclusion, space, and stunning ocean views. Relax in one of the renowned Water or Island Villas for the ultimate in luxury.",
+    "Villa 34's one-of-a-kind design is inspired by nature's graceful, undulating curves. This three-bedroom seaside mansion is 1,956 square metres in size, with no straight lines in sight. It contains a freshwater swimming pool as well as a children's pool with a water slide. By the pool, there is also a children's treehouse.",
+    "The One Bedroom Water Retreat is spread across two stories and includes a private pool surrounded by plenty of space for sunbathing and admiring the ocean views. With the retractable roof of the villa, you can see the stars from the luxury of your master bedroom.",
+    "Our magnificent overwater and island villas are all built to provide maximum room, seclusion, and breathtaking views. Our 51 Water Villas, which range in size from one to four bedrooms, all include private pools, waterslides into the lagoon, and a retractable roof over the master bedroom. Our three Island Reserves are just feet from the beach and include private pools as well as ample interior and outdoor living space.",
+    "Soneva Jani is a five-island resort in Noonu Atoll's Medhufaru lagoon, the largest of which is Medhufaru, which is 150 acres in size. The resort is accessible by a spectacular 40-minute seaplane trip from Malé International Airport. Furthermore, the resort is accessible through a 60-minute speedboat journey from Soneva Fushi, or with a relaxing full-day cruise aboard Soneva in Aqua from Soneva Fushi.",
+    "Discover all of our eating options and experiences at Soneva Jani and the pristine islands that surround us. Our Hosts would gladly personalise each experience for a special event, celebration, or simply because."
+  ],
+  "rooms": [
+    {
+      "name": "3 Bedroom Island Reserve",
+      "price": 23400,
+      "priceInclTax": 23549,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 9,
+      "images": [
+        "/resorts/Soneva-Jani/images/Soneva-Jani-Maldives-Three-Bedroom-Island-Reserve.webp",
+        "/resorts/Soneva-Jani/images/Soneva-Jani-Maldives-Three-Bedroom-Island-Reserve1.webp"
+      ]
+    },
+    {
+      "name": "1 bedroom Water Retreat",
+      "price": 4200,
+      "priceInclTax": 4330,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Soneva-Jani/images/Soneva-Jani-Maldives-One-Bedroom-Water-Retreat.webp",
+        "/resorts/Soneva-Jani/images/Soneva-Jani-Maldives-One-Bedroom-Water-Retreat1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Soneva-Jani/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Soneva-Jani-Maldives-One-Bedroom-Water-Retreat.webp",
+    "Soneva-Jani-Maldives-One-Bedroom-Water-Retreat1.webp",
+    "Soneva-Jani-Maldives-Three-Bedroom-Island-Reserve-Noonu-Atoll.webp",
+    "Soneva-Jani-Maldives-Three-Bedroom-Island-Reserve.webp",
+    "Soneva-Jani-Maldives-Three-Bedroom-Island-Reserve1.webp",
+    "Soneva-Jani-Maldives-map.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Beach.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Excursions.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Noonu-Atoll.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Snorekling.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Spa.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Transfer.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives-Water-Sports.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort-Maldives.webp",
+    "Soneva-Jani-Medhufaru-Island-Resort.webp",
+    "Soneva-Jani-Medhufaru-Island.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

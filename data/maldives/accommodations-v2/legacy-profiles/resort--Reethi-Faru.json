@@ -1,0 +1,75 @@
+{
+  "folder": "Reethi-Faru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Reethi-Faru/Reethi-Faru-Reosrt-Maldives.html",
+  "legacyTitle": "Reethi Faru Resort Maldives Island",
+  "legacyH1": "Reethi Faru Resort Maldives Island",
+  "metaDescription": "Reethi Faru Resort Maldives Island is a five star resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Filaidhoo",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "gvkORhQg47s",
+  "descriptionParagraphs": [
+    "Reethi Faru is a luxurious retreat on the quiet, beautiful, and private island of Filaidhoo. Discover this one-of-a-kind tropical island paradise, where the sparkling crystal clear water meets the limitless white coral beach and lush flora transforms it into a genuinely wonderful lagoon hideaway. We are confident that you will be immersed in peace the moment you walk into its crystal clear light blue seas reaching across the smooth dunes. A wonderfully enchanting but one-of-a-kind location where you may select from a variety of things to enjoy throughout your stay.",
+    "The totally private location will inspire you to enjoy the 'Me' time you've always desired. Each villa has its own sunset cabana, sun loungers, and reading chairs. A book, some gentle music, and the natural surroundings in the midst of lots of sunlight will provide you with enough reasons to smile without giving you another cause to grin.",
+    "This is your place, with your very own sky. If staring at the sky or taking up the scenery while holding hands in a secluded environment sounds romantic, this is it. These Villas have magnificent natural lighting, hardwood ceilings, and inviting décor that is frequently caressed by a fresh wind.",
+    "To give the perfect vacation at Reethi Faru Resort, special care has been made to the design and placement of each of the 150 villas. You will discover a fully serviced villa that matches all of your requirements and interests, from family-friendly accommodations to perfectly located romantic hideaways.",
+    "Reethi Faru Resort is a newly new 5-star resort in Raa Atoll, north-west of Male', on the little island of Filaidhoo, with a lovely house reef only 80 metres from shore. Reethi Faru Resort is a breathtaking 45-minute seaplane journey or a 20-minute domestic flight to Dharavandhoo followed by a 40-minute speed boat ride directly to the Resort from the international airport.",
+    "With breakfast being the most essential meal of the day, there is something for everyone at the restaurant. Our breakfast buffet includes a live area with waffles, pancakes, omelettes, and local delicacies, as well as continental spreads with a variety of flavours to tempt your taste buds. The menu expands to include a variety of lunch and supper options."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Beach Villa",
+      "price": 250,
+      "priceInclTax": 278,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Reethi-Faru/images/Reethi-Faru-Resort-Deluxe-Beach-Villa.webp",
+        "/resorts/Reethi-Faru/images/Reethi-Faru-Resort-Deluxe-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 300,
+      "priceInclTax": 344,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Reethi-Faru/images/Reethi-Faru-Resort-Water-Villa.webp",
+        "/resorts/Reethi-Faru/images/Reethi-Faru-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Reethi-Faru/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Reethi-Faru-Isalnd-Resort-Maldives.webp",
+    "Reethi-Faru-Reosrt-Maldives-Island-map.webp",
+    "Reethi-Faru-Resort-Beach.webp",
+    "Reethi-Faru-Resort-Deluxe-Beach-Villa.webp",
+    "Reethi-Faru-Resort-Deluxe-Beach-Villa1.webp",
+    "Reethi-Faru-Resort-Dinning.webp",
+    "Reethi-Faru-Resort-Diving.webp",
+    "Reethi-Faru-Resort-Gym.webp",
+    "Reethi-Faru-Resort-Maldives-Raa-Atoll.webp",
+    "Reethi-Faru-Resort-Maldives.webp",
+    "Reethi-Faru-Resort-Pool-Raa-Atoll.webp",
+    "Reethi-Faru-Resort-Pool.webp",
+    "Reethi-Faru-Resort-Water-Villa.webp",
+    "Reethi-Faru-Resort-Water-Villa1.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

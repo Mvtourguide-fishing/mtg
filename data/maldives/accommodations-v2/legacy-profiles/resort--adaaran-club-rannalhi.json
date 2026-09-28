@@ -1,0 +1,72 @@
+{
+  "folder": "adaaran-club-rannalhi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/adaaran-club-rannalhi/adaaran-club-rannalhi-maldives.html",
+  "legacyTitle": "Adaaran Club Rannalhi Island Resort Maldives",
+  "legacyH1": "Adaaran Club Rannalhi Island Resort Maldives",
+  "metaDescription": "Adaaran Club Rannalhi Island is a resort located in kaafu atoll Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "JnsS3oIjDiM",
+  "descriptionParagraphs": [
+    "Adaaran Club Rannalhi is one of the greatest hotels in Maldives, located at the point of the South Male atoll in the Maldives, an unique collection of islands. During your stay at our pleasant Maldives hotel, bask in the golden sun and romp on the soft sands while experiencing warm Maldivian hospitality and seeing the rich tropical marvels of a dynamic island nation.",
+    "Adaaran Club Rannalhi is a charming Maldives Island resort located on the beautiful dunes of this tropical paradise. Adaaran Club Rannalhi is just 34 kilometers from Male International Airport and may be accessed through a 45-minute speedboat journey over breathtaking blue seas.",
+    "The 96 standard rooms at Adaaran Club Rannalhi provide excellent Maldives accommodation with all modern comforts while complimenting the natural surroundings and contributing to the mood. The Adaaran Club Rannalhi's 34 large and private Water Bungalows offer breathtaking ocean views and access to the changing scenery as the day fades to night."
+  ],
+  "rooms": [
+    {
+      "name": "Standard Room",
+      "price": 302,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/adaaran-club-rannalhi/images/adaaran-club-rannalhi-maldives-standard-room.webp",
+        "/resorts/adaaran-club-rannalhi/images/adaaran-club-rannalhi-maldives-standard-room2.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 525,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/adaaran-club-rannalhi/images/adaaran-club-rannalhi-maldives-water-bungalows.webp",
+        "/resorts/adaaran-club-rannalhi/images/adaaran-club-rannalhi-maldives-water-bungalows2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/adaaran-club-rannalhi/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "adaaran-club-rannalhi-island-maldives.webp",
+    "adaaran-club-rannalhi-island.webp",
+    "adaaran-club-rannalhi-maldives-island.webp",
+    "adaaran-club-rannalhi-maldives-resort.webp",
+    "adaaran-club-rannalhi-maldives-standard-room.jpg",
+    "adaaran-club-rannalhi-maldives-standard-room.webp",
+    "adaaran-club-rannalhi-maldives-standard-room2.webp",
+    "adaaran-club-rannalhi-maldives-water-bungalows.webp",
+    "adaaran-club-rannalhi-maldives-water-bungalows2.webp",
+    "adaaran-club-rannalhi-maldives.webp",
+    "adaaran-club-rannalhi-maldives1.jpg",
+    "adaaran-club-rannalhi-maldives1.webp",
+    "adaaran-club-rannalhi-map.webp",
+    "adaaran-club-rannalhi-resort-maldives.webp",
+    "adaaran-club-rannalhi-resort.webp",
+    "adaaran-club-rannalhi.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "K"
+}

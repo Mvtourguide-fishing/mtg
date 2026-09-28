@@ -1,0 +1,87 @@
+{
+  "folder": "SAii-Lagoon",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/SAii-Lagoon/SAii-Lagoon-Maldives.html",
+  "legacyTitle": "Saii Lagoon Maldives Island Resort",
+  "legacyH1": "Saii Lagoon Maldives Island Resort",
+  "metaDescription": "Saii Lagoon Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "1HZWfy0F1-Y",
+  "descriptionParagraphs": [
+    "The large and elegant Sky Rooms on the upper level of SAii have an indoor chill-out space, comfy bespoke furniture, and private balconies that surround the peaceful Indian Ocean and the stunning views of the Maldives island hotel. The bathroom has a double basin, a rainshower, and natural bathing items that visitors can personalise at the M.I.Y. Aroma Lab.",
+    "Our Maldives Overwater Villas are spacious villas positioned over the water for easy dips into the ocean, with welcoming, modern rustic décor, tailor-made furnishings, and big furnished terraces with a lounging net and a bathtub, all drenched in stunning seascapes. Signature beds invite rest and replenishment, while en-suite bathrooms with double basins and waterfall showers promote relaxing lavation.",
+    "The décor will be calming, with natural tones and textures. Complimentary Wi-Fi, HDTVs, complimentary tea and coffee, huge bathrooms with waterfall showers, and furnished decks or balconies with ocean views will be among the in-room amenities. Beach villas will have more room, whereas overwater villas will be surrounded by blue water. The two-bedroom overwater villas with breathtaking ocean views include private pools and are ideal for families or groups of friends.",
+    "A unique and fascinating new resort experience awaits in the Maldives, approximately 15 minutes by speed boat from Velana International Airport. SAii Lagoon Maldives is a cerulean hideaway designed for couples, families, and friends looking for a fun holiday getaway.",
+    "It is our joy to please you with a cool blend of thrills, sensations, and inspirations when you stay the SAii way. Whether you are looking for comfort cuisine, inventive tastes, inspired mixology, or a cause to party, SAii delights blend an exciting mix of culinary and lifestyle trends to deliver unique experiences that attach to your soul and make your trip complete at our Maldives restaurants. Not to mention a range of eating options, including one of Asia's 50 Best Restaurants, which is only a 5-minute walk away at The Marina @ CROSSROADS Maldives and will take you on an unforgettable gastronomic trip.",
+    "The Maldives' first free-standing double-story spa and wellness facility, offering quick and easy foot and neck massages as well as more extensive treatments. Lèn Be Well introduces a novel wellness concept that includes remarkable new degrees of relaxation, spa treatments, holistic activities, and gastronomic pleasures. Allow the aura of serenity and joy to wash over you as you indulge in some ultimate pampering and a full journey of wellbeing."
+  ],
+  "rooms": [
+    {
+      "name": "Sky Room",
+      "price": 500,
+      "priceInclTax": 584,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/SAii-Lagoon/images/Saii-Lagoon-Maldives-Sky-Room.webp",
+        "/resorts/SAii-Lagoon/images/Saii-Lagoon-Maldives-Sky-Room1.webp"
+      ]
+    },
+    {
+      "name": "Overwater Villa",
+      "price": 950,
+      "priceInclTax": 1051,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/SAii-Lagoon/images/Saii-Lagoon-Maldives-Overwater-Villa.webp",
+        "/resorts/SAii-Lagoon/images/Saii-Lagoon-Maldives-Overwater-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/SAii-Lagoon/images",
+  "imageCount": 28,
+  "imageFiles": [
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Activities.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Baa-Atoll.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Dinning.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Pool-Baa-Atoll.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Pool.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Spa.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-garden.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort.webp",
+    "Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa.webp",
+    "Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa1.webp",
+    "Royal-Island-Resort-Maldives-Beach-Villa.webp",
+    "Royal-Island-Resort-Maldives-Beach-Villa1.webp",
+    "Royal-Island-Resort-Maldives.webp",
+    "SAii-Lagoon-Maldives-map.webp",
+    "Saii-Lagoon-Island-Maldives-Male-Atoll.webp",
+    "Saii-Lagoon-Island-Maldives.webp",
+    "Saii-Lagoon-Maldives-Activities.webp",
+    "Saii-Lagoon-Maldives-Dinning.webp",
+    "Saii-Lagoon-Maldives-Hilton-Marina-Male-Atoll.webp",
+    "Saii-Lagoon-Maldives-Hilton.webp",
+    "Saii-Lagoon-Maldives-Overwater-Villa.webp",
+    "Saii-Lagoon-Maldives-Overwater-Villa1.webp",
+    "Saii-Lagoon-Maldives-Pool.webp",
+    "Saii-Lagoon-Maldives-Restaurant.webp",
+    "Saii-Lagoon-Maldives-Sky-Room.webp",
+    "Saii-Lagoon-Maldives-Sky-Room1.webp",
+    "Saii-Lagoon-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

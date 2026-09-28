@@ -1,0 +1,71 @@
+{
+  "folder": "Cinnamon-Dhonveli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cinnamon-Dhonveli/Cinnamon-Dhonveli-Maldives.html",
+  "legacyTitle": "Cinnamon Dhonveli Island Resort Maldives",
+  "legacyH1": "Cinnamon Dhonveli Island Resort Maldives",
+  "metaDescription": "Cinnamon Dhonveli Island is a resort located in Kaafu atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "9Cblu6zFvVA",
+  "descriptionParagraphs": [
+    "Cinnamon Dhonveli Maldives, a stunning tropical island resort with exclusive access to the legendary Pasta Point surf break, is an island of both action and sumptuous rest. There is something for everyone in this exotic paradise, whether you bring the family, a group of friends, or even your significant other. When you stay with us, you may enjoy stunning over-water suites, couples' spa treatments, sunset cruises, and intimate, beautiful dinners on the white sand beach.",
+    "Release your inner adrenaline junkie by riding a jet ski across the ocean, water skiing or windsurfing over the waves, or taking a catamaran ride. Sign up for a diving lesson at our dive centre or simply drop in for some leisurely snorkelling if you'd rather go beneath the surface than above it.",
+    "Of course, they have a beautiful view from every part of the island! This means that beautiful sunrises, sunsets, and the deep blue Indian Ocean are just outside your window no matter where you stay. Each accommodation at Cinnamon Dhonveli is meant to transport you to heaven while also making you feel completely at home.",
+    "The excitement of your exciting destination begins with an amazing 25-minute speedboat voyage to an island 13 kilometres from Malé. Cinnamon Dhonveli Maldives promises a lovely tropical trip packed with cultural excursions and marine life in the heart of the North Malé Atoll!",
+    "Pasta Point, a world-famous surf break in the Maldives, is a dream location for surfers from all over the world. This surf location, named after an Italian cafe that used to be in the same area, is known as the \"wave-machine\" of the North Malé Atoll because to its regular wave output, which averages 4-6 feet in height."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 280,
+      "priceInclTax": 303,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Dhonveli/images/Cinnamon-Dhonveli-Maldives-Beach-Bungalow.webp",
+        "/resorts/Cinnamon-Dhonveli/images/Cinnamon-Dhonveli-Maldives-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 360,
+      "priceInclTax": 393,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Dhonveli/images/Cinnamon-Dhonveli-Maldives-Water-Bungalow.webp",
+        "/resorts/Cinnamon-Dhonveli/images/Cinnamon-Dhonveli-Maldives-Water-Bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cinnamon-Dhonveli/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "Cinnamon-Dhonveli-Island-Resort-Maldives.webp",
+    "Cinnamon-Dhonveli-Maldives-Beach-Bungalow.webp",
+    "Cinnamon-Dhonveli-Maldives-Beach-Bungalow1.webp",
+    "Cinnamon-Dhonveli-Maldives-Island-Resort-Beach-Dinner.webp",
+    "Cinnamon-Dhonveli-Maldives-Island-Resort-Beach.webp",
+    "Cinnamon-Dhonveli-Maldives-Island-Resort-Pool.webp",
+    "Cinnamon-Dhonveli-Maldives-Island-Resort.webp",
+    "Cinnamon-Dhonveli-Maldives-Island-map.webp",
+    "Cinnamon-Dhonveli-Maldives-Resort.webp",
+    "Cinnamon-Dhonveli-Maldives-Water-Bungalow.webp",
+    "Cinnamon-Dhonveli-Maldives-Water-Bungalow1.webp",
+    "Cinnamon-Dhonveli-Maldives.webp",
+    "Maldives-Cinnamon-Dhonveli-Island-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

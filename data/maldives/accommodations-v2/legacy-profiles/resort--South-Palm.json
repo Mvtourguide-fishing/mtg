@@ -1,0 +1,73 @@
+{
+  "folder": "South-Palm",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/South-Palm/South-Palm-Resort-Maldives.html",
+  "legacyTitle": "South Palm Resort Maldives",
+  "legacyH1": "South Palm Resort Maldives Island",
+  "metaDescription": "South Palm Resort  Maldives Island is a five star resort located in Addu Atoll, Maldives",
+  "metaAtollCodes": [
+    "S"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "S"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "aYQPJc27w60",
+  "descriptionParagraphs": [
+    "South Palm Resort Maldives is a haven of unparalleled tranquillity, solitude, and comfort. Addu Atoll is surrounded by beautiful sandy beaches, a clean lagoon, and serene blue ocean vistas. South Palm Resort Maldives is a million miles away from the worries and strains of everyday life, located on a private island in the remote, southern edge of the Maldives. South Palm Resort Maldives offers 6 Villa kinds of stylish accommodation to meet all of your holiday needs. The island features a plethora of activities and outstanding amenities, including the first ever floating spa rooms in the Maldives, if not the globe. This makes it a great getaway for couples and honeymooners, as well as a fun-filled family resort.",
+    "From your Sunrise Villa, watch the first rays of morning sunshine rise over the Indian Ocean. After the concert, relax on your outside daybed and soak in the sea wind. The large 50sqm Villas, the most inexpensive accommodation category, have modern furnishings, elegant lines, and comfortable bedding.",
+    "Allow the peaceful sounds of the Indian Ocean to lull you to sleep in the middle of the day, and then wake up to experience the stunning colours of the sunset. In these huge 70 Sqm over-water villas, relax on the daybed on the wooden terrace and count the stars with a loved one.",
+    "The South Palm villas have been tastefully designed as a tranquil place for you to unwind and enjoy beautiful ocean views. A selection of 100 land-based beachfront Villas and 30 over-water Villas awaits to meet all of your vacation demands.",
+    "Located on a private island in the Maldives' southernmost tip. Ismehela Hera is located on the western rim of Addu atoll. Gan International Airport on Addu Atoll is a 10-minute speedboat trip away.",
+    "The Banyan Restaurant, South Palm Resort's primary dining location, offers an abundance of options. With breathtaking views of the Indian Ocean, dine on Asian and international cuisine as well as traditional Maldivian fare."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Villa",
+      "price": 220,
+      "priceInclTax": 249,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/South-Palm/images/South-Palm-Resort-Sunrise-Villa.webp",
+        "/resorts/South-Palm/images/South-Palm-Resort-Sunrise-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 0,
+      "priceInclTax": 592,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/South-Palm/images/South-Palm-Resort-Water-Villa.webp",
+        "/resorts/South-Palm/images/South-Palm-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/South-Palm/images",
+  "imageCount": 12,
+  "imageFiles": [
+    "South-Palm-Resort-Addu-Atoll.webp",
+    "South-Palm-Resort-Beach-Addu-AtollCopy.webp",
+    "South-Palm-Resort-Beach.webp",
+    "South-Palm-Resort-Honeymoon.webp",
+    "South-Palm-Resort-Maldives-map.webp",
+    "South-Palm-Resort-Maldives.webp",
+    "South-Palm-Resort-Spa.webp",
+    "South-Palm-Resort-Sunrise-Villa.webp",
+    "South-Palm-Resort-Sunrise-Villa1.webp",
+    "South-Palm-Resort-Water-Villa.webp",
+    "South-Palm-Resort-Water-Villa1.webp",
+    "South-Palm-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "S"
+}

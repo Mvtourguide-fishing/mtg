@@ -1,0 +1,76 @@
+{
+  "folder": "Milaidhoo",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Milaidhoo/Milaidhoo-Maldives.html",
+  "legacyTitle": "Milaidhoo Maldives Island Resort",
+  "legacyH1": "Milaidhoo Maldives Island Resort",
+  "metaDescription": "Milaidhoo Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "fQsrXcjbvqE",
+  "descriptionParagraphs": [
+    "Come on in, take off your shoes, and let us tell you a story... Once upon a time, there was a little tropical island, an emerald drop of paradise surrounded by a colourful coral reef, caressed by warm turquoise waves, and nestled in the centre of a UNESCO Biosphere Reserve. That island is Milaidhoo. That time has here, and this is our tale. Milaidhoo is not just another five-star resort in the Maldives; we call it re-invented luxury. We don't conceive of our visitors as vacationers, but rather as storytellers who are creating their ideal vacation. This is the start of your narrative about a little island.",
+    "Milaidhoo, which opened in November 2016, is a boutique luxury resort in the Baa Atoll UNESCO Biosphere Reserve, adjacent to Hanifaru Bay, 126 kilometres north-west of Male'. We're ideal for environment enthusiasts since our own coral reef, which encircles the island, is a protected area and a popular snorkelling and diving destination. Our magnificent island, which is densely forested, spans just 300m by 180m and is surrounded by a smooth, deep white sand beach. We welcome guests aged nine and up and have a strict no-drone policy on the island, making it ideal for couples seeking quiet and seclusion. Everything at Milaidhoo is handcrafted to order and designed with your comfort in mind. Service is excellent yet always pleasant, in keeping with",
+    "These bright and large 290sqm thatched-roof villas open up 180 degrees to a wide sundeck and amazing views, and are set on a white, powder soft, sand beach among palm trees and lush, tropical flora. Each villa has a king-size bed with stunning views of the beach and ocean. Each home has high ceilings that create a sense of spaciousness and light. The custom-made furniture are complemented by a concealed flat-screen television, a specialised wine cooler, a full-sized, quiet refrigerator and mini bar, coffee machine, ceiling fan, and air conditioning.",
+    "The Beach Pool Villas at Milaidhoo welcome guests to a private island house designed to take advantage of the natural tranquilly given by the thick greenery that surrounds the property. The contemporary interior design incorporates numerous local details, creating a sense of belonging.",
+    "These enormous 245sqm thatched-roof houses on stilts above the ocean are tranquil and full of light, leading out to a massive sundeck surrounded by the clean air of a fresh sea wind. The sun deck is built around a 42sqm private freshwater infinity pool and has a Maldivian-style swing sofa, sun loungers, a huge umbrella, a dining table with seats, and a wide, covered daybed. Steps descend into the lagoon, providing easy access to the neighbouring coral reef.",
+    "The interior design of the Water Pool Villa is inspired by Maldivian tradition and culture, with furniture custom-made for Milaidhoo and room colours that mirror the vibrant hues of the natural surroundings. The spacious bathroom in the Villa has a large bathtub with an ocean view. The bathroom has a tropical rain shower."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 2200,
+      "priceInclTax": 2244,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Milaidhoo/images/Milaidhoo-Island-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Milaidhoo/images/Milaidhoo-Island-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Pool Villa",
+      "price": 1900,
+      "priceInclTax": 1945,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Milaidhoo/images/Milaidhoo-Island-Maldives-Water-Pool-Villa.webp",
+        "/resorts/Milaidhoo/images/Milaidhoo-Island-Maldives-Water-Pool-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Milaidhoo/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Milaidhoo-Island-Maldives-Baa-Atoll.webp",
+    "Milaidhoo-Island-Maldives-Beach-Pool-Villa.webp",
+    "Milaidhoo-Island-Maldives-Beach-Pool-Villa1.webp",
+    "Milaidhoo-Island-Maldives-Beach.webp",
+    "Milaidhoo-Island-Maldives-Dinning.webp",
+    "Milaidhoo-Island-Maldives-Excursion.webp",
+    "Milaidhoo-Island-Maldives-Luxury-Resort.webp",
+    "Milaidhoo-Island-Maldives-Pool-Baa-Atoll.webp",
+    "Milaidhoo-Island-Maldives-Pool.webp",
+    "Milaidhoo-Island-Maldives-Resort.webp",
+    "Milaidhoo-Island-Maldives-Water-Pool-Villa.webp",
+    "Milaidhoo-Island-Maldives-Water-Pool-Villa1.webp",
+    "Milaidhoo-Island-Maldives-Water-Sports.webp",
+    "Milaidhoo-Island-Maldives.webp",
+    "Milaidhoo-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,79 @@
+{
+  "folder": "Vakkaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Vakkaru/Vakkaru-Maldives.html",
+  "legacyTitle": "Vakkaru Maldives Island Resort",
+  "legacyH1": "Vakkaru Maldives Island Resort",
+  "metaDescription": "Vakkaru Maldives Island is a five star resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "biosphere reserve baa"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "-tmrOPCI3-Q",
+  "descriptionParagraphs": [
+    "Vakkaru Maldives is an isolated coral island inside the UNESCO Biosphere Reserve of Baa Atoll, blessed with timeless ocean vistas, powder-soft, beautiful white sands, deep blue holes, and a house reef with unique marine fauna. A picturesque 30-minute seaplane journey from Male International Airport whisks you away to this pristine hideaway, which has been intelligently built for tourists seeking timeless experiences.",
+    "Beach Villa with Plunge Pool, surrounded by swaying coconut palms and lush greenery, with direct beach access and a private terrace, as well as a recently added open-air Jacuzzi suited for couples seeking romantic relaxation.",
+    "Our Over Water Villas are the perfect romantic getaway positioned over the turquoise lagoon, with a private over water patio and hammock for two people wishing to savour the splendour of their aquatic surrounds.",
+    "Whether you are travelling as a couple on a romantic getaway or in a bigger group with family and friends, Vakkaru Maldives has a fantastic selection of luxury hotel choices. All 113 beach and over water villas and Residences have an earthy yet sophisticated style, in line with the rustic charms of Maldivian culture, and give an unparalleled feeling of spaciousness and breathtaking ocean vistas.",
+    "From Velana International Airport, a picturesque 25-minute seaplane trip takes you to Vakkaru Maldives, an enchanting sanctuary organically built to heal the soul and quiet the spirit.",
+    "To begin the day, enjoy healthy flavours in a quiet, light, and airy atmosphere by the beach, with an interactive presentation of world cuisines and inspired meals enhanced with local tastes and tropical tones."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 4800,
+      "priceInclTax": 4969,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Vakkaru/images/Vakkaru-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Vakkaru/images/Vakkaru-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 3000,
+      "priceInclTax": 3174,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Vakkaru/images/Vakkaru-Maldives-Over-Water-Villa.webp",
+        "/resorts/Vakkaru/images/Vakkaru-Maldives-Over-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Vakkaru/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Vakkaru-Maldives-Baa-Atoll.webp",
+    "Vakkaru-Maldives-Beach-Pool-Villa.webp",
+    "Vakkaru-Maldives-Beach-Pool-Villa1.webp",
+    "Vakkaru-Maldives-Beach.webp",
+    "Vakkaru-Maldives-Dinning.webp",
+    "Vakkaru-Maldives-Excursions.webp",
+    "Vakkaru-Maldives-Family-Resort.webp",
+    "Vakkaru-Maldives-Over-Water-Villa.webp",
+    "Vakkaru-Maldives-Over-Water-Villa1.webp",
+    "Vakkaru-Maldives-Restaurant.webp",
+    "Vakkaru-Maldives-Spa.webp",
+    "Vakkaru-Maldives-Wedding.webp",
+    "Vakkaru-Maldives-map.webp",
+    "Vakkaru-Maldives-pool-Baa-Atoll.webp",
+    "Vakkaru-Maldives-pool.webp",
+    "Vakkaru-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

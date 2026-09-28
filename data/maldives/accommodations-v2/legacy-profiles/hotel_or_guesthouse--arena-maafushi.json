@@ -1,0 +1,85 @@
+{
+  "folder": "arena-maafushi",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/arena-maafushi/arena-beach-hotel-in-maafushi-maldives.html",
+  "legacyTitle": "Arena Beach Hotel in Maafushi Maldives",
+  "legacyH1": "Arena Beach Hotel Maafushi Maldives",
+  "metaDescription": "Arena beach is a hotel opened in the local island of maafushi male atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "The Arena Beach Hotel in Maafushi, Maldives, is located on the coast of the South Male Atoll. The island has a breathtaking view of the Indian Ocean and the turquoise lagoon. Let go of your worries and revel in the thrills that await you at every stop. Arena Beach Hotel offers the most accessible way to explore the real Maldives.",
+    "Seven Double Deluxe Rooms with balconies have views of the city with coconut trees swaying softly in the breeze, while nine Double Deluxe Rooms with balconies have views of the island's stunning turquoise lagoon reaching out across the Indian Ocean. In addition, Arena Beach Hotel offers two Super Deluxe Sea View Rooms, which deliver just what the name implies."
+  ],
+  "rooms": [
+    {
+      "name": "Standard Room",
+      "price": 59,
+      "priceInclTax": 73,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-standard-room.webp",
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-standard-room1.webp"
+      ]
+    },
+    {
+      "name": "Double Sea View Balcony Room",
+      "price": 89,
+      "priceInclTax": 111,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-seaview-room.webp",
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-seaview-room1.webp"
+      ]
+    },
+    {
+      "name": "Balcony Sea View Tripple Room",
+      "price": 112,
+      "priceInclTax": 140,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-tripple-seaview-room.webp",
+        "/hotels/arena-maafushi/images/arean-beach-maafushi-tripple-seaview-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/arena-maafushi/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "arean-beach-hotel-in-maafushi-maldives.jpg",
+    "arean-beach-hotel-in-maafushi-maldives.webp",
+    "arean-beach-hotel-maldives.webp",
+    "arean-beach-maafushi-hotel-maldives.webp",
+    "arean-beach-maafushi-island-hotel-maldives.webp",
+    "arean-beach-maafushi-island-hotel.webp",
+    "arean-beach-maafushi-island-maldives.webp",
+    "arean-beach-maafushi-island.webp",
+    "arean-beach-maafushi-seaview-room.webp",
+    "arean-beach-maafushi-seaview-room1.webp",
+    "arean-beach-maafushi-standard-room.webp",
+    "arean-beach-maafushi-standard-room1.webp",
+    "arean-beach-maafushi-tripple-seaview-room.webp",
+    "arean-beach-maafushi-tripple-seaview-room1.webp",
+    "arean-beach-maafushi.webp",
+    "arean-maafushi-island-hotel-maldives.webp",
+    "arean-maafushi-island-hotel.webp",
+    "arena-beach-map.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,75 @@
+{
+  "folder": "Kurumba",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Kurumba/Kurumba-Maldives.html",
+  "legacyTitle": "Kurumba Maldives Island Resort",
+  "legacyH1": "Kurumba Maldives Island Resort",
+  "metaDescription": "Kurumba Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "8ODifdytxy4",
+  "descriptionParagraphs": [
+    "Kurumba Maldives welcomes you. A Maldives island resort with more to offer than sun, sand, and water! A resort full of surprises, engaging activities, energetic entertainment, and friendly people that will make your Maldives vacation that much more memorable. Kurumba is appropriate for guests of all ages. We are glad to offer couples, honeymooners, friends, families, and small groups with a grin and a splash of Maldivian charm via our choice of entertainment, facilities, activities, and social events.",
+    "Accommodation that is both spacious and reasonably priced. Walk onto the beach, the water beneath your feet and Malé in the distance.",
+    "A huge pool villa with a large balcony. An open-plan area with views of the Maldives ocean on the east and seclusion and excellent lagoon on the west.",
+    "Kurumba Maldives provides classic modern style with character and thoughtful touches in 8 different room types.",
+    "Make every opportunity count. We are only a 10-minute speedboat trip from Velana International Airport (open 24 hours), so you may be on the beach with a beverage in hand within seconds of landing.",
+    "Veli Spa is a real Maldivian experience, set among beautiful grounds. While embracing contemporary therapies, our Spa is inspired by the tranquillity of the Maldives Islands, the balance of the waters, the vitality of the Maldivian indigenous people, and the healing powers of human touch."
+  ],
+  "rooms": [
+    {
+      "name": "Superior Room",
+      "price": 300,
+      "priceInclTax": 344,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kurumba/images/Kurumba-Maldives-Island-Resort-Superior-Room.webp",
+        "/resorts/Kurumba/images/Kurumba-Maldives-Island-Resort-Superior-Room1.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Pool Villa",
+      "price": 900,
+      "priceInclTax": 958,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kurumba/images/Kurumba-Maldives-Island-Resort-Deluxe-Pool-Villa.webp",
+        "/resorts/Kurumba/images/Kurumba-Maldives-Island-Resort-Deluxe-Pool-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Kurumba/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Kurumba-Maldives-Island-Resort-Beach-North-Male-Atoll.webp",
+    "Kurumba-Maldives-Island-Resort-Beach.webp",
+    "Kurumba-Maldives-Island-Resort-Deluxe-Pool-Villa.webp",
+    "Kurumba-Maldives-Island-Resort-Deluxe-Pool-Villa1.webp",
+    "Kurumba-Maldives-Island-Resort-Dinning.webp",
+    "Kurumba-Maldives-Island-Resort-Excursions.webp",
+    "Kurumba-Maldives-Island-Resort-Pool.webp",
+    "Kurumba-Maldives-Island-Resort-Snorkeling.webp",
+    "Kurumba-Maldives-Island-Resort-Spa.webp",
+    "Kurumba-Maldives-Island-Resort-Superior-Room.webp",
+    "Kurumba-Maldives-Island-Resort-Superior-Room1.webp",
+    "Kurumba-Maldives-Island-Resort-Water-Sports.webp",
+    "Kurumba-Maldives-Island-map.webp",
+    "Kurumba-Maldives-Vihamanaafushi-Resort-North-Male-Atoll.webp",
+    "Kurumba-Maldives-Vihamanaafushi-Resort.webp",
+    "Kurumba-Maldives-Vihamanafushi.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

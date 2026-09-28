@@ -1,0 +1,44 @@
+{
+  "folder": "Palm-Beach",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Palm-Beach/Palm-Beach-Island-Maldives.html",
+  "legacyTitle": "Palm Beach Island Resort & Spa Maldives",
+  "legacyH1": "Palm Beach Island Resort & Spa Maldives",
+  "metaDescription": "Palm Beach Island Resort & Spa Maldives is a five star resort located in Lhaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "spa maldives lhaviyani"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "zS3TfPEFOcc",
+  "descriptionParagraphs": [
+    "The 4-star Palm Beach Island Resort & Spa Maldives Lhaviyani Atoll is located near Madhiriguraidhoo Island and offers medical services, 24-hour cleaning, and wake-up calls. Fushifaru Thila is 3.1 km away, while Palm Beach Resort & Spa is 0.5 km distant. The rooms include a private safe, Wi-Fi, and a work desk, as well as an electric kettle, glasses, and coffee/tea making facilities for cooking. Some flats have views of the garden. A spa bathtub, a hair dryer, and towels are also available to guests.",
+    "Choose from a selection of magnificent Villas and Suites that provide a hidden hideaway among lush tropical foliage while gazing over the beautiful colours of a setting sun or the serene splendour of morning coming.",
+    "On your picturesque 40-minute seaplane ride to Lhaviyani Atoll and onto infinite expanses of immaculate white beach set by groves of coconut palms rustling softly to the beat of tropical winds, gaze at jewel tones of turquoise, jade, and bright tones across the Maldives archipelago."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Palm-Beach/images",
+  "imageCount": 9,
+  "imageFiles": [
+    "Palm-Beach-Island-Maldives-map.webp",
+    "Palm-Beach-Island-Resort-Spa.webp",
+    "Palm-Beach-Island-Resort-and-Spa-Maldives-Beach-lhaviyani-atoll.webp",
+    "Palm-Beach-Island-Resort-and-Spa-Maldives-Beach.webp",
+    "Palm-Beach-Island-Resort-and-Spa-Maldives-Noneymoon.webp",
+    "Palm-Beach-Island-Resort-and-Spa-Maldives.webp",
+    "Palm-Beach-Island-Resort-and-Spa.webp",
+    "Palm-Beach-Island-Resort-lhaviyani-atoll.webp",
+    "Palm-Beach-Island-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Lh"
+}

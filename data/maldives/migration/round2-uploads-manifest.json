@@ -1,0 +1,1505 @@
+{
+  "generatedAt": "2026-09-24T15:35:37.183Z",
+  "files": [
+    {
+      "mediaId": "22efd2fe-c085-53d5-a6f7-9fa7bf3759ea",
+      "relativePath": "assets/uploads/articles/Meeru-Island-Resort-Spa.webp",
+      "storagePath": "uploads/assets/uploads/articles/meeru-island-resort-spa.webp",
+      "altText": "Meeru Island Resort Spa"
+    },
+    {
+      "mediaId": "1ee34016-c991-b971-7e59-7de548017513",
+      "relativePath": "assets/uploads/atoll/meemu-Dhiggaru-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-dhiggaru-maldives.jpg",
+      "altText": "meemu Dhiggaru maldives"
+    },
+    {
+      "mediaId": "03cc9c96-fc3b-07bd-d17a-6c64b2f23ea9",
+      "relativePath": "assets/uploads/atoll/meemu-Kolhufushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-kolhufushi-maldives.jpg",
+      "altText": "meemu Kolhufushi maldives"
+    },
+    {
+      "mediaId": "926f702f-a4c4-35cc-55d8-63bd31fa4cdf",
+      "relativePath": "assets/uploads/atoll/meemu-Maduvvaree-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-maduvvaree-maldives.jpg",
+      "altText": "meemu Maduvvaree maldives"
+    },
+    {
+      "mediaId": "32480bff-b2e5-86fa-faec-ee5936fa68a5",
+      "relativePath": "assets/uploads/atoll/meemu-Muli-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-muli-maldives.jpg",
+      "altText": "meemu Muli maldives"
+    },
+    {
+      "mediaId": "1eb3516f-c90e-c9c2-daf9-a968ce03c7c0",
+      "relativePath": "assets/uploads/atoll/meemu-Naalaafushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-naalaafushi-maldives.jpg",
+      "altText": "meemu Naalaafushi maldives"
+    },
+    {
+      "mediaId": "0c99843c-f9d8-fa8e-71ef-27f65d0ea2e2",
+      "relativePath": "assets/uploads/atoll/meemu-Veyvah-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-veyvah-maldives.jpg",
+      "altText": "meemu Veyvah maldives"
+    },
+    {
+      "mediaId": "0e37c22b-dc03-8a4f-0f8e-0e653f573ac9",
+      "relativePath": "assets/uploads/atoll/noonu-Henbandhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-henbandhoo-island.jpg",
+      "altText": "noonu Henbandhoo island"
+    },
+    {
+      "mediaId": "fcfe9cfb-b970-8a62-bc02-ac02880ea307",
+      "relativePath": "assets/uploads/atoll/noonu-Holhudhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-holhudhoo-island.jpg",
+      "altText": "noonu Holhudhoo island"
+    },
+    {
+      "mediaId": "e117080f-e3ac-8761-ab64-f355615e9230",
+      "relativePath": "assets/uploads/atoll/noonu-Landhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-landhoo-island.jpg",
+      "altText": "noonu Landhoo island"
+    },
+    {
+      "mediaId": "102a945c-3aba-ebe0-d4f3-218251abe3f5",
+      "relativePath": "assets/uploads/atoll/noonu-Lhohi-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-lhohi-island.jpg",
+      "altText": "noonu Lhohi island"
+    },
+    {
+      "mediaId": "0e26be49-9604-1371-e9b9-8ad15d3c436f",
+      "relativePath": "assets/uploads/atoll/noonu-Maafaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-maafaru-island.jpg",
+      "altText": "noonu Maafaru island"
+    },
+    {
+      "mediaId": "fe2b3b6a-f31f-6fa3-4995-bc807e0e5d9c",
+      "relativePath": "assets/uploads/atoll/noonu-Maalhendhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-maalhendhoo-island.jpg",
+      "altText": "noonu Maalhendhoo island"
+    },
+    {
+      "mediaId": "df208fd5-1c52-6947-51e9-b587ea764569",
+      "relativePath": "assets/uploads/atoll/noonu-Magoodhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-magoodhoo-island.jpg",
+      "altText": "noonu Magoodhoo island"
+    },
+    {
+      "mediaId": "39f577df-dab7-f627-f862-5a7f79230398",
+      "relativePath": "assets/uploads/atoll/noonu-Manadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-manadhoo-island.jpg",
+      "altText": "noonu Manadhoo island"
+    },
+    {
+      "mediaId": "ddf9a387-fd4a-b393-fad5-79bdc4cc62db",
+      "relativePath": "assets/uploads/atoll/noonu-Miladhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-miladhoo-island.jpg",
+      "altText": "noonu Miladhoo island"
+    },
+    {
+      "mediaId": "e7212579-5e0e-1de8-4d81-c34215967bae",
+      "relativePath": "assets/uploads/atoll/noonu-Velidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-velidhoo-island.jpg",
+      "altText": "noonu Velidhoo island"
+    },
+    {
+      "mediaId": "23115b07-6474-a5ec-2c46-9a2b185568ce",
+      "relativePath": "assets/uploads/atoll/raa-Alifushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-alifushi-island.jpg",
+      "altText": "raa Alifushi island"
+    },
+    {
+      "mediaId": "9a1b41db-b142-ee54-ae91-0c6ad743500c",
+      "relativePath": "assets/uploads/atoll/raa-Angolhitheemu-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-angolhitheemu-island.jpg",
+      "altText": "raa Angolhitheemu island"
+    },
+    {
+      "mediaId": "2f28289a-fddf-0e5e-7b47-e2e3afd891eb",
+      "relativePath": "assets/uploads/atoll/raa-Dhuvaafaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-dhuvaafaru-island.jpg",
+      "altText": "raa Dhuvaafaru island"
+    },
+    {
+      "mediaId": "fdfbbe73-a946-34b3-0f15-dbb95c1f800c",
+      "relativePath": "assets/uploads/atoll/raa-Fainu-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-fainu-island.jpg",
+      "altText": "raa Fainu island"
+    },
+    {
+      "mediaId": "76d6361c-4f8b-8a64-85b5-654f6d189572",
+      "relativePath": "assets/uploads/atoll/raa-Hulhudhuffaaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-hulhudhuffaaru-island.jpg",
+      "altText": "raa Hulhudhuffaaru island"
+    },
+    {
+      "mediaId": "e59136c4-751d-5ff2-1ad3-6c32432895e2",
+      "relativePath": "assets/uploads/atoll/raa-Inguraidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-inguraidhoo-island.jpg",
+      "altText": "raa Inguraidhoo island"
+    },
+    {
+      "mediaId": "53b3b48b-c781-cc4e-90fc-ef6209223860",
+      "relativePath": "assets/uploads/atoll/raa-Innamaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-innamaadhoo-island.jpg",
+      "altText": "raa Innamaadhoo island"
+    },
+    {
+      "mediaId": "01960ea6-00c7-15e2-f98b-aa0e4a26fb95",
+      "relativePath": "assets/uploads/atoll/raa-Kinolhas-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-kinolhas-island.jpg",
+      "altText": "raa Kinolhas island"
+    },
+    {
+      "mediaId": "6d01634e-c7a9-57ab-0782-05d8d170ddba",
+      "relativePath": "assets/uploads/atoll/raa-Maakurathu-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-maakurathu-island.jpg",
+      "altText": "raa Maakurathu island"
+    },
+    {
+      "mediaId": "6658e9f3-45ea-390c-5eeb-563750f6e88a",
+      "relativePath": "assets/uploads/atoll/raa-Meedhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-meedhoo-island.jpg",
+      "altText": "raa Meedhoo island"
+    },
+    {
+      "mediaId": "2abdae9d-647c-1085-9841-d14feeccd51f",
+      "relativePath": "assets/uploads/atoll/raa-Rasmaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-rasmaadhoo-island.jpg",
+      "altText": "raa Rasmaadhoo island"
+    },
+    {
+      "mediaId": "8b8e8e13-f390-f2a2-1345-24eb3e8b7372",
+      "relativePath": "assets/uploads/atoll/raa-Ungoofaaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-ungoofaaru-island.jpg",
+      "altText": "raa Ungoofaaru island"
+    },
+    {
+      "mediaId": "be3e0edc-07f3-fd64-4657-fd04f4cedf5d",
+      "relativePath": "assets/uploads/atoll/raa-Vaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-vaadhoo-island.jpg",
+      "altText": "raa Vaadhoo island"
+    },
+    {
+      "mediaId": "bee408a9-1335-0ecc-e36e-a8d9906ae125",
+      "relativePath": "assets/uploads/atoll/seenu-Feydhoo-maldives-1-300x300.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/seenu-feydhoo-maldives-1-300x300.jpg",
+      "altText": "seenu Feydhoo maldives 1"
+    },
+    {
+      "mediaId": "5a45e60b-184b-f35f-8968-29af904e0675",
+      "relativePath": "assets/uploads/atoll/seenu-Hulhudhoo-meedhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/seenu-hulhudhoo-meedhoo-maldives.jpg",
+      "altText": "seenu Hulhudhoo meedhoo maldives"
+    },
+    {
+      "mediaId": "391dd565-39cc-f0ee-f509-1fe39a067a24",
+      "relativePath": "assets/uploads/atolls/sh-Goidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-goidhoo-island.jpg",
+      "altText": "sh Goidhoo island"
+    },
+    {
+      "mediaId": "e364889c-2bb3-3f89-6752-ae2f6a4d7fab",
+      "relativePath": "assets/uploads/atolls/sh-Lhaimagu-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-lhaimagu-island.jpg",
+      "altText": "sh Lhaimagu island"
+    },
+    {
+      "mediaId": "ed034090-17dd-e8c0-14f0-59133ff7af51",
+      "relativePath": "assets/uploads/atolls/sh-Maaungoodhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-maaungoodhoo-island.jpg",
+      "altText": "sh Maaungoodhoo island"
+    },
+    {
+      "mediaId": "b5e3a30e-ec1e-7d25-d58d-0af0ebd429ea",
+      "relativePath": "assets/uploads/atolls/sh-Maroshi-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-maroshi-island.jpg",
+      "altText": "sh Maroshi island"
+    },
+    {
+      "mediaId": "7ce9d85f-fe60-7215-319f-595215974e19",
+      "relativePath": "assets/uploads/atolls/sh-Milandhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-milandhoo-island.jpg",
+      "altText": "sh Milandhoo island"
+    },
+    {
+      "mediaId": "3c9d24b8-9b38-2fdc-4583-135761ad036d",
+      "relativePath": "assets/uploads/atolls/sh-Narudhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-narudhoo-island.jpg",
+      "altText": "sh Narudhoo island"
+    },
+    {
+      "mediaId": "b6738dd6-caee-5ad0-87b5-746ef17b7d96",
+      "relativePath": "assets/uploads/atolls/sh-Noomaraa-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-noomaraa-island.jpg",
+      "altText": "sh Noomaraa island"
+    },
+    {
+      "mediaId": "d04f1c70-4d88-776a-d872-b4e4dbe2f747",
+      "relativePath": "assets/uploads/atolls/sh-feevah-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-feevah-island.jpg",
+      "altText": "sh feevah island"
+    },
+    {
+      "mediaId": "fb27ddcf-8f72-8f34-8fec-06e9746b9e3f",
+      "relativePath": "assets/uploads/atolls/sh-feydhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-feydhoo-island.jpg",
+      "altText": "sh feydhoo island"
+    },
+    {
+      "mediaId": "8f046980-0f05-904a-82bf-ea10498bfefb",
+      "relativePath": "assets/uploads/atolls/sh-foakaidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-foakaidhoo-island.jpg",
+      "altText": "sh foakaidhoo island"
+    },
+    {
+      "mediaId": "a0c88998-b1ca-baf5-c437-c759f683ccc1",
+      "relativePath": "assets/uploads/atolls/sh-kanditheemu-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-kanditheemu-island.jpg",
+      "altText": "sh kanditheemu island"
+    },
+    {
+      "mediaId": "ab111724-aa28-4cd2-e1c4-c099ab5b333e",
+      "relativePath": "assets/uploads/atolls/sh-komandoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/sh-komandoo-island.jpg",
+      "altText": "sh komandoo island"
+    },
+    {
+      "mediaId": "9a4e09f8-b813-edcb-181d-e8ab80ee1cb6",
+      "relativePath": "assets/uploads/atolls/shaviyani-bileffahi-island-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/shaviyani-bileffahi-island-maldives.jpg",
+      "altText": "shaviyani bileffahi island maldives"
+    },
+    {
+      "mediaId": "45192b41-901b-3e79-d6b8-4b098a9617be",
+      "relativePath": "assets/uploads/atolls/thaa-Burunee-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-burunee-maldives.jpg",
+      "altText": "thaa Burunee maldives"
+    },
+    {
+      "mediaId": "ad748e75-30c0-3954-2be4-18e7672a34eb",
+      "relativePath": "assets/uploads/atolls/thaa-Dhiyamigili-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-dhiyamigili-maldives.jpg",
+      "altText": "thaa Dhiyamigili maldives"
+    },
+    {
+      "mediaId": "182ba6a9-5da0-cb6f-04c9-27c811b3d093",
+      "relativePath": "assets/uploads/atolls/thaa-Gaadhiffushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-gaadhiffushi-maldives.jpg",
+      "altText": "thaa Gaadhiffushi maldives"
+    },
+    {
+      "mediaId": "c676fc9c-bd12-bc18-845c-225195010d4a",
+      "relativePath": "assets/uploads/atolls/thaa-Guraidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-guraidhoo-maldives.jpg",
+      "altText": "thaa Guraidhoo maldives"
+    },
+    {
+      "mediaId": "7bdb51a8-b2b9-4740-53ae-26e4c6d4233c",
+      "relativePath": "assets/uploads/atolls/thaa-Hirilandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-hirilandhoo-maldives.jpg",
+      "altText": "thaa Hirilandhoo maldives"
+    },
+    {
+      "mediaId": "68b2e91a-4930-378d-7031-083814fa21de",
+      "relativePath": "assets/uploads/atolls/thaa-Kandoodhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-kandoodhoo-maldives.jpg",
+      "altText": "thaa Kandoodhoo maldives"
+    },
+    {
+      "mediaId": "66e5b37a-00fb-7331-d1ad-a8ce3cdc8db3",
+      "relativePath": "assets/uploads/atolls/thaa-Kinbidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-kinbidhoo-maldives.jpg",
+      "altText": "thaa Kinbidhoo maldives"
+    },
+    {
+      "mediaId": "3c1aa78c-2a38-1311-b8b2-bcc3b6de3249",
+      "relativePath": "assets/uploads/atolls/thaa-Madifushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-madifushi-maldives.jpg",
+      "altText": "thaa Madifushi maldives"
+    },
+    {
+      "mediaId": "4b47f2bd-8f39-7e99-fef5-a2e7b335341d",
+      "relativePath": "assets/uploads/atolls/thaa-Omadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-omadhoo-maldives.jpg",
+      "altText": "thaa Omadhoo maldives"
+    },
+    {
+      "mediaId": "50380a68-9fdd-2fdc-1343-ba6f8130357c",
+      "relativePath": "assets/uploads/atolls/thaa-Thimarafushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-thimarafushi-maldives.jpg",
+      "altText": "thaa Thimarafushi maldives"
+    },
+    {
+      "mediaId": "c9ed8fec-1513-3a5f-b93f-63d31936ea0f",
+      "relativePath": "assets/uploads/atolls/thaa-Vandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-vandhoo-maldives.jpg",
+      "altText": "thaa Vandhoo maldives"
+    },
+    {
+      "mediaId": "147f09ef-f2d5-bcdb-3d58-9a0f4fbfaa22",
+      "relativePath": "assets/uploads/atolls/thaa-Veymandoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/thaa-veymandoo-maldives.jpg",
+      "altText": "thaa Veymandoo maldives"
+    },
+    {
+      "mediaId": "7b1aa54c-b161-27c6-9542-c78f949467e6",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Dhaandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-dhaandhoo-maldives.jpg",
+      "altText": "gaafu alifu Dhaandhoo maldives"
+    },
+    {
+      "mediaId": "c32fcbfe-5723-8ced-91b3-c5f145fdedbf",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Dhevvadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-dhevvadhoo-maldives.jpg",
+      "altText": "gaafu alifu Dhevvadhoo maldives"
+    },
+    {
+      "mediaId": "98a57c2c-164a-dfc4-6bd6-a617d9f83e51",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Gemanafushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-gemanafushi-maldives.jpg",
+      "altText": "gaafu alifu Gemanafushi maldives"
+    },
+    {
+      "mediaId": "308b8bfc-01d5-43eb-b0d6-8d55dd273ce3",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Kanduhulhudhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-kanduhulhudhoo-maldives.jpg",
+      "altText": "gaafu alifu Kanduhulhudhoo maldives"
+    },
+    {
+      "mediaId": "2d61d84b-da49-be3b-24c3-41c7417eb3cf",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Kolamaafushi-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-kolamaafushi-maldives.jpg",
+      "altText": "gaafu alifu Kolamaafushi maldives"
+    },
+    {
+      "mediaId": "771a82e4-0e47-9c00-41ac-f94efe93114e",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Kondey-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-kondey-maldives.jpg",
+      "altText": "gaafu alifu Kondey maldives"
+    },
+    {
+      "mediaId": "70b42a29-89ba-75f4-b657-40012a3ef826",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Maamendhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-maamendhoo-maldives.jpg",
+      "altText": "gaafu alifu Maamendhoo maldives"
+    },
+    {
+      "mediaId": "abaa715c-58f7-d09e-8a01-186c5d214276",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Nilandhoo-maldives-1-300x300.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-nilandhoo-maldives-1-300x300.jpg",
+      "altText": "gaafu alifu Nilandhoo maldives 1"
+    },
+    {
+      "mediaId": "640752aa-2d36-8539-ed96-9c8650c1c670",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Fares-Maathodaa-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-fares-maathodaa-maldives.jpg",
+      "altText": "gaafu dhaalu Fares Maathodaa maldives"
+    },
+    {
+      "mediaId": "cd27b402-46b0-7421-6f39-8a311ed47fcb",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Hoandeddhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-hoandeddhoo-maldives.jpg",
+      "altText": "gaafu dhaalu Hoandeddhoo maldives"
+    },
+    {
+      "mediaId": "15a6eac3-4595-5bc4-ecc3-6c7fe270f256",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Madaveli-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-madaveli-maldives.jpg",
+      "altText": "gaafu dhaalu Madaveli maldives"
+    },
+    {
+      "mediaId": "3bfb3564-c31a-4392-2de7-cb272f723e11",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Nadellaa-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-nadellaa-maldives.jpg",
+      "altText": "gaafu dhaalu Nadellaa maldives"
+    },
+    {
+      "mediaId": "f428f1ad-2fb2-e101-43f9-6c2bb99a67a3",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Rathafandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-rathafandhoo-maldives.jpg",
+      "altText": "gaafu dhaalu Rathafandhoo maldives"
+    },
+    {
+      "mediaId": "6b4eb185-a55b-02e2-7a0f-54d734b36039",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Thinadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-thinadhoo-maldives.jpg",
+      "altText": "gaafu dhaalu Thinadhoo maldives"
+    },
+    {
+      "mediaId": "2ae9ebdc-d8a8-a51f-6d74-782cf2b0fd6c",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Vaadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-vaadhoo-maldives.jpg",
+      "altText": "gaafu dhaalu Vaadhoo maldives"
+    },
+    {
+      "mediaId": "e1b004f9-1320-ef0d-021d-16b3f0059b0d",
+      "relativePath": "assets/uploads/central/ha-baarah-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-baarah-island.jpg",
+      "altText": "ha baarah island"
+    },
+    {
+      "mediaId": "849b9375-bf35-db61-f365-3641f59e3919",
+      "relativePath": "assets/uploads/central/ha-dhidhdhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-dhidhdhoo-island.jpg",
+      "altText": "ha dhidhdhoo island"
+    },
+    {
+      "mediaId": "9c98e8ea-cef1-5fe4-a219-1a5bf7214f03",
+      "relativePath": "assets/uploads/central/ha-filladhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-filladhoo-island.jpg",
+      "altText": "ha filladhoo island"
+    },
+    {
+      "mediaId": "a94984bb-ae12-4b93-6762-b41771908e06",
+      "relativePath": "assets/uploads/central/ha-hoarafushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-hoarafushi-island.jpg",
+      "altText": "ha hoarafushi island"
+    },
+    {
+      "mediaId": "1f984d52-aa5e-bfed-1ad9-ace74512bc25",
+      "relativePath": "assets/uploads/central/ha-ihavandhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-ihavandhoo-island.jpg",
+      "altText": "ha ihavandhoo island"
+    },
+    {
+      "mediaId": "6020a11d-83a5-d704-8957-bf3f0d102620",
+      "relativePath": "assets/uploads/central/ha-kelaa-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-kelaa-island.jpg",
+      "altText": "ha kelaa island"
+    },
+    {
+      "mediaId": "e3fa84da-f1c5-4187-b8b1-939d84771130",
+      "relativePath": "assets/uploads/central/ha-mulhadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-mulhadhoo-island.jpg",
+      "altText": "ha mulhadhoo island"
+    },
+    {
+      "mediaId": "40d81030-71b8-70b2-719c-3c195b0cd573",
+      "relativePath": "assets/uploads/central/ha-muraidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-muraidhoo-island.jpg",
+      "altText": "ha muraidhoo island"
+    },
+    {
+      "mediaId": "4a3786c0-456e-b0d4-a2f4-06d206a546ff",
+      "relativePath": "assets/uploads/central/ha-thakandhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-thakandhoo-island.jpg",
+      "altText": "ha thakandhoo island"
+    },
+    {
+      "mediaId": "01fe68f4-b917-7fa6-c1a3-da908548b6ed",
+      "relativePath": "assets/uploads/central/ha-thuraakunu-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-thuraakunu-island.jpg",
+      "altText": "ha thuraakunu island"
+    },
+    {
+      "mediaId": "6adbdbe4-927b-ba42-7ab1-65ded2ddb6c9",
+      "relativePath": "assets/uploads/central/ha-vashafaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/central/ha-vashafaru-island.jpg",
+      "altText": "ha vashafaru island"
+    },
+    {
+      "mediaId": "249d94fe-a8f0-8e93-7aaf-5ddd3e4919e5",
+      "relativePath": "assets/uploads/destinations/Four-Seasons-Maldives-Kuda-Huraa-Male-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/destinations/four-seasons-maldives-kuda-huraa-male-atoll.webp",
+      "altText": "Four Seasons Maldives Kuda Huraa Male Atoll"
+    },
+    {
+      "mediaId": "883e8a67-cbb0-77fb-b434-f358e65aa3ee",
+      "relativePath": "assets/uploads/destinations/Furaveri-Maldives-island.webp",
+      "storagePath": "uploads/assets/uploads/destinations/furaveri-maldives-island.webp",
+      "altText": "Furaveri Maldives island"
+    },
+    {
+      "mediaId": "82823542-5cbc-0ce5-e0a8-cdabd3757fdb",
+      "relativePath": "assets/uploads/destinations/Fushifaru-Maldives-Island-Resort-Lhaviyani-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/destinations/fushifaru-maldives-island-resort-lhaviyani-atoll.webp",
+      "altText": "Fushifaru Maldives Island Resort Lhaviyani Atoll"
+    },
+    {
+      "mediaId": "474cc056-4dff-bc8b-db05-e0d8bce76b4d",
+      "relativePath": "assets/uploads/destinations/Grand-Park-Kodhipparu-Maldives-Island-Resort-Wedding.webp",
+      "storagePath": "uploads/assets/uploads/destinations/grand-park-kodhipparu-maldives-island-resort-wedding.webp",
+      "altText": "Grand Park Kodhipparu Maldives Island Resort Wedding"
+    },
+    {
+      "mediaId": "4214db2d-e6f3-0f24-382d-d2b473e087e9",
+      "relativePath": "assets/uploads/destinations/Hard-Rock-Hotel-Maldives-Beach-Male-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/destinations/hard-rock-hotel-maldives-beach-male-atoll.webp",
+      "altText": "Hard Rock Hotel Maldives Beach Male Atoll"
+    },
+    {
+      "mediaId": "d795d87b-d87f-89e4-2ff1-09ea6ef7e5c4",
+      "relativePath": "assets/uploads/destinations/Hurawalhi-Island-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/destinations/hurawalhi-island-resort-maldives.webp",
+      "altText": "Hurawalhi Island Resort Maldives"
+    },
+    {
+      "mediaId": "92f41606-b952-b971-0ad0-a1807241b4de",
+      "relativePath": "assets/uploads/destinations/Huvafen-Fushi-Maldives.jpg",
+      "storagePath": "uploads/assets/uploads/destinations/huvafen-fushi-maldives.jpg",
+      "altText": "Huvafen Fushi Maldives"
+    },
+    {
+      "mediaId": "cca0021c-f38e-5fd2-2707-76c65fbdf2fc",
+      "relativePath": "assets/uploads/destinations/Kandolhu-Maldives-Island-Resort-North-Ari-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kandolhu-maldives-island-resort-north-ari-atoll.webp",
+      "altText": "Kandolhu Maldives Island Resort North Ari Atoll"
+    },
+    {
+      "mediaId": "148792ca-da01-b4bb-d9de-6099f4c783a2",
+      "relativePath": "assets/uploads/destinations/Kurumba-Maldives.jpg",
+      "storagePath": "uploads/assets/uploads/destinations/kurumba-maldives.jpg",
+      "altText": "Kurumba Maldives"
+    },
+    {
+      "mediaId": "69b45a10-7708-dab2-7fe1-ce6083a4271e",
+      "relativePath": "assets/uploads/destinations/Malahini-Kuda-Bandos-Maldives-Wedding.webp",
+      "storagePath": "uploads/assets/uploads/destinations/malahini-kuda-bandos-maldives-wedding.webp",
+      "altText": "Malahini Kuda Bandos Maldives Wedding"
+    },
+    {
+      "mediaId": "7fc377af-c510-c680-87a5-635cfa2c8b47",
+      "relativePath": "assets/uploads/destinations/Milaidhoo-Island-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/destinations/milaidhoo-island-maldives.webp",
+      "altText": "Milaidhoo Island Maldives"
+    },
+    {
+      "mediaId": "6a7634ec-e1da-6a66-8d5e-ed23038b5ad2",
+      "relativePath": "assets/uploads/destinations/Mirihi-Island-Resort-Maldives-hotel.webp",
+      "storagePath": "uploads/assets/uploads/destinations/mirihi-island-resort-maldives-hotel.webp",
+      "altText": "Mirihi Island Resort Maldives hotel"
+    },
+    {
+      "mediaId": "7328906d-f3db-03e7-3b21-dc86012d19da",
+      "relativePath": "assets/uploads/resorts/Adaaran-Club-Rannalhi.bk.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-club-rannalhi-bk.jpg",
+      "altText": "Adaaran Club Rannalhi.bk"
+    },
+    {
+      "mediaId": "f37e6d2f-96c2-9b5e-3771-048ee5af9846",
+      "relativePath": "assets/uploads/resorts/Adaaran-Prestige-Vadoo-Maldives-Island.webp",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-prestige-vadoo-maldives-island.webp",
+      "altText": "Adaaran Prestige Vadoo Maldives Island"
+    },
+    {
+      "mediaId": "d00b11dd-f26d-4f41-fb80-8857d0f7d7ac",
+      "relativePath": "assets/uploads/resorts/Adaaran-Select-Hudhuranfushi.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-select-hudhuranfushi.jpg",
+      "altText": "Adaaran Select Hudhuranfushi"
+    },
+    {
+      "mediaId": "0bafd96c-7026-82e8-9026-caffdf6ec446",
+      "relativePath": "assets/uploads/resorts/Bandos-Island-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/bandos-island-maldives.webp",
+      "altText": "Bandos Island Maldives"
+    },
+    {
+      "mediaId": "b02a814a-228c-2987-c21e-c69481accaaf",
+      "relativePath": "assets/uploads/resorts/Baros-Maldives-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/baros-maldives-island-resort.webp",
+      "altText": "Baros Maldives Island Resort"
+    },
+    {
+      "mediaId": "ed26ca01-cc02-9a80-54b2-9030c3cfb045",
+      "relativePath": "assets/uploads/resorts/Biyadhoo-Island-Resort.png",
+      "storagePath": "uploads/assets/uploads/resorts/biyadhoo-island-resort.png",
+      "altText": "Biyadhoo Island Resort"
+    },
+    {
+      "mediaId": "d838951c-6529-30bb-bfb2-555a7f40f9f9",
+      "relativePath": "assets/uploads/resorts/Club-Med-Finolhu-villas-Maldives-300x300.bk.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/club-med-finolhu-villas-maldives-300x300-bk.jpg",
+      "altText": "Club Med Finolhu villas Maldives 300x300.bk"
+    },
+    {
+      "mediaId": "c437aaa0-6b93-570c-84a6-8f97722b13c6",
+      "relativePath": "assets/uploads/resorts/Coco-Bodu-Hithi-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts/coco-bodu-hithi-maldives-beach.webp",
+      "altText": "Coco Bodu Hithi Maldives Beach"
+    },
+    {
+      "mediaId": "87a1da48-a429-8cf1-02c4-fa05aa28a768",
+      "relativePath": "assets/uploads/resorts/Eriyadu-Island-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/eriyadu-island-resort-maldives.webp",
+      "altText": "Eriyadu Island Resort Maldives"
+    },
+    {
+      "mediaId": "be5e0305-6e0c-c0ff-b505-72cefdda34ff",
+      "relativePath": "assets/uploads/resorts/Fairmont-Maldives-Sirru-Fen-Fushi-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/fairmont-maldives-sirru-fen-fushi-island-resort.webp",
+      "altText": "Fairmont Maldives Sirru Fen Fushi Island Resort"
+    },
+    {
+      "mediaId": "abe08524-5cd3-cb3c-4b11-58e7c02e460d",
+      "relativePath": "assets/uploads/resorts/Filitheyo-Island-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/filitheyo-island-resort-maldives.webp",
+      "altText": "Filitheyo Island Resort Maldives"
+    },
+    {
+      "mediaId": "f834cfc0-9960-fea2-681a-6e1e70fa81ba",
+      "relativePath": "assets/uploads/resorts/anantara-dhigu-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/anantara-dhigu-maldives.webp",
+      "altText": "anantara dhigu maldives"
+    },
+    {
+      "mediaId": "48a8ec90-a0af-7f15-43a5-0804e93b534b",
+      "relativePath": "assets/uploads/resorts/fihalhohi-island-resort-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/fihalhohi-island-resort-maldives.webp",
+      "altText": "fihalhohi island resort maldives"
+    },
+    {
+      "mediaId": "6d8a2b2e-2b86-91f6-c448-d29eca4815b1",
+      "relativePath": "assets/uploads/resorts2/OBLU-NATURE-Helengeli-by-SENTIDO-300x300.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/oblu-nature-helengeli-by-sentido-300x300.jpg",
+      "altText": "OBLU NATURE Helengeli by SENTIDO"
+    },
+    {
+      "mediaId": "06dc8121-225b-ecb7-8ece-6b70657c86c0",
+      "relativePath": "assets/uploads/resorts2/OBLU-SELECT-Sangeli-Maldives-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/oblu-select-sangeli-maldives-resort.webp",
+      "altText": "OBLU SELECT Sangeli Maldives Resort"
+    },
+    {
+      "mediaId": "a8e88a21-b768-c65c-77cd-415d49acc7be",
+      "relativePath": "assets/uploads/resorts2/One-and-Only-Reethi-Rah-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/one-and-only-reethi-rah-maldives.webp",
+      "altText": "One and Only Reethi Rah Maldives"
+    },
+    {
+      "mediaId": "61980e99-ca07-9970-3227-2c3836c61ce3",
+      "relativePath": "assets/uploads/resorts2/Taj-Coral-Reef-Resort-and-Spa.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/taj-coral-reef-resort-and-spa.webp",
+      "altText": "Taj Coral Reef Resort and Spa"
+    },
+    {
+      "mediaId": "68b171b3-b19c-bab9-8b4e-14d57e2b89ea",
+      "relativePath": "assets/uploads/resorts2/Taj-Exotica-Resort-and-Spa-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/taj-exotica-resort-and-spa-maldives.webp",
+      "altText": "Taj Exotica Resort and Spa Maldives"
+    },
+    {
+      "mediaId": "c6d50785-a09f-deff-f7a7-d26f364cdb77",
+      "relativePath": "assets/uploads/resorts2/The-Patina-Maldives-Fari-Island.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/the-patina-maldives-fari-island.webp",
+      "altText": "The Patina Maldives Fari Island"
+    },
+    {
+      "mediaId": "436a6cb2-ed24-84cd-57a7-078a0f4007a2",
+      "relativePath": "assets/uploads/resorts2/Vakkaru-Maldives-pool-Baa-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/vakkaru-maldives-pool-baa-atoll.webp",
+      "altText": "Vakkaru Maldives pool Baa Atoll"
+    },
+    {
+      "mediaId": "5ea490ae-0bde-7dea-2f96-d53b2c1adf31",
+      "relativePath": "assets/uploads/resorts2/Vilamendhoo-Island-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/vilamendhoo-island-resort-maldives.webp",
+      "altText": "Vilamendhoo Island Resort Maldives"
+    },
+    {
+      "mediaId": "598cad58-2291-1c78-64cc-750b1a907e71",
+      "relativePath": "assets/uploads/resorts2/Waldorf-Astoria-Maldives-Ithaafushi-Isalnd-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/waldorf-astoria-maldives-ithaafushi-isalnd-resort.webp",
+      "altText": "Waldorf Astoria Maldives Ithaafushi Isalnd Resort"
+    },
+    {
+      "mediaId": "b4f789e8-0135-6c90-9967-ce2c1e874e37",
+      "relativePath": "assets/uploads/resorts2/sheraton-full-moon-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/sheraton-full-moon-maldives.jpg",
+      "altText": "sheraton full moon maldives"
+    },
+    {
+      "mediaId": "58c4e4a9-27aa-8924-68e2-1a3e3740daec",
+      "relativePath": "assets/uploads/resorts2/summer-island-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/summer-island-maldives.webp",
+      "altText": "summer island maldives"
+    },
+    {
+      "mediaId": "ca9844c1-4f25-1477-a348-932f26af927c",
+      "relativePath": "assets/uploads/atolls/vaavu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-atoll-maldives.jpg",
+      "altText": "vaavu atoll maldives"
+    },
+    {
+      "mediaId": "84278d8a-f4ad-9871-c43a-f7aace2902ff",
+      "relativePath": "assets/uploads/diving/HP-reef-Male-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/diving/hp-reef-male-atoll.webp",
+      "altText": "HP reef Male Atoll"
+    },
+    {
+      "mediaId": "6f62d050-8ab0-3b6a-7a34-543888d1cfaa",
+      "relativePath": "assets/uploads/atoll/meemu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/meemu-atoll-maldives.jpg",
+      "altText": "meemu atoll maldives"
+    },
+    {
+      "mediaId": "c5851e18-cf01-ca81-fe4e-ad353b7fafe3",
+      "relativePath": "assets/uploads/atoll/noonu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/noonu-atoll-maldives.jpg",
+      "altText": "noonu atoll maldives"
+    },
+    {
+      "mediaId": "67424e6d-f2e5-2830-009d-335bbbb90a60",
+      "relativePath": "assets/uploads/atoll/raa-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/raa-atoll-maldives.jpg",
+      "altText": "raa atoll maldives"
+    },
+    {
+      "mediaId": "23e00833-306f-659d-8cec-cac6f94bea5e",
+      "relativePath": "assets/uploads/atoll/seenu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/seenu-atoll-maldives.jpg",
+      "altText": "seenu atoll maldives"
+    },
+    {
+      "mediaId": "3a74171f-1a2c-be48-1dd8-edd3bdac4d99",
+      "relativePath": "assets/uploads/atolls/shaviyani-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/shaviyani-atoll-maldives.jpg",
+      "altText": "shaviyani atoll maldives"
+    },
+    {
+      "mediaId": "f5c69356-06ef-30d5-d743-93a4637ff8b3",
+      "relativePath": "assets/uploads/central/gnaviyani-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gnaviyani-atoll-maldives.jpg",
+      "altText": "gnaviyani atoll maldives"
+    },
+    {
+      "mediaId": "f66660e7-faeb-19c2-8d93-06d4cd24deb2",
+      "relativePath": "assets/uploads/central/gaafu-alifu-Nilandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-alifu-nilandhoo-maldives.jpg",
+      "altText": "gaafu alifu Nilandhoo maldives"
+    },
+    {
+      "mediaId": "240c700f-8c91-cb62-4307-5daf0a6f3ab2",
+      "relativePath": "assets/uploads/central/gaafu-dhaalu-Fiyoaree-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gaafu-dhaalu-fiyoaree-maldives.jpg",
+      "altText": "gaafu dhaalu Fiyoaree maldives"
+    },
+    {
+      "mediaId": "723f2fd4-123a-e7b2-9287-5bcce2b4d44f",
+      "relativePath": "assets/uploads/central/haa-alifu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/haa-alifu-atoll-maldives.jpg",
+      "altText": "haa alifu atoll maldives"
+    },
+    {
+      "mediaId": "24a754a9-63fc-1061-a492-b0a99d6bc893",
+      "relativePath": "assets/uploads/central/haa-dhaalu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/haa-dhaalu-atoll-maldives.jpg",
+      "altText": "haa dhaalu atoll maldives"
+    },
+    {
+      "mediaId": "9a447d38-6de4-e30f-5a80-778e524fce28",
+      "relativePath": "assets/uploads/destinations/LUX-South-Ari-Atoll-Resorts-and-Villas-Excursions.webp",
+      "storagePath": "uploads/assets/uploads/destinations/lux-south-ari-atoll-resorts-and-villas-excursions.webp",
+      "altText": "LUX South Ari Atoll Resorts and Villas Excursions"
+    },
+    {
+      "mediaId": "662c3928-3a03-b1e9-da4c-68df1473bdf6",
+      "relativePath": "assets/uploads/diving/Baa-Atoll-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/diving/baa-atoll-maldives.webp",
+      "altText": "Baa Atoll Maldives"
+    },
+    {
+      "mediaId": "7644e656-ea34-7d37-ecb2-06f82725a384",
+      "relativePath": "assets/uploads/resorts2/Six-Senses-Laamu-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/six-senses-laamu-maldives.webp",
+      "altText": "Six Senses Laamu Maldives"
+    },
+    {
+      "mediaId": "67ff6dc0-485c-7d6e-4a11-d1598eab9114",
+      "relativePath": "assets/uploads/atolls/Velana-International-Airport-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/atolls/velana-international-airport-maldives.webp",
+      "altText": "Velana International Airport Maldives"
+    },
+    {
+      "mediaId": "e5f2355b-c5a2-d74f-df1f-800276f86e8f",
+      "relativePath": "assets/uploads/article/Baros-Maldives-Island-Resort-Beach-Dinner.webp",
+      "storagePath": "uploads/assets/uploads/article/baros-maldives-island-resort-beach-dinner.webp",
+      "altText": "Baros Maldives Island Resort Beach Dinner"
+    },
+    {
+      "mediaId": "159796be-e834-4a60-66f7-f093cf4f3f56",
+      "relativePath": "assets/uploads/article/Conrad-Maldives-Rangali-Island-Resort-Pool.webp",
+      "storagePath": "uploads/assets/uploads/article/conrad-maldives-rangali-island-resort-pool.webp",
+      "altText": "Conrad Maldives Rangali Island Resort Pool"
+    },
+    {
+      "mediaId": "78f9628d-85dc-c733-fda9-b80e640ef3ed",
+      "relativePath": "assets/uploads/article/Conrad-Maldives-Rangali-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/article/conrad-maldives-rangali-island-resort.webp",
+      "altText": "Conrad Maldives Rangali Island Resort"
+    },
+    {
+      "mediaId": "04db3c55-3177-fdf3-0e18-330d05234690",
+      "relativePath": "assets/uploads/article/Fushifaru-Maldives-Island-Resort-Activities.webp",
+      "storagePath": "uploads/assets/uploads/article/fushifaru-maldives-island-resort-activities.webp",
+      "altText": "Fushifaru Maldives Island Resort Activities"
+    },
+    {
+      "mediaId": "0210bcfe-4efe-1e53-0cd3-ae94028c5a14",
+      "relativePath": "assets/uploads/atoll/seenu-Maradhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atoll/seenu-maradhoo-maldives.jpg",
+      "altText": "seenu Maradhoo maldives"
+    },
+    {
+      "mediaId": "64a3f217-6ae8-9bd4-754b-43a65d38582a",
+      "relativePath": "assets/uploads/atolls/vaavu-Felidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-felidhoo-maldives.jpg",
+      "altText": "vaavu Felidhoo maldives"
+    },
+    {
+      "mediaId": "a6ff321c-3f3f-3bbf-e901-6c3f46055c95",
+      "relativePath": "assets/uploads/atolls/vaavu-Fulidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-fulidhoo-maldives.jpg",
+      "altText": "vaavu Fulidhoo maldives"
+    },
+    {
+      "mediaId": "de2c5c64-2950-aa29-fb19-eba79feb9c79",
+      "relativePath": "assets/uploads/atolls/vaavu-Keyodhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-keyodhoo-maldives.jpg",
+      "altText": "vaavu Keyodhoo maldives"
+    },
+    {
+      "mediaId": "2c3b8785-5bc5-c097-dc1a-91719be21228",
+      "relativePath": "assets/uploads/atolls/vaavu-Rakeedhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-rakeedhoo-maldives.jpg",
+      "altText": "vaavu Rakeedhoo maldives"
+    },
+    {
+      "mediaId": "fa3476ca-0d66-87c9-39bd-a085884a99d7",
+      "relativePath": "assets/uploads/atolls/vaavu-Thinadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/atolls/vaavu-thinadhoo-maldives.jpg",
+      "altText": "vaavu Thinadhoo maldives"
+    },
+    {
+      "mediaId": "3b08da8f-de49-7406-49c7-a8ae7af6e69f",
+      "relativePath": "assets/uploads/central/Fuvahmulah-Airport-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/central/fuvahmulah-airport-maldives.webp",
+      "altText": "Fuvahmulah Airport Maldives"
+    },
+    {
+      "mediaId": "4d9c4ab3-2589-c7b2-10ef-6fad86ed4a33",
+      "relativePath": "assets/uploads/central/gnaviyani-Fuvahmulah-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/central/gnaviyani-fuvahmulah-maldives.jpg",
+      "altText": "gnaviyani Fuvahmulah maldives"
+    },
+    {
+      "mediaId": "74bd6685-3b96-7a7f-9513-745c225f9b71",
+      "relativePath": "assets/uploads/destinations/Four-Seasons-Maldives-Landaa-Giraavaru-Sunset-Water-Villa.webp",
+      "storagePath": "uploads/assets/uploads/destinations/four-seasons-maldives-landaa-giraavaru-sunset-water-villa.webp",
+      "altText": "Four Seasons Maldives Landaa Giraavaru Sunset Water Villa"
+    },
+    {
+      "mediaId": "6918dedd-daba-f8fa-9f09-210ba9752e61",
+      "relativePath": "assets/uploads/destinations/Four-Seasons-Maldives-at-Landaa-Giraavaru.webp",
+      "storagePath": "uploads/assets/uploads/destinations/four-seasons-maldives-at-landaa-giraavaru.webp",
+      "altText": "Four Seasons Maldives at Landaa Giraavaru"
+    },
+    {
+      "mediaId": "7187c864-c346-c65f-eac9-8efa22b1c965",
+      "relativePath": "assets/uploads/destinations/Gangehi-Island-Resort-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/destinations/gangehi-island-resort-snorkeling.webp",
+      "altText": "Gangehi Island Resort Snorkeling"
+    },
+    {
+      "mediaId": "fb079cc5-34dc-8da6-703f-4f7339ab7a2e",
+      "relativePath": "assets/uploads/destinations/Gili-Lankanfushi-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/destinations/gili-lankanfushi-maldives-beach.webp",
+      "altText": "Gili Lankanfushi Maldives Beach"
+    },
+    {
+      "mediaId": "db05b1e7-cbd3-f2f9-c086-fb661f75ee39",
+      "relativePath": "assets/uploads/destinations/Heritance-Aarah-Maldives-Ocean-Villa1.webp",
+      "storagePath": "uploads/assets/uploads/destinations/heritance-aarah-maldives-ocean-villa1.webp",
+      "altText": "Heritance Aarah Maldives Ocean Villa1"
+    },
+    {
+      "mediaId": "fd0aefba-75ee-9b4c-452f-77f9ff4641c0",
+      "relativePath": "assets/uploads/destinations/Hurawalhi-Island-Resort-Maldives-Underwater-Restaurant.webp",
+      "storagePath": "uploads/assets/uploads/destinations/hurawalhi-island-resort-maldives-underwater-restaurant.webp",
+      "altText": "Hurawalhi Island Resort Maldives Underwater Restaurant"
+    },
+    {
+      "mediaId": "46060452-bab0-4aa5-b7ee-5cfc159750fa",
+      "relativePath": "assets/uploads/destinations/Innahura-Maldives-Resort-Diving.webp",
+      "storagePath": "uploads/assets/uploads/destinations/innahura-maldives-resort-diving.webp",
+      "altText": "Innahura Maldives Resort Diving"
+    },
+    {
+      "mediaId": "86bb7d0f-798b-1abb-48a1-58280b5190a3",
+      "relativePath": "assets/uploads/destinations/InterContinental-Maldives-Maamunagau-Resort-Beach.webp",
+      "storagePath": "uploads/assets/uploads/destinations/intercontinental-maldives-maamunagau-resort-beach.webp",
+      "altText": "InterContinental Maldives Maamunagau Resort Beach"
+    },
+    {
+      "mediaId": "31df1b00-e89f-f381-7735-a394fb8943f6",
+      "relativePath": "assets/uploads/destinations/JA-Manafaru-Dhidhoo-Maldives-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/destinations/ja-manafaru-dhidhoo-maldives-island-resort.webp",
+      "altText": "JA Manafaru Dhidhoo Maldives Island Resort"
+    },
+    {
+      "mediaId": "b4428ba4-2b36-6043-424c-49d40028415e",
+      "relativePath": "assets/uploads/destinations/JOALI-Maldives-Muravandhoo-Island.webp",
+      "storagePath": "uploads/assets/uploads/destinations/joali-maldives-muravandhoo-island.webp",
+      "altText": "JOALI Maldives Muravandhoo Island"
+    },
+    {
+      "mediaId": "9299c19f-0c01-5783-9b11-5e0c39370f05",
+      "relativePath": "assets/uploads/destinations/JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Overwater-Villa-Pool1.webp",
+      "storagePath": "uploads/assets/uploads/destinations/jw-marriott-maldives-resort-and-spa-sunrise-overwater-villa-pool1.webp",
+      "altText": "JW Marriott Maldives Resort and Spa Sunrise Overwater Villa Pool1"
+    },
+    {
+      "mediaId": "441a91ab-d7fe-859e-916b-67fe03112f6e",
+      "relativePath": "assets/uploads/destinations/Joy-Island-Maldives-by-The-Cocoon.jpg",
+      "storagePath": "uploads/assets/uploads/destinations/joy-island-maldives-by-the-cocoon.jpg",
+      "altText": "Joy Island Maldives by The Cocoon"
+    },
+    {
+      "mediaId": "c498f6bb-04b9-e083-8e26-bd832ec1fa7a",
+      "relativePath": "assets/uploads/destinations/Jumeirah-Olhahali-Island-Maldives-Dinning.webp",
+      "storagePath": "uploads/assets/uploads/destinations/jumeirah-olhahali-island-maldives-dinning.webp",
+      "altText": "Jumeirah Olhahali Island Maldives Dinning"
+    },
+    {
+      "mediaId": "5ec92c78-95ec-79b8-9985-f4d9bb79ee96",
+      "relativePath": "assets/uploads/destinations/Kandima-Maldives-Island-Luxury-Resort.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kandima-maldives-island-luxury-resort.webp",
+      "altText": "Kandima Maldives Island Luxury Resort"
+    },
+    {
+      "mediaId": "349104a7-89fe-7a9b-268f-acbeb7cd03bd",
+      "relativePath": "assets/uploads/destinations/Komandoo-Island-Resort-and-Spa-Beach-Villa.webp",
+      "storagePath": "uploads/assets/uploads/destinations/komandoo-island-resort-and-spa-beach-villa.webp",
+      "altText": "Komandoo Island Resort and Spa Beach Villa"
+    },
+    {
+      "mediaId": "f93c374d-e0b7-b7dc-b9c1-0cf0a123c432",
+      "relativePath": "assets/uploads/destinations/Kuda-Villingili-Resort-Maldives-Pool.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kuda-villingili-resort-maldives-pool.webp",
+      "altText": "Kuda Villingili Resort Maldives Pool"
+    },
+    {
+      "mediaId": "716dde65-ddb2-7ceb-2c2c-c09be0dfcfec",
+      "relativePath": "assets/uploads/destinations/Kudadoo-Maldives-Private-Island.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kudadoo-maldives-private-island.webp",
+      "altText": "Kudadoo Maldives Private Island"
+    },
+    {
+      "mediaId": "827d291d-d639-8d5f-4992-9ea2b51f85f8",
+      "relativePath": "assets/uploads/destinations/Kurumba-Maldives-Island-Resort-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kurumba-maldives-island-resort-snorkeling.webp",
+      "altText": "Kurumba Maldives Island Resort Snorkeling"
+    },
+    {
+      "mediaId": "78636864-cdfd-fe50-6816-bbce8acf275f",
+      "relativePath": "assets/uploads/destinations/Kurumba-Maldives-Vihamanaafushi-Resort.webp",
+      "storagePath": "uploads/assets/uploads/destinations/kurumba-maldives-vihamanaafushi-resort.webp",
+      "altText": "Kurumba Maldives Vihamanaafushi Resort"
+    },
+    {
+      "mediaId": "b121b7d8-715e-6fde-0ba9-de3dfa8acc40",
+      "relativePath": "assets/uploads/destinations/Lily-Beach-Resort-and-Spa-Maldives-Spa.webp",
+      "storagePath": "uploads/assets/uploads/destinations/lily-beach-resort-and-spa-maldives-spa.webp",
+      "altText": "Lily Beach Resort and Spa Maldives Spa"
+    },
+    {
+      "mediaId": "e740bcd6-bc59-17c8-9b33-1bea4764a626",
+      "relativePath": "assets/uploads/destinations/Lily-Beach-Resort-and-Spa-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/destinations/lily-beach-resort-and-spa-maldives.webp",
+      "altText": "Lily Beach Resort and Spa Maldives"
+    },
+    {
+      "mediaId": "884388ca-9240-e49f-c285-4c216fbe65e5",
+      "relativePath": "assets/uploads/destinations/Makunudu-Island-Resort-Maldives-Dinning.webp",
+      "storagePath": "uploads/assets/uploads/destinations/makunudu-island-resort-maldives-dinning.webp",
+      "altText": "Makunudu Island Resort Maldives Dinning"
+    },
+    {
+      "mediaId": "40842e33-6912-a8d3-65b2-2316903fec21",
+      "relativePath": "assets/uploads/destinations/Malahini-Kuda-Bandos-Resort-300x300.jpg",
+      "storagePath": "uploads/assets/uploads/destinations/malahini-kuda-bandos-resort-300x300.jpg",
+      "altText": "Malahini Kuda Bandos Resort"
+    },
+    {
+      "mediaId": "7f58e4f7-5d37-9673-fe15-94e57a473a57",
+      "relativePath": "assets/uploads/destinations/Medhufushi-Island-Resort-Maldives-Excursions.webp",
+      "storagePath": "uploads/assets/uploads/destinations/medhufushi-island-resort-maldives-excursions.webp",
+      "altText": "Medhufushi Island Resort Maldives Excursions"
+    },
+    {
+      "mediaId": "26d13bc4-42ac-7086-2af8-3b4f6b3581e1",
+      "relativePath": "assets/uploads/destinations/Meeru-Island-Resort-and-Spa-Water-Sports.webp",
+      "storagePath": "uploads/assets/uploads/destinations/meeru-island-resort-and-spa-water-sports.webp",
+      "altText": "Meeru Island Resort and Spa Water Sports"
+    },
+    {
+      "mediaId": "6a00c1d1-3bbe-a650-f272-7ac0298be3a9",
+      "relativePath": "assets/uploads/diving/Dusit-Thani-Maldives-Island-Resort-Diving.webp",
+      "storagePath": "uploads/assets/uploads/diving/dusit-thani-maldives-island-resort-diving.webp",
+      "altText": "Dusit Thani Maldives Island Resort Diving"
+    },
+    {
+      "mediaId": "5b5045d9-dbe1-4de6-d447-a9a8bb59b513",
+      "relativePath": "assets/uploads/diving/Fuvahmulah-Atoll-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/diving/fuvahmulah-atoll-maldives.webp",
+      "altText": "Fuvahmulah Atoll Maldives"
+    },
+    {
+      "mediaId": "107e62bd-24e2-d291-8b6d-afb687a5d9e1",
+      "relativePath": "assets/uploads/resorts/Adaaran-Club-Rannalhi.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-club-rannalhi.jpg",
+      "altText": "Adaaran Club Rannalhi"
+    },
+    {
+      "mediaId": "7a6be91b-5034-bb62-d7df-260ca42a8fb3",
+      "relativePath": "assets/uploads/resorts/Adaaran-Select-Hudhuran-Fushi-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-select-hudhuran-fushi-maldives.webp",
+      "altText": "Adaaran Select Hudhuran Fushi Maldives"
+    },
+    {
+      "mediaId": "4d77ba03-3049-97dc-e510-b9264974705b",
+      "relativePath": "assets/uploads/resorts/Adaaran-Select-Meedhupparu-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-select-meedhupparu-maldives.webp",
+      "altText": "Adaaran Select Meedhupparu Maldives"
+    },
+    {
+      "mediaId": "7a09da19-429c-eb3d-ee96-21f9eaffaf0d",
+      "relativePath": "assets/uploads/resorts/Alila-Kothaifaru-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/alila-kothaifaru-maldives.webp",
+      "altText": "Alila Kothaifaru Maldives"
+    },
+    {
+      "mediaId": "b0a68627-ee4b-e188-f7e3-a08254c06856",
+      "relativePath": "assets/uploads/resorts/Amaya-Kuda-Rah-Maldives-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/amaya-kuda-rah-maldives-resort.webp",
+      "altText": "Amaya Kuda Rah Maldives Resort"
+    },
+    {
+      "mediaId": "0a076a0e-a626-81ee-9772-6debca7ff903",
+      "relativePath": "assets/uploads/resorts/Angaga-Island-Resort-Spa-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/angaga-island-resort-spa-maldives.webp",
+      "altText": "Angaga Island Resort Spa Maldives"
+    },
+    {
+      "mediaId": "3e0dc3e8-aa46-64c4-c761-bdeed10ee847",
+      "relativePath": "assets/uploads/resorts/Angsana-Velavaru-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/angsana-velavaru-maldives.webp",
+      "altText": "Angsana Velavaru Maldives"
+    },
+    {
+      "mediaId": "79a4fa1d-7c26-b79a-d30d-21d40faa3a52",
+      "relativePath": "assets/uploads/resorts/Atmosphere-Kanifushi-Maldives-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/atmosphere-kanifushi-maldives-island-resort.webp",
+      "altText": "Atmosphere Kanifushi Maldives Island Resort"
+    },
+    {
+      "mediaId": "506b6894-6609-3c34-daec-675d119ff574",
+      "relativePath": "assets/uploads/resorts/Ayada-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts/ayada-maldives-beach.webp",
+      "altText": "Ayada Maldives Beach"
+    },
+    {
+      "mediaId": "9effebdb-8f12-dedb-bc6d-e566e9631c74",
+      "relativePath": "assets/uploads/resorts/Baglioni-Maldives-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/baglioni-maldives-island-resort.webp",
+      "altText": "Baglioni Maldives Island Resort"
+    },
+    {
+      "mediaId": "6058e5f8-6dbb-c2f5-c41b-04c34e31c553",
+      "relativePath": "assets/uploads/resorts/Bandos-Island-Maldives-1-266x266.webp",
+      "storagePath": "uploads/assets/uploads/resorts/bandos-island-maldives-1-266x266.webp",
+      "altText": "Bandos Island Maldives 1"
+    },
+    {
+      "mediaId": "1a5fd530-fb1f-4217-4a75-3211038357d8",
+      "relativePath": "assets/uploads/resorts/Bandos-Maldives-266x266.bk.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/bandos-maldives-266x266-bk.jpg",
+      "altText": "Bandos Maldives 266x266.bk"
+    },
+    {
+      "mediaId": "a513e773-7b62-3a1a-ccb2-e9a414226116",
+      "relativePath": "assets/uploads/resorts/Banyan-Tree-Vabbinfaru-Maldives-Island-Resort-wedding-Events.webp",
+      "storagePath": "uploads/assets/uploads/resorts/banyan-tree-vabbinfaru-maldives-island-resort-wedding-events.webp",
+      "altText": "Banyan Tree Vabbinfaru Maldives Island Resort wedding Events"
+    },
+    {
+      "mediaId": "8ddc09c6-e638-12e9-7546-604a01303ef2",
+      "relativePath": "assets/uploads/resorts/Baros-Maldives-Island-Resort-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts/baros-maldives-island-resort-beach.webp",
+      "altText": "Baros Maldives Island Resort Beach"
+    },
+    {
+      "mediaId": "a136cf7c-1e7f-e994-9ef8-84841f60000e",
+      "relativePath": "assets/uploads/resorts/Baros-Maldives.bk.png",
+      "storagePath": "uploads/assets/uploads/resorts/baros-maldives-bk.png",
+      "altText": "Baros Maldives.bk"
+    },
+    {
+      "mediaId": "29729a60-8f18-32bd-f8e5-201cc3138d0c",
+      "relativePath": "assets/uploads/resorts/COMO-Cocoa-Island-water-villa.webp",
+      "storagePath": "uploads/assets/uploads/resorts/como-cocoa-island-water-villa.webp",
+      "altText": "COMO Cocoa Island water villa"
+    },
+    {
+      "mediaId": "cc4ec35a-5563-8d47-c942-c615cd49d604",
+      "relativePath": "assets/uploads/resorts/COMO-Maalifushi-Island-Resort-Reef-1.webp",
+      "storagePath": "uploads/assets/uploads/resorts/como-maalifushi-island-resort-reef-1.webp",
+      "altText": "COMO Maalifushi Island Resort Reef 1"
+    },
+    {
+      "mediaId": "2c5499fc-189c-d6c2-4b63-8da26b3bc496",
+      "relativePath": "assets/uploads/resorts/Cinnamon-Dhonveli-Maldives-Island-Resort-Pool.webp",
+      "storagePath": "uploads/assets/uploads/resorts/cinnamon-dhonveli-maldives-island-resort-pool.webp",
+      "altText": "Cinnamon Dhonveli Maldives Island Resort Pool"
+    },
+    {
+      "mediaId": "5a449926-de26-d985-193c-973a383ba633",
+      "relativePath": "assets/uploads/resorts/Cinnamon-Hakuraa-Huraa-Maldives-Pool.webp",
+      "storagePath": "uploads/assets/uploads/resorts/cinnamon-hakuraa-huraa-maldives-pool.webp",
+      "altText": "Cinnamon Hakuraa Huraa Maldives Pool"
+    },
+    {
+      "mediaId": "1d929d0d-36f9-7f73-6a5b-5e0731bff6b4",
+      "relativePath": "assets/uploads/resorts/Cinnamon-Velifushi-Maldives-Island.webp",
+      "storagePath": "uploads/assets/uploads/resorts/cinnamon-velifushi-maldives-island.webp",
+      "altText": "Cinnamon Velifushi Maldives Island"
+    },
+    {
+      "mediaId": "e7da71ef-524d-99b3-19e5-7f92f6dab51a",
+      "relativePath": "assets/uploads/resorts/Cocoon-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/cocoon-maldives.webp",
+      "altText": "Cocoon Maldives"
+    },
+    {
+      "mediaId": "746e0b43-b2f9-c74d-f6ef-cb1d57607fe2",
+      "relativePath": "assets/uploads/resorts/Conrad-Maldives-Rangali-Island-Resort-Underwater-Restaurant.webp",
+      "storagePath": "uploads/assets/uploads/resorts/conrad-maldives-rangali-island-resort-underwater-restaurant.webp",
+      "altText": "Conrad Maldives Rangali Island Resort Underwater Restaurant"
+    },
+    {
+      "mediaId": "0dedbee9-289a-9064-bf47-30106992a323",
+      "relativePath": "assets/uploads/resorts/Cora-Cora-Maldives-Lagoon-Villa.webp",
+      "storagePath": "uploads/assets/uploads/resorts/cora-cora-maldives-lagoon-villa.webp",
+      "altText": "Cora Cora Maldives Lagoon Villa"
+    },
+    {
+      "mediaId": "9ddd53b6-eff7-3894-97ff-051ba9e66ae2",
+      "relativePath": "assets/uploads/resorts/Dhigali-Maldives-Luxury-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts/dhigali-maldives-luxury-resort.webp",
+      "altText": "Dhigali Maldives Luxury Resort"
+    },
+    {
+      "mediaId": "e9603042-d56c-3130-c822-bedfa59f8e58",
+      "relativePath": "assets/uploads/resorts/Dhigufaru-Island-Resort-Maldives-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/resorts/dhigufaru-island-resort-maldives-snorkeling.webp",
+      "altText": "Dhigufaru Island Resort Maldives snorkeling"
+    },
+    {
+      "mediaId": "582cf8c6-b490-0e7a-4d2e-1adac67bf016",
+      "relativePath": "assets/uploads/resorts/Emerald-Faarufushi-Maldives-Activities.webp",
+      "storagePath": "uploads/assets/uploads/resorts/emerald-faarufushi-maldives-activities.webp",
+      "altText": "Emerald Faarufushi Maldives Activities"
+    },
+    {
+      "mediaId": "6c723990-880f-edab-b97f-70c99198bf2e",
+      "relativePath": "assets/uploads/resorts/Emerald-Faarufushi-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts/emerald-faarufushi-maldives-beach.webp",
+      "altText": "Emerald Faarufushi Maldives Beach"
+    },
+    {
+      "mediaId": "238de7df-0139-505c-a9d4-90005dbb314f",
+      "relativePath": "assets/uploads/resorts/Fihaalhohi-Maldives-300x300.bk.jpg",
+      "storagePath": "uploads/assets/uploads/resorts/fihaalhohi-maldives-300x300-bk.jpg",
+      "altText": "Fihaalhohi Maldives 300x300.bk"
+    },
+    {
+      "mediaId": "420d166d-029b-4d27-8bce-ddc8ab25c1e8",
+      "relativePath": "assets/uploads/resorts/adaaran-club-rannalhi-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/adaaran-club-rannalhi-maldives.webp",
+      "altText": "adaaran club rannalhi maldives"
+    },
+    {
+      "mediaId": "cae1413c-8861-6290-1bd3-c02a4ae9d943",
+      "relativePath": "assets/uploads/resorts/anantara-dhigu-resort-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts/anantara-dhigu-resort-maldives.webp",
+      "altText": "anantara dhigu resort maldives"
+    },
+    {
+      "mediaId": "b1c8dd34-9e57-1b0b-5388-13b2a18517a1",
+      "relativePath": "assets/uploads/resorts/centara-rasfushi-island-deluxe-spa-water-villa2.webp",
+      "storagePath": "uploads/assets/uploads/resorts/centara-rasfushi-island-deluxe-spa-water-villa2.webp",
+      "altText": "centara rasfushi island deluxe spa water villa2"
+    },
+    {
+      "mediaId": "15849615-ea93-5bd7-4218-16e366f547a6",
+      "relativePath": "assets/uploads/resorts/embudu-village-island-resort-maldives-hotel-300x300.webp",
+      "storagePath": "uploads/assets/uploads/resorts/embudu-village-island-resort-maldives-hotel-300x300.webp",
+      "altText": "embudu village island resort maldives hotel"
+    },
+    {
+      "mediaId": "bdb86cdf-cdec-344e-1b98-8d80788de1b0",
+      "relativePath": "assets/uploads/resorts2/Movenpick-Resort-Kuredhivaru-Maldives-Over-Beach-pool-suite-deluxe.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/movenpick-resort-kuredhivaru-maldives-over-beach-pool-suite-deluxe.webp",
+      "altText": "Movenpick Resort Kuredhivaru Maldives Over Beach pool suite deluxe"
+    },
+    {
+      "mediaId": "2a531151-2593-e0f1-b99a-ee638de87f64",
+      "relativePath": "assets/uploads/resorts2/NAKAI-Dhiggiri-Resort-Maldives-Over-Water-Villa.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/nakai-dhiggiri-resort-maldives-over-water-villa.webp",
+      "altText": "NAKAI Dhiggiri Resort Maldives Over Water Villa"
+    },
+    {
+      "mediaId": "a779374e-20fe-65ce-56f8-bcb720de4f65",
+      "relativePath": "assets/uploads/resorts2/NAKAI-Maayafushi-Maldives-Activities.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/nakai-maayafushi-maldives-activities.webp",
+      "altText": "NAKAI Maayafushi Maldives Activities"
+    },
+    {
+      "mediaId": "d6da8ca1-1071-204a-03fc-357e9dcaf4d8",
+      "relativePath": "assets/uploads/resorts2/NOVA-Maldives-Island.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/nova-maldives-island.webp",
+      "altText": "NOVA Maldives Island"
+    },
+    {
+      "mediaId": "6ac4b51e-9ecc-2c02-33ce-6f36112cf5bf",
+      "relativePath": "assets/uploads/resorts2/Noku-Maldives-Kudafunfaru.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/noku-maldives-kudafunfaru.webp",
+      "altText": "Noku Maldives Kudafunfaru"
+    },
+    {
+      "mediaId": "9db173ed-bf67-c9f1-0e20-edaf31b763fc",
+      "relativePath": "assets/uploads/resorts2/OBLU-NATURE-Helengeli-Maldives-Island.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/oblu-nature-helengeli-maldives-island.webp",
+      "altText": "OBLU NATURE Helengeli Maldives Island"
+    },
+    {
+      "mediaId": "3cd8a79a-34c3-24a7-a351-102fea409570",
+      "relativePath": "assets/uploads/resorts2/OBLU-SELECT-Sangeli-300x300.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/oblu-select-sangeli-300x300.jpg",
+      "altText": "OBLU SELECT Sangeli"
+    },
+    {
+      "mediaId": "a8857947-f661-4345-3ca3-7706668b2191",
+      "relativePath": "assets/uploads/resorts2/OZEN-LIFE-MAADHOO-Maldives-Under-Water-Restaurant.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/ozen-life-maadhoo-maldives-under-water-restaurant.webp",
+      "altText": "OZEN LIFE MAADHOO Maldives Under Water Restaurant"
+    },
+    {
+      "mediaId": "0d3443ad-e67c-9b80-d189-cdc1d0953857",
+      "relativePath": "assets/uploads/resorts2/One-and-Only-Reethi-Rah.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/one-and-only-reethi-rah.jpg",
+      "altText": "One and Only Reethi Rah"
+    },
+    {
+      "mediaId": "7d5b1ae9-7ec4-33ef-0667-5921f236525e",
+      "relativePath": "assets/uploads/resorts2/Outrigger-Konotta-Maldives-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/outrigger-konotta-maldives-resort.webp",
+      "altText": "Outrigger Konotta Maldives Resort"
+    },
+    {
+      "mediaId": "796a8e6b-7b14-4ec9-16d2-85a5d00ea623",
+      "relativePath": "assets/uploads/resorts2/Park-Hyatt-Maldives-Hadahaa.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/park-hyatt-maldives-hadahaa.webp",
+      "altText": "Park Hyatt Maldives Hadahaa"
+    },
+    {
+      "mediaId": "8890d009-cecd-327f-03bf-811a241a6f61",
+      "relativePath": "assets/uploads/resorts2/Pullman-Maldives-Maamutaa-Aqua-Villa.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/pullman-maldives-maamutaa-aqua-villa.webp",
+      "altText": "Pullman Maldives Maamutaa Aqua Villa"
+    },
+    {
+      "mediaId": "c0101cb1-5b8b-f904-72e0-6b47065a2f62",
+      "relativePath": "assets/uploads/resorts2/Radisson-Blu-Maldives-Honeymoon.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/radisson-blu-maldives-honeymoon.webp",
+      "altText": "Radisson Blu Maldives Honeymoon"
+    },
+    {
+      "mediaId": "166d830b-0d76-7295-7cc6-945d5bca6b1e",
+      "relativePath": "assets/uploads/resorts2/Raffles-Maldives-Meradhoo-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/raffles-maldives-meradhoo-resort.webp",
+      "altText": "Raffles Maldives Meradhoo Resort"
+    },
+    {
+      "mediaId": "d63f2daa-67a9-53db-14f1-f5f9ba06ad99",
+      "relativePath": "assets/uploads/resorts2/Rahaa-Resort-Maldives-Hotel.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/rahaa-resort-maldives-hotel.webp",
+      "altText": "Rahaa Resort Maldives Hotel"
+    },
+    {
+      "mediaId": "dcd5e3db-eee0-4b92-b659-457d47d48c72",
+      "relativePath": "assets/uploads/resorts2/Reethi-Beach-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/reethi-beach-resort-maldives.webp",
+      "altText": "Reethi Beach Resort Maldives"
+    },
+    {
+      "mediaId": "38a7a6f3-f20e-6f29-e8a4-16d2006a7fb3",
+      "relativePath": "assets/uploads/resorts2/Reethi-Faru-Resort-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/reethi-faru-resort-maldives.webp",
+      "altText": "Reethi Faru Resort Maldives"
+    },
+    {
+      "mediaId": "91af4976-1e1f-81eb-77b5-f3a6a8b10af9",
+      "relativePath": "assets/uploads/resorts2/Robinson-Club-Maldives-Yoga.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/robinson-club-maldives-yoga.webp",
+      "altText": "Robinson Club Maldives Yoga"
+    },
+    {
+      "mediaId": "47664d34-e424-26d5-ee90-aaae378787e2",
+      "relativePath": "assets/uploads/resorts2/Robinson-Club-Noonu-Beach-Pool-Bungalow.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/robinson-club-noonu-beach-pool-bungalow.webp",
+      "altText": "Robinson Club Noonu Beach Pool Bungalow"
+    },
+    {
+      "mediaId": "2e7f3ebf-8a2e-503b-e983-bae37e6cec36",
+      "relativePath": "assets/uploads/resorts2/Royal-Island-Premium-All-Inclusive-Resort-Maldives-Pool.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/royal-island-premium-all-inclusive-resort-maldives-pool.webp",
+      "altText": "Royal Island Premium All Inclusive Resort Maldives Pool"
+    },
+    {
+      "mediaId": "fbb9e088-826d-81e8-1522-d670101f79d6",
+      "relativePath": "assets/uploads/resorts2/Shaviyani-Funadhoo-Airport.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/shaviyani-funadhoo-airport.jpg",
+      "altText": "Shaviyani Funadhoo Airport"
+    },
+    {
+      "mediaId": "292d890f-d508-7a31-256c-903e2cb85e39",
+      "relativePath": "assets/uploads/resorts2/Sheraton-Maldives-Full-Moon-Resort-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/sheraton-maldives-full-moon-resort-beach.webp",
+      "altText": "Sheraton Maldives Full Moon Resort Beach"
+    },
+    {
+      "mediaId": "97608405-b785-d314-7547-194f03c0380a",
+      "relativePath": "assets/uploads/resorts2/Siyam-World-Maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/siyam-world-maldives.webp",
+      "altText": "Siyam World Maldives"
+    },
+    {
+      "mediaId": "9da2588d-028d-7600-22cd-0f748073bc6f",
+      "relativePath": "assets/uploads/resorts2/Soneva-Fushi-Baa-Atoll.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/soneva-fushi-baa-atoll.webp",
+      "altText": "Soneva Fushi Baa Atoll"
+    },
+    {
+      "mediaId": "a5533560-7a7b-0a7d-94c0-7e98cf8e143a",
+      "relativePath": "assets/uploads/resorts2/Soneva-Fushi-Kunfunadhoo-Island-Maldives-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/soneva-fushi-kunfunadhoo-island-maldives-resort.webp",
+      "altText": "Soneva Fushi Kunfunadhoo Island Maldives Resort"
+    },
+    {
+      "mediaId": "e56fce2d-2f71-f1e5-ec44-5757523aca43",
+      "relativePath": "assets/uploads/resorts2/Soneva-Jani-Maldives-One-Bedroom-Water-Retreat.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/soneva-jani-maldives-one-bedroom-water-retreat.webp",
+      "altText": "Soneva Jani Maldives One Bedroom Water Retreat"
+    },
+    {
+      "mediaId": "171da5d9-f355-0607-7828-f5ac2cd0f6a5",
+      "relativePath": "assets/uploads/resorts2/South-Palm-Resort-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/south-palm-resort-beach.webp",
+      "altText": "South Palm Resort Beach"
+    },
+    {
+      "mediaId": "a61b2b6d-cfff-9c68-7e33-91c8b4d861bf",
+      "relativePath": "assets/uploads/resorts2/Sun-Siyam-Iru-Veli.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/sun-siyam-iru-veli.webp",
+      "altText": "Sun Siyam Iru Veli"
+    },
+    {
+      "mediaId": "11ef879f-5dc4-8193-b192-40b37b3f2132",
+      "relativePath": "assets/uploads/resorts2/Sun-Siyam-Olhuveli-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/sun-siyam-olhuveli-maldives-beach.webp",
+      "altText": "Sun Siyam Olhuveli Maldives Beach"
+    },
+    {
+      "mediaId": "3fc60057-9bbd-cbc0-21dd-78bc6ed2677e",
+      "relativePath": "assets/uploads/resorts2/Sun-Siyam-Olhuveli-Maldives.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/sun-siyam-olhuveli-maldives.jpg",
+      "altText": "Sun Siyam Olhuveli Maldives"
+    },
+    {
+      "mediaId": "00ab6f1e-b42f-35f7-0e50-ee78fde3353a",
+      "relativePath": "assets/uploads/resorts2/Sun-Siyam-Vilu-Reef-Maldives-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/sun-siyam-vilu-reef-maldives-beach.webp",
+      "altText": "Sun Siyam Vilu Reef Maldives Beach"
+    },
+    {
+      "mediaId": "5120e556-1aa0-e34c-4076-98fbfbc7a778",
+      "relativePath": "assets/uploads/resorts2/The-Residence-Maldives-at-Dhigurah-Kids-Club.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/the-residence-maldives-at-dhigurah-kids-club.webp",
+      "altText": "The Residence Maldives at Dhigurah Kids Club"
+    },
+    {
+      "mediaId": "cfff6328-7705-6156-91b1-3544cde19d38",
+      "relativePath": "assets/uploads/resorts2/The-Residence-Maldives-at-Falhumaafushi-Pool.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/the-residence-maldives-at-falhumaafushi-pool.webp",
+      "altText": "The Residence Maldives at Falhumaafushi Pool"
+    },
+    {
+      "mediaId": "fdbea698-950d-cb09-9cd8-1ad822e61a30",
+      "relativePath": "assets/uploads/resorts2/The-Westin-Maldives-Miriandhoo-Resort-Pool.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/the-westin-maldives-miriandhoo-resort-pool.webp",
+      "altText": "The Westin Maldives Miriandhoo Resort Pool"
+    },
+    {
+      "mediaId": "aae323a1-ac38-0a29-49f1-dff0cbd1dff5",
+      "relativePath": "assets/uploads/resorts2/VARU-by-Atmosphere.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/varu-by-atmosphere.webp",
+      "altText": "VARU by Atmosphere"
+    },
+    {
+      "mediaId": "2a5951ce-8c6b-7f6e-499b-c9f8bc4837a9",
+      "relativePath": "assets/uploads/resorts2/Velassaru-Maldives-Island-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/velassaru-maldives-island-resort.webp",
+      "altText": "Velassaru Maldives Island Resort"
+    },
+    {
+      "mediaId": "a15e558e-3afc-53c7-767f-a37557e14c09",
+      "relativePath": "assets/uploads/resorts2/Veligandu-Island-Resort-and-Spa-Beach.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/veligandu-island-resort-and-spa-beach.webp",
+      "altText": "Veligandu Island Resort and Spa Beach"
+    },
+    {
+      "mediaId": "8e1ec774-cd80-3057-4902-5177fff3ef37",
+      "relativePath": "assets/uploads/resorts2/Vilamendhoo-Island-Resort-and-Spa.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/vilamendhoo-island-resort-and-spa.webp",
+      "altText": "Vilamendhoo Island Resort and Spa"
+    },
+    {
+      "mediaId": "755dfe20-d53b-d8ee-2664-e9177f618d4c",
+      "relativePath": "assets/uploads/resorts2/You-and-Me-by-Cocoon-Maldives-Resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/you-and-me-by-cocoon-maldives-resort.webp",
+      "altText": "You and Me by Cocoon Maldives Resort"
+    },
+    {
+      "mediaId": "7518089d-0d78-a41c-7da6-283655891bdd",
+      "relativePath": "assets/uploads/resorts2/paradise-resort.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/paradise-resort.webp",
+      "altText": "paradise resort"
+    },
+    {
+      "mediaId": "504a8a2a-ad97-9889-0332-a375be00578a",
+      "relativePath": "assets/uploads/resorts2/ritz-carlton-fari-island-beach-pool-villa2.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/ritz-carlton-fari-island-beach-pool-villa2.webp",
+      "altText": "ritz carlton fari island beach pool villa2"
+    },
+    {
+      "mediaId": "3c605b45-9dbc-6b2e-806e-6e0b275597c4",
+      "relativePath": "assets/uploads/resorts2/st-regis-vommuli-resort-maldives.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/st-regis-vommuli-resort-maldives.webp",
+      "altText": "st regis vommuli resort maldives"
+    },
+    {
+      "mediaId": "bf407e0b-fbba-d74d-8f81-ae074e3c6e81",
+      "relativePath": "assets/uploads/resorts2/the-nautilus-island-maldives-resort.jpg",
+      "storagePath": "uploads/assets/uploads/resorts2/the-nautilus-island-maldives-resort.jpg",
+      "altText": "the nautilus island maldives resort"
+    },
+    {
+      "mediaId": "c5bbe0ee-3fda-f76b-f995-69311658d45a",
+      "relativePath": "assets/uploads/resorts2/the-st-regis-vommuli-isalnd.webp",
+      "storagePath": "uploads/assets/uploads/resorts2/the-st-regis-vommuli-isalnd.webp",
+      "altText": "the st regis vommuli isalnd"
+    }
+  ]
+}

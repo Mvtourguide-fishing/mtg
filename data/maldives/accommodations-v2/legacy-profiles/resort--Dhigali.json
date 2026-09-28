@@ -1,0 +1,90 @@
+{
+  "folder": "Dhigali",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Dhigali/Dhigali-Maldives.html",
+  "legacyTitle": "Dhigali Maldives Island Resort",
+  "legacyH1": "Dhigali Maldives Island Resort",
+  "metaDescription": "Dhigali Maldives Island is a resort located in Raa atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "mK3be2nNVlI",
+  "descriptionParagraphs": [
+    "Dhigali Island, a slender coral cay in the Raa Atoll, is pure Maldivian bliss. This is a luxurious getaway with a twist, surrounded by coral and kissed by the sun. The island's pristine blue border is dotted with castaway houses and overwater bungalows. The colourful life abounds in the house-reef. The depths of the Lakshadweep Sea beyond the lagoon provide magnificent sights. To set foot on the sands of Dhigali in the Maldives is to embark on an adventure. The excitement of discovery awaits on land, at sea, or undersea. Dhigali gives a warm Maldivian welcome to all guests. Design innovation, breathtaking scenery, and inspired, intuitive service combine to create a truly sublime island experience.",
+    "The 20 beach cottages at Dhigali are concealed among natural vegetation. Each features an open-air bathroom as well as a luxurious semi-open rainfall shower. A large, covered patio with private sun loungers.",
+    "Beach Villas with private pools at Dhigali Maldives resort are excellent for couples celebrating romance. The villas offer breathtaking views of the sparkling blue-green waters, as well as a bathroom with an exhilarating rainfall shower that is open to the balmy island air and an expansive covered outdoor veranda that leads to the porcelain sands of the beach, where private sun loungers sit under native fronds.",
+    "Dhigali's 24 Overwater villas in the Maldives are elegantly situated over crystal clear water, just a short paddle from the colourful house reef. Each villa has a large wooden sundeck that steps down to the sea, where exciting excursions await.",
+    "Dhigali Maldives' crystal blue periphery is dotted with castaway homes and Over Water Bungalows. Some rooms include a lounge space for your comfort. There is a coffee machine in the room. Every room has its own bathroom, which has a bath or shower, a bidet, and a selection of amenities.",
+    "Beyond the lagoon, Dhigali Maldives is encircled by a massive house reef in Raa Atoll. Dhigali Maldives is a 45-minute seaplane flight from Velana International Airport. Domestic flights from Ifuru/Dharavandhoo Airport take only 70 minutes, including the transfer by speedboat."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 889,
+      "priceInclTax": 928,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Beach-Bungalow.webp",
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1400,
+      "priceInclTax": 1475,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1180,
+      "priceInclTax": 1236,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Water-Villa.webp",
+        "/resorts/Dhigali/images/Dhigali-Maldives-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Dhigali/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Dhigali-Maldives-Island-map.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-1.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-Activities.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-Beach.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-Experiences.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-Pool.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort-Spa.webp",
+    "Dhigali-Maldives-Luxury-Island-Resort.webp",
+    "Dhigali-Maldives-Luxury-Island.webp",
+    "Dhigali-Maldives-Luxury-Resort.webp",
+    "Dhigali-Maldives-Resort-Beach-Bungalow.webp",
+    "Dhigali-Maldives-Resort-Beach-Bungalow1.webp",
+    "Dhigali-Maldives-Resort-Beach-Pool-Villa.webp",
+    "Dhigali-Maldives-Resort-Beach-Pool-Villa1.webp",
+    "Dhigali-Maldives-Resort-Water-Villa.webp",
+    "Dhigali-Maldives-Resort-Water-Villa1.webp",
+    "Dhigali-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

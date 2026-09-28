@@ -1,0 +1,71 @@
+{
+  "folder": "The-Ritz-Carlton",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/The-Ritz-Carlton/The-Ritz-Carlton-Fari-island-Maldives.html",
+  "legacyTitle": "The ritz carlton maldives Island Resort",
+  "legacyH1": "The Ritz Carlton Maldives Fari Island Resort",
+  "metaDescription": "The ritz carlton maldives Island is a resort located in Male atoll",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Zcocq4od2Tw",
+  "descriptionParagraphs": [
+    "The Ritz-Carlton Maldives, Fari Islands invites you to immerse yourself in island life and relax in an azure lagoon surrounded by white sand beaches. From Velana International Airport, the resort is a 45-minute picturesque voyage by luxury speedboat or a 10-minute seaplane flight away. The resort features 100 elegantly built villas by Kerry Hill Architect, inspired by water and circular movement, where modern architecture meets the Maldives. Each villa features a private pool, sundeck, en-suite bathroom, and a spectacular assortment of individualized amenities both indoors and out."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 2887,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/The-Ritz-Carlton/images/ritz-carlton-fari-island-beach-pool-villa.webp",
+        "/resorts/The-Ritz-Carlton/images/ritz-carlton-fari-island-beach-pool-villa2.webp"
+      ]
+    },
+    {
+      "name": "Over Water Pool Villa",
+      "price": 2384,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/The-Ritz-Carlton/images/ritz-carlton-fari-island-ocean-pool-villa.webp",
+        "/resorts/The-Ritz-Carlton/images/ritz-carlton-fari-island-ocean-pool-villa2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/The-Ritz-Carlton/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "fari-island-transfer.jpg",
+    "maldives-fari-island.jpg",
+    "maldives-fari-island.webp",
+    "ritz-carlton-fari-island-beach-pool-villa.jpg",
+    "ritz-carlton-fari-island-beach-pool-villa.webp",
+    "ritz-carlton-fari-island-beach-pool-villa2.webp",
+    "ritz-carlton-fari-island-maldives.webp",
+    "ritz-carlton-fari-island-ocean-pool-villa.jpg",
+    "ritz-carlton-fari-island-ocean-pool-villa.webp",
+    "ritz-carlton-fari-island-ocean-pool-villa2.webp",
+    "ritz-carlton-fari-island-transfer.webp",
+    "ritz-carlton-fari-island.webp",
+    "ritz-carlton-island-maldives.webp",
+    "ritz-carlton-maldives.webp",
+    "ritz-carlton.webp",
+    "the-ritz-carlton-fari-island.webp",
+    "the-ritz-carlton-island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

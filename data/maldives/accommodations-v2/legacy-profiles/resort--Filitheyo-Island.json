@@ -1,0 +1,76 @@
+{
+  "folder": "Filitheyo-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Filitheyo-Island/Filitheyo-Island-Resort-Maldives.html",
+  "legacyTitle": "Filitheyo Island Resort Maldives",
+  "legacyH1": "Filitheyo Island Resort Maldives",
+  "metaDescription": "Filitheyo Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "F"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "N-FaHyKf1uI",
+  "descriptionParagraphs": [
+    "Welcome to an island paradise of verdant jungle greenery and gleaming white beaches. Filitheyo resort is located on Faafu Atoll, one of the Maldives' most pristine atolls, which is rich in colourful marine life and brilliant coral 120. It takes 35 minutes by sea plane to reach 7 km from Male Velana International Airport, followed by a 10-minute traditional dhoni ride. Seaplane transfers are the only way for visitors to reach this beautiful island.",
+    "This quaint Maldives resort offers a spa unlike any other. The jungle spa, located in the middle of the island, is a tranquil haven surrounded by lush tropical flora. Spa therapists provide a variety of Balinese and foreign treatments. Filitheyo is also a scuba diver's heaven. The house reef is teeming with aquatic life, such as fish, reef sharks, and rays, and our Werner Lau dive centre offers a variety of daily excursions. The freeform infinity-edge swimming pool adjacent to the sea, complete with a swim-up bar, is an ideal place to unwind.",
+    "These semi-detached villas on the beachfront provide a king size four poster bed or twin beds, a private sundeck with a day bed, and a semi-open-air bathroom with an outdoor shower. Families and groups can request interconnecting rooms.",
+    "The spacious water villas are built on stilts above the lagoon and have a king size four poster bed or twin beds, a huge bathroom with a jacuzzi, day bed, and a private sundeck with a traditional 'udoli' (swing chair) and private stairs going right into the water.",
+    "Filitheyo, with a total land area of around 21 hectares, contains 125 homes built to blend in with the island ambience, creating the image of wooden cottages with thatched roofs covered by palm trees. They are all outfitted with the greatest and most up-to-date accommodation amenities and services.",
+    "Filitheyo resort, located in Faafu Atoll, is 121 kilometres from Velana International Airport and is accessible by sea plane in 35 minutes, followed by a 15-minute traditional dhoni ride. Seaplane transfers are the sole way for visitors to reach this picturesque island."
+  ],
+  "rooms": [
+    {
+      "name": "Superior Villa",
+      "price": 250,
+      "priceInclTax": 271,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Filitheyo-Island/images/Filitheyo-Island-Resort-Superior-Villa.webp",
+        "/resorts/Filitheyo-Island/images/Filitheyo-Island-Resort-Superior-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 620,
+      "priceInclTax": 672,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Filitheyo-Island/images/Filitheyo-Island-Resort-Water-Villa.webp",
+        "/resorts/Filitheyo-Island/images/Filitheyo-Island-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Filitheyo-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Filitheyo-Island-Resort-Beach-Dinning.webp",
+    "Filitheyo-Island-Resort-Maldives-Beach-Dinner.webp",
+    "Filitheyo-Island-Resort-Maldives-Beach-Faafu-Atoll.webp",
+    "Filitheyo-Island-Resort-Maldives-Beach.webp",
+    "Filitheyo-Island-Resort-Maldives-Diving.webp",
+    "Filitheyo-Island-Resort-Maldives-Pool-Faafu-Atoll.webp",
+    "Filitheyo-Island-Resort-Maldives-Pool.webp",
+    "Filitheyo-Island-Resort-Maldives-Spa.webp",
+    "Filitheyo-Island-Resort-Maldives-map.webp",
+    "Filitheyo-Island-Resort-Maldives.webp",
+    "Filitheyo-Island-Resort-Superior-Villa.webp",
+    "Filitheyo-Island-Resort-Superior-Villa1.webp",
+    "Filitheyo-Island-Resort-Water-Villa.webp",
+    "Filitheyo-Island-Resort-Water-Villa1.webp",
+    "Filitheyo-Island-Resort.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

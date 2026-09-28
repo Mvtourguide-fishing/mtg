@@ -1,0 +1,77 @@
+{
+  "folder": "Aaaveee-Natures-Paradise",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Aaaveee-Natures-Paradise/aaaveee-natures-paradise-maldives-island-resort.html",
+  "legacyTitle": "Aaaveee Nature's Paradise Island Resort Maldives",
+  "legacyH1": "Aaaveee Nature's Paradise Island Resort Maldives",
+  "metaDescription": "Aaaveee Nature's Island is a resort located in Dhaalu atoll Maldives",
+  "metaAtollCodes": [
+    "Dh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Dh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Yp51yOrPzpA",
+  "descriptionParagraphs": [
+    "Come to the Maldives' most environmentally friendly resort ever built. Nature's at the core of this gorgeous island in Dhaalu Atoll. The island is a tiny 8 hectare treasure located on the northern portion of Dhaalu Atoll with a short 40 minute seaplane flight and step onto this amazing island in the Maldives.",
+    "A discovery in nature Maldivian Retreat presenting the true original Maldivian way of life in private retreats back in 1972, when Maldives tourism first began. Come to the Maldives' most environmentally friendly resort ever built. Nature's Paradise has it all, whether it's a house reef, foliage, a lagoon, or anything... It's your resort, your island, your life, and your universe. The only true Maldivian hideaway, regarded as the best \"Nature Discovery Island Resort\" in the world.",
+    "Aaaveee Nature's Paradise is located in the northwestern section of Dhaalu atoll, about 35 minutes by seaplane from Velana International Airport. It is also 25 kilometers north of the projected Kudahuvadhoo domestic airport and 25 kilometers south of Maamigili International Airport. It is a quick 20-minute speedboat ferry or ride from Kudahuvadhoo airport.",
+    "Aaaveee Nature's Paradise has 33 eco-friendly rooms and three types of lodging that are unique to Aaaveee Nature's Paradise.",
+    "If traveling within 6 months of the wedding date, they will receive a fruit basket with a bottle of wine and a bed decoration. At the time of check-in, the Resort may request a copy of the wedding certificate.",
+    "If you stay at aaaVeee Nature's Paradise on the anniversary date, you will receive a cake with a bottle of wine and a bed decoration. At the time of check-in, the Resort may request a copy of the wedding certificate."
+  ],
+  "rooms": [
+    {
+      "name": "Deck Villa",
+      "price": 437,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Aaaveee-Natures-Paradise/images/Aaaveee-Natures-Paradise-deck-villa.webp",
+        "/resorts/Aaaveee-Natures-Paradise/images/Aaaveee-Natures-Paradise-deck-villa2.webp"
+      ]
+    },
+    {
+      "name": "Beach Villa",
+      "price": 543,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Aaaveee-Natures-Paradise/images/Aaaveee-Natures-Paradise-beach-villa.webp",
+        "/resorts/Aaaveee-Natures-Paradise/images/Aaaveee-Natures-Paradise-beach-villa2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Aaaveee-Natures-Paradise/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Aaaveee-Natures-Maldives.webp",
+    "Aaaveee-Natures-Paradise-Dhoores-Dhaalu-Atoll-Maldives-2.webp",
+    "Aaaveee-Natures-Paradise-Dhoores-Dhaalu-Atoll-Maldives.webp",
+    "Aaaveee-Natures-Paradise-Dhoores-Dhaalu-Atoll.webp",
+    "Aaaveee-Natures-Paradise-Dhoores-Dhaalu-Maldives.webp",
+    "Aaaveee-Natures-Paradise-Dhoores-Maldives.webp",
+    "Aaaveee-Natures-Paradise-Maldives.webp",
+    "Aaaveee-Natures-Paradise-beach-villa.jpg",
+    "Aaaveee-Natures-Paradise-beach-villa.webp",
+    "Aaaveee-Natures-Paradise-beach-villa2.webp",
+    "Aaaveee-Natures-Paradise-deck-villa.jpg",
+    "Aaaveee-Natures-Paradise-deck-villa.webp",
+    "Aaaveee-Natures-Paradise-deck-villa2.webp",
+    "Maldives-Aaaveee-Natures-Paradise-Dhoores-Dhaalu-Atoll.webp",
+    "aavee-natures-paradise-map.jpg",
+    "aavee-natures-paradise-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Dh"
+}

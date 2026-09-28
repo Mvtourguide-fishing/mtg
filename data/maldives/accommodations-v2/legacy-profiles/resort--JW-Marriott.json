@@ -1,0 +1,78 @@
+{
+  "folder": "JW-Marriott",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/JW-Marriott/JW-Marriott-Maldives-Resort.html",
+  "legacyTitle": "JW Marriott Maldives Island Resort",
+  "legacyH1": "JW Marriott Maldives Island Resort",
+  "metaDescription": "JW Marriott Maldives Island is a resort located in Shaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Sh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Sh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Van'gaaru",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "EHZiO7QOToA",
+  "descriptionParagraphs": [
+    "JW Marriott Maldives Resort & Spa is a picturesque luxury haven on the blue seas of Shaviyani Atoll. Relax in contemporary overwater villas and beach villas with luxurious mattresses, private pools, and decks with breathtaking views of the Indian Ocean. At our different dining places, delight your palette with exceptional Japanese, Italian, and world cuisine, as well as treetop dining and buffet breakfasts. Explore a wide range of sports such as snorkelling, scuba diving, jet skiing, and sailing. Our Little Griffins kids' group allows children to have their own experiences in the Maldives. Refresh in our dazzling pool or have an intense workout in our modern fitness centre. Make a wonderful day in Shaviyani Atoll with a refreshing beauty or massage treatment.",
+    "JW Marriott Maldives Resort & Spa offers 60 luxury Beach and Overwater Pool Villas with living sizes ranging from 234 sqm to 285 sqm. Our beautiful and large Beach and Overwater Pool Villas are suitable for both couples and families visiting Maldives, with contemporary and airy décor offering the utmost seclusion and tranquillity. From your private villa terrace with its own huge private wooden deck, pool, and outdoor shower, you may enjoy an unimpeded view of the Indian Ocean or our island's beautiful tropical gardens. Each villa at the JW Marriott Maldives Resort & Spa is inspired by the natural surroundings and Maldivian culture, with colours and materials that reflect the island locale. Villas' thatched roofs are suggestive of upside-down Dhoni boats, Maldives' traditional wooden fishing vessels, and sloping roof tips are reminiscent of white herons dipping their heads into the ocean.",
+    "JW Marriott Maldives Resort & Spa provides a tropical island haven with 61 magnificent Beach and Overwater Pool villas in the remote Shaviyani Atoll. The Villas have been created with modern roomy and airy interiors that give an intimate setting that allows for seclusion while still providing thoughtful interacting places if desired.",
+    "JW Marriott Maldives Resort & Spa is located on the beautiful island of Van'gaaru in the Shaviyani Atoll, a picturesque 55-minute seaplane ride from Velana International Airport in Male, Maldives.",
+    "JW Marriott Maldives Resort & Spa offers a diverse range of gastronomic experiences. Begin your day with a hearty breakfast at Aailaa, then order your favourite pizza from Fiamma for a quiet lunch by the pool, or spice up your day with genuine Thai food from Kaashi. Horizon offers a tranquil view of the Maldivian sunset while serving your favourite cocktails. Visit our Wine Room for a wine-pairing dining experience, or Rum Baan to build your own drink. For pre-dinner beverages, try our famous smoked cocktails at Wabi Sabi before indulging in Japanese delicacies at Hashi or the best prime cut meats and crustaceans at Shio, our namesake restaurant.",
+    "We believe that genuine well-being begins with mind-body harmony at Spa by JW. As a result, we design places that can support a variety of health activities, from activeness to more restorative mindfulness periods, while letting in natural light and enabling access to more natural settings. There is no better place in the world to experiment with natural remedies than on a private island paradise. Join us for a Personal Training Session, a Personal Yoga Class, or a Guided Meditation to revitalise your mind, body, and spirit."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Pool Villa",
+      "price": 800,
+      "priceInclTax": 872,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JW-Marriott/images/JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Beach-Villa-Pool.webp",
+        "/resorts/JW-Marriott/images/JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Sunrise Over Water Villa Pool",
+      "price": 750,
+      "priceInclTax": 799,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JW-Marriott/images/JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Overwater-Villa-Pool.webp",
+        "/resorts/JW-Marriott/images/JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Overwater-Villa-Pool1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/JW-Marriott/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "JW-Marriott-Maldives-Resort-Island-map.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Bar.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Beach-Activities.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Gym.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Kids-Club.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Liabrary.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Pool-Shaviyani-Atoll.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Pool.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Beach-Villa-Pool.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Beach-Villa-Pool1.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Overwater-Villa-Pool.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Sunrise-Overwater-Villa-Pool1.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Vangaaru-island-Dinning.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Vangaaru-island-Shaviyani-Atoll.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-Vangaaru-island.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa-island.webp",
+    "JW-Marriott-Maldives-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Sh"
+}

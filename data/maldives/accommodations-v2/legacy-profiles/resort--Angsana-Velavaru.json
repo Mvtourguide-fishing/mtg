@@ -1,0 +1,88 @@
+{
+  "folder": "Angsana-Velavaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Angsana-Velavaru/Angsana-Velavaru-Maldives.html",
+  "legacyTitle": "Angsana Velavaru Island Resort Maldives",
+  "legacyH1": "Angsana Velavaru Island Resort Maldives",
+  "metaDescription": "Angsana Velavaru Island is a resort located in Dhaalu atoll, Maldives",
+  "metaAtollCodes": [
+    "Dh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "south nilandhe"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "G9Q7xzdH5AU",
+  "descriptionParagraphs": [
+    "Angsana Velavaru (known as \"Turtle Island\" in the local Dhivehi language) is perched on an expansive private lagoon in the virtually untouched South Nilandhe Atoll in the Maldives, and is just a 40-minute seaplane journey from Velana International Airport. It is surrounded by sparkling turquoise waters and ocean views as far as the eye can see.",
+    "Angsana Velavaru is a wonderful island destination playground, with 5 All-Inclusive Packages intended to cater to different types of vacationers. Angsana's All-Inclusive Concept presents a new kind of intrepid travel in the Maldives allowing you to enjoy the very best of #AngsanaMoments during your stay, from gourmet foodies to family travellers, spa enthusiasts, novice and expert divers. Take advantage of the opportunity and enter the uplifting world of Angsana Velavaru, the ideal destination playground for a wonderful year-round tropical holiday.",
+    "The 79 island villas and 34 In Ocean Villas are nestled in Velavaru Lagoon, offering amazing views and direct access to the Indian Ocean.",
+    "Angsana Velavaru is partly on the crystal blue waters of the Maldivian ocean and half on the white sandy beaches of the South Nilandhe Atoll to capture the finest of both worlds. Velana International Airport is 45 minutes distant via seaplane."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 700,
+      "priceInclTax": 761,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Beach-villa.webp",
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Beach-villa1.webp"
+      ]
+    },
+    {
+      "name": "Pool Villa",
+      "price": 739,
+      "priceInclTax": 815,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Pool-villa.webp",
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Villa",
+      "price": 1230,
+      "priceInclTax": 1310,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Ocean-villa.webp",
+        "/resorts/Angsana-Velavaru/images/Angsana-Velavaru-Maldives-Ocean-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Angsana-Velavaru/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Angsana-Velavaru-Island-Maldives.webp",
+    "Angsana-Velavaru-Island-map.webp",
+    "Angsana-Velavaru-Maldives-Beach-villa.webp",
+    "Angsana-Velavaru-Maldives-Beach-villa1.webp",
+    "Angsana-Velavaru-Maldives-Island-Resort.webp",
+    "Angsana-Velavaru-Maldives-Island.webp",
+    "Angsana-Velavaru-Maldives-Ocean-villa.webp",
+    "Angsana-Velavaru-Maldives-Ocean-villa1.webp",
+    "Angsana-Velavaru-Maldives-Pool-villa.webp",
+    "Angsana-Velavaru-Maldives-Pool-villa1.webp",
+    "Angsana-Velavaru-Maldives-Pool.webp",
+    "Angsana-Velavaru-Maldives-Resort-Island.webp",
+    "Angsana-Velavaru-Maldives-Resort-spa.webp",
+    "Angsana-Velavaru-Maldives-Resort.webp",
+    "Angsana-Velavaru-Maldives-beach.webp",
+    "Angsana-Velavaru-Maldives.webp",
+    "Maldives-Island-Angsana-Velavaru.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "Dh"
+}

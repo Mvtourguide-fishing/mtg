@@ -1,0 +1,91 @@
+{
+  "folder": "Sun-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Sun-Island/Sun-Island-Reosrt-Maldives.html",
+  "legacyTitle": "Sun Island Resort & Spa Maldives",
+  "legacyH1": "Sun Island Resort & Spa Maldives",
+  "metaDescription": "Sun Island Resort & Spa Maldives Island is a five star resort located in South Ari Atoll, Maldives",
+  "metaAtollCodes": [
+    "ADh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "diving south ari"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "B9eBA_LNeJc",
+  "descriptionParagraphs": [
+    "Discover a world of adventure at Sun Island Resort & Spa, nestled in South Ari Atoll in the South Ari Marine Protected Area, whether you want adrenaline-fueled thrills or calm (SAMPA). Sun Island Resort & Spa, located on one of the biggest Maldivian islands and home to a healthy biodiversity and marine life, is a premium eco resort where natural beauty meets bright interior design and magnificent indoor-outdoor living areas. This Maldivian oasis, nestled among lush coconut trees, offers you to experience warm hospitality as well as an abundance of opportunities and exceptional seclusion to reconnect with nature.",
+    "Sun Villas are tranquil getaways in the middle of the island, surrounded by luscious coconut trees and lush green flora. Large garden villas offer a calm and private place for families with young children to unwind and revitalise in the midst of Maldivian nature.",
+    "Beach Pool Villas include private pools, a wide 121sqm open plan living room with an attractive design, a private veranda, contemporary conveniences, and everything you need for an amazing Maldives vacation. Relax in your private pool while enjoying a tropical island breeze, or explore the gorgeous white beach and turquoise seas just outside your door.",
+    "The Water Villas at Sun Island Resort & Spa provide a quiet refuge located over crystal pure water. Enjoy carefree island living while admiring the expansive horizon from your private sundeck. Enjoy direct access to the lagoon from your private stairway and explore adjacent colourful reefs to enjoy the beauty of the natural aquatic environment. These luxury villas provide an unforgettable experience in one of the world's most spectacular locations.",
+    "Sun Island Resort & Spa features 462 well appointed rooms. All of the rooms are intended to provide comfort and a pleasing outlook. From garden villas to water bungalows, all of the accommodations feature modern conveniences and are well-equipped for the modern traveller.",
+    "Sun Island Resort & Spa is situated on Nalaguraidhoo Island in South Ari Atoll, south of Malé International Airport. It is the largest resort in the Maldives, and its size comes with an unrivalled array of facilities as well as very great value for money. The resort is accessible via a 17-minute domestic flight from Male International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Sun Villa",
+      "price": 200,
+      "priceInclTax": 235,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Sun-Villa.webp",
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Sun-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 700,
+      "priceInclTax": 773,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 600,
+      "priceInclTax": 670,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Water-Bungalow.webp",
+        "/resorts/Sun-Island/images/Sun-Island-Resort-Water-Bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Sun-Island/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Sun-Island-Maldives-Resort.webp",
+    "Sun-Island-Maldives.webp",
+    "Sun-Island-Reosrt-Maldives-map.webp",
+    "Sun-Island-Resort-Beach-Pool-Villa.webp",
+    "Sun-Island-Resort-Beach-Pool-Villa1.webp",
+    "Sun-Island-Resort-Maldives.webp",
+    "Sun-Island-Resort-Pool-South-Ari-Atoll.webp",
+    "Sun-Island-Resort-Pool.webp",
+    "Sun-Island-Resort-South-Ari-Atoll.webp",
+    "Sun-Island-Resort-Spa.webp",
+    "Sun-Island-Resort-Sun-Villa.webp",
+    "Sun-Island-Resort-Sun-Villa1.webp",
+    "Sun-Island-Resort-Water-Bungalow.webp",
+    "Sun-Island-Resort-Water-Bungalow1.webp",
+    "Sun-Island-Resort-and-Spa.webp",
+    "Sun-Island-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "ADh"
+}

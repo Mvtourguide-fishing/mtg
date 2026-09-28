@@ -1,0 +1,74 @@
+{
+  "folder": "Diamonds-Thudufushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Diamonds-Thudufushi/Diamonds-Thudufushi-Island-Maldives.html",
+  "legacyTitle": "Diamond Thudufushi Beach Island Resort Maldives",
+  "legacyH1": "Diamond Thudufushi Maldives Resort and Spa",
+  "metaDescription": "Diamond Thudufushi Beach Island and Water Villa is a resort located in Ari atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Caues3sglgg",
+  "descriptionParagraphs": [
+    "Welcome to the magnificent Diamonds Thudufushi Beach and Water Villas. Elegant beach bungalows and luxury overwater villas can be found on the island. A wellness centre provides ayurvedic treatments, and a diving centre caters to our guests' underwater experience. The Diamonds Thudufushi resort is only a 20-minute scenic seaplane flight from Malé International Airport. Thudufushi is the ideal resort to begin exploring the Maldives in a centre of excellence, where every detail has been carefully selected to make your journey unforgettable.",
+    "Your dives and excursions will be guided by experts, ranging from biologists who will reveal the secrets of the reef to qualified personnel who will ensure that your entire stay is unique and unforgettable. Because of our all-inclusive formula, you will be able to fully enjoy every second at Diamonds Thudufushi.",
+    "The 12 Beach Bungalows face the unspoiled waters and have direct access to the beach. They have verandas with private terraces with armchairs, tables, and sun loungers. Each of the rooms has an outdoor shower.",
+    "14 Water Villas have a large private terrace with direct ocean access. All of the rooms have a spacious living area with elegant furniture, a four poster bed, a comfortable sofa and corner bar, contemporary Italian lighting, and beautiful parquet floors.",
+    "Thudufushi is the ideal resort for exploring the Maldives and having an unforgettable vacation. During their stay, guests can relax in Beach Villas or enjoy an exquisite experience in Water Villas.",
+    "Malé International Airport is only a scenic 25-minute flight away."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 300,
+      "priceInclTax": 355,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Diamonds-Thudufushi/images/Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach-Bungalow.webp",
+        "/resorts/Diamonds-Thudufushi/images/Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 500,
+      "priceInclTax": 552,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Diamonds-Thudufushi/images/Diamonds-Thudufushi-Maldives-Resort-and-SPA-Water-Villa.webp",
+        "/resorts/Diamonds-Thudufushi/images/Diamonds-Thudufushi-Maldives-Resort-and-SPA-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Diamonds-Thudufushi/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Diamonds-Thudufushi-Island-Maldives-map.webp",
+    "Diamonds-Thudufushi-Maldives-Island-Resort-and-SPA.webp",
+    "Diamonds-Thudufushi-Maldives-Island-Resort.webp",
+    "Diamonds-Thudufushi-Maldives-Island.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach-1.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach-Bungalow.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach-Bungalow1.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Beach.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Dinner.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Excursion.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Restaurant.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Water-Villa.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA-Water-Villa1.webp",
+    "Diamonds-Thudufushi-Maldives-Resort-and-SPA.webp",
+    "Diamonds-Thudufushi-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "ambiguousOnly",
+  "resolvedAtollCode": null
+}

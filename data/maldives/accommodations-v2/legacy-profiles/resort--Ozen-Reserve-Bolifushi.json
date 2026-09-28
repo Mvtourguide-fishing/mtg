@@ -1,0 +1,74 @@
+{
+  "folder": "Ozen-Reserve-Bolifushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Ozen-Reserve-Bolifushi/Ozen-Reserve-Bolifushi-Maldives.html",
+  "legacyTitle": "Ozen Reserve Bolifushi Maldives Island Resort",
+  "legacyH1": "Ozen Reserve Bolifushi Maldives Island Resort",
+  "metaDescription": "Ozen Reserve Bolifushi Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "il6USSNhBDY",
+  "descriptionParagraphs": [
+    "OZEN RESERVE BOLIFUSHI brings to life your fantasies of Maldives 5-star resorts. The exclusive island resort embodies elegance, flair, and timeless sophistication, surrounded by a stunning natural reef and blue seas. Every experience is precisely created to pamper you with an extraordinary break, from stunning overwater villas with slides to exotic gourmet dining and ice skating by the beach.",
+    "Enjoy the stunning sunset views from this peaceful, expansive, and elegantly elegant retreat. These beautiful tropical havens are ideal for all types of travellers, including small families, couples, and groups of friends. They provide the ideal Maldivian retreat! Earth Pool Villa Sunset is a tropical oasis built for all sorts of visitors, from small families and groups of friends to couples searching for an unique Maldivian holiday.",
+    "The mystical Indian Ocean is just a few feet away from the Ocean Pool Suite. Its vast outside terrace, surrounded by the lagoon, is a real haven for calm sunbathing or relaxing stargazing beneath shimmering sky. It has a private infinity pool, sunken seats, an overwater hammock, and a few stairs going down to the cerulean lagoon bubbling below. This is the ultimate way to feel the Maldives' real essence! If the outside is paradise, the inside is just as gorgeous. This beautiful house is finished with a teak floor, colourful tropical furnishings, and sophisticated décor.",
+    "The 5-star villas at Ozen Reserve Bolifushi have an open-concept plan that allows guests to enjoy the spectacular sea views and pleasant breezes. There are 43 beach villas and suites, 46 water villas and ocean suites, and 1 Royal Residence in the resort. Every villa has its own pool and direct access to the beach or lagoon. Not to add that there is free WiFi in the rooms.",
+    "This tranquil island resort retreat is only a 20-minute boat trip from Velana International Airport. This is a luxurious hideaway that is easily accessible, located on the south side of Male Atoll. You'll discover large lengths of white sandy beaches and clear seas at Ozen Reserve Bolifushi, providing a magnificent vision for you to gaze upon while you let the leisurely joys of life take over.",
+    "A world of captivating culinary surprises greets each guest at OZEN RESERVE BOLIFUSHI. Enjoy customised dining experiences in Maldivian beauty, with breathtaking views of the Indian Ocean from each. For an exquisite culinary experience, choose from three specialty restaurants, an all-day dining restaurant, and two pubs. Our enthusiastic chefs create meals and delectable dishes using the freshest produce from our Chef's Garden, which they individually handpick. So sit back, relax, and enjoy this delightful adventure at our resort!"
+  ],
+  "rooms": [
+    {
+      "name": "Earth Pool Villa Sunset",
+      "price": 1900,
+      "priceInclTax": 1957,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Ozen-Reserve-Bolifushi/images/Ozen-Reserve-Bolifushi-Maldive-Earth-Pool-Sunset-villa.webp",
+        "/resorts/Ozen-Reserve-Bolifushi/images/Ozen-Reserve-Bolifushi-Maldive-Earth-Pool-Sunset-villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Pool Suite",
+      "price": 2000,
+      "priceInclTax": 2051,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Ozen-Reserve-Bolifushi/images/Ozen-Reserve-Bolifushi-Maldive-Ocean-Pool-Suite.webp",
+        "/resorts/Ozen-Reserve-Bolifushi/images/Ozen-Reserve-Bolifushi-Maldive-Ocean-Pool-Suite1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Ozen-Reserve-Bolifushi/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "Ozen-Reserve-Bolifushi-Maldive-Activities.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Beach.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Earth-Pool-Sunset-villa.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Earth-Pool-Sunset-villa1.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Ocean-Pool-Suite.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Ocean-Pool-Suite1.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Pool-South-Male-Atoll.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Pool.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-South-Male-Atoll.webp",
+    "Ozen-Reserve-Bolifushi-Maldive-Water-Sports.webp",
+    "Ozen-Reserve-Bolifushi-Maldive.webp",
+    "Ozen-Reserve-Bolifushi-Maldives-Island-map.webp",
+    "Ozen-Reserve-Bolifushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

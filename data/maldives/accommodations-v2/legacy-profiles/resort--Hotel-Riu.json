@@ -1,0 +1,76 @@
+{
+  "folder": "Hotel-Riu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Hotel-Riu/Hotel-Riu-Palace-Maldives.html",
+  "legacyTitle": "RIU Palace Maldives Island Resort",
+  "legacyH1": "RIU Palace Maldives Island Resort",
+  "metaDescription": "RIU Palace Maldives Island is a resort located in DHaalu Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Dh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "hotel riu"
+  ],
+  "explicitIslandName": "Kedhigandu",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "LlGWVpZYozE",
+  "descriptionParagraphs": [
+    "If you want to spend a luxurious vacation in a tropical paradise, Hotel Riu Palace Maldivas is the place to stay. This Maldives all-inclusive resort is located on the private island of Kedhigandu and provides 24-hour all-inclusive service, free Wi-Fi throughout the hotel, a variety of restaurants, and several leisure and entertainment opportunities.",
+    "To make your stay as comfortable as possible, the Hotel Riu Palace Maldives offers Junior Suites in various villas, as well as rare overwater suites, some of which have tiny private pools. Its more than 150 rooms have minibars, beverage dispensers, kettles, air conditioning, and satellite television, among other amenities.",
+    "If you wish to stay on the beach, these junior rooms at the Hotel Riu Palace Maldives are an excellent alternative. These 40-square-meter rooms have a king-size bed (200x200 cm) or two tiny double beds (125x200 cm), a sofa or sofa-bed in the living area, satellite TV, air conditioning, a ceiling fan, drink dispensers, a minibar, and a kettle. Furthermore, the beachside terrace will make your vacation experience one-of-a-kind.",
+    "These exquisite accommodations on the water will provide you with an amazing vacation. These 47-square-meter suites at the Hotel Riu Palace Maldives have one king-size bed (200x200 cm) or two tiny double beds (125x200 cm), a couch in the living area, satellite TV, air conditioning, a ceiling fan, drink dispensers, a minibar, and a kettle. In addition, there is a bathtub, a Balinese bed, sun loungers, and direct access to the sea on the terrace.",
+    "The RIU Palace Maldives will have 176 land-based villas with direct sea access and water villas with a private terrace and stairs going to the sea, some of which will have private pools. The Overwater Villas at RIU Palace are believed to be the most luxury since they will include a private pool and baths on the terrace with direct access to the tiny lagoon.",
+    "RIU Palace Maldives is located on the pristine island of Gadifuri, part of Dhaalu Atoll, and is connected to their sister resort, RIU Atoll, via a walkway. Its proximity to Kudahuvadhoo Island, which also has a domestic airport, will make getting to these two resorts a breeze."
+  ],
+  "rooms": [
+    {
+      "name": "Junior Suite With Beach Access",
+      "price": 400,
+      "priceInclTax": 468,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hotel-Riu/images/RIU-Palace-Maldives-Gadifuri-Junior-Suite-with-Beach.webp",
+        "/resorts/Hotel-Riu/images/RIU-Palace-Maldives-Gadifuri-Junior-Suite-with-Beach1.webp"
+      ]
+    },
+    {
+      "name": "Overwater Suite",
+      "price": 680,
+      "priceInclTax": 710,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hotel-Riu/images/RIU-Palace-Maldives-Gadifuri-Overwater-Suite.webp",
+        "/resorts/Hotel-Riu/images/RIU-Palace-Maldives-Gadifuri-Overwater-Suite1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Hotel-Riu/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Hotel-Riu-Palace-Maldives-Island-map.webp",
+    "RIU-Palace-Maldives-Gadifuri-Activities.webp",
+    "RIU-Palace-Maldives-Gadifuri-Dhaalu-Atoll.webp",
+    "RIU-Palace-Maldives-Gadifuri-Dinning.webp",
+    "RIU-Palace-Maldives-Gadifuri-Experiences.webp",
+    "RIU-Palace-Maldives-Gadifuri-Gym.webp",
+    "RIU-Palace-Maldives-Gadifuri-Island.webp",
+    "RIU-Palace-Maldives-Gadifuri-Junior-Suite-with-Beach.webp",
+    "RIU-Palace-Maldives-Gadifuri-Junior-Suite-with-Beach1.webp",
+    "RIU-Palace-Maldives-Gadifuri-Overwater-Suite-Dhaalu-Atoll.webp",
+    "RIU-Palace-Maldives-Gadifuri-Overwater-Suite.webp",
+    "RIU-Palace-Maldives-Gadifuri-Overwater-Suite1.webp",
+    "RIU-Palace-Maldives-Gadifuri-Restaurant.webp",
+    "RIU-Palace-Maldives-Gadifuri-Snorkeling.webp",
+    "RIU-Palace-Maldives-Gadifuri.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "Dh"
+}

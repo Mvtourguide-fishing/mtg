@@ -1,0 +1,49 @@
+{
+  "folder": "casa-retreat",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/casa-retreat/casa-retreat-hotel-in-hulhumale-maldives.html",
+  "legacyTitle": "Casa Retreat Hotel in Hulhumale Maldives",
+  "legacyH1": null,
+  "metaDescription": "Casa Retreat is a hotel opened in the local island of Hulhumale male atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Casa Retreat is an ideal place to stay in Male City and Airport for travelers seeking beauty, comfort, and convenience. This is a convenient property that is near to the airport and easily accessible from both Male' and Hulhumale'. The hotel has its own spa, which will deliver a 1-hour spa treatment at a reduced rate, as well as other excursions.",
+    "Hotel have excellent services and amenities, ensuring that you have a pleasant stay. The hotel offers complimentary Wi-Fi in all rooms, as well as daily housekeeping and a restaurant. Some facilities, such as \"things to do and ways to relax,\" are available outside of the accommodation."
+  ],
+  "rooms": [
+    {
+      "name": "Standard Room",
+      "price": 67,
+      "priceInclTax": 84,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/casa-retreat/images/casa-retreat-hotel-hulhumale-room.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/casa-retreat/images",
+  "imageCount": 9,
+  "imageFiles": [
+    "casa-retreat-hotel-hulhumale-island-maldives.webp",
+    "casa-retreat-hotel-hulhumale-island.webp",
+    "casa-retreat-hotel-hulhumale-maldives.webp",
+    "casa-retreat-hotel-hulhumale-room.webp",
+    "casa-retreat-hotel-hulhumale.webp",
+    "casa-retreat-hotel-in-hulhumale-island-maldives.jpg",
+    "casa-retreat-hotel-in-hulhumale-island-maldives.webp",
+    "casa-retreat-hotel.webp",
+    "casa-retreat-map.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,76 @@
+{
+  "folder": "Medhufushi-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Medhufushi-Island/Medhufushi-Island-ResortMaldives.html",
+  "legacyTitle": "Medhufushi Island Resort Maldives",
+  "legacyH1": "Medhufushi Island Resort Maldives",
+  "metaDescription": "Medhufushi Island Resort Maldives is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "M"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "5j7XZjsxiP8",
+  "descriptionParagraphs": [
+    "Medhufushi Island Resort is a peaceful and relaxing haven. The lovely island, decorated with shaded coconut palms and tropical flowers, exudes serenity. A magnificent lagoon in turquoise and sparkling azure blue surrounds the island. Medhufushi Island Resort is the best place to get away from it all and experience inexpensive, laid-back rustic at a Maldives resort.",
+    "For further solitude, the beach villas are built on pristine white sand and surrounded by lush flora such as hibiscus and sea cabbage. The four-poster king-size bed/twin beds and outdoor rain showers are highlights. 14 of the beach homes are semi-detached and offer more room as well as a partition door connecting the villas.",
+    "The sunrise or sunset-facing Water Villas have floor-to-ceiling windows in the bedroom that fold back over the whole fourth wall, allowing you to completely appreciate the ocean views. They also provide direct access to the lagoon from your private sundeck via steps.",
+    "Medhufushi is one of only two resorts in the picturesque Meemu Atoll, distant from the bustle and congestion of modern life. It includes 112 villas spread across around 10 hectares of land. Each villa is intended to provide natural luxury as well as the joy of a perfect refuge. All of the conveniences of home are offered in these spacious and appealing villas, which include a private sundeck and a traditional Maldivian swing chair. There is no better place to observe the soothing waves than under the shade of the 'undholi.' The unique Lagoon Suites are the best in luxury.",
+    "This five-star resort is located on Meemu Atoll, 130 kilometres from Velana International Airport, a breathtaking 40-minute seaplane flight away.",
+    "This poolside restaurant, named after the Dhivehi word for mermaid, provides breathtaking views of the ocean. The restaurant serves buffet-style breakfasts, lunches, and dinners, with chefs working live cooking stations to customise your dish to your preferences. The food of Malaafaiy Restaurant is inspired by culinary traditions from throughout the world."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 250,
+      "priceInclTax": 271,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Medhufushi-Island/images/Medhufushi-Island-Resort-Maldives-Beach-Villa.webp",
+        "/resorts/Medhufushi-Island/images/Medhufushi-Island-Resort-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 430,
+      "priceInclTax": 482,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Medhufushi-Island/images/Medhufushi-Island-Resort-Maldives-Water-Villa.webp",
+        "/resorts/Medhufushi-Island/images/Medhufushi-Island-Resort-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Medhufushi-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Medhufushi-Island-Resort-Maldives-Activities.webp",
+    "Medhufushi-Island-Resort-Maldives-Activitiest-Meemu-Atoll.webp",
+    "Medhufushi-Island-Resort-Maldives-Beach-Villa.webp",
+    "Medhufushi-Island-Resort-Maldives-Beach-Villa1.webp",
+    "Medhufushi-Island-Resort-Maldives-Beach.webp",
+    "Medhufushi-Island-Resort-Maldives-Excursions.webp",
+    "Medhufushi-Island-Resort-Maldives-Pool.webp",
+    "Medhufushi-Island-Resort-Maldives-Spa.webp",
+    "Medhufushi-Island-Resort-Maldives-Water-Sports.webp",
+    "Medhufushi-Island-Resort-Maldives-Water-Villa.webp",
+    "Medhufushi-Island-Resort-Maldives-Water-Villa1.webp",
+    "Medhufushi-Island-Resort-Maldives.webp",
+    "Medhufushi-Island-Resort-Meemu-Atoll.webp",
+    "Medhufushi-Island-Resort.webp",
+    "Medhufushi-Island-ResortMaldives-map.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

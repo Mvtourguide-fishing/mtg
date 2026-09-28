@@ -1,0 +1,85 @@
+{
+  "folder": "kuda-Villingili",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/kuda-Villingili/kuda-Villingili-Resort-Maldives.html",
+  "legacyTitle": "Kuda Villingili Maldives Resort",
+  "legacyH1": "Kuda Villingili Resort Maldives",
+  "metaDescription": "Kuda Villingili Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "8902D6Z2FQo",
+  "descriptionParagraphs": [
+    "Kuda Villingili Resort Maldives is a private island that redefines time and space. Whether guests are travelling as a couple, family, group of friends, or alone, Kuda Villingili is a slice of paradise where everyone is welcome. The resort's emphasis on time and space, which balances togetherness and inclusion with solitude and independence, allows guests to enjoy a personalised experience, making each voyage unique.",
+    "This tropical refuge on the pearl white beach is encircled by thick trees. The Deluxe Haven villa's rustic wood furnishings are accented with stone features that shimmer in the sunlight. Relax on the beachside terrace or relax in a warm bath with uninterrupted ocean views.",
+    "The beach is right outside the door of this beachfront property with a private pool. Relax in an essential oil bath before laying out on the king-sized bed made of the finest Egyptian cotton and gazing out over the Maldivian sea.",
+    "Wake awake to the sound of the ocean waves in one of KudaVillingili's oceanfront villas. The villas facing the turquoise sea include king-sized bedrooms, big bathrooms, covered dining patios with views of the horizon, and vast living areas with windows that enable the ocean breeze to flow in and out.",
+    "The resort offers a range of lodging options, making it ideal for lone travellers, couples, families, and groups of friends. The fascinating beauty of the Maldives inspired all 59 beach villas and 36 water villas.",
+    "The Kuda Villingili is located in North Malé Atoll and is only a 30-minute speedboat trip from Velana International Airport (MLE), ensuring a convenient, pleasant, and quick travel."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Haven With Patio",
+      "price": 1700,
+      "priceInclTax": 1749,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/kuda-Villingili/images/Kuda-Villingili-Resort-Maldives-Deluxe-Haven-Patio.webp"
+      ]
+    },
+    {
+      "name": "Beach Villa Pool",
+      "price": 2900,
+      "priceInclTax": 2963,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/kuda-Villingili/images/Kuda-Villingili-Resort-Maldives-Beach-Villa-Pool.webp",
+        "/resorts/kuda-Villingili/images/Kuda-Villingili-Resort-Maldives-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1850,
+      "priceInclTax": 1907,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/kuda-Villingili/images/Kuda-Villingili-Resort-Maldives-Water-Villa.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/kuda-Villingili/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Kuda-Villingili-Resort-Maldives-Beach-Villa-Pool.webp",
+    "Kuda-Villingili-Resort-Maldives-Beach-Villa-Pool1.webp",
+    "Kuda-Villingili-Resort-Maldives-Beach.webp",
+    "Kuda-Villingili-Resort-Maldives-Deluxe-Haven-Patio.webp",
+    "Kuda-Villingili-Resort-Maldives-Gym.webp",
+    "Kuda-Villingili-Resort-Maldives-Hotel.webp",
+    "Kuda-Villingili-Resort-Maldives-Luxury-Hotel.webp",
+    "Kuda-Villingili-Resort-Maldives-Male-Atoll.webp",
+    "Kuda-Villingili-Resort-Maldives-Pool-Male-Atoll.webp",
+    "Kuda-Villingili-Resort-Maldives-Pool.webp",
+    "Kuda-Villingili-Resort-Maldives-Spa.webp",
+    "Kuda-Villingili-Resort-Maldives-Water-Sports.webp",
+    "Kuda-Villingili-Resort-Maldives-Water-Villa.webp",
+    "Kuda-Villingili-Resort-Maldives-Yoga.webp",
+    "Kuda-Villingili-Resort-Maldives.webp",
+    "kuda-Villingili-Resort-Maldives-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

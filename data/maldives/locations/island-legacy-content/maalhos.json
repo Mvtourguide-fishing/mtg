@@ -1,0 +1,24 @@
+{
+  "slug": "maalhos",
+  "mtgTitle": "Maalhos",
+  "atollSlug": "baa",
+  "atollTitle": "Baa Atoll",
+  "sourceFile": "atolls/baa-atoll/baa-maalhos-island-maldives.html",
+  "legacyTitle": "Maalhos Island | Baa Atoll, Maldives - Authentic Island Experience",
+  "legacyH1": "Maalhos Island",
+  "heroSummary": null,
+  "quickFacts": [],
+  "sections": [],
+  "faqs": [
+    {
+      "question": "How do I get to Maalhos Island?",
+      "answer": "The most convenient way to reach Maalhos is by domestic flight from Male to Dharavandhoo Airport (30 minutes), followed by a 25-minute speedboat transfer. Public ferry service operates weekly from Male (approximately 9 hours journey time)."
+    },
+    {
+      "question": "What is the best time to visit Maalhos Island?",
+      "answer": "The best time to visit Maalhos Island is during the northeast monsoon season (December to April), which brings dry, sunny weather with lower humidity and calmer seas."
+    }
+  ],
+  "nearbyIslandMentions": [],
+  "images": []
+}

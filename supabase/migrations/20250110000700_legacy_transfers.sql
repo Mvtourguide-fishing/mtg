@@ -1,0 +1,11 @@
+-- Task 15: legacy transfer pages migrated into the existing transfer_routes/
+-- transfer_services architecture (Task 10 - no new schema).
+-- GENERATED FILE - do not hand-edit. Regenerate with:
+--   node scripts/import-legacy-transfers.mjs --commit
+-- Source: data/maldives/content/transfer-migration-report.json (status=ready).
+--
+-- Every route here is a genuinely NEW destination not already covered by
+-- Task 10's own routes.json seed (see ALREADY_COVERED_DESTINATION_SLUGS in
+-- scripts/import-legacy-transfers.mjs) - this migration never creates a second
+-- route for an already-live (origin, destination) pair.
+

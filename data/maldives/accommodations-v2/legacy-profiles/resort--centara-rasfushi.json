@@ -1,0 +1,89 @@
+{
+  "folder": "centara-rasfushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/centara-rasfushi/centara-rasfushi-maldives.html",
+  "legacyTitle": "Centara Rasfushi Island Resort Maldives",
+  "legacyH1": "Centara Rasfushi Island Resort Maldives",
+  "metaDescription": "Centara ras fushi island is a resort located in Male atoll Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "F1a21IInpQ4",
+  "descriptionParagraphs": [
+    "Centara Ras Fushi Resort & Spa is an adult-only resort that provides a relaxing and inspiring vacation experience, as well as ample opportunities to indulge, play, and rejuvenate at the excellent well-being area and numerous restaurants and bars. These 140 luxury villas of Centara Ras Fushi Resort & Spa are built as adults-only accommodation and fit harmoniously with the island's green interior and white powdery beaches. Using flowing and natural architectural forms and a minimalist decor, these villas are designed to immerse you in total serenity and enjoy breathtaking ocean vistas. Only two adults are allowed in each villa."
+  ],
+  "rooms": [
+    {
+      "name": "Oceanfront Beach Villa",
+      "price": 208,
+      "priceInclTax": 260,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 2,
+      "images": [
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-beach-villa.webp",
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-beach-villa2.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Oceanfront Beach Villa",
+      "price": 292,
+      "priceInclTax": 365,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-deluxe-beach-villa.webp",
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-deluxe-beach-villa2.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Water Villa",
+      "price": 364,
+      "priceInclTax": 455,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-deluxe-water-villa.webp",
+        "/resorts/centara-rasfushi/images/centara-rasfushi-island-deluxe-water-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/centara-rasfushi/images",
+  "imageCount": 23,
+  "imageFiles": [
+    "centara-maldives-resort.jpg",
+    "centara-maldives-resort.webp",
+    "centara-rasfushi-island-beach-villa.webp",
+    "centara-rasfushi-island-beach-villa2.webp",
+    "centara-rasfushi-island-deluxe-beach-villa.webp",
+    "centara-rasfushi-island-deluxe-beach-villa2.webp",
+    "centara-rasfushi-island-deluxe-spa-water-villa.webp",
+    "centara-rasfushi-island-deluxe-spa-water-villa2.webp",
+    "centara-rasfushi-island-deluxe-sunset-water-villa.webp",
+    "centara-rasfushi-island-deluxe-sunset-water-villa2.webp",
+    "centara-rasfushi-island-deluxe-water-villa.webp",
+    "centara-rasfushi-island-deluxe-water-villa1.webp",
+    "centara-rasfushi-island-maldives.webp",
+    "centara-rasfushi-island-premium-deluxe-spa-water-villa.webp",
+    "centara-rasfushi-island-premium-deluxe-spa-water-villa2.webp",
+    "centara-rasfushi-island-resort.webp",
+    "centara-rasfushi-island.webp",
+    "centara-rasfushi-maldives.webp",
+    "centara-rasfushi-map.jpg",
+    "centara-rasfushi-map.webp",
+    "centara-rasfushi-resort.webp",
+    "centara-rasfushi.webp",
+    "maldives-resort-centara-rasfushi.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

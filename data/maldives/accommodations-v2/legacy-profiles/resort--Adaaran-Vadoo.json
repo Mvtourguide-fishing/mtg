@@ -1,0 +1,68 @@
+{
+  "folder": "Adaaran-Vadoo",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-Maldives.html",
+  "legacyTitle": "Adaaran Prestige Vadoo Island Resort Maldives",
+  "legacyH1": "Adaaran Prestige Vadoo Island Resort Maldives",
+  "metaDescription": "Adaaran Prestige Vadoo Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Vadoo",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "-diTGI7I0PI",
+  "descriptionParagraphs": [
+    "Adaaran Prestige Vadoo is a premium Maldives Island resort that was named the World's Leading Water Villa Retreat at the World Travel Awards in 2010. Only the mesmerising lushness of the surroundings can equal the list of luxuries that await you at our Maldives Island resort.",
+    "Note: This hotel has different rates for diferrent season and this may not be the updated rates as we do not use Hotel PMS software.",
+    "Adaaran Prestige Vadoo is a luxury resort in the Maldives with 50 water villas, six of which are inspired by classic Japanese design and embody the distinctive Nihon values of elegant simplicity blended with controlled grandeur. Each house is perched on blue waves, providing unrivalled access to the huge Indian Ocean.",
+    "Sun, sand, and surf are some of the most prized features of a Maldives vacation, and the lovely island of Vadoo does not disappoint with immaculate beaches and shimmering waters beneath the radiance of exquisite tropical sky. Adaaran Prestige Vadoo is easily accessible by speedboat from the international airport, with the quick water voyage taking only 15 minutes in a picturesque southerly direction."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Jacuzzi Water Villa",
+      "price": 620,
+      "priceInclTax": 677,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Adaaran-Vadoo/images/Adaaran-Prestige-Vadoo-Maldives-Water-villa.webp",
+        "/resorts/Adaaran-Vadoo/images/Adaaran-Prestige-Vadoo-Maldives-Water-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Adaaran-Vadoo/images",
+  "imageCount": 23,
+  "imageFiles": [
+    "Adaaran-Prestige-Vadoo-Island.jpg",
+    "Adaaran-Prestige-Vadoo-Island.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Beach.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Beach.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Resort.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Resort.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Spa.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-Spa.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-map.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-pool.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Island-pool.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Island.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Island.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Resort.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Resort.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Water-villa.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Water-villa.webp",
+    "Adaaran-Prestige-Vadoo-Maldives-Water-villa1.jpg",
+    "Adaaran-Prestige-Vadoo-Maldives-Water-villa1.webp",
+    "Adaaran-Vadoo-Maldives-Island.jpg",
+    "Adaaran-Vadoo-Maldives-Island.webp",
+    "Maldives-Island-Adaaran-Prestige-Vadoo.jpg",
+    "Maldives-Island-Adaaran-Prestige-Vadoo.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

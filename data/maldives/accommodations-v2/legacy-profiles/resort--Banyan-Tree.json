@@ -1,0 +1,61 @@
+{
+  "folder": "Banyan-Tree",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Banyan-Tree/Banyan-Tree-Vabbinfaru-Maldives.html",
+  "legacyTitle": "Banyan Tree Vabbinfaru Island Resort Maldives",
+  "legacyH1": "Banyan Tree Vabbinfaru Island Resort Maldives",
+  "metaDescription": "Banyan Tree Vabbinfaru Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "j1sbqolKVj4",
+  "descriptionParagraphs": [
+    "Step into a barefoot luxury tropical paradise where the sea meets the sky. Be enchanted by the all-natural beauty of Banyan Tree Vabbinfaru, set in the heart of North Male' Atoll, just a 20-minute speedboat trip from Velana International Airport.",
+    "Relax at the all-pool villas on this gorgeous island, which are set among swaying palm trees. Explore the colourful underwater world of the Maldives and the Indian Ocean on a luxury Catamaran. Set off on a delectable gastronomic adventure that will make your heart sing. Time-honored Asian-inspired therapies at the award-winning Banyan Tree Spa round off a completely refreshing vacation.",
+    "48 beautiful villas are set on a coral atoll in the Indian Ocean, surrounded by a white powdery beach. Banyan Tree Vabbinfaru villas all include one bedroom, an open patio, a manicured garden, and a private sundeck.",
+    "Banyan Tree Vabbinfaru is located in North Male' Atoll, a 35-minute speedboat ride from Velana International Airport.",
+    "At the informal seaside Ilaafathi, where indigenous food is presented alongside worldwide favourites, indulge in unhurried gastronomic delights with barefoot eating. Naiboli Bar features breathtaking sunsets, delightful drinks, and Bodu Beru nights of energising dance performances.",
+    "Destination Dining is a one-of-a-kind experience that even the most seasoned traveller should enjoy. A private table accentuated with romantic accents, an expansive view of the Indian Ocean before you, and a star-filled sky overhead combine to provide a private dinner experience in Maldives to remember."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 980,
+      "priceInclTax": 1020,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Banyan-Tree/images/Banyan-Tree-Vabbinfaru-Maldives-beach-pool-villa.webp",
+        "/resorts/Banyan-Tree/images/Banyan-Tree-Vabbinfaru-Maldives-beach-pool-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Banyan-Tree/images",
+  "imageCount": 12,
+  "imageFiles": [
+    "Banyan-Tree-Vabbinfarru.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-Resort-Beach.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-Resort-Dinner.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-Resort-Spa.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-Resort-wedding-Events.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-Resort.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island-map.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-Island.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-beach-pool-villa.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives-beach-pool-villa1.webp",
+    "Banyan-Tree-Vabbinfaru-Maldives.webp",
+    "Maldives-Island-Banyan-Tree-Vabbinfaru.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

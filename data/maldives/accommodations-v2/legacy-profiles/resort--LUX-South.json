@@ -1,0 +1,89 @@
+{
+  "folder": "LUX-South",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/LUX-South/LUX-South-Ari-Atoll-Maldives.html",
+  "legacyTitle": "LUX* South Ari Atoll Resorts Maldives Island",
+  "legacyH1": "LUX* South Ari Atoll Resorts Maldives Island",
+  "metaDescription": "LUX* South Resorts Maldives Island is a resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Dhidhoofinolhu",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "0wkm-EuG-Aw",
+  "descriptionParagraphs": [
+    "The Maldives is one of those destinations that keeps appearing on travellers' wish lists. And not without cause. If you've ever dreamt of living like Robinson Crusoe on a remote tropical island, you've come to the correct spot. At LUX* South Ari Atoll, you can ride your bicycle along the jetty, swim with whale sharks, relax in your stilted bungalow, dine at any of the eight restaurants, dance the night away, and participate in marine conservation... Whatever you're looking for, you'll find it at LUX* South Ari Atoll.",
+    "You couldn't get much closer to the shore if you tried. Our thatched-roof beach pavilion is as stylish as they come. There is the option of interconnecting rooms, making this a good choice for families with small children or friends who enjoy going on double dates.",
+    "If picture-perfect vacations are your goal, you'll enjoy our elegant beach home. A seaside house. The most beautiful private pool. Amenities tailored to the needs of the leisure tourist. The most romantic indoor-outdoor bathroom imaginable. Welcome to your Maldives home.",
+    "As hoteliers who like travelling, we understand the value of a good night's sleep. It's the nicest feeling to having a home away from home. Our Maldives water villa is that house, but on stilts with the Indian Ocean as your pool!",
+    "At LUX* South Ari Atoll, 193 private villas are scattered over two miles of powder fine beaches and situated on stilts above a beautiful lagoon. These incredibly big rooms and suites provide a totally unique atmosphere of coastal, beach house flair to the Maldives, whether on land or above water, sunset facing or dawn facing.",
+    "The picture-perfect island of Dhidhoofinolhu is home to LUX* South Ari Atoll, a luxury resort where your ideal of a laid-back, desert island paradise is about to come true, whether you desire a calm getaway or active adventure. This home is also in one of Maamigili's prime locations. South Ari Atoll is 30 minutes by seaplane from Malé International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pavillion",
+      "price": 600,
+      "priceInclTax": 688,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pavillion.webp",
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pavillion1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1100,
+      "priceInclTax": 1131,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pool-Villa.webp",
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 1000,
+      "priceInclTax": 1010,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Water-Villa.webp",
+        "/resorts/LUX-South/images/LUX-South-Ari-Atoll-Resorts-and-Villas-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/LUX-South/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "LUX-South-Ari-Atoll-Maldives-Island-map.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Activities.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pavillion.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pavillion1.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pool-Villa.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Beach-Pool-Villa1.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Beach.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Dhidhoofinolhu.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Dinning.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Excursions-Dhidhoofinolhu.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Excursions.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Pool.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Water-Villa.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas-Water-Villa1.webp",
+    "LUX-South-Ari-Atoll-Resorts-and-Villas.webp",
+    "LUX-South-Ari-Atoll-Resorts.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

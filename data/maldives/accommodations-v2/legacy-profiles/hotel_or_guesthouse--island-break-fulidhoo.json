@@ -1,0 +1,116 @@
+{
+  "folder": "island-break-fulidhoo",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/island-break-fulidhoo/island-break-hotel-fulidhoo.html",
+  "legacyTitle": "Island Break Guest House/Hotel in Fulidhoo Maldives",
+  "legacyH1": "Island Break Fulidhoo Maldives",
+  "metaDescription": "Island break guest house is a hotel opened in local island in fulidhoo-vaavu atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "OurHotel is located in vaavu atoll Fulidhoo. Located 1 hour away from the Male international airport.The hotel is owned and run by 3 three young enthusiastic brothers. The Hotel islocated at the east end of the island, Which give our guest maximum privacy from the locals.The hotel is featuredwith an onsite restaurant, our restaurant is set up to provide an expectational service and quality food to our clients. Where they got to eat daily fresh Catchor seafood platters and so on, Our hotel consists of 7 Rooms and also providing an expectational day out activities like, Swimming with dolphins, mantas, Snorkeling withturtle, Snorkeling with Nurse Sharks and other snorkeling points, Day out tosandbanks, Visiting Ship Wrack."
+  ],
+  "rooms": [
+    {
+      "name": "Ground Room",
+      "price": 65,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room11.webp",
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room12.webp"
+      ]
+    },
+    {
+      "name": "Luxury Coconut Suit with Balcony",
+      "price": 75,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room21.webp",
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room22.webp"
+      ]
+    },
+    {
+      "name": "Luxury Coconut Suit Triple Room with Balcony",
+      "price": 85,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "Triple",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room51.webp",
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room52.webp"
+      ]
+    },
+    {
+      "name": "Luxury Coconut Suit with Balcony Twin Room",
+      "price": 75,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room71.webp",
+        "/hotels/island-break-fulidhoo/images/island-break-maldives-room72.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/island-break-fulidhoo/images",
+  "imageCount": 40,
+  "imageFiles": [
+    "island-break-fulidhoo.JPG",
+    "island-break-fulidhoo.webp",
+    "island-break-fulidhoo1.JPG",
+    "island-break-fulidhoo1.webp",
+    "island-break-guest-house.webp",
+    "island-break-hotel.webp",
+    "island-break-maldives-room.webp",
+    "island-break-maldives-room11.jpg",
+    "island-break-maldives-room11.webp",
+    "island-break-maldives-room12.webp",
+    "island-break-maldives-room13.webp",
+    "island-break-maldives-room14.webp",
+    "island-break-maldives-room21.jpg",
+    "island-break-maldives-room21.webp",
+    "island-break-maldives-room22.webp",
+    "island-break-maldives-room23.jpg",
+    "island-break-maldives-room23.webp",
+    "island-break-maldives-room24.webp",
+    "island-break-maldives-room31.webp",
+    "island-break-maldives-room32.webp",
+    "island-break-maldives-room33.webp",
+    "island-break-maldives-room34.webp",
+    "island-break-maldives-room41.webp",
+    "island-break-maldives-room42.webp",
+    "island-break-maldives-room43.webp",
+    "island-break-maldives-room51.jpg",
+    "island-break-maldives-room51.webp",
+    "island-break-maldives-room52.webp",
+    "island-break-maldives-room53.webp",
+    "island-break-maldives-room61.webp",
+    "island-break-maldives-room62.webp",
+    "island-break-maldives-room63.webp",
+    "island-break-maldives-room64.webp",
+    "island-break-maldives-room71.jpg",
+    "island-break-maldives-room71.webp",
+    "island-break-maldives-room72.webp",
+    "island-break-maldives-room73.webp",
+    "island-break-maldives-room74.webp",
+    "island-break-maldives.webp",
+    "island-break-map.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,90 @@
+{
+  "folder": "Noku",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Noku/Noku-Maldives.html",
+  "legacyTitle": "Noku Maldives Island Resort",
+  "legacyH1": "Noku Maldives Island Resort",
+  "metaDescription": "Noku Maldives Island is a five star resort located in Noonu Atoll, Maldives",
+  "metaAtollCodes": [
+    "N"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "N"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Kuda-Funafaru",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "LRyhlGZy_q0",
+  "descriptionParagraphs": [
+    "Twenty beach villas and 30 over-water villas are nestled among lush tropical flora and surrounded by a tranquil blue lagoon. Each spacious unit is intended to give maximum seclusion and is outfitted with modern conveniences to ensure comfort. Each villa's subtle elegance, with gentle white colours and dark wood accents, complements the splendour of nature as viewed via huge bay windows and french doors.",
+    "Each of the contemporary Beach Villas is large and stylishly constructed to capture natural light and amazing views of the Indian Ocean, and is surrounded by lush tropical foliage. Enjoy a visual delight of a Maldivian sunrise or sunset from the direct beach access and spacious sundeck.",
+    "Wake up to a stunning dawn through the gentle white tones of this one-bedroom villa, or from the expansive sundeck with a private plunge pool. Enjoy cleaning routines in the outdoor rain shower, indoor shower, or standalone bathtub.",
+    "This magnificent one-bedroom house positioned immediately above the turquoise lagoon, facing South East, offers unrivalled views of the Indian Ocean. A spacious sundeck captures the spectacular dawn and gives direct access to the water below. There are indoor and outdoor showers as well as a standalone bathtub for further relaxation.",
+    "The resort has been elegantly renovated using sustainable materials, selected hand-made design items, and attention to detail on the island of Kuda-Funafaru in Noonu Atoll, 189 kilometres from Velana International Airport. The island is 750 metres long and 250 metres wide, making it the ideal size for relaxing in tropical tranquillity.",
+    "From locally grown vegetables with a Maldivian twist to international cuisine such as Japanese, Singaporean, and Thai, there is something for everyone. Our menu selection at Thari Restaurant, which includes components of Maldivian, Thai, Japanese, and Singaporean cuisines, will give you a flavorful sense of the nations where our Noku hotels are located."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 800,
+      "priceInclTax": 851,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Beach-Villa.webp",
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1000,
+      "priceInclTax": 1010,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Beach-Pool-Villa.webp",
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 850,
+      "priceInclTax": 904,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Water-Villa.webp",
+        "/resorts/Noku/images/Noku-Maldives-Kudafunfaru-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Noku/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Noku-Maldives-Island-Resort.webp",
+    "Noku-Maldives-Island-map.webp",
+    "Noku-Maldives-Kudafunfaru-Activities.webp",
+    "Noku-Maldives-Kudafunfaru-Beach-Pool-Villa.webp",
+    "Noku-Maldives-Kudafunfaru-Beach-Pool-Villa1.webp",
+    "Noku-Maldives-Kudafunfaru-Beach-Villa.webp",
+    "Noku-Maldives-Kudafunfaru-Beach-Villa1.webp",
+    "Noku-Maldives-Kudafunfaru-Island-Resort.webp",
+    "Noku-Maldives-Kudafunfaru-Island.webp",
+    "Noku-Maldives-Kudafunfaru-Pool-Noonu-Atoll.webp",
+    "Noku-Maldives-Kudafunfaru-Pool.webp",
+    "Noku-Maldives-Kudafunfaru-Room.webp",
+    "Noku-Maldives-Kudafunfaru-Water-Villa.webp",
+    "Noku-Maldives-Kudafunfaru-Water-Villa1.webp",
+    "Noku-Maldives-Kudafunfaru.webp",
+    "Noku-Maldives-Noonu-Atoll.webp",
+    "Noku-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "N"
+}

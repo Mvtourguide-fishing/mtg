@@ -1,0 +1,90 @@
+{
+  "folder": "Kandolhu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Kandolhu/Kandolhu-Maldives.html",
+  "legacyTitle": "Kandolhu Maldives Island Resort",
+  "legacyH1": "Kandolhu Maldives Island Resort",
+  "metaDescription": "Kandolhu Maldives Island is a resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "uvRrBgIp_1I",
+  "descriptionParagraphs": [
+    "An island as neatly constructed as Kandolhu is unusual even in the Maldives. The island is beautiful, with vast sandy beaches surrounding the emerald green water, and it is home to one of the Maldives' most colourful and dynamic house reefs. Kandolhu is an amazing Maldives resort with just 30 villas that flawlessly integrate natural Maldivian elements with modern architecture and creature-comforts, creating an experience that will stay with you forever.",
+    "These one-of-a-kind Maldives beach villas on Kandolhu's western coastlines have a king bed and a big open air garden bathroom with a jetted bathtub, shower, and twin vanity. A second outdoor shower has been installed in the backyard. The front veranda has a comfortable daybed and an eating area, while the neighbouring sundeck has sun loungers and a sun umbrella.",
+    "The magnificent Pool Villa, which faces east, has a spacious bedroom with a king-sized bed overlooking the pool and the turquoise lagoon beyond. Enter the big open air bathroom through the expansive wardrobe, which has a freestanding bath, shower, dual vanity, and an outside garden shower. These Maldives luxury homes have wide verandas with an outdoor daybed. Each outside deck features a 9-square-meter pool, sun loungers, a sun shade, and an eating area.",
+    "This exquisite seaside villa in the Maldives is located above the water and has A huge bedroom with a king bed, a daybed, and views of the ocean. This luxurious villa's bathroom overlooks the lagoon and features a jetted bathtub, dual vanity, shower, and dressing space. The sun terrace is secluded and equipped with sun loungers, a sun umbrella, and stairs leading down to the water.",
+    "Kandolhu Maldives has 30 villas in 5 different designs, each with its own unique design. All homes have Maldivian architecture with contemporary decor. They are all in outstanding sites, having either immediate beach access or unobstructed views of the Indian Ocean.",
+    "Kandolhu Maldives is 70 kilometres from Velana International Airport and can be accessed by a 20-minute seaplane flight followed by a 15-minute speedboat ride."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 700,
+      "priceInclTax": 756,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Beach-Villa.webp",
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 948,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Villa",
+      "price": 1100,
+      "priceInclTax": 1140,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Ocean-Villa.webp",
+        "/resorts/Kandolhu/images/Kandolhu-Maldives-Island-Resort-Ocean-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Kandolhu/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Kandolhu-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+    "Kandolhu-Maldives-Island-Resort-Beach-Pool-Villa1.webp",
+    "Kandolhu-Maldives-Island-Resort-Beach-Villa.webp",
+    "Kandolhu-Maldives-Island-Resort-Beach-Villa1.webp",
+    "Kandolhu-Maldives-Island-Resort-Beach.webp",
+    "Kandolhu-Maldives-Island-Resort-Dinner.webp",
+    "Kandolhu-Maldives-Island-Resort-Liabrary.webp",
+    "Kandolhu-Maldives-Island-Resort-North-Ari-Atoll.webp",
+    "Kandolhu-Maldives-Island-Resort-Ocean-Villa.webp",
+    "Kandolhu-Maldives-Island-Resort-Ocean-Villa1.webp",
+    "Kandolhu-Maldives-Island-Resort-Restaurant.webp",
+    "Kandolhu-Maldives-Island-Resort-Sandbank-North-Ari-Atoll.webp",
+    "Kandolhu-Maldives-Island-Resort-Sandbank.webp",
+    "Kandolhu-Maldives-Island-Resort-Snorkeling.webp",
+    "Kandolhu-Maldives-Island-Resort-Spa.webp",
+    "Kandolhu-Maldives-Island-Resort.webp",
+    "Kandolhu-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

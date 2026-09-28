@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Sunset Fishing Trip",
+    "fishing_type": "handline_fishing",
+    "island_name": "Maafushi",
+    "atoll_administrative_code": "K",
+    "operator_name": "Active Watersports Maafushi",
+    "duration_minutes": 180,
+    "price_from": 30,
+    "max_participants": null,
+    "notes": "Source: activemaldives.com/sunset-fishing (operator's own page, real Maafushi-based water-sports operator already in providers.json). Described as 'deep-sea line fishing', a traditional Maldivian method using a reel, line, hook and bait taught to guests with no experience required; classified here as handline_fishing. $30/person, 3 hours (180 min), includes fishing gear, mineral water and life jackets; catch is prepared and served for dinner afterward. Distinct from the operator's separate 'Sport Fishing' product (see next entry)."
+  },
+  {
+    "name": "Private Sport Fishing Trip",
+    "fishing_type": "sport_fishing",
+    "island_name": "Maafushi",
+    "atoll_administrative_code": "K",
+    "operator_name": "Active Watersports Maafushi",
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: activemaldives.com/sport-fishing (operator's own page). A private speedboat sport-fishing trip run by the same operator as the Sunset Fishing Trip, marketed separately from the deep-sea line/sunset product and described only in general terms ('99% catch rate', soft drinks and snacks included). Duration given only as a '4-5 hour' range for 1 person, not a single confirmed figure, so left null rather than picking an endpoint. Price not surfaced in snippets reviewed (a dedicated price-list page exists on the operator's site but its figures were not returned by search); left null."
+  },
+  {
+    "name": "Sunset Fishing Trip",
+    "fishing_type": null,
+    "island_name": "Maafushi",
+    "atoll_administrative_code": "K",
+    "operator_name": "Kaani Hotels",
+    "duration_minutes": null,
+    "price_from": 25,
+    "max_participants": null,
+    "notes": "Source: Tripadvisor reviews and listing for 'Kaani Tours' (Maafushi Island) — the same excursion arm of the Kaani Hotels group already used as operator_name 'Kaani Hotels' in data/maldives/activities/activities.json, per that file's SOURCES.md reasoning. Multiple review summaries state sunset fishing is priced at $25/person, with staff assisting guests and the catch prepared for dinner at the hotel restaurant. A separate figure of $30/person appears in one summary attached to a 'full day excursion' rather than specifically to fishing, so $25 (the figure repeated specifically for 'sunset fishing') was used; fishing_type left null since no source specified handline vs. another method for this specific operator's trip. Carries the same brand-level (not registered-company-confirmed) caveat already flagged for 'Kaani Hotels' in accommodations/SOURCES.md."
+  },
+  {
+    "name": "Night Fishing Trip",
+    "fishing_type": "night_fishing",
+    "island_name": "Maafushi",
+    "atoll_administrative_code": "K",
+    "operator_name": "iCom Tours",
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: icomtours.com (operator's own excursions list, which names 'night fishing' among its offerings alongside sunset cruising, dolphin watching and sandbank picnics) and multiple Tripadvisor reviews for 'iCom Tours' / 'iCom Tours - Private Day Tours' (Maafushi Island) praising its night fishing trips specifically. iCom Tours is the same real, well-reviewed Maafushi operator already used in data/maldives/activities/activities.json. Price and duration not found in snippets reviewed; left null."
+  },
+  {
+    "name": "Marlin & Big Game Fishing Charter",
+    "fishing_type": "big_game_fishing",
+    "island_name": "Hulhumalé",
+    "atoll_administrative_code": "MLE",
+    "operator_name": "Knight At Sea",
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": 4,
+    "notes": "Source: fishingbooker.com charter listing for 'Knight At Sea' (Hulhumalé-based, Captain Hussain) and a corroborating Tom's Catch listing ('Marlin Fishing in Maldives Aboard Knight At Sea with Captain Hussain'). A real sportfishing charter run on a 27-foot center-console boat with space for 4 passengers (recorded as max_participants, i.e. boat capacity rather than a separately stated activity cap), trolling and bottom fishing for Wahoo, Giant Trevally, Yellowfin Tuna and similar species, with spearfishing also offered. A marlin-fishing package price was quoted at approximately EUR 1,361, but since the schema requires a confidently-verified USD figure and this price is in euros (and covers a specific multi-inclusion package, not a base per-trip rate), price_from was left null rather than converted/guessed. Hulhumalé is administratively part of Malé City (code MLE per locations/islands.json), not Kaafu Atoll, even though it sits geographically within North Malé Atoll."
+  },
+  {
+    "name": "Sunset Reef Fishing",
+    "fishing_type": "reef_fishing",
+    "island_name": "Vihamanaafushi",
+    "atoll_administrative_code": "K",
+    "operator_name": "Universal Resorts",
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: Kurumba Maldives excursions factsheet PDF (kurumba.com/wp-content/uploads/.../Excursions_Factsheet_...pdf) and HolidayVibe Maldives' Kurumba Maldives excursions page (holiday.com.mv/maldives-excursions/resort-excursions/kurumba-maldives-excursions/), which list 'Sunset Reef Fishing' and 'Sports Fishing' as two separate bookable excursions alongside dolphin cruises, sandbank picnics and glass-bottom-boat tours. Only 'Sunset Reef Fishing' was added here (as the more locally-distinctive/named product) to avoid over-representing this one resort island, consistent with how other Kurumba excursions were selected in data/maldives/activities/SOURCES.md. This is a second, distinct fishing product at the same resort island as the existing 'Sandbank Picnic'/'Malé Guided Tour'/'Sunset Dolphin Cruise' activities.json entries, all under operator 'Universal Resorts'. Price and duration not found in snippets reviewed; left null."
+  },
+  {
+    "name": "Big Game Fishing Trip",
+    "fishing_type": "big_game_fishing",
+    "island_name": "Velassaru",
+    "atoll_administrative_code": "K",
+    "operator_name": "Universal Resorts",
+    "duration_minutes": 240,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: Velassaru Maldives' own watersports/fishing team page ('Immersion, Glide & Wetlab at Velassaru Maldives', facebook.com/ImmersionVelassaru) and corroborating aMaldives/ZuBlu coverage of Velassaru's activity offering. Big Game Fishing is described as running from 5:30 to 9:30 (i.e. an early-morning 4-hour / 240-minute trip), distinct from the resort's existing 'Night Fishing Excursion' already in data/maldives/activities/activities.json (both run through the same Immersion Dive and Watersports Centre, operator 'Universal Resorts'). Price not found in snippets reviewed; left null."
+  },
+  {
+    "name": "Big Game Fishing Trip",
+    "fishing_type": "big_game_fishing",
+    "island_name": "Lankanfushi",
+    "atoll_administrative_code": "K",
+    "operator_name": null,
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: gili-lankanfushi.com/experience/excursions (resort's own guided-excursions page), which lists big-game fishing for tuna and billfish among its excursions, run using the resort's 14-metre Riviera yacht, alongside dolphin cruises and island picnics; corroborated by guest-review mentions of catching wahoo and yellowfin tuna on the resort's fishing trip. Gili Lankanfushi's own operator/management company is already left null in accommodations.json due to conflicting information (recent press describing an independent resort with no named parent vs. an older, unconfirmed 'HPL Hotels & Resorts' headline), and no separate named watersports/excursions company (distinct from the resort itself) was found for this trip, so operator_name is left null here too rather than guessed. Price and duration not found; left null."
+  },
+  {
+    "name": "Fishing is a Family Matter",
+    "fishing_type": "traditional_fishing",
+    "island_name": "Kunfunadhoo",
+    "atoll_administrative_code": "B",
+    "operator_name": "Soneva Management (BVI) Limited",
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: soneva.com's own Signature Experiences page for Soneva Fushi (soneva.com/resorts/soneva-fushi/experiences/). A named, real signature excursion where guests fish alongside local Maldivian fisherman 'Rocket' and his family using traditional/sustainable methods; the experience begins at 17:30 with the catch prepared (using the fisherman's wife's marinade recipe) and served as dinner at 19:30. Because that 17:30-19:30 window spans both the fishing itself and the dinner service rather than fishing time alone, duration_minutes was left null rather than computed from those two timestamps. Price not found in snippets reviewed; left null. This is a distinct product from Soneva Fushi's existing 'Sunset Dolphin Cruise'/'Soneva Soul' activities.json entries, same operator."
+  },
+  {
+    "name": "Golden Reel Adventure",
+    "fishing_type": null,
+    "island_name": "Baros",
+    "atoll_administrative_code": "K",
+    "operator_name": null,
+    "duration_minutes": null,
+    "price_from": null,
+    "max_participants": null,
+    "notes": "Source: baros.com/experiences/excursions (resort's own excursions page). A named, real 4-5 hour excursion exploring five distinct traditional Maldivian fishing techniques aboard an authentic dhoni; the same page also separately lists plain 'Traditional Hand-Line Fishing' and 'Sunrise/Sunset Fishing Trips' as simpler options, but the named, most distinctive product ('Golden Reel Adventure') was recorded here to avoid padding near-duplicate listings from the same page, consistent with how other resort excursion pages were sampled elsewhere in this dataset. Because it explicitly spans multiple fishing techniques rather than one, fishing_type was left null rather than forcing a single value. operator_name left null: the resort's own dive/water-sports identity 'Divers Baros Maldives' (already used for the existing 'Guided Reef Dive' activities.json entry) is described on baros.com primarily in a diving/water-sports context (baros.com/divers-baros-maldives/water-sports), while this excursion is listed on a separate, general baros.com/experiences/excursions page without a named operating company, so attributing it to Divers Baros Maldives would not be confidently verified. Baros Maldives' own accommodation-level operator is likewise already null in accommodations.json due to no confirmed parent company. Duration given only as a '4-5 hour' range, not a single confirmed figure, so left null."
+  }
+]

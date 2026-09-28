@@ -1,0 +1,77 @@
+{
+  "folder": "Vilamendhoo-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Vilamendhoo-Island/Vilamendhoo-Island-Resort-Maldives.html",
+  "legacyTitle": "Vilamendhoo Island Resort & Spa Maldives",
+  "legacyH1": "Vilamendhoo Island Resort & Spa Maldives",
+  "metaDescription": "Vilamendhoo Island Resort & Spa Maldives is a five star resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "vBYLNZEdaYI",
+  "descriptionParagraphs": [
+    "Your vacation journey begins at Vilamendhoo Island Resort & Spa, located in the South Ari Atoll and following the Maldives' famed 'One Island, One Resort' idea. This island is around 55 acres in size, 900 metres long by 250 metres broad, and is encircled by a stunning house reef a short swim away from the large sandy beach. Vilamendhoo is the ultimate diving and snorkelling adventure.",
+    "Garden Rooms are situated in the natural island gardens, each with its own privacy screen. This tropical lodging provides leisure and comfort in between fun-filled island experiences. These accommodations provide convenient access to the island's services, including the main restaurant and bar.",
+    "Extend your love of the sea to your vacation living area by booking the Jacuzzi Water Villa. The over-water villas in the Maldives are designed for adventure seekers, romance, and water enthusiasts, and have a private sundeck with stairs going into the sea. The Jacuzzi Water Villas at Vilamendhoo are only available to visitors over the age of 18.",
+    "The island is divided into two sections: one for adults exclusively (including an Overwater Villa) and one for families. Beach Villas with additional beds are offered for small families with young children, as well as exclusive and romantic Water Front Villas for couples seeking privacy. All villas are outfitted with the most up-to-date conveniences and are divided by a screen to offer optimum seclusion.",
+    "This snorkelling and diving paradise is only a 25-minute seaplane ride away. The Vilamendhoo Island Resort is surrounded by a gorgeous lagoon, an outstanding house reef, and extensive lengths of immaculate dunes, making it an ideal position to see the sought whale sharks that migrate through the Maldives.",
+    "Before embarking on your travels, or after a day of fun on the island, stop for a bite to eat or a refreshing drink at any of the island's restaurants and pubs. Vilamendhoo provides one-of-a-kind dining experiences in the Maldives, with a delectable selection of regional and international cuisines. The two buffet restaurants, one family-friendly and one for adults-only, contribute to the island's laid-back atmosphere. The restaurants are open-air with sand flooring, reflecting Maldivian customs and offering a relaxed dining experience. Enjoy à la carte eating experiences, whether on the lake at Asian Wok or on the beach at Hot Rock. Reserve a table for a private al fresco supper on the beach for a totally unique and romantic experience."
+  ],
+  "rooms": [
+    {
+      "name": "Garden Villa",
+      "price": 400,
+      "priceInclTax": 469,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Vilamendhoo-Island/images/Vilamendhoo-Island-Resort-and-Spa-Garden-Villa.webp",
+        "/resorts/Vilamendhoo-Island/images/Vilamendhoo-Island-Resort-and-Spa-Garden-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Jacuzzi Water Villa",
+      "price": 792,
+      "priceInclTax": 792,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Vilamendhoo-Island/images/Vilamendhoo-Island-Resort-and-Spa-Water-Villa.webp",
+        "/resorts/Vilamendhoo-Island/images/Vilamendhoo-Island-Resort-and-Spa-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Vilamendhoo-Island/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Vilamendhoo-Island-Resort-Maldives-South-Ari-Atoll.webp",
+    "Vilamendhoo-Island-Resort-Maldives-map.webp",
+    "Vilamendhoo-Island-Resort-Maldives.webp",
+    "Vilamendhoo-Island-Resort-Spa.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Beach.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Dinning.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Garden-Villa.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Garden-Villa1.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Pool.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Snorkeling.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Water-Spports-South-Ari-Atoll.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Water-Spports.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Water-Villa.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Water-Villa1.webp",
+    "Vilamendhoo-Island-Resort-and-Spa-Wedding.webp",
+    "Vilamendhoo-Island-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

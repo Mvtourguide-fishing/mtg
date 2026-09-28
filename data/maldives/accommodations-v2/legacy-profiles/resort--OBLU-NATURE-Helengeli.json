@@ -1,0 +1,75 @@
+{
+  "folder": "OBLU-NATURE-Helengeli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/OBLU-NATURE-Helengeli/OBLU-NATURE-Helengeli-Maldives.html",
+  "legacyTitle": "OBLU NATURE Helengeli Maldives Island Resort",
+  "legacyH1": "OBLU NATURE Helengeli Maldives Island Resort",
+  "metaDescription": "OBLU NATURE Helengeli Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "f9bdiPl0bWY",
+  "descriptionParagraphs": [
+    "OBLU NATURE Helengeli is a thrilling 50-minute speedboat journey from Malé International Airport and provides all the enchantment of flora and animals. Helengeli is a favourite among Maldives all-inclusive resorts for ardent explorers, snorkelers, and channel divers due to its island-inspired, bohemia ambiance. The resort has its own house-reef only steps from the coast and is home to a breathtaking display of marine dwellers all year round, with 116 villas with vivid, tropical interiors amidst lush flora.",
+    "These semi-detached beach homes are a few steps from Helengeli island's coastlines and are ideal for fun and relaxation.",
+    "These exquisite homes are constructed partially on land and provide excellent sunset views. The terrace leads into the tranquil turquoise lagoon.",
+    "The resort has 116 villas in four categories that are all-inclusive with high-quality international cuisine and a variety of activities such as spectacular Channel Diving and a tranquil Garden Spa! OBLU by Atmosphere in Helengeli, a Four-Star Superior resort, strives to offer a 'Best in Class' Maldivian Beach holiday experience!",
+    "OBLU by Atmosphere at Helengeli is located in North Male' Atoll and is a 50-minute speedboat ride from Velana International Airport.",
+    "The Spice offers a stunning Maldives resort dining experience with a lagoon-facing wooden terrace and inside seats on a natural sandy floor. Relax by the pool with a beverage and some bar snacks at Helen's Bar. Just Grill offers a wonderful dining experience with scrumptious grilled meats and fresh seafood."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 600,
+      "priceInclTax": 624,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-NATURE-Helengeli/images/OBLU-NATURE-Helengeli-Maldives-Beach-Villa.webp",
+        "/resorts/OBLU-NATURE-Helengeli/images/OBLU-NATURE-Helengeli-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa Pool",
+      "price": 700,
+      "priceInclTax": 781,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-NATURE-Helengeli/images/OBLU-NATURE-Helengeli-Maldives-Water-Villa-Pool.webp",
+        "/resorts/OBLU-NATURE-Helengeli/images/OBLU-NATURE-Helengeli-Maldives-Water-Villa-Pool1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/OBLU-NATURE-Helengeli/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "OBLU-NATURE-Helengeli-Island.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Beach-Villa.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Beach-Villa1.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Beach.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Dinning.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Island-Male-Atoll.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Island-map.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Island.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Luxury-Hotel.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Male-Atoll.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Pool.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Water-Villa-Pool.webp",
+    "OBLU-NATURE-Helengeli-Maldives-Water-Villa-Pool1.webp",
+    "OBLU-NATURE-Helengeli-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

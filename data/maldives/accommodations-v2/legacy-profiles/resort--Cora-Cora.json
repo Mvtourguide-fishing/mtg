@@ -1,0 +1,81 @@
+{
+  "folder": "Cora-Cora",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cora-Cora/Cora-Cora-Maldives.html",
+  "legacyTitle": "Cora Cora Maldives Island Resort Maldives",
+  "legacyH1": "Cora Cora Maldives Island Resort Maldives",
+  "metaDescription": "Cora Cora Maldives Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "I've spent a lot of time in the Maldives staring down at huge islands, silently hoping that the resort I'm about to land at isn't the one with the kilometer-long, villa-lined boardwalk snaking out to sea. Don't get me wrong: staying at larger resorts has advantages, but Cora Cora Maldives, which opened last year, is a shining example of the advantages of smaller ones."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 600,
+      "priceInclTax": 682,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Beach-Room.webp",
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Beach-Room1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 956,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Beach-Pool-Room.webp",
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Beach-Pool-Room1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 620,
+      "priceInclTax": 682,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Lagoon-Room.webp",
+        "/resorts/Cora-Cora/images/Cora-Cora-Maldives-Lagoon-Villa.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cora-Cora/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Cora-Cora-Island-Maldives.webp",
+    "Cora-Cora-Island-Resort-Maldives.webp",
+    "Cora-Cora-Island-Resort.webp",
+    "Cora-Cora-Maldives-Beach-Pool-Room.webp",
+    "Cora-Cora-Maldives-Beach-Pool-Room1.webp",
+    "Cora-Cora-Maldives-Beach-Room.webp",
+    "Cora-Cora-Maldives-Beach-Room1.webp",
+    "Cora-Cora-Maldives-Island-1.webp",
+    "Cora-Cora-Maldives-Island-Resort-Pool.webp",
+    "Cora-Cora-Maldives-Island-Resort.webp",
+    "Cora-Cora-Maldives-Island-map.webp",
+    "Cora-Cora-Maldives-Island.webp",
+    "Cora-Cora-Maldives-Lagoon-Room.webp",
+    "Cora-Cora-Maldives-Lagoon-Villa.webp",
+    "Cora-Cora-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "R"
+}

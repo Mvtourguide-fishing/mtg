@@ -1,0 +1,78 @@
+{
+  "folder": "Grand-Park-Kodhipparu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Grand-Park-Kodhipparu/Grand-Park-Kodhipparu-Maldives.html",
+  "legacyTitle": "Grand Park Kodhipparu Maldives Island Resort",
+  "legacyH1": "Grand Park Kodhipparu Maldives Island Resort",
+  "metaDescription": "Grand Park Kodhipparu Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Kodhipparu",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "fcqLbMY_V18",
+  "descriptionParagraphs": [
+    "Welcome to Grand Park Kodhipparu, Maldives, the first luxury resort of Park Hotel Group and your unique address in the stunning Maldives. We invite you to explore your paradise on an island with a variety of gorgeous villas, pristine beaches, and stunning scenery, nestled in North Male Atoll, a simple 20-minute speedboat trip from Velana International Airport, Malé, Maldives. The resort, designed by Hirsch Bedner Associates, has elegant architecture and a modern façade with Maldives' traditional influence of wood and rattan, innovative rustic charm, and an appealing serene ambiance.",
+    "With its assortment of beach and water villas, award-winning dining venues, recreational areas, and an award-winning overwater spa, the exquisite one-island-one-resort location invites you into an oasis of peace. Grand Park Kodhipparu, Maldives, is ideal for any traveller, whether a couple or honeymooners, since it is surrounded by thrilling underwater adventures of renowned snorkelling and diving locations surrounding the island. Families may also enjoy their stay on the island because the island has family-friendly facilities that provide a variety of children's activities.",
+    "The beach home in Maldives is surrounded by lush foliage and has a private plunge pool overlooking the horizon. Listen to the waves crashing on the coast or take a walk on the beach to feel the white powdery sand beneath your feet; the beach is only a few steps away from your terrace.",
+    "Wake up to a gorgeous bright day in one of the greatest water villas in Maldives by Grand Park Kodhipparu, Maldives, which offers unrivalled views of the serene blue ocean and sky. The property also has a large bathroom, indoor and outdoor showers, and direct access to the seaside through an attractive stairway.",
+    "Our exquisite one-island-one-resort location features 120 Maldives villas with stunning vistas and opulent in-room amenities. All of our beach, ocean, and lagoon villas have stunning tropical views and private pools, and are designed with a contemporary façade with Maldives' traditional influence. Relax with the calming sounds of the waves while sitting on your balcony or resting in the plunge pool, feet from the beach - ready for you to discover the colourful marine life.",
+    "If you like the sand and sea, the beach pool villas are surrounded by lush flora and are only steps from from the beach while staying near to the resort's amenities. Our Grand Residences provide a perfect holiday home-away-from-home with two bedrooms, a living room, an infinity pool with spectacular ocean views, and an outside private dining space."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 880,
+      "priceInclTax": 920,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Grand-Park-Kodhipparu/images/Grand-Park-Kodhipparu-Maldives-Island-Beach-Pool-Villa.webp",
+        "/resorts/Grand-Park-Kodhipparu/images/Grand-Park-Kodhipparu-Maldives-Island-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Water Villa",
+      "price": 780,
+      "priceInclTax": 836,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Grand-Park-Kodhipparu/images/Grand-Park-Kodhipparu-Maldives-Island-Ocean-Water-Villa.webp",
+        "/resorts/Grand-Park-Kodhipparu/images/Grand-Park-Kodhipparu-Maldives-Island-Ocean-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Grand-Park-Kodhipparu/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Grand-Park-Kodhipparu-Maldives-Beach.webp",
+    "Grand-Park-Kodhipparu-Maldives-Diving.webp",
+    "Grand-Park-Kodhipparu-Maldives-Fitness-center.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Beach-Pool-Villa.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Beach-Pool-Villa1.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Dinner.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Kaafu-Atoll.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Ocean-Water-Villa.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Ocean-Water-Villa1.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Resort-Wedding.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-Resort.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island-map.webp",
+    "Grand-Park-Kodhipparu-Maldives-Island.webp",
+    "Grand-Park-Kodhipparu-Maldives-Pool-Kaafu-Atoll.webp",
+    "Grand-Park-Kodhipparu-Maldives-Pool.webp",
+    "Grand-Park-Kodhipparu-Maldives-Resort.webp",
+    "Grand-Park-Kodhipparu.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

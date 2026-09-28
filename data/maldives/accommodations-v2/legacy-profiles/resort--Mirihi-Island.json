@@ -1,0 +1,74 @@
+{
+  "folder": "Mirihi-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Mirihi-Island/Mirihi-Island-Resort-Maldives.html",
+  "legacyTitle": "Mirihi Island Resort Maldives",
+  "legacyH1": "Mirihi Island Resort Maldives",
+  "metaDescription": "Mirihi Island Resort Maldives is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "22tRj_0CFDQ",
+  "descriptionParagraphs": [
+    "Mirihi Island Resort is a modest and precious jewel with white sands and swaying palms in the soft air. Surrounded by the infinite azure of the Indian Ocean, eco-friendly Mirihi is one of the Maldives' tiniest resorts, giving our guests the unique impression of being on their own little island.",
+    "We are a world apart, a heaven of calm and tranquillity, with no television in the villas, no motorised water sports, no discos or nightlife to bother you with loud music and noise, and nothing else to come between you and the genuine definition of relaxation and joy. Our customised service and committed team of well-trained professionals ensure that your experience is as unspoiled and soothing as if you were the first to come in a location designed just for you, and as unique as you are.",
+    "Six elegantly constructed Beach Villas (53 m2) are ideally placed on the island's sunset side, with direct access to our talcum powdery beach. These cosy homes, surrounded by thick tropical flora and swaying palms, provide full solitude and unrivalled ocean views. Designer furnishings, polished wooden flooring, king or twin beds, semi-open air baths, Bose audio system with Bluetooth connectivity, free high speed WI-FI, Nespresso machine, personal safe, and fully stocked Villa Bar are all included.",
+    "Our 30 Water Villas (53 m2) are built on stilts over the blue lagoon and provide direct access to our lively house reef. These nicely constructed cosy villas are endowed with an unbroken view of the blue ocean from the entire seclusion of the sun deck, with a view of the dawn or sunset. All Villas feature the same high-quality designer furnishings, polished wooden floors, king-size or twin beds, en suite bathrooms with glass doors overlooking the Indian Ocean, Bose music system with Bluetooth connectivity, free high-speed Wi-Fi, Nespresso machine, personal safe, and fully stocked Villa Bar. The Water Villa requires children to be 8 years old for safety reasons.",
+    "The 37 attractively constructed Villas have recently been refurbished, delivering luxury and comfort while also providing space and natural light. They are conveniently positioned all across the island and provide perfect seclusion. Each luxurious mansion is given a distinct Dhivehi (Maldivian) name drawn from the land or sea. The villas, which include 6 Beach Villas, 30 Water Villas, 1 Two-Bedroom Water Suite, and 1 Two-Bedroom Beach Suite, are exquisitely positioned around the island and above the active house reef, providing unending views of the vast horizon. Each villa is the ideal hideaway from the rest of the world, whether from your private deck or private beach.",
+    "The island is only 350 metres long and 50 metres broad, with palm-fringed beaches and powder soft, sun-kissed sand. This beautiful, private island is reached through a 30-minute seaplane flight and is encircled by 6 kilometres of one of the Maldives' greatest house reefs. It's also a great place to watch whale sharks."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 600,
+      "priceInclTax": 625,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Mirihi-Island/images/Mirihi-Island-Resort-Maldives-Beach-Villa.webp",
+        "/resorts/Mirihi-Island/images/Mirihi-Island-Resort-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 550,
+      "priceInclTax": 592,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Mirihi-Island/images/Mirihi-Island-Resort-Maldives-Water-Villa.webp",
+        "/resorts/Mirihi-Island/images/Mirihi-Island-Resort-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Mirihi-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Mirihi-Island-Luxury-Resort.webp",
+    "Mirihi-Island-Resort-Maldives-Beach-Villa.webp",
+    "Mirihi-Island-Resort-Maldives-Beach-Villa1.webp",
+    "Mirihi-Island-Resort-Maldives-Beach.webp",
+    "Mirihi-Island-Resort-Maldives-Dinning.webp",
+    "Mirihi-Island-Resort-Maldives-Pool.webp",
+    "Mirihi-Island-Resort-Maldives-South-Ari-Atoll.webp",
+    "Mirihi-Island-Resort-Maldives-Spa.webp",
+    "Mirihi-Island-Resort-Maldives-Water-Villa.webp",
+    "Mirihi-Island-Resort-Maldives-Water-Villa1.webp",
+    "Mirihi-Island-Resort-Maldives-hotel-South-Ari-Atoll.webp",
+    "Mirihi-Island-Resort-Maldives-hotel.webp",
+    "Mirihi-Island-Resort-Maldives-map.webp",
+    "Mirihi-Island-Resort-Maldives.webp",
+    "Mirihi-Island-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

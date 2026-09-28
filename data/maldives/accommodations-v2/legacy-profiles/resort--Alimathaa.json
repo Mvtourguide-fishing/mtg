@@ -1,0 +1,75 @@
+{
+  "folder": "Alimathaa",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Alimathaa/Alimathaa-Maldives.html",
+  "legacyTitle": "Nakai Alimathaa Island Resort Maldives",
+  "legacyH1": "Nakai Alimathaa Island Resort Maldives",
+  "metaDescription": "Nakai Alimathaa Island is a resort located in Vaavu atoll, Maldives",
+  "metaAtollCodes": [
+    "V"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "V"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "jOZq8S7pJzA",
+  "descriptionParagraphs": [
+    "Alimathà originally meant \"woman's face.\" The island, as seen from above, now has the shape of a heart with a beach of fine white sand that goes deep into the Maldives sea. It is bordered by a stunning and colourful coral reef that is home to hundreds of different fish species. Alimathà is the ideal combination of relaxation on a white sand beach and physical activity, with dozens of sporting activities available on the island.",
+    "Through our daily excursions, you can explore the surrounding islands and immerse yourself in the cultural beauty of the Maldives. Cocogiri is your private gateway to tropical paradise, located only 18 minutes by seaplane or 60 minutes by speed boat from Male International Airport.",
+    "The 96 Beach Bungalows are arranged around the full ring of the island and front right onto Alimathà's beautiful coral beach. From your deck, you can gaze out at the horizon through the trunks and leaves of the palms, and you'll only need a few steps to reach the beach, where you may dive into the sea or simply relax in the sun.",
+    "The 34 Over Water of Alimathà, which faces true north, opens up in a fan that rotates at sunrise and sunset. They are located in the quietest part of the island and are surrounded by an environment of calm and tranquillity. The Over Water is an excellent choice for taking in the beauty of the horizon while relaxing on a comfortable sun lounger on your private balcony.",
+    "Alimathà offers three distinct types of rooms to its guests, ranging from the Over Water viewing the ocean to the Beach Bungalows just steps from the beach, to the Garden Villa surrounded by flora. Choose the one that best suits you and let yourself to be whisked away by Alimathà's enchantment.",
+    "Alimathà Maldives is located in Vaavu atoll, 65 kilometres from Velana International Airport, and may be reached by a 20-minute seaplane ride or an hour and a half by speed boat. Surrounding the island are fantastic dive sites so gorgeous that they have been included to the government-sanctioned list of protected dive sites, including exquisite beaches and crystal clear waters, which serve as the daily backdrop for this small slice of paradise."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 320,
+      "priceInclTax": 350,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Alimathaa/images/NAKAI-Alimatha-Maldives-Island-Resort'-Beach-Bungalow.webp",
+        "/resorts/Alimathaa/images/NAKAI-Alimatha-Maldives-Island-Resort'-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Bungalow",
+      "price": 350,
+      "priceInclTax": 371,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Alimathaa/images/NAKAI-Alimatha-Maldives-Island-Resort'-Water-Bungalow.webp",
+        "/resorts/Alimathaa/images/NAKAI-Alimatha-Maldives-Island-Resort'-Water-Bungalow-1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Alimathaa/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Alimathaa-Maldives-map.webp",
+    "NAKAI-Alimatha-Maldives-Island-1.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort'-Beach-Bungalow.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort'-Beach-Bungalow1.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort'-Water-Bungalow-1.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort'-Water-Bungalow.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort-Bar.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort-Beach.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort-Kids-Beach.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort-Spa.webp",
+    "NAKAI-Alimatha-Maldives-Island-Resort.webp",
+    "NAKAI-Alimatha-Maldives-Island.webp",
+    "NAKAI-Alimatha-Maldives.webp",
+    "Nakai-Alimathaa-Maldives-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "V"
+}

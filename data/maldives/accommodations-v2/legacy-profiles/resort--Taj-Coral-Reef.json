@@ -1,0 +1,74 @@
+{
+  "folder": "Taj-Coral-Reef",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Taj-Coral-Reef/Taj-Coral-Reef-Maldives.html",
+  "legacyTitle": "Taj Coral Reef Resort & Spa Maldives",
+  "legacyH1": "Taj Coral Reef Resort & Spa Maldives",
+  "metaDescription": "Taj Coral Reef Resort & Spa Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "dPFQMGyAFck",
+  "descriptionParagraphs": [
+    "Taj Coral Reef Resort & Spa, located on heart-shaped Hembadhu Island, is a modern tropical haven hidden atop a 1000-year-old beautiful coral atoll in sunny Maldives. A 45-minute speed boat trip from Velana International Airport, 62 magnificent thatched-roof villas are built above our house reef to provide ecologically friendly, all-inclusive holidays.",
+    "Superior Beach Villas are 58 square metres of ultimate luxury, with 12 attractively decorated Superior Beach Villas. Our airy Superior beach villas at Taj Coral Reef, Maldives work their spell on you with amazing views, outdoor bathrooms, and a distinctively constructed open area, and are built in subdued and relaxing pastel colours with a wide comfy sea-facing bed. These magnificent rooms, with distinctive thatched roofs, provide complete solitude for your tropical escape. You may enjoy all of the greatest amenities at these beach villas. Wrap yourself in 100% cotton robes, indulge in delectable snacks from our 24-hour in-villa dining, or simply watch a movie on our 43\" LED TV with home theatre system. Come on in and let us immerse you in ecstasy.",
+    "Our Taj Coral Reef, Maldives' 32 Premium Water Villas will delight all of your senses. This is a great area for supper, with 85 square metres designed to be your personal paradise, a thatched roof, and an exterior terrace facing the sea with sun loungers. Absolute joy! An open-air shower and a large wooden stairway leading directly into the lagoon would complete the indoor-outdoor experience. Inside, you'll find a wide peaceful sea-facing bed, a wardrobe, and direct access to the outdoor terrace from the bedroom and bathroom. A comfortable day bed, attractive furnishings, and the Treat Yourself minibar, which features organic foods and drinks, are among the other amenities. Begin your tropical transformation now.",
+    "The resort provides modern conveniences in a natural setting, with most of the magnificent apartments and villas enjoying ocean views, whether on the beach or across the lagoon. Spacious thatched villas provide sophisticated décor, soft furniture, and stunning bathrooms with open air showers, while private decks provide relaxing places. Some villas include a private plunge pool for extra luxury, while the Nirvana Presidential Suites are ideal for families with two bedrooms split across two storeys.",
+    "The resort is located on Hembadhu Island, less than 32 kilometres from Velana International Airport. Amateurs and pros can explore the resort's own own house reef and shipwreck. Those who choose to stay on land will be captivated by the beauty of the lagoon studded with water homes.",
+    "What is a world-class island trip without excellent seafood, beach barbecues, and elegant private dining? Our Coral All-Inclusive Meal Plan is your gastronomic passport to a wide range of international and regional cuisines at these fashionable establishments. The Coral All-Inclusive provides everything you need for a fantastic holiday in one easy package. We've curated a bouquet of our best gourmet and aquatic experiences so you may see and do it all without having to pick and choose."
+  ],
+  "rooms": [
+    {
+      "name": "Superior Beach Villa",
+      "price": 1150,
+      "priceInclTax": 1220,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Taj-Coral-Reef/images/Taj-Coral-Reef-Resort-and-Spa-Superior-beach-Villa.webp",
+        "/resorts/Taj-Coral-Reef/images/Taj-Coral-Reef-Resort-and-Spa-Superior-beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Premium Water Villa",
+      "price": 1400,
+      "priceInclTax": 1483,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Taj-Coral-Reef/images/Taj-Coral-Reef-Resort-and-Spa-Premium-Water-Villa.webp",
+        "/resorts/Taj-Coral-Reef/images/Taj-Coral-Reef-Resort-and-Spa-Premium-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Taj-Coral-Reef/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Taj-Coral-Reef-Maldives-map.webp",
+    "Taj-Coral-Reef-Resort-Spa.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Beach-North-Male-Atoll.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Beach.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Dinning.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Maldives.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-North-Male-Atoll.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Pool.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Premium-Water-Villa.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Premium-Water-Villa1.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Snorkeling.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Superior-beach-Villa.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Superior-beach-Villa1.webp",
+    "Taj-Coral-Reef-Resort-and-Spa-Wedding.webp",
+    "Taj-Coral-Reef-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "Rahaa-Resort",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Rahaa-Resort/Rahaa-Resort-Maldives.html",
+  "legacyTitle": "Rahaa Resort Maldives Island",
+  "legacyH1": "Rahaa Resort Maldives Island",
+  "metaDescription": "Rahaa Resort Maldives Island is a five star resort located in Laamu Atoll, Maldives",
+  "metaAtollCodes": [
+    "L"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "L"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "location laamu"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "pFyLzV795hc",
+  "descriptionParagraphs": [
+    "Rahaa is a four-star resort in the pristine Laamu Atoll. A naturally stunning setting with native flora, long lengths of beach, and a salt-water lake. Rahaa is accessible through a 30- to 40-minute domestic flight followed by a 20- to 30-minute speed boat trip. Rahaa is an ideal vacation destination for all types of visitors, including honeymooners, singles, adventurers, and families.",
+    "The Ocean View Villas, tucked away amid dense vegetation and backed by gently swaying palms, provide absolute solitude and breathtaking views of the Indian Ocean. Relax on the outdoor daybed or read a book while enjoying the fresh coastal wind.",
+    "Rahaa Resort offers Lake View Villas and Ocean View Villas for visitors to enjoy diverse views throughout their stay.",
+    "Laamu Atoll is a gorgeous and unspoiled atoll. The domestic trip from Male International Airport to Kadhdhoo Airport takes around 25 minutes, followed by a fast speed boat ride to the resort.",
+    "This opulent beachfront restaurant provides worldwide cuisine for breakfast, lunch, and supper buffet style, as well as a selection of A La Carte entrees. Theme evenings will take you on a seven-day journey across the world. As live cooking stations sprout up on the beach and the ocean air filled with pleasant noises and scents to stimulate your appetite, travel from the Maldives to the Mediterranean and back to the streets of Asia.",
+    "The Maldives, surrounded by the serenity of the sea, is known as one of the best places to restore your mind and body to their natural balance of energy. Rahaa Spa, which overlooks the turquoise lagoon, is your location for releasing tension and unwinding into the serenity you know you deserve. Our massage and body care treatments, which combine the therapeutic characteristics of natural Maldivian materials, will meet your pampering requirements in the hands of our expert specialists."
+  ],
+  "rooms": [
+    {
+      "name": "Ocean View Villa",
+      "price": 200,
+      "priceInclTax": 235,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Rahaa-Resort/images/Rahaa-Resort-Maldives-Ocean-View-Villa.webp",
+        "/resorts/Rahaa-Resort/images/ainolhu-Baa-Atoll-Maldives-Beach-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Rahaa-Resort/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Rahaa-Resort-Maldives-Beach-Activities-Laamu-Atoll.webp",
+    "Rahaa-Resort-Maldives-Beach-Activities.webp",
+    "Rahaa-Resort-Maldives-Beach.webp",
+    "Rahaa-Resort-Maldives-Dinning.webp",
+    "Rahaa-Resort-Maldives-Holiday.webp",
+    "Rahaa-Resort-Maldives-Hotel.webp",
+    "Rahaa-Resort-Maldives-Island-Laamu-Atoll.webp",
+    "Rahaa-Resort-Maldives-Island-map.webp",
+    "Rahaa-Resort-Maldives-Island.webp",
+    "Rahaa-Resort-Maldives-Ocean-View-Villa.webp",
+    "Rahaa-Resort-Maldives-Ocean-View-Villa1.webp",
+    "Rahaa-Resort-Maldives-Surfing.webp",
+    "Rahaa-Resort-Maldives-Water-Sports.webp",
+    "Rahaa-Resort-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "L"
+}

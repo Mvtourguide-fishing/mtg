@@ -1,0 +1,77 @@
+{
+  "folder": "Sun-Siyam-Olhuveli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Sun-Siyam-Olhuveli/Sun-Siyam-Olhuveli-Maldives.html",
+  "legacyTitle": "Sun Siyam Olhuveli Maldives Island Resort",
+  "legacyH1": "Sun Siyam Olhuveli Maldives Island Resort",
+  "metaDescription": "Sun Siyam Olhuveli Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Olhuveli",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "H-_NBKBb1fw",
+  "descriptionParagraphs": [
+    "The large island of Olhuveli is only a 45-minute speedboat trip away from where you landed. With no need for a seaplane, you can get right into visiting our two islands or just relaxing. This is your time together. Sun Siyam Olhuveli combines traditional Maldivian style with modern design, with accommodations ranging from Maldivian-inspired suites to sleek contemporary villas. We have three pools to appeal to your every need, including an adults-only infinity pool that never fails to please - but be careful, the lagoon may pull you into adventure.",
+    "King-size bedrooms include clean white lines with vibrant bursts of colour, as well as an alcoved daybed great for curling up with a good book. The outdoor baths are spacious, and there is an eating area, daybed, and sun loungers on the oceanfront terrace.",
+    "These traditional Maldivian overwater villas have an outdoor jet tub and steps that go straight into the lagoon. The king-size beds are located behind a comfy sofa, well positioned to soak in the views, and each bathroom has a standalone tub.",
+    "Step into your new home at Sun Siyam Olhuveli Maldives for the next several pleasant days. Each of the 164 villas, which include Deluxe Rooms, Beach Villas, Deluxe Water Villas, Jacuzzi Water Villas, and Honeymoon Water Villas, as well as the luxury Presidential Water Suite, has been designed with comfort, relaxation, and elegance in mind. The rooms were created using natural materials and integrating them with modern elegance and open-air styled to take advantage of the Maldivian sunlight and serene vistas. A variety of villas offer the ideal option of lodging for families, couples, honeymooners, and individuals alike.",
+    "The scenic Sun Siyam Olhuveli Maldives is located on the tip of South Male' Atoll, 34 kilometres from Velana International Airport, and is known for its magnificent beaches and numerous sandbanks. A scenic 45-minute speedboat ride takes you to the resort.",
+    "Malaafaiy, which is perfectly located for Dream Island guests, provides something for everyone all day long. Ocean vistas and a pleasant sea wind will accompany every meal, whether you're fueling up before a long day of activity, stopping in for a quick lunch, or visiting us for dinner."
+  ],
+  "rooms": [
+    {
+      "name": "Garden Beach Villa",
+      "price": 800,
+      "priceInclTax": 869,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-Olhuveli/images/Sun-Siyam-Olhuveli-Maldives-Garden-Villa.webp",
+        "/resorts/Sun-Siyam-Olhuveli/images/Sun-Siyam-Olhuveli-Maldives-Garden-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Water Villa",
+      "price": 800,
+      "priceInclTax": 870,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-Olhuveli/images/Sun-Siyam-Olhuveli-Maldives-Water-Villa.webp",
+        "/resorts/Sun-Siyam-Olhuveli/images/Sun-Siyam-Olhuveli-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Sun-Siyam-Olhuveli/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Sun-Siyam-Olhuveli-Island-South-Male-Atoll.webp",
+    "Sun-Siyam-Olhuveli-Island.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Beach.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Dinning.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Garden-Villa.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Garden-Villa1.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Pool.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Resort.webp",
+    "Sun-Siyam-Olhuveli-Maldives-South-Male-Atoll.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Spa.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Water-Villa.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Water-Villa1.webp",
+    "Sun-Siyam-Olhuveli-Maldives-Wedding.webp",
+    "Sun-Siyam-Olhuveli-Maldives-map.webp",
+    "Sun-Siyam-Olhuveli-Maldives.webp",
+    "Sun-Siyam-Olhuveli-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

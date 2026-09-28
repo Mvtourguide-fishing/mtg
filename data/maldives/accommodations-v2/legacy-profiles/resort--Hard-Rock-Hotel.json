@@ -1,0 +1,77 @@
+{
+  "folder": "Hard-Rock-Hotel",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Hard-Rock-Hotel/Hard-Rock-Hotel-Maldives.html",
+  "legacyTitle": "Hard Rock Hotel Maldives Island Resort",
+  "legacyH1": "Hard Rock Hotel Maldives Island Resort",
+  "metaDescription": "Hard Rock Hotel Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "aglVRgHZars",
+  "descriptionParagraphs": [
+    "Invite the entire team, plus a few extras, to our five-star beach resort in the Indian Ocean, Hard Rock Hotel Maldives. Music is our forte, and we've blended it into our underwater melodies at Pool Bar, Hard Rock Cafe Maldives memorabilia, and Crosley turntable luxury. Load your belongings onto the speedboat, set sail for Emboodhoo Lagoon, and meet us at the Arrival Pavilion 20 minutes later for our Sundown Ritual. We'll see you later.",
+    "The Silver Beach Studio at Hard Rock Hotel Maldives features a private terrace with direct beach access, 1 king bed or 2 double beds, sun loungers, ocean views, indoor and outdoor bathrooms, and distinctive amenities ideal for your island holiday.",
+    "Our Platinum Overwater Villa with 1 king bed or 2 twin beds has a million reasons to adore it. Relax on sun loungers on your private patio and take in the vista. Enjoy immediate access to the azure blue lagoon and outdoor life on the lounge net above the water.",
+    "Stay at Hard Rock and you'll discover more than simply a place to unwind and relax. They have entirely altered the ordinary visitor experience into something spectacular, with breathtaking vistas and renowned facilities to elevate holidays to new heights. Their 178 guest rooms, Suites, Villas, and Overwater Villas are inspired by local culture and include tropical architecture combined with modern style. They offer a hotel or suite to accommodate anyone's requirements and wishes, whether they are travelling with family, that particular someone, or friends.",
+    "Hard Rock Hotel Maldives is located in North Male' Atoll within Emboodhoo Lagoon, the Maldives' first integrated resort destination, and is only a breathtaking 15-minute boat ride from Velana International Airport.",
+    "Our resort dining is a cut above the rest, always amplified and never toned down. Visit our swim-up Pool Bar for specialty beers, cocktails, and other mood-setting beverages. Stop by Hard Rock Cafe ® Maldives for burgers as tall as our vinyl collection. Kick up your heels or tap your toes to the pulse of Balearic music at The Beach Club, the renowned club located at the opposite end of our 500-metre footbridge. Emboodhoo Lagoon is home to award-winning eateries."
+  ],
+  "rooms": [
+    {
+      "name": "Silver Beach Studio",
+      "price": 600,
+      "priceInclTax": 634,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hard-Rock-Hotel/images/Hard-Rock-Hotel-Maldives-Silver-Beach-Studio.webp",
+        "/resorts/Hard-Rock-Hotel/images/Hard-Rock-Hotel-Maldives-Silver-Beach-Studio1.webp"
+      ]
+    },
+    {
+      "name": "Pletinum Water Villa",
+      "price": 820,
+      "priceInclTax": 898,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hard-Rock-Hotel/images/Hard-Rock-Hotel-Maldives-Pletinum-Water-Villa.webp",
+        "/resorts/Hard-Rock-Hotel/images/Hard-Rock-Hotel-Maldives-Pletinum-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Hard-Rock-Hotel/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Hard-Rock-Hotel-Maldives-Beach-Male-Atoll.webp",
+    "Hard-Rock-Hotel-Maldives-Beach.webp",
+    "Hard-Rock-Hotel-Maldives-Island.webp",
+    "Hard-Rock-Hotel-Maldives-Musikee-fushi-Cafe.webp",
+    "Hard-Rock-Hotel-Maldives-Musikee-fushi-Diving.webp",
+    "Hard-Rock-Hotel-Maldives-Musikee-fushi-Male-Atoll.webp",
+    "Hard-Rock-Hotel-Maldives-Musikee-fushi.webp",
+    "Hard-Rock-Hotel-Maldives-Pletinum-Water-Villa.webp",
+    "Hard-Rock-Hotel-Maldives-Pletinum-Water-Villa1.webp",
+    "Hard-Rock-Hotel-Maldives-Restaurant.webp",
+    "Hard-Rock-Hotel-Maldives-Shop.webp",
+    "Hard-Rock-Hotel-Maldives-Silver-Beach-Studio.webp",
+    "Hard-Rock-Hotel-Maldives-Silver-Beach-Studio1.webp",
+    "Hard-Rock-Hotel-Maldives-map.webp",
+    "Hard-Rock-Hotel-Maldives.webp",
+    "Hard-Rock-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,76 @@
+{
+  "folder": "Cocoon",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cocoon/Cocoon-Maldives.html",
+  "legacyTitle": "Cocoon Island Resort Maldives",
+  "legacyH1": "Cocoon Island Resort Maldives",
+  "metaDescription": "Cocoon Island is a resort located in Lhaviyani atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Ookolhufinolhu",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "VBv-4dBPSy4",
+  "descriptionParagraphs": [
+    "Cocoon Maldives combines the best of Italian design with the spectacular natural beauty of the Maldives, all against the backdrop of the turquoise Indian Ocean.",
+    "The villas are completely equipped to allow you to rest, unwind, and enjoy a timeless vacation with us. The beachfront terrace views the gorgeous crystal-clear ocean, while your private garden, with with sun loungers, day bed, swimming pool, and outdoor shower, is the ideal place to spend sunny days. The natural beauty of the Maldives combined with the best of Italian design is a harmonious marriage of style and nature. Cocoon includes 150 guest villas, 3 restaurants, and 2 bars exclusively created by LAGO, the award-winning Italian designer, with mattresses that float in the air and rustic wildwood tables.",
+    "Cocoon Maldives is situated on the beautiful island of Ookolhufinolhu in the Lhaviyani Atoll. The resort is a picturesque 30-minute seaplane ride from Malé's Velana International Airport.",
+    "You will be spoiled for choice with three restaurants and two bars. The main restaurant, OCTOPUS, entices you with world cuisines in themed buffets and interactive live stations. MANTA Restaurant in the lagoon offers à la carte eating for those looking for a romantic evening by candlelight to the rising lovers' moon. JAPANESE GARDEN serves traditional Japanese cuisine while overlooking the Indian Ocean. KURUM-BAR is a laid-back spot for sunset cocktails, and the LOABI LOABI pool Bar is a convivial gathering spot that hosts nighttime parties.",
+    "Cocoon's skilled spa therapists provide a wide range of therapeutic treatments from around the world to ensure a sublime spa experience that heals the mind, body, and spirit.",
+    "Cocoon Maldives has activities for everyone, from sports to entertainment and diving aficionados. Excursions activities such as island tours and dolphin cruises can be scheduled through our Travel & Tour Assistance staff. Daily entertainment includes a live band, a disco, a Maldivian cultural show, and other activities. Sporting activities such as Big Game fishing trips, Snorkeling Explorer, and others are available. You will be overwhelmed with options."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 390,
+      "priceInclTax": 413,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cocoon/images/Cocoon-Maldives-Island-Resort-Beach-Villa.webp",
+        "/resorts/Cocoon/images/Cocoon-Maldives-Island-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoo Villa",
+      "price": 450,
+      "priceInclTax": 487,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cocoon/images/Cocoon-Maldives-Island-Resort-Lagoon-Villa.webp",
+        "/resorts/Cocoon/images/Cocoon-Maldives-Island-Resort-Lagoon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cocoon/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Cocoon-Maldives-1.webp",
+    "Cocoon-Maldives-Island-Resort-Beach-Villa.webp",
+    "Cocoon-Maldives-Island-Resort-Beach-Villa1.webp",
+    "Cocoon-Maldives-Island-Resort-Beach.webp",
+    "Cocoon-Maldives-Island-Resort-Beah-Dinner.webp",
+    "Cocoon-Maldives-Island-Resort-Excursion.webp",
+    "Cocoon-Maldives-Island-Resort-Lagoon-Villa.webp",
+    "Cocoon-Maldives-Island-Resort-Lagoon-Villa1.webp",
+    "Cocoon-Maldives-Island-Resort-Pool.webp",
+    "Cocoon-Maldives-Island-Resort-Spa.webp",
+    "Cocoon-Maldives-Island-Resort.webp",
+    "Cocoon-Maldives-Island-map.webp",
+    "Cocoon-Maldives-Island.webp",
+    "Cocoon-Maldives-Resort.webp",
+    "Cocoon-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Lh"
+}

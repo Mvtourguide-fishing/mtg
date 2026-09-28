@@ -1,0 +1,73 @@
+{
+  "folder": "VARU-Atmosphere",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/VARU-Atmosphere/VARU-by-Atmosphere-Maldives.html",
+  "legacyTitle": "VARU by Atmosphere Maldives Island Resort",
+  "legacyH1": "VARU by Atmosphere Maldives Island Resort",
+  "metaDescription": "VARU by Atmosphere Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "JCoOrSl6-as",
+  "descriptionParagraphs": [
+    "Atmosphere Hotels & Resorts introduces VARU by Atmosphere, a Maldives all-inclusive resort, nestled in the beautiful Indian Oceans of the Maldives. Enjoy your first moments in paradise on a 40-minute speed boat ride from Male International Airport to the Maldives' northwestern coast. Experience the local culture and genuine hospitality while receiving 5 star treatment during your stay. 'Varu' in Dhivehi, the local dialect, means strength, resilience, and plenty, all of which come to life at the resort, with its ideal combination of contemporary architecture and tropical feelings of the island paradise.",
+    "Beach Villas with Pool are located along the palm-fringed beach, only steps from from the gorgeous white sandy beach. Relax in well-appointed surroundings with natural wood and stone accents, minimalistic design, and ornamental things. The expansive outside terrace is surrounded by lush green flora and a private infinity pool of 10m2.",
+    "Escape to an exquisite getaway at our Maldives Overwater pool villa, just steps from from the blue lagoon. This precisely constructed apartment combines the finest of modern living with cutting-edge conveniences. Everything here reflects the island's fascinating Indian Ocean surroundings, from Maldivian-style interiors to enticing tropical features. The wide veranda has a private 10m2 infinity pool, ideal for a refreshing dip while admiring the lovely lagoon views.",
+    "VARU is positioned as a modern and 'Naturally Maldivian' resort experience, with 108 Villas strewn along the white sandy beaches and spreading over the blue lagoons onto three jetties with over-water accommodation.",
+    "VARU is located on the northwestern border of the Malé Atoll Maldives.",
+    "Indulge in a gastronomical adventure at VARU by Atmosphere in the Maldives, with the top Maldives restaurants bringing the world to you on a plate through the most delectable culinary experiences. Choose from the best culinary dishes from Europe to Asia, with a Maldivian twist. To create that unique experience for the ages, enjoy magnificent lunch and supper dishes with stunning presentations matched by exquisite vistas."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1200,
+      "priceInclTax": 1272,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/VARU-Atmosphere/images/VARU-by-Atmosphere-beach-Villa-Pool.webp",
+        "/resorts/VARU-Atmosphere/images/VARU-by-Atmosphere-beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Water Pool Villa",
+      "price": 1400,
+      "priceInclTax": 1500,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/VARU-Atmosphere/images/VARU-by-Atmosphere-Water-Villa-Pool.webp",
+        "/resorts/VARU-Atmosphere/images/VARU-by-Atmosphere-Water-Villa-Pool1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/VARU-Atmosphere/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "VARU-by-Atmosphere-Beach.webp",
+    "VARU-by-Atmosphere-Maldives-Island.webp",
+    "VARU-by-Atmosphere-Maldives-Resort.webp",
+    "VARU-by-Atmosphere-Maldives-map.webp",
+    "VARU-by-Atmosphere-Maldives.webp",
+    "VARU-by-Atmosphere-Male-Atoll.webp",
+    "VARU-by-Atmosphere-Pool-Male-Atoll.webp",
+    "VARU-by-Atmosphere-Pool.webp",
+    "VARU-by-Atmosphere-Resort.webp",
+    "VARU-by-Atmosphere-Water-Villa-Pool.webp",
+    "VARU-by-Atmosphere-Water-Villa-Pool1.webp",
+    "VARU-by-Atmosphere-beach-Villa-Pool.webp",
+    "VARU-by-Atmosphere-beach-Villa-Pool1.webp",
+    "VARU-by-Atmosphere.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

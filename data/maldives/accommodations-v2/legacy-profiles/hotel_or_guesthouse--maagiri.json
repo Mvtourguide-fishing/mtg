@@ -1,0 +1,66 @@
+{
+  "folder": "maagiri",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/maagiri/maagiri-hotel-in-male-maldives.html",
+  "legacyTitle": "Maagiri Hotel in Male Maldives",
+  "legacyH1": "Maagiri Hotel Male Maldives",
+  "metaDescription": "Maagiri is a hotel opened in the local island of male\nmale atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 4,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "The Maagiri Hotel is conveniently located across the street from the Hulhumale' Ferry Terminal in the capital Male'. Maagiri offers a 4-star accommodation to compliment its excellent service, set against a scenic backdrop of the surrounding ocean and a few of the Maldives' many islands.",
+    "Maagiri has four different types of rooms, each with elegant interiors, luxury amenities, and panoramic views of the Maldivian seas."
+  ],
+  "rooms": [
+    {
+      "name": "Premier Room",
+      "price": 220,
+      "priceInclTax": 267,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/maagiri/images/maagiri-hotel-male-city-premier-room.webp",
+        "/hotels/maagiri/images/maagiri-hotel-male-city-premier-room1.webp"
+      ]
+    },
+    {
+      "name": "Junior Suit",
+      "price": 228,
+      "priceInclTax": 286,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/maagiri/images/maagiri-hotel-male-city-junior-suit.webp",
+        "/hotels/maagiri/images/maagiri-hotel-male-city-junior-suit1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/maagiri/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "maagiri-hotel-city-maldives.webp",
+    "maagiri-hotel-in-male-maldives.jpg",
+    "maagiri-hotel-in-male-maldives.webp",
+    "maagiri-hotel-male-city-junior-suit.webp",
+    "maagiri-hotel-male-city-junior-suit1.webp",
+    "maagiri-hotel-male-city-maldives.webp",
+    "maagiri-hotel-male-city-premier-room.webp",
+    "maagiri-hotel-male-city-premier-room1.webp",
+    "maagiri-hotel-male-city.webp",
+    "maagiri-hotel-male-maldives.webp",
+    "maagiri-hotel-male.webp",
+    "maagiri-hotel-map.webp",
+    "maagiri-hotel.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

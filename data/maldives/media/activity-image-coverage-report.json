@@ -1,0 +1,430 @@
+{
+  "totalListings": 49,
+  "withImage": [
+    {
+      "slug": "advanced-open-water-diver-course",
+      "images": [
+        "images/diving/Addu-Manta-Point.webp",
+        "images/diving/Madivaru-Corner-maldives.webp",
+        "images/diving/Maldives-Dive-Environment.webp",
+        "images/diving/Maldives-dive-site-Madigaa.webp"
+      ]
+    },
+    {
+      "slug": "discover-scuba-diving",
+      "images": [
+        "images/diving/advanced-open-water-dive.webp",
+        "images/diving/Maldives-dive-site-veligandu-east.webp",
+        "images/diving/Maldives-dive-site.webp",
+        "images/diving/maldives-dive-sites.webp"
+      ]
+    },
+    {
+      "slug": "discover-scuba-diving-dsd",
+      "images": [
+        "images/diving/Alif-Alif-Atoll-Chaaya-Reef-Maldives.webp",
+        "images/diving/maldives-dive-spots.webp",
+        "images/diving/Maldives-dive-vessels.webp",
+        "images/diving/maldives-diving-boats.webp"
+      ]
+    },
+    {
+      "slug": "discover-scuba-diving-lankanfushi",
+      "images": [
+        "images/diving/Alif-Alif-Fesdhoo-Wreck-Maldives.webp",
+        "images/diving/maldives-diving-faru-reef.webp",
+        "images/diving/maldives-diving-giri.webp",
+        "images/diving/Maldives-Diving-In-Moofushi-Kandu-South-Ari-Atoll.webp"
+      ]
+    },
+    {
+      "slug": "discover-scuba-diving-thulusdhoo",
+      "images": [
+        "images/diving/Alimatha-Jetty.webp",
+        "images/diving/maldives-marine-life.webp",
+        "images/diving/Male-Atoll-Nassimo-Thila-Maldives.webp",
+        "images/diving/Manta-Point-Lankanfinolhu-Island.webp"
+      ]
+    },
+    {
+      "slug": "discover-scuba-diving-velassaru",
+      "images": [
+        "images/diving/Ari-Atoll-Maaya-Thila-Maldives.webp",
+        "images/diving/Marine-Life-in-the-Maldives.webp",
+        "images/diving/Meedhoo-Coral-Garden.webp",
+        "images/diving/North-Male-Atoll-Banana-Reef-Maldives.webp"
+      ]
+    },
+    {
+      "slug": "fluo-night-diving",
+      "images": [
+        "images/diving/Baa-Atoll-Maldives.webp",
+        "images/diving/One-Rock-maldives.webp",
+        "images/diving/open-water-diver-course.webp",
+        "images/diving/Padi-Bubblemaker-dive-course.webp"
+      ]
+    },
+    {
+      "slug": "fun-dive",
+      "images": [
+        "images/diving/Bathala-Thila-maldives.webp",
+        "images/diving/padi-discover-scuba-diving.webp",
+        "images/diving/padi-scuba-diver.webp",
+        "images/diving/Rasdhoo-Channel-maldives.webp"
+      ]
+    },
+    {
+      "slug": "fun-dive-single-tank",
+      "images": [
+        "images/diving/best-places-for-diving-in-maldives.webp",
+        "images/diving/scuba-divers-maldives.webp",
+        "images/diving/Scuba-Diving-In-Maldives-Raa-Atoll.webp",
+        "images/diving/scuba-diving-in-Maldives.webp"
+      ]
+    },
+    {
+      "slug": "fun-dive-single-tank-thulusdhoo",
+      "images": [
+        "images/diving/divemaster-course.webp",
+        "images/diving/Solha-Corner-maldives.webp",
+        "images/diving/South-Male-Atoll-Kandooma-Thila-Maldives.webp",
+        "images/diving/two-fun-dives-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "guided-reef-dive",
+      "images": [
+        "images/diving/diving-in-the-maldives.webp",
+        "images/diving/Vaavu-Atoll-Miyaru-Kandu-Maldives.webp",
+        "images/diving/Villingili-Coral-Garden-maldives.webp",
+        "images/diving/whale-shark-maldives.webp"
+      ]
+    },
+    {
+      "slug": "night-diver-specialty-course",
+      "images": [
+        "images/diving/Full-day-dive-trip-Maldives.webp",
+        "images/diving/Where-to-dive.webp"
+      ]
+    },
+    {
+      "slug": "padi-bubble-maker",
+      "images": [
+        "images/diving/fun-dive-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "padi-open-water-diver-course",
+      "images": [
+        "images/diving/Fushi-Kandu-maldives.webp"
+      ]
+    },
+    {
+      "slug": "padi-open-water-diver-course-kunfunadhoo",
+      "images": [
+        "images/diving/Fuvahmulah-Atoll-Maldives.webp"
+      ]
+    },
+    {
+      "slug": "padi-open-water-diver-course-thulusdhoo",
+      "images": [
+        "images/diving/half-day-dive-trip-Maldives.webp"
+      ]
+    },
+    {
+      "slug": "padi-open-water-diver-course-vihamanaafushi",
+      "images": [
+        "images/diving/HP-reef-Male-Atoll.webp"
+      ]
+    },
+    {
+      "slug": "beginner-lagoon-surf-lesson",
+      "images": [
+        "images/surfing/Adaaran-Select-Hudhuranfushi-Lohis.webp",
+        "images/surfing/budget-surfing-island-maafushi.webp",
+        "images/surfing/budget-surfing-island-maamendhoo.webp",
+        "images/surfing/budget-surfing-island-madaveli.webp"
+      ]
+    },
+    {
+      "slug": "first-green-wave-private-surf-lesson",
+      "images": [
+        "images/surfing/Anantara-Veli-and-Anantara-Dhigu.webp",
+        "images/surfing/budget-surfing-island-mulah.webp",
+        "images/surfing/budget-surfing-island-muli.webp",
+        "images/surfing/budget-surfing-island-thimarafushi.webp"
+      ]
+    },
+    {
+      "slug": "group-surf-lesson",
+      "images": [
+        "images/surfing/Ayada-Love-Charms.webp",
+        "images/surfing/budget-surfing-island-thinadhoo.webp",
+        "images/surfing/budget-surfing-island-Thulusdho.webp",
+        "images/surfing/budget-surfing-island-vaadhoo.webp"
+      ]
+    },
+    {
+      "slug": "guided-surf-boat-trip",
+      "images": [
+        "images/surfing/budget-surfing-island-gemanafushi.webp",
+        "images/surfing/budget-surfing-island-veymandoo.webp",
+        "images/surfing/budget-surfing-island-villingili.webp",
+        "images/surfing/Budget-Surfing-Islands-maldives.webp"
+      ]
+    },
+    {
+      "slug": "multi-day-surf-camp-package",
+      "images": [
+        "images/surfing/budget-surfing-island-Gulhi.webp",
+        "images/surfing/Cinnamon-Dhonveli-Pasta-Point.webp",
+        "images/surfing/COMO-Maalifushi-Farms-Mikados.webp",
+        "images/surfing/Four-Seasons-Kuda-Huraa-Sultans.webp"
+      ]
+    },
+    {
+      "slug": "private-surf-lesson-cokes",
+      "images": [
+        "images/surfing/budget-surfing-island-guraidhoo.webp",
+        "images/surfing/Gili-Lankanfushi-Jailbreaks.webp",
+        "images/surfing/Kandooma-Resort-Kandooma.webp",
+        "images/surfing/Kuda-Villingili-Chickens.webp"
+      ]
+    },
+    {
+      "slug": "surf-lesson",
+      "images": [
+        "images/surfing/budget-surfing-island-Himmafushi.webp",
+        "images/surfing/maldives-Best-Surf-Spots-and-Waves.webp",
+        "images/surfing/maldives-surf-resorts.webp",
+        "images/surfing/Maldives-Surf-Seasons-and-Swell.webp"
+      ]
+    },
+    {
+      "slug": "surfboard-rental",
+      "images": [
+        "images/surfing/budget-surfing-island-huraa.webp",
+        "images/surfing/maldives-surf-trip-cost.webp",
+        "images/surfing/maldives-surf-trip.webp",
+        "images/surfing/Maldives-Surf.webp"
+      ]
+    },
+    {
+      "slug": "wave-surfing",
+      "images": [
+        "images/surfing/budget-surfing-island-Kudahuvadhoo.webp",
+        "images/surfing/maldives-surfing-1.jpg",
+        "images/surfing/maldives-surfing-atolls.webp",
+        "images/surfing/maldives-surfing-holiday.webp"
+      ]
+    },
+    {
+      "slug": "wave-surfing-maafushi",
+      "images": [
+        "images/surfing/budget-surfing-island-Maaenboodhoo.webp",
+        "images/surfing/maldives-surfing-islands.webp",
+        "images/surfing/maldives-surfing-locations.webp",
+        "images/surfing/maldives-surfing-resorts.webp"
+      ]
+    },
+    {
+      "slug": "big-game-fishing-trip",
+      "images": [
+        "images/fishing/Angling-fishing-in-maldives.webp",
+        "images/fishing/corals-in-maldives.webp",
+        "images/fishing/Deep-Ocean-of-maldives.webp",
+        "images/fishing/dolphin-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "big-game-fishing-trip-lankanfushi",
+      "images": [
+        "images/fishing/bait-fishes-in-maldives.webp",
+        "images/fishing/eel-fish-in-maldives.webp",
+        "images/fishing/Exclusive-Economic-Zone-EEZ-of-Maldives.webp",
+        "images/fishing/Fish-in-Maldives.webp"
+      ]
+    },
+    {
+      "slug": "fishing-is-a-family-matter",
+      "images": [
+        "images/fishing/Bait-Fishing-Maldives.webp",
+        "images/fishing/Fishing-Excursion-in-maldives.webp",
+        "images/fishing/Fishing-History-of-maldives.webp",
+        "images/fishing/fishing-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "golden-reel-adventure",
+      "images": [
+        "images/fishing/Big-Game-Fishing-maldives.webp",
+        "images/fishing/Fly-Fishing-in-maldives.webp",
+        "images/fishing/Giant-Trevally-Fish.webp",
+        "images/fishing/Groupers-maldives.webp"
+      ]
+    },
+    {
+      "slug": "marlin-big-game-fishing-charter",
+      "images": [
+        "images/fishing/Bigeye-barracuda-in-maldives.webp",
+        "images/fishing/Half-Day-Fly-Fishing.webp",
+        "images/fishing/Half-Day-Trip-Deep-Jigging.webp",
+        "images/fishing/Half-Day-Trip-Trolling.webp"
+      ]
+    },
+    {
+      "slug": "night-fishing-excursion",
+      "images": [
+        "images/fishing/Black-coral-in-maldives.webp",
+        "images/fishing/Hand-lining-fishing-in-maldives.webp",
+        "images/fishing/Hawksbill-and-Green-turtle-in-maldives.webp",
+        "images/fishing/jigging-fishing-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "night-fishing-trip",
+      "images": [
+        "images/fishing/Bottom-fishing-in-maldives.webp",
+        "images/fishing/Jigging-fishing-Maldives.webp",
+        "images/fishing/jobfish-maldives.webp",
+        "images/fishing/land-area-of-maldives.webp"
+      ]
+    },
+    {
+      "slug": "private-sport-fishing-trip",
+      "images": [
+        "images/fishing/Cast-fishing-in-maldives.webp",
+        "images/fishing/lobster-in-maldives.webp",
+        "images/fishing/Maldives-cast-Fishing.webp",
+        "images/fishing/Maldives-Fishing-Holiday-Package.webp"
+      ]
+    },
+    {
+      "slug": "sunset-fishing-trip",
+      "images": [
+        "images/fishing/cast-fishing.webp",
+        "images/fishing/Maldives-Fishing-trip.webp",
+        "images/fishing/maldives-fishing.webp",
+        "images/fishing/Maldives-Night-Fishing.webp"
+      ]
+    },
+    {
+      "slug": "sunset-fishing-trip-maafushi",
+      "images": [
+        "images/fishing/Charter-boat-fishing.webp",
+        "images/fishing/maldives-traditional-fishing-dhoani.webp",
+        "images/fishing/maldives-traditional-fishing.webp",
+        "images/fishing/Mariculture-maldives.webp"
+      ]
+    },
+    {
+      "slug": "sunset-reef-fishing",
+      "images": [
+        "images/fishing/Chartered-Fishing-Trip.webp",
+        "images/fishing/Merlin-Fish-in-Maldives.webp",
+        "images/fishing/napoleon-fish-maldives.webp",
+        "images/fishing/night-fishing-in-maldives.webp"
+      ]
+    },
+    {
+      "slug": "traditional-handline-fishing-trip",
+      "images": [
+        "images/fishing/coral-lagoons-in-maldives.webp",
+        "images/fishing/Outer-Coral-Shelf-of-maldives.webp",
+        "images/fishing/Parrot-fish-in-maldives.webp",
+        "images/fishing/Pearl-Oysters-maldives.webp"
+      ]
+    },
+    {
+      "slug": "full-day-snorkeling-island-hopping-tour",
+      "images": [
+        "images/activities/full-day/island-hopping-tour.webp",
+        "images/activities/full-day/male-atoll-island-hopping-tour.webp",
+        "images/activities/island-hopping-in-male-city.webp",
+        "images/activities/island-hopping-tour-male-atoll.webp"
+      ]
+    },
+    {
+      "slug": "male-guided-tour",
+      "images": [
+        "images/activities/dolphin/male-atoll-dolphin-trip.webp",
+        "images/activities/dolphin/male-atoll-excursion.webp",
+        "images/activities/fishing-in-male-city.webp",
+        "images/activities/full-day-activity-male-atoll.webp"
+      ]
+    },
+    {
+      "slug": "private-dolphin-cruise",
+      "images": [
+        "images/activities/dolphin-cruise.jpg",
+        "images/activities/dolphin-cruise.webp",
+        "images/activities/dolphin-cruise1.JPG",
+        "images/activities/dolphin-cruise1.webp"
+      ]
+    },
+    {
+      "slug": "sandbank-snorkeling-dolphin-watching-excursions",
+      "images": [
+        "images/activities/full-day/maldives-sandbank.webp",
+        "images/activities/full-day/male-atoll-sandbank.webp",
+        "images/activities/full-day/sandbank-excursion-male-atoll.webp",
+        "images/activities/full-day/sandbank-excursion.webp"
+      ]
+    },
+    {
+      "slug": "snorkeling-dolphin-watching-sandbank-package",
+      "images": [
+        "images/activities/dolphin-excursions.jpg",
+        "images/activities/dolphin-excursions.webp",
+        "images/activities/dolphin-trip.jpg",
+        "images/activities/dolphin-trip.webp"
+      ]
+    },
+    {
+      "slug": "sunset-dolphin-cruise",
+      "images": [
+        "images/activities/Dolphin-Watching-in-maldives.webp",
+        "images/activities/dolphin/dolphin-trip.webp",
+        "images/activities/dolphin/maldives-dolphin-excursion.webp",
+        "images/activities/dolphin/maldives-dolphin-trip.webp"
+      ]
+    },
+    {
+      "slug": "sunset-dolphin-cruise-kunfunadhoo",
+      "images": [
+        "images/activities/dolphin/Maldives-Lucky-Dolphin-Trip.webp",
+        "images/activities/dolphin/male-atoll-dolphin-trip.webp",
+        "images/activities/dolphin/male-atoll-excursion.webp",
+        "images/activities/full-day/maldives-dolphin-excursion.webp"
+      ]
+    },
+    {
+      "slug": "private-snorkeling-trip",
+      "images": [
+        "images/activities/Biyadhoo-Island-snorkeling-in-Maldives.webp",
+        "images/activities/full-day/Maldives-snorkeling.webp",
+        "images/activities/full-day/male-atoll-snorkeling.webp",
+        "images/activities/full-day/male-atoll-turtle-snorkeling.webp"
+      ]
+    },
+    {
+      "slug": "sandbank-picnic",
+      "images": [
+        "images/activities/full-day/maldives-sandbank.webp",
+        "images/activities/full-day/male-atoll-sandbank.webp",
+        "images/activities/full-day/sandbank-excursion-male-atoll.webp",
+        "images/activities/full-day/sandbank-excursion.webp"
+      ]
+    },
+    {
+      "slug": "soneva-soul-60-minute-spa-treatment",
+      "images": [
+        "images/activities/Kuredu-Resort-and-Spa-Lhaviyani-Atoll.webp",
+        "images/activities/things to do/centara-rasfushi-island-premium-deluxe-spa-water-villa.webp",
+        "images/activities/things to do/Diamonds-Thudufushi-Maldives-Resort-and-SPA-Excursion.webp"
+      ]
+    }
+  ],
+  "withoutImage": [],
+  "reuseNotes": []
+}

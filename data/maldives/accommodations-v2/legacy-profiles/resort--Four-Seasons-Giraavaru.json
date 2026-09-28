@@ -1,0 +1,77 @@
+{
+  "folder": "Four-Seasons-Giraavaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Four-Seasons-Giraavaru/Four-Seasons-Maldives-Landaa-Giraavaru.html",
+  "legacyTitle": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "legacyH1": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "metaDescription": "Four Seasons Landaa Giraavaru Island is a resort located in Baa atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "74y61Fcw970",
+  "descriptionParagraphs": [
+    "Welcome to one of the most beautiful islands in the world: a UNESCO Biosphere Reserve wilderness where iridescent blues, jungle greens, and brilliant whites meet innovation, conservation, and health. Snorkel with manta rays in aquarium-like seas, rehabilitate sea turtles at our Marine Discovery Centre, enjoy world-class wellness at AyurMa, and dine at Blu Beach Club.",
+    "Swim with the crew that is working relentlessly to safeguard the world's biggest known population of manta rays. Sign up for our Manta On Call service and you will be whisked away by speedboat whenever manta rays are seen near the Resort for an amazing snorkelling experience.",
+    "Walk away from the beach and through a turquoise gate to your walled Beach Villa, which features a private lap pool flanked by a cushioned daybed, an open-air living and dining pavilion, and an island-style bedroom surrounded by tropical foliage.",
+    "In these west-facing infinity-pool villas, you can enjoy kaleidoscopic sunsets. Submit to the cool simplicity of indoor-outdoor life, from outdoor showers and a loft-level lounge to midnight dives in your private pool, isolated off a double jetty.",
+    "The villas and bungalows are a modest, modern fusion of Maldivian building techniques with Sri Lankan shapes. Four Seasons Landaa Giraavaru provides 13 various room types on both land and sea, each with its own private beach, pool, outdoor showers, beautiful private gardens, huge sundecks, outdoor showers, and nets for over-water sunbathing.",
+    "Four Seasons Landaa Giraavaru is a 44-acre utopia on the Baa Atoll UNESCO Biosphere Reserve that combines innovation, wellness, and conservation. Following your arrival at Velana International Airport (MLE), your adventure to Landaa Giraavaru continues with a 35-minute seaplane ride that provides a breathtaking view of the crystalline seas and secluded islands."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa With Pool",
+      "price": 2500,
+      "priceInclTax": 2625,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Four-Seasons-Giraavaru/images/Four-Seasons-Maldives-Landaa-Giraavaru-Beach-Pool-Villa.webp",
+        "/resorts/Four-Seasons-Giraavaru/images/Four-Seasons-Maldives-Landaa-Giraavaru-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Sunset Water Villa With Pool",
+      "price": 2500,
+      "priceInclTax": 2625,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Four-Seasons-Giraavaru/images/Four-Seasons-Maldives-Landaa-Giraavaru-Sunset-Water-Villa.webp",
+        "/resorts/Four-Seasons-Giraavaru/images/Four-Seasons-Maldives-Landaa-Giraavaru-Sunset-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Four-Seasons-Giraavaru/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Four-Seasons-Maldives-Landaa-Giraavaru-Beach-Pool-Villa.webp",
+    "Four-Seasons-Maldives-Landaa-Giraavaru-Beach-Pool-Villa1.webp",
+    "Four-Seasons-Maldives-Landaa-Giraavaru-Island-map.webp",
+    "Four-Seasons-Maldives-Landaa-Giraavaru-Sunset-Water-Villa.webp",
+    "Four-Seasons-Maldives-Landaa-Giraavaru-Sunset-Water-Villa1.webp",
+    "Four-Seasons-Maldives-Landaa-Giraavaru.webp",
+    "Four-Seasons-Maldives-at-Landaa-Giraavaru.webp",
+    "Four-Seasons-Resort-Maldives-Landaa-Giraavaru.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Beach-Pool-Baa-Atoll.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Beach-Pool.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Beach.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Diving-Baa-Atoll.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Diving.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Sunset.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru-Yoga.webp",
+    "Four-Seasons-Resort-Maldives-at-Landaa-Giraavaru.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

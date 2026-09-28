@@ -1,0 +1,92 @@
+{
+  "folder": "Outrigger-Maafushivaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Outrigger-Maafushivaru/Outrigger-Maafushivaru-Maldives.html",
+  "legacyTitle": "Outrigger Maldives Maafushivaru Resort Island",
+  "legacyH1": "Outrigger Maldives Maafushivaru Resort Island",
+  "metaDescription": "Outrigger Maldives Maafushivaru Resort Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "pN2jDp7fIA0",
+  "descriptionParagraphs": [
+    "Outrigger Maldives Maafushivaru Resort is located on the picturesque South Ari Atoll, just a 25-minute seaplane ride from Male. You'll be surrounded by kilometres of the Maldives' signature blue seas. This resort is located on a 350-metre-long island that is partially sheltered by thick foliage and surrounded by beautiful beaches adjacent to a stunning house reef.",
+    "Our beach villas are self-contained and positioned directly near the beach, surrounded by lush greenery, with sun loungers on a private balcony facing the sea.",
+    "The beach pool villas have king-sized bedrooms, a modern distinctive silver glass crystal tiled bathroom, a twin vanity, and separate indoor and outdoor showers in your own garden.",
+    "Luxury villas with contemporary conveniences and unique lagoon views. The large bedroom has a king-sized bed and a daybed.",
+    "Maafushivaru has 81 villas in various types, all with direct access to the beach or great views of the ocean. The villas are well-appointed but basic in style and architecture, combining in wonderfully with the Maldives' laid-back atmosphere. All are well equipped with everything you need for a comfortable vacation near to nature.",
+    "Maafushivaru, located 93 kilometres from the airport in the beautiful South Ari Atoll, provides five various types of villas, each blending features of Maldivian architecture with elegant and trendy finishing touches, and appeals to couples seeking romantic pursuits. Allow Maafushivaru to assist you in creating memories that will last a lifetime."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 950,
+      "priceInclTax": 1046,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa.webp",
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1100,
+      "priceInclTax": 1186,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa-Pool.webp",
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 900,
+      "priceInclTax": 963,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Over-Water-Villa.webp",
+        "/resorts/Outrigger-Maafushivaru/images/Outrigger-Maldives-Maafushivaru-Resort-Over-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Outrigger-Maafushivaru/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Outrigger-Maafushivaru-Maldives-Island-map.webp",
+    "Outrigger-Maldives-Maafushivaru-Island.webp",
+    "Outrigger-Maldives-Maafushivaru-Luxury-Resort-South-Ari-Atoll.webp",
+    "Outrigger-Maldives-Maafushivaru-Luxury-Resort.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa-Pool.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa-Pool1.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Beach-Villa1.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Beach.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Fitness-gym.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Maldives.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Over-Water-Villa.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Over-Water-Villa1.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Pool.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Rooms.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-South-Ari-Atoll.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort-Water-sports.webp",
+    "Outrigger-Maldives-Maafushivaru-Resort.webp",
+    "Outrigger-Maldives-Maafushivaru.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "Maayafushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Maayafushi/Nakai-Maayafushi-Island-Resort-Maldives.html",
+  "legacyTitle": "NAKAI Maayafushi Maldives Island Resort",
+  "legacyH1": "NAKAI Maayafushi Maldives Island Resort",
+  "metaDescription": "NAKAI Maayafushi Maldives Island is a resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollUnresolved": [
+    "the aris"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "09xGGXQ0WA0",
+  "descriptionParagraphs": [
+    "Maayafushi, located in the northern portion of the Ari Atoll, contains all of the characteristics that distinguish this little region of Maldives: from the untamed nature of the vegetation to the bottom inhabited by the most diverse types of fish. The resort is framed by crystal blue waters and lovely beaches, and its rooms can provide tourists with every type of comfort. The island, with its well-known diving spots, is a popular destination for divers from all over the world, from the most experienced to those who want to dive for the first time in these enchanted depths.",
+    "The allure of a walk in nature, the sensation of sand and wood beneath your feet before returning to your bed. Maayafushi's 60 Beach Bungalows mesmerise with a green vista from which to scan the azure horizon of the Indian Ocean.",
+    "Maayafushi's 8 Over Water survey the ocean's limitless horizon, leaving them dumbfounded. The charm of water, which cradles the minutes before sleep and the seconds after rising, provides unforgettable pleasures. You will be immersed in the sounds of the sea in these rooms, and there will be a large outside deck where you may rest.",
+    "Guests may choose between three sorts of accommodation categories: Garden Rooms, Beach Bungalows, and Water Bungalows, all of which are constructed in harmony with the surrounding environment of the island while keeping comfort in mind. The rooms are large and well-equipped.",
+    "Maayafushi is located 65 kilometres from Velana International Airport and may be accessible either seaplane or a short ferry boat ride. The Ari's atoll, well-known across the globe for its white sand and beautiful beaches, has become a scuba diver's paradise on Earth. Sightings of whale sharks and hammerhead sharks, as well as other species dwelling in the coral reef that runs all the way around the shore, are common.",
+    "Let yourself be conquered by the tastes of the island in Maayafushi's eateries and pubs. Our dining menu has been created to be as diverse as possible in order to fulfil the demands of all customers. In the restaurants, you may sample the delights of Italian and Maldivian cuisine, cooked and served daily by our Chefs. Our bars will be the ideal spot to unwind and have a refreshing drink while taking in the sights and sounds that only the Maldives can provide."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Maayafushi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Maayafushi-Island-Resort-Maldives-map.webp",
+    "NAKAI-Maayafushi-Maldives-Activities-North-Ari-Atoll.webp",
+    "NAKAI-Maayafushi-Maldives-Activities.webp",
+    "NAKAI-Maayafushi-Maldives-Bar.webp",
+    "NAKAI-Maayafushi-Maldives-Beach-Bungalow.webp",
+    "NAKAI-Maayafushi-Maldives-Beach-Bungalow1.webp",
+    "NAKAI-Maayafushi-Maldives-Beach.webp",
+    "NAKAI-Maayafushi-Maldives-Dinning.webp",
+    "NAKAI-Maayafushi-Maldives-Over-Water-Bungalow.webp",
+    "NAKAI-Maayafushi-Maldives-Over-Water-Bungalow1.webp",
+    "NAKAI-Maayafushi-Maldives-Resort-North-Ari-Atoll.webp",
+    "NAKAI-Maayafushi-Maldives-Resort.webp",
+    "NAKAI-Maayafushi-Maldives-Spa.webp",
+    "NAKAI-Maayafushi-Maldives.webp"
+  ],
+  "atollConfidence": "ambiguousOnly",
+  "resolvedAtollCode": null
+}

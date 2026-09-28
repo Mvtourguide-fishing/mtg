@@ -1,0 +1,92 @@
+{
+  "folder": "Gili-Lankanfushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Gili-Lankanfushi/Gili-Lankanfushi-Maldives.html",
+  "legacyTitle": "Gili Lankanfushi Maldives Island Resort",
+  "legacyH1": "Gili Lankanfushi Maldives Island Resort",
+  "metaDescription": "Gili Lankanfushi Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Lankanfushi",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Xx61PgIeXRA",
+  "descriptionParagraphs": [
+    "With sustainably designed homes hanging above turquoise seas that reach as far as the eye can see, our exclusive island refuge provides peace by design. Spend your days doing anything you want—snorkeling, relaxing at the spa, sailing on a catamaran—and don't be afraid to ask for help and guidance from our helpful staff. Nourish your body with locally produced products and worldwide cuisines, enjoy the sunset from your rustic-luxe villa, and fall asleep with the moon shining gloriously in the sky.",
+    "These 18 one-bedroom retreats are ideal for couples. Each apartment has an open-air living area, a huge bathroom, and a separate rooftop terrace from which to take in the vistas. Spend your days swimming and snorkelling in the coral gardens at the base of your sundeck, which has direct ocean access. At night, relax on catamaran nets while watching the sky.",
+    "Our five overwater Gili Lagoon Villas face west and provide breathtaking sunset views. The one-bedroom hideaways with thatched roofs are split across two storeys and include open-air living spaces, big bathrooms, and private rooftop terraces. Relax on the deck or swim out to your own own water hammock. You may pass by eagle rays, reef sharks, and shoals of luminous fish.",
+    "The Family Villa, perched at the end of our Western-facing jetty, is an open-air paradise with unrivalled views of the surrounding seascape. The main bedroom has an en-suite bathroom as well as an outdoor tub and shower. Two huge, air-conditioned living areas offer plenty of living (and sleeping) space. When you're not napping off in the sun, take use of your own gym, steam room, or rooftop Jacuzzi. Alternatively, venture off the quiet Three Palm Island to relax in a magnificent cabana.",
+    "45 rustic-chic thatched villas float over the clear lagoon waters of Gili Lankanfushi in the Maldives. Many are linked to wooden jetties that extend from a little island, while others stand alone in the water. Simple, yet magnificent abodes (all created from sustainable materials) can serve as the ideal foundation for any modern-day Robinson Crusoe trip.",
+    "Gili Lankanfushi Maldives, perched above the Indian Ocean, offers exquisite accommodation near to the sun and water. Gili Lankanfushi Maldives is located on the private island of Lankanfushi in Male Atoll, a 20-minute speedboat journey from Male International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Villa Suite",
+      "price": 1600,
+      "priceInclTax": 1690,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Villa-Suite.webp",
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Villa-Suite1.webp"
+      ]
+    },
+    {
+      "name": "Gili Lagoon Villa",
+      "price": 1800,
+      "priceInclTax": 1901,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Lagoon-Villa.webp",
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Lagoon-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Family Villa",
+      "price": 4000,
+      "priceInclTax": 4250,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 9,
+      "images": [
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Family-Villa.webp",
+        "/resorts/Gili-Lankanfushi/images/Gili-Lankanfushi-Maldives-Family-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Gili-Lankanfushi/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Gili-Lankanfushi-Maldives-Activities.webp",
+    "Gili-Lankanfushi-Maldives-Beach-Breakfast.webp",
+    "Gili-Lankanfushi-Maldives-Beach-North-Male-Atoll.webp",
+    "Gili-Lankanfushi-Maldives-Beach.webp",
+    "Gili-Lankanfushi-Maldives-Dinner.webp",
+    "Gili-Lankanfushi-Maldives-Family-Villa.webp",
+    "Gili-Lankanfushi-Maldives-Family-Villa1.webp",
+    "Gili-Lankanfushi-Maldives-Honeymoon-North-Male-Atoll.webp",
+    "Gili-Lankanfushi-Maldives-Honeymoon.webp",
+    "Gili-Lankanfushi-Maldives-Island-map.webp",
+    "Gili-Lankanfushi-Maldives-Island.webp",
+    "Gili-Lankanfushi-Maldives-Lagoon-Villa.webp",
+    "Gili-Lankanfushi-Maldives-Lagoon-Villa1.webp",
+    "Gili-Lankanfushi-Maldives-Resort.webp",
+    "Gili-Lankanfushi-Maldives-Spa.webp",
+    "Gili-Lankanfushi-Maldives-Villa-Suite.webp",
+    "Gili-Lankanfushi-Maldives-Villa-Suite1.webp",
+    "Gili-Lankanfushi-Maldives-Wedding.webp",
+    "Gili-Lankanfushi-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

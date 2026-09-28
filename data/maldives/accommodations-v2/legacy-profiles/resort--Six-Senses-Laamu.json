@@ -1,0 +1,76 @@
+{
+  "folder": "Six-Senses-Laamu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Six-Senses-Laamu/Six-Senses-Laamu-Maldives.html",
+  "legacyTitle": "Six Senses Laamu Maldives Island Resort",
+  "legacyH1": "Six Senses Laamu Maldives Island Resort",
+  "metaDescription": "Six Senses Laamu Maldives Island is a five star resort located in Laamu Atoll, Maldives",
+  "metaAtollCodes": [
+    "L"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "L"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "nR4SchedAl8",
+  "descriptionParagraphs": [
+    "Award-winning marine conservation effort located at Six Senses Laamu in conjunction with three partner NGOs: The Manta Trust, Blue Marine Foundation, and Olive Ridley Project, all of which collaborate to achieve research, guest education, and community outreach objectives. Is this your ideal palm-fringed paradise? It's the sole resort in the secluded Laamu Atoll in the Maldives' south, yet it's only a short inter-island flight and boat ride away. On-land and over-water homes, dolphins playing in the warm sapphire waters, and restaurants offering delectable East-West cuisine combine to create an amazing, natural paradise.",
+    "These beach homes, hidden among the thick tropical flora overlooking the lagoon, feature a private pool and give complete seclusion surrounded by the turquoise lagoon waters. The pool is only a few metres from the beach, and sun loungers are strategically placed beside the pool deck for sun and shade. Feel the soothing sea wind streaming through the leaves while you bathe in the open-air branch-encircled shower or outdoor bathtub, or simply rest in the secluded garden area. Climb to your treetop terrace, which has a comfortable seating and dining space, for a unique panoramic view of Maldivian nature, sapphire ocean, and an incredible beautiful sunset.",
+    "A short bike ride on the aged timber jetties will take you to these overwater hideaways, which are surrounded by towering wooden walls. With direct access to the sea, you may go swimming or snorkelling around the lagoon, or simply rest on the overwater netted hammock. If you want to soak up some sun or watch the sunset over the lagoon, you may relax on the sun loungers or around the glass-bottom table on the outdoor deck. The water villas have an outdoor rain shower and a glass overwater bathtub with a view of the lagoon. You may obtain a unique panoramic view of the Indian Ocean, sapphire seascape, and an outstanding vivid tropical sunset here.",
+    "Six Senses Laamu's beautifully built, air-conditioned villas have an outdoor bathroom with rain shower where guests may shower beneath the stars. Guests may enjoy the Maldivian sun from the luxury of their villas thanks to private day beds and sun loungers. The rooms include an electric kettle, slippers, and a dental kit.",
+    "The Six Senses Laamu is the sole resort in the Laamu Atoll, which is located in the Maldives' south. Olhuveli Island is a 35-minute inter-island domestic flight from Male International Airport to Kadhdhoo, followed by a short motorboat journey.",
+    "Every day begins with a hearty breakfast with buffet and a la carte selections, as well as a daily changing live cooking station and fruit cut to order. Dinners are international themed events with a concentration on South Asia. There are also live cooking nights where chefs produce fresh meals from a range of different cuisines on the spot."
+  ],
+  "rooms": [
+    {
+      "name": "Lagoon Beach Villa Pool",
+      "price": 1080,
+      "priceInclTax": 1135,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Six-Senses-Laamu/images/Six-Senses-Laamu-Maldives-Lagoon-Beach-Villa.webp",
+        "/resorts/Six-Senses-Laamu/images/Six-Senses-Laamu-Maldives-Lagoon-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Water Villa",
+      "price": 1000,
+      "priceInclTax": 1093,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Six-Senses-Laamu/images/Six-Senses-Laamu-Maldives-Lagoon-Water-Villa.webp",
+        "/resorts/Six-Senses-Laamu/images/Six-Senses-Laamu-Maldives-Lagoon-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Six-Senses-Laamu/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Six-Senses-Laamu-Maldives-Beach.webp",
+    "Six-Senses-Laamu-Maldives-Dinning.webp",
+    "Six-Senses-Laamu-Maldives-Diving.webp",
+    "Six-Senses-Laamu-Maldives-Excursions.webp",
+    "Six-Senses-Laamu-Maldives-Laamu-Atoll.webp",
+    "Six-Senses-Laamu-Maldives-Lagoon-Beach-Villa.webp",
+    "Six-Senses-Laamu-Maldives-Lagoon-Beach-Villa1.webp",
+    "Six-Senses-Laamu-Maldives-Lagoon-Water-Villa-Laamu-Atoll.webp",
+    "Six-Senses-Laamu-Maldives-Lagoon-Water-Villa.webp",
+    "Six-Senses-Laamu-Maldives-Lagoon-Water-Villa1.webp",
+    "Six-Senses-Laamu-Maldives-Pool.webp",
+    "Six-Senses-Laamu-Maldives-Spa.webp",
+    "Six-Senses-Laamu-Maldives-Surfing.webp",
+    "Six-Senses-Laamu-Maldives-map.webp",
+    "Six-Senses-Laamu-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "L"
+}

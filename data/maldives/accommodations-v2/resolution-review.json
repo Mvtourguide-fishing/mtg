@@ -1,0 +1,24 @@
+[
+  {
+    "folder": "Holiday-Island",
+    "reason": "excluded",
+    "note": "Source page's title/h1/meta are a verified copy-paste duplicate of Four Seasons Voavah's page — no reliable Holiday Island-specific content exists in the legacy export to seed."
+  },
+  {
+    "folder": "Vakarufalhi",
+    "reason": "excluded",
+    "note": "Rebranded to NOVA Maldives (2019) — same physical resort/island as the 'Nova' folder, kept under its current name only."
+  },
+  {
+    "folder": "crystal-beach",
+    "reason": "research_uncertain_or_incomplete",
+    "research": {
+      "folder": "crystal-beach",
+      "atollCode": "K",
+      "islandName": "Hulhumalé",
+      "accommodationTypeOverride": "guesthouse",
+      "note": "Ambiguous: several similarly-named \"Crystal\" properties exist (Crystal Beach Inn in Hulhumalé, Crystal Sands in Maafushi, Crystal Dhiffushi in Vaavu Atoll). Assumed Crystal Beach Inn (Hulhumalé) as the closest name match to folder \"crystal-beach\", but this could not be confirmed against the actual legacy page content.",
+      "uncertain": true
+    }
+  }
+]

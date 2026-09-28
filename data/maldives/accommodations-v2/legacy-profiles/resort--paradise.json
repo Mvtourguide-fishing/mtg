@@ -1,0 +1,89 @@
+{
+  "folder": "paradise",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/paradise/paradise-island-resort-maldives.html",
+  "legacyTitle": "Paradise Island Resort Maldives",
+  "legacyH1": "Paradise Island Resort Maldives",
+  "metaDescription": "Paradise Island is a resort located in Male atoll",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "6DZ5G4PYy3Y",
+  "descriptionParagraphs": [
+    "This is paradise, or more precisely, Paradise Island Resort & Spa, an uncompromising haven of luxury and convenience. A network of paved pathways runs through the lush grounds, linking oceanfront accommodations, gourmet dining spots, sports facilities, and an inspiring spa, all of which contribute to making your Maldives island resort vacation everything you want it to be.",
+    "Paradise Island Resort offers 282 beautifully appointed guest rooms and suites in a casual luxury and luxurious environment. The resort has an outdoor pool, four bars, and a salon with many amenities."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 204,
+      "priceInclTax": 255,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/paradise/images/paradise-island-resort-beach-room.webp",
+        "/resorts/paradise/images/paradise-island-resort-beach-room1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 271,
+      "priceInclTax": 338,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/paradise/images/paradise-island-resort-beach-pool-room.webp",
+        "/resorts/paradise/images/paradise-island-resort-beach-pool-room1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 496,
+      "priceInclTax": 620,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 2,
+      "images": [
+        "/resorts/paradise/images/paradise-island-resort-water-room.webp",
+        "/resorts/paradise/images/paradise-island-resort-water-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/paradise/images",
+  "imageCount": 22,
+  "imageFiles": [
+    "paradise-island-maldives-resort.webp",
+    "paradise-island-map.jpg",
+    "paradise-island-map.webp",
+    "paradise-island-resort-beach-pool-room.jpg",
+    "paradise-island-resort-beach-pool-room.webp",
+    "paradise-island-resort-beach-pool-room1.jpg",
+    "paradise-island-resort-beach-pool-room1.webp",
+    "paradise-island-resort-beach-room.jpg",
+    "paradise-island-resort-beach-room.webp",
+    "paradise-island-resort-beach-room1.jpg",
+    "paradise-island-resort-beach-room1.webp",
+    "paradise-island-resort-maldive.webp",
+    "paradise-island-resort-maldives.webp",
+    "paradise-island-resort-water-room.jpg",
+    "paradise-island-resort-water-room.webp",
+    "paradise-island-resort-water-room1.webp",
+    "paradise-island-resort.jpg",
+    "paradise-island-resort.webp",
+    "paradise-island.webp",
+    "paradise-maldives.webp",
+    "paradise-resort-maldives.webp",
+    "paradise-resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,78 @@
+{
+  "folder": "Safari-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Safari-Island/safari-island-maldives-mushimas-migili.html",
+  "legacyTitle": "Safari Island Resort and Spa Maldives",
+  "legacyH1": "Safari Island Resort and Spa Maldives",
+  "metaDescription": "Safari Island Resort and Spa is a five star resort located in North Ari Atoll, Maldives",
+  "metaAtollCodes": [
+    "AA"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "AA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "maldives north ari"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "runiGf6kyVA",
+  "descriptionParagraphs": [
+    "Safari Island is located in the Republic of Maldives' North Ari Atoll. The island is roughly 30,000 square metres in size. The island is around 60 kilometres from Velana International Airport (Male' International Airport) and takes about 25 minutes to arrive by seaplane. The island is bordered by white powdery, sandy beaches, a crystal clear water lagoon, and a house reef that is ideal for snorkelling and diving.",
+    "Beach room with a deluxe en suite bathroom that has panoramic glass mirrors and twin wash basins. The room has a full glass door that leads to a private wooden porch with seats.",
+    "Overwater villas with a beautiful glass-bottomed coffee table. Back private sun deck going to blue lagoon.",
+    "On one end of the island, a line of 15 Semi-Water Bungalows runs. A jetty at the other end leads to 39 Water Bungalows. The 30 Beach Bungalows are located on an island surrounded by beautiful green flora, including palm palms. All 84 rooms have a sea view.",
+    "It is around 60 kilometres from Velana International Airport and takes about 25 minutes to get by seaplane.",
+    "Tropical haven Safari Island is a must-see destination in the Maldives. A visit to our great restaurant, an icon in the Maldives, would not be complete without a tour. The main restaurant, shaded by a spectacular white canopy and floating over the lagoon, serves breakfast, lunch, and supper in an all-you-can-eat buffet format with a range of international and regional cuisines to accommodate everyone's taste."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 230,
+      "priceInclTax": 272,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Safari-Island/images/Safari-Island-Resort-and-Spa-Maldives-Beach-Bungalow.webp",
+        "/resorts/Safari-Island/images/Safari-Island-Resort-and-Spa-Maldives-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 300,
+      "priceInclTax": 358,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Safari-Island/images/Safari-Island-Resort-and-Spa-Maldives-Water-Bungalow.webp",
+        "/resorts/Safari-Island/images/Safari-Island-Resort-and-Spa-Maldives-Water-Bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Safari-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Safari-Island-Resort-Activities.webp",
+    "Safari-Island-Resort-Ari-Atoll.webp",
+    "Safari-Island-Resort-Beach.webp",
+    "Safari-Island-Resort-Dinning.webp",
+    "Safari-Island-Resort-Excursions.webp",
+    "Safari-Island-Resort-Maldives-North-Ari-Atoll.webp",
+    "Safari-Island-Resort-Maldives-Pool.webp",
+    "Safari-Island-Resort-Maldives.webp",
+    "Safari-Island-Resort-and-Spa-Maldives-Beach-Bungalow.webp",
+    "Safari-Island-Resort-and-Spa-Maldives-Beach-Bungalow1.webp",
+    "Safari-Island-Resort-and-Spa-Maldives-Water-Bungalow.webp",
+    "Safari-Island-Resort-and-Spa-Maldives-Water-Bungalow1.webp",
+    "Safari-Island-Resort-and-Spa-Maldives.webp",
+    "Safari-Island-Resort.webp",
+    "safari-island-maldives-mushimas-migili-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "AA"
+}

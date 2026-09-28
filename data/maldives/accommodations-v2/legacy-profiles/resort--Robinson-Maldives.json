@@ -1,0 +1,76 @@
+{
+  "folder": "Robinson-Maldives",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Robinson-Maldives/Robinson-Maldives.html",
+  "legacyTitle": "Robinson Club Maldives Island Resort",
+  "legacyH1": "Robinson Club Maldives Island Resort",
+  "metaDescription": "Robinson Club Maldives Island is a five star resort located in Gaafu Alifu Atoll, Maldives",
+  "metaAtollCodes": [
+    "GA"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "gaaf alif"
+  ],
+  "explicitIslandName": "Funamadua",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "ctxxnGAKqlk",
+  "descriptionParagraphs": [
+    "For some, this is Funamadua; for us, it is paradise: exotic underwater wonderland, white dream beach, sunsets that leave you speechless...it is no surprise that so many couples marry here. Even if you do not have a romantic wedding ceremony, you may have a memorable holiday in the Maldives, whether as a couple, with friends, or alone, whether lounging by the pool or snorkelling and diving together. Meet people from all over the world for a meet and greet with WellFit and beach volleyball, or wind off the day with a sundowner.",
+    "The Robinson Club features Garden Bungalows, Beach Bungalow Sea, and Beach Bungalow Sea, with more to come. Robinson Club has 121 rooms, 2 restaurants, and 3 bars to keep you entertained during your stay.",
+    "The Robinson Club is located on the island of Funamadua in the Gaaf Alif Atoll, approximately 60 kilometres north of the equator, and is surrounded by a beautiful, mostly undisturbed coral reef (the house reef is 20 to 200 metres away).",
+    "Breakfast, lunch, and supper buffets, late-night breakfast, Coffee specialities for breakfast, all beverages at the bar throughout the day (excluding selected wines, sparkling wines, spirits, and other specialties), soft drinks (branded drinks), beer, table wine, filter coffee, and tea available in the buffet area.",
+    "Allow yourself time and rest, and allow yourself to be treated according to all of the principles of the art. I treat myself to a health break, whether it's a massage or a beauty treatment, in the sanarium or with a sauna infusion.",
+    "ROBINSON MALDIVES' culinary highlights satisfy all senses - sample the most delectable meals every day. The best quality and utmost freshness are prioritised. Finish the night with cool beverages and exotic drinks while viewing the sunset."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 400,
+      "priceInclTax": 442,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Robinson-Maldives/images/Robinson-Club-Maldives-Beach-Bungalow.webp",
+        "/resorts/Robinson-Maldives/images/Robinson-Club-Maldives-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 500,
+      "priceInclTax": 530,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Robinson-Maldives/images/Robinson-Club-Maldives-Lagoon-Villa.webp",
+        "/resorts/Robinson-Maldives/images/Robinson-Club-Maldives-Lagoon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Robinson-Maldives/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Robinson-Club-Maldives-Activities.webp",
+    "Robinson-Club-Maldives-Beach-Bungalow.webp",
+    "Robinson-Club-Maldives-Beach-Bungalow1.webp",
+    "Robinson-Club-Maldives-Beach.webp",
+    "Robinson-Club-Maldives-Gaafu-Alifu-Atoll.webp",
+    "Robinson-Club-Maldives-Lagoon-Villa.webp",
+    "Robinson-Club-Maldives-Lagoon-Villa1.webp",
+    "Robinson-Club-Maldives-Pool.webp",
+    "Robinson-Club-Maldives-Snorkeling.webp",
+    "Robinson-Club-Maldives-Spa.webp",
+    "Robinson-Club-Maldives-Wedding.webp",
+    "Robinson-Club-Maldives-Yoga-Gaafu-Alifu-Atoll.webp",
+    "Robinson-Club-Maldives-Yoga.webp",
+    "Robinson-Club-Maldives.webp",
+    "Robinson-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "GA"
+}

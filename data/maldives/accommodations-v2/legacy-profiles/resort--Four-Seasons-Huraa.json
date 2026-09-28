@@ -1,0 +1,76 @@
+{
+  "folder": "Four-Seasons-Huraa",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Four-Seasons-Huraa/Four-Seasons-Maldives-Kuda-Huraa.html",
+  "legacyTitle": "FOUR SEASONS RESORT MALDIVES AT KUDA HURAA",
+  "legacyH1": "FOUR SEASONS RESORT MALDIVES AT KUDA HURAA",
+  "metaDescription": "Four Seasons Kuda Huraa Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "-8e3_fdwxmk",
+  "descriptionParagraphs": [
+    "Kuda Huraa rises gently from a sheet of turquoise, making it difficult to determine where the water stops and the sky starts. We embrace our gorgeous surroundings to bring you closer to the sea and its mysteries, which are as enthralling beneath the waves as they are above them. Discover a lagoon, flower gardens, a secluded spa island, and large new Beach Pavilion hideaways in a beautiful village setting, granted a Forbes Five-Star rating in 2020.",
+    "Take to the skies with a team of professional guides in search of the greatest surf and the largest waves in the Maldives. It's your chance, only via our Resort, to fly into the heart of Maldivian surf wildness.",
+    "From internal solitude to the white-sand beach, from sunbathing on your private deck to cooling off in your plunge pool, you can do it all with ease. Our Sunrise Beach Bungalows with Pool are set among a paradise of tropical vegetation and mature palms and offer the finest of indoor-outdoor living.",
+    "Dive right from your bedroom into the infinity pool. Relax on overwater hammocks. At the water's edge living and eating pavilion, soak up the sunset blues. Descend the steps into the warm clear lagoon, which is teeming with reef fish and corals.",
+    "The Four Seasons Kuda Huraa offers 13 distinct accommodation types, each with breathtaking views of the ocean.",
+    "Four Seasons Kuda Huraa is located on the North Malé Atoll, in the peaceful turquoise seas of the Indian Ocean, a 25-minute speedboat trip from Velana International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Bangalow With Pool",
+      "price": 1500,
+      "priceInclTax": 1696,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Four-Seasons-Huraa/images/Four-Seasons-Maldives-at-Kuda-Huraa-Sunrise-Brach-Bangalow.webp",
+        "/resorts/Four-Seasons-Huraa/images/Four-Seasons-Maldives-at-Kuda-Huraa-Sunrise-Brach-Bangalow1.webp"
+      ]
+    },
+    {
+      "name": "Sunset Water Villa With Pool",
+      "price": 2200,
+      "priceInclTax": 2350,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Four-Seasons-Huraa/images/Four-Seasons-Maldives-at-Kuda-Huraa-Sunset-Water-Bangalow.webp",
+        "/resorts/Four-Seasons-Huraa/images/Four-Seasons-Maldives-at-Kuda-Huraa-Sunset-Water-Bangalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Four-Seasons-Huraa/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Four-Seasons-Maldives-Huraa.webp",
+    "Four-Seasons-Maldives-Kuda-Huraa-Island-map.webp",
+    "Four-Seasons-Maldives-Kuda-Huraa-Male-Atoll.webp",
+    "Four-Seasons-Maldives-Kuda-Huraa.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Beach.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Excursion.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Island.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Male-Atoll.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Pool.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Resort.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Restaurant.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Spa.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Sunrise-Brach-Bangalow.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Sunrise-Brach-Bangalow1.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Sunset-Water-Bangalow.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa-Sunset-Water-Bangalow1.webp",
+    "Four-Seasons-Maldives-at-Kuda-Huraa.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

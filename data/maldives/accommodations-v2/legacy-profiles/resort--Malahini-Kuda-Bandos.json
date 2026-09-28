@@ -1,0 +1,60 @@
+{
+  "folder": "Malahini-Kuda-Bandos",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Malahini-Kuda-Bandos/Malahini-Kuda-Bandos-Maldives.html",
+  "legacyTitle": "Malahini Kuda Bandos Maldives Island Resort",
+  "legacyH1": "Malahini Kuda Bandos Maldives Island Resort",
+  "metaDescription": "Malahini Kuda Bandos Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "f_g5hU7gpHI",
+  "descriptionParagraphs": [
+    "Malahini Kuda Bandos, Celebrate your marriage with a honeymoon on beautiful pristine beaches overlooking turquoise waters while dining on delicious cuisine. We provide customised honeymoon packages with loads of advantages!",
+    "Our Deluxe accommodations, which are located along the beach, have a partial view of the ocean. Each room is 27 square metres in size and has the following amenities to provide a comfortable stay:",
+    "This year, Malahini Kuda Bandos might be your pleasant spot to relax with their modern and contemporary homes. Beach Villas, Superior Rooms, Deluxe Rooms, and Classic Rooms are the five accommodation types available.",
+    "Malahini Kuda Bandos is a ten-minute boat journey from Velana International Airport and provides basic luxury without breaking the wallet.",
+    "Sit at the water's edge and have breakfast, lunch, or dinner in our modern and stunning restaurant that overlooks our lovely lagoon. If you like to eat under the stars, please sit on our open-air deck and listen to the waves breaking around you. If you would like to have a private dinner experience on the beach, please contact our Maaga Crew and they would be pleased to arrange one for you. To gratify our broad group of travellers, the Maaga Buffet is painstakingly created to feature a range of cuisines from all around the world.",
+    "Visit Alizé to calm your senses and absorb the peacefulness of our surroundings. Our spa pavilions at Alizé are inspired by age-old Asian and Maldivian traditions and are meant to offer you with a refuge from the world while also considering your well-being. Pamper yourself with a manicure or pedicure while admiring the ocean!"
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Room",
+      "price": 355,
+      "priceInclTax": 402,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Malahini-Kuda-Bandos/images/Malahini-Kuda-Bandos-Maldives-Deluxe-Room.webp",
+        "/resorts/Malahini-Kuda-Bandos/images/Malahini-Kuda-Bandos-Maldives-Deluxe-Room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Malahini-Kuda-Bandos/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "Malahini-Kuda-Bandos-Maldives-Activities.webp",
+    "Malahini-Kuda-Bandos-Maldives-Beach.webp",
+    "Malahini-Kuda-Bandos-Maldives-Deluxe-Room.webp",
+    "Malahini-Kuda-Bandos-Maldives-Deluxe-Room1.webp",
+    "Malahini-Kuda-Bandos-Maldives-Island-map.webp",
+    "Malahini-Kuda-Bandos-Maldives-Island.webp",
+    "Malahini-Kuda-Bandos-Maldives-Male-Atoll.webp",
+    "Malahini-Kuda-Bandos-Maldives-Spa.webp",
+    "Malahini-Kuda-Bandos-Maldives-Water-Sports.webp",
+    "Malahini-Kuda-Bandos-Maldives-Wedding-Male-Atoll.webp",
+    "Malahini-Kuda-Bandos-Maldives-Wedding.webp",
+    "Malahini-Kuda-Bandos-Maldives.webp",
+    "Malahini-Kuda-Bandos.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,76 @@
+{
+  "folder": "OBLU-SELECT-Lobigili",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/OBLU-SELECT-Lobigili/OBLU-SELECT-Lobigili-Maldives.html",
+  "legacyTitle": "OBLU SELECT Lobigili Maldives Island Resort",
+  "legacyH1": "OBLU SELECT Lobigili Maldives Island Resort",
+  "metaDescription": "OBLU SELECT Lobigili Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "RwiYnEODZuk",
+  "descriptionParagraphs": [
+    "Helengeli Island, North Male' Atoll, is known for its Exotic House Reef, which is home to Silver-tipped Sharks, Lobsters, and Giant Sea Turtles. Embracing the lush environment on Helengeli Island and guaranteeing that the amazing house reef, only metres away from the island, is totally conserved in its original condition - the colourful, stylish, and hip resort, OBLU by Atmosphere at Helengeli, opened its doors on November 1, 2015!",
+    "This airy, sun-lit one-bedroom beach cottage is the ultimate in relaxation. Lush tropical gardens and palm palms provide complete solitude. Carefree days begin with a pleasant swim in the pool or the sea. Inside, vibrant tropical sensations follow you, with hardwood textures, intriguing modern décor, and earthy red tones adding a sensuous touch. After a day in paradise, the sumptuous outdoor-indoor Maldivian bathroom with an open-air freestanding bathtub is ideal for a leisurely start-lit soak.",
+    "Immerse yourself in crystal-clear lagoon views and elegantly furnished areas. This one-bedroom overwater home exudes tropical serenity. The interiors are modern and lively, with relaxing white walls, warm hardwood flooring, gorgeous ocean-framing windows, and a luxurious bathroom with a tempting, deep-soaking bathtub and private overwater hammock.",
+    "OBLU CHOICE Lobigili is exclusively for adults, featuring postcard-perfect coastal and overwater homes. These remote vacation houses merge tropical panoramas and nature-inspired architecture for a romantic, castaway vibe, making them ideal for romantic getaways. While Loabigili Island is great for a romantic interlude for two, it is also suitable for adults-only trips such as a bachelorette party, carousing with friends, or a romantic couples stay in the Indian Ocean.",
+    "Ylang-Ylang (All-Day Dining) - Global flavours with an Italian twist are sure to satisfy your taste buds. Choose from a variety of live culinary stations, tandoors, and desserts ranging from the Italian specialty tiramisu to Thai Loy Coconut Milk.",
+    "Only Blu Specialty Underwater Restaurant - Culinary feast in a mystical underwater atmosphere. Our continually changing menu highlights fresh ingredients and current culinary methods to produce a one-of-a-kind dining experience that will live on forever, paired with the appropriate wine."
+  ],
+  "rooms": [
+    {
+      "name": "SunNest Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 983,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-SELECT-Lobigili/images/OBLU-SELECT-Lobigili-Maldives-Sunnest-Beach-Pool-Villa.webp",
+        "/resorts/OBLU-SELECT-Lobigili/images/OBLU-SELECT-Lobigili-Maldives-Sunnest-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Nest Water Villa",
+      "price": 800,
+      "priceInclTax": 870,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-SELECT-Lobigili/images/OBLU-SELECT-Lobigili-Maldives-Nest-Water-Villa.webp",
+        "/resorts/OBLU-SELECT-Lobigili/images/OBLU-SELECT-Lobigili-Maldives-Nest-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/OBLU-SELECT-Lobigili/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "OBLU-SELECT-Lobigili-Maldives-Beach.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Dinning.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Island-North-Male-Atoll.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Island-Resort.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Island-map.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Island.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Luxury-Hotel.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Nest-Water-Villa.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Nest-Water-Villa1.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Pool.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Sunnest-Beach-Pool-Villa.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Sunnest-Beach-Pool-Villa1.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Sunset-North-Male-Atoll.webp",
+    "OBLU-SELECT-Lobigili-Maldives-Sunset.webp",
+    "OBLU-SELECT-Lobigili-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,44 @@
+# Render Blueprint (https://render.com/docs/blueprint-spec) for this app.
+# In the Render dashboard: New -> Blueprint -> pick this repo/branch -> Render
+# reads this file and creates the service below. Every envVar has
+# sync: false, meaning Render will prompt for each value in its own
+# dashboard rather than storing secrets in this repo -- fill them in from
+# the same values already set in Vercel (Project -> Settings ->
+# Environment Variables) or from .env.example's comments for what each one
+# is for.
+#
+# plan: starter is Render's cheapest tier that does NOT spin down after
+# inactivity and has no hard request-timeout ceiling (unlike Vercel's free
+# Hobby plan, which is the actual problem this migration is solving).
+# Switch to "free" in the dashboard first only if you want to try before
+# paying, but see the caveats already discussed: free services spin down
+# after 15 minutes idle, costing the next visitor a slow cold start.
+
+services:
+  - type: web
+    name: maldivestour
+    runtime: node
+    plan: starter
+    region: singapore
+    branch: main
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_VERSION
+        value: 22.22.2
+      - key: NEXT_PUBLIC_SITE_URL
+        value: https://maldivestour.guide
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: RESEND_FROM_EMAIL
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_CHAT_ID
+        sync: false

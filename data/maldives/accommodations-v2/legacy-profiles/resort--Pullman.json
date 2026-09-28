@@ -1,0 +1,98 @@
+{
+  "folder": "Pullman",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Pullman/Pullman-Maldives.html",
+  "legacyTitle": "Pullman Maldives Maamutaa Island Resort",
+  "legacyH1": "Pullman Maldives Maamutaa Island Resort",
+  "metaDescription": "Pullman Maldives Maamutaa Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "aCmdCbfQu10",
+  "descriptionParagraphs": [
+    "Pullman Maldives Maamutaa is a Maldives premium all-inclusive resort where visitors may take advantage of special privileges, inspire their thoughts, and test their horizons. You'll discover everything you need to improve your game right here. Our creative playground is headquartered on Maamutaa Island in Gaafu Alifu Atoll, in the southern Maldives. Set within 18 hectares of lush forest and around a natural lake, our aim is to provide our visitors with a holiday of a lifetime.",
+    "The Pullman Beach Villa is a tranquil haven in perfect harmony with its surroundings. A king-size bed dominates the 200sqm of modern living area. A huge private balcony captures sea breezes to the accompaniment of rustling palms and gently lapping waves. From the beautiful garden to the azure Indian Ocean, a quiet pathway leads. The spacious indoor-outdoor bath space has two refreshing showers and a luxurious island tub.",
+    "A chic hideaway surrounded by rich natural greenery, with the beach's coral-white beaches just feet away. A shaded balcony overlooks the private pool and captures the sea wind. The Pullman Beach Pool Villa is a sophisticated traveler's island getaway. Together or alone. The understated interior design combines Maldivian heritage with modern flair. A generous 240sqm of area provides plenty of room to do nothing. Alternatively, you could do everything. The bath space is centred on a deep island tub, with indoor and outdoor showers and his and hers wash basins.",
+    "Steps descend immediately from a large timber terrace to the lovely, tranquil sea. Pullman's Ocean Villa is ideal for couples who want to savour every minute. Both day and night. An mesmerising view of the rich aquatic life below is provided via a lighted glass aperture in the floor. A large quantity of space (160sqm) means you'll have plenty of room to stretch out. The open air living environment will revitalise and reconnect you with nature. Or soak it all up in the netting hammock floating above water.",
+    "Discover Pullman's The Aqua Villa experience, an immersive encounter with aquatic life from the luxury of your bed that will nourish and bring to life your childhood fantasies. Enjoy the tranquillity of the Indian Ocean while finding the right combination of play and refreshment. Because Pullman believes in blending work and leisure, there is so much more to do at Pullman Maldives than just kick back, sleep, and take a picture. This luxurious two-level Aqua Villa features a submerged master bedroom as well as an overwater bedroom, as well as lots of space for you to relax and live your once-in-a-lifetime narrative. The Aqua Villa Experience brings your childhood fantasies to reality. It's not a game.",
+    "The resort has 122 villas, including magnificent and unusual underwater villas. Honeymooners may enjoy their Private Beach and Water Pool Villas, while families can enjoy spacious 2 -3 Bedroom Villas."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1000,
+      "priceInclTax": 1046,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Pullman/images/Pullman-Maldives-Maamutaa-Beach-Villa.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1150,
+      "priceInclTax": 1235,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Pullman/images/Pullman-Maldives-Maamutaa-Beach-Pool-Villa.webp"
+      ]
+    },
+    {
+      "name": "Ocean Villa",
+      "price": 1000,
+      "priceInclTax": 1094,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Pullman/images/Pullman-Maldives-Maamutaa-Ocean-Villa.webp"
+      ]
+    },
+    {
+      "name": "Aqua Villa",
+      "price": 3700,
+      "priceInclTax": 3899,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Pullman/images/Pullman-Maldives-Maamutaa-Aqua-Villa.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Pullman/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Pullman-Maldives-Maamuta-Island-map.webp",
+    "Pullman-Maldives-Maamutaa-Activities.webp",
+    "Pullman-Maldives-Maamutaa-Aqua-Villa-Gaafu-Alifu-Atoll.webp",
+    "Pullman-Maldives-Maamutaa-Aqua-Villa.webp",
+    "Pullman-Maldives-Maamutaa-Beach-Pool-Villa.webp",
+    "Pullman-Maldives-Maamutaa-Beach-Villa.webp",
+    "Pullman-Maldives-Maamutaa-Beach.webp",
+    "Pullman-Maldives-Maamutaa-Dinning.webp",
+    "Pullman-Maldives-Maamutaa-Gym.webp",
+    "Pullman-Maldives-Maamutaa-Island-Resort-Gaafu-Alifu-Atoll.webp",
+    "Pullman-Maldives-Maamutaa-Island-Resort.webp",
+    "Pullman-Maldives-Maamutaa-Island.webp",
+    "Pullman-Maldives-Maamutaa-Ocean-Villa.webp",
+    "Pullman-Maldives-Maamutaa-Pool.webp",
+    "Pullman-Maldives-Maamutaa-Spa.webp",
+    "Pullman-Maldives-Maamutaa-Yoga.webp",
+    "Pullman-Maldives-Maamutaa.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

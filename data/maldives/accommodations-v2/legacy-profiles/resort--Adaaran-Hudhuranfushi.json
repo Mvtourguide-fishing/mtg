@@ -1,0 +1,87 @@
+{
+  "folder": "Adaaran-Hudhuranfushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Adaaran-Hudhuranfushi/Adaaran-Select-Hudhuran-Fushi-Maldives.html",
+  "legacyTitle": "Adaaran Select Hudhuran Fushi Island Resort Maldives",
+  "legacyH1": "Adaaran Select Hudhuran Fushi Island Resort Maldives",
+  "metaDescription": "Adaaran Select Hudhuran Fushi Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "DDBNdhpfmHk",
+  "descriptionParagraphs": [
+    "Adaaran Select Hudhuranfushi offers an unforgettable tropical vacation. The Island of White Gold, blessed with abundant vegetation and clean seas, is located in quiet isolation in the North Male Atoll. Set on 83 acres of beautiful tropical beach property on Kani Beach on Lhohifushi Island, the resort's architecture allows it to fit in as one of the top resorts in Maldives. Discover a secret paradise where the sun rises to paint the skies in deep orange colours and the gentle waves of the Indian Ocean caress the coastline with elegance.",
+    "Note: This hotel has different rates for diferrent season and this may not be the updated rates as we do not use Hotel PMS software.",
+    "The 165 air-conditioned villas are outfitted with modern facilities, exquisite furniture, and tropical-themed décor. Enjoy a slice of paradise at the 37 Ocean Villas, which radiate a world of elegance and luxury while also providing a plethora of exclusive amenities. The air-conditioned villas provide contemporary facilities as well as a private sun deck with 24-hour access to the surrounding ocean."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 320,
+      "priceInclTax": 375,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Adaaran-Hudhuranfushi/images/Adaaran-Select-HudhuranFushi-Beach-Villa.webp",
+        "/resorts/Adaaran-Hudhuranfushi/images/Adaaran-Select-HudhuranFushi-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Villa",
+      "price": 600,
+      "priceInclTax": 653,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Adaaran-Hudhuranfushi/images/Adaaran-Select-HudhuranFushi-Ocean-Villa.webp",
+        "/resorts/Adaaran-Hudhuranfushi/images/Adaaran-Select-HudhuranFushi-Ocean-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Adaaran-Hudhuranfushi/images",
+  "imageCount": 29,
+  "imageFiles": [
+    "Adaaran-Select-Hudhuran-Fushi-Island.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Island.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Island-map.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Island.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Island.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Reosrt-Island.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Reosrt-Island.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Resort.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives-Resort.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Maldives.webp",
+    "Adaaran-Select-Hudhuran-Fushi-Resort.jpg",
+    "Adaaran-Select-Hudhuran-Fushi-Resort.webp",
+    "Adaaran-Select-Hudhuran-Fushi.jpg",
+    "Adaaran-Select-Hudhuran-Fushi.webp",
+    "Adaaran-Select-HudhuranFushi-Beach-Villa.jpg",
+    "Adaaran-Select-HudhuranFushi-Beach-Villa.webp",
+    "Adaaran-Select-HudhuranFushi-Beach-Villa1.jpg",
+    "Adaaran-Select-HudhuranFushi-Beach-Villa1.webp",
+    "Adaaran-Select-HudhuranFushi-Maldives.jpg",
+    "Adaaran-Select-HudhuranFushi-Maldives.webp",
+    "Adaaran-Select-HudhuranFushi-Ocean-Villa.jpg",
+    "Adaaran-Select-HudhuranFushi-Ocean-Villa.webp",
+    "Adaaran-Select-HudhuranFushi-Ocean-Villa1.jpg",
+    "Adaaran-Select-HudhuranFushi-Ocean-Villa1.webp",
+    "Adaaran-Select-HudhuranFushi.jpg",
+    "Adaaran-Select-HudhuranFushi.webp",
+    "Maldives-Reosrt-Adaaran-Select-Hudhuran-Fushi.jpg",
+    "Maldives-Reosrt-Adaaran-Select-Hudhuran-Fushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

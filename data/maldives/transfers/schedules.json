@@ -1,0 +1,38 @@
+[
+  {
+    "service_name": "Public Ferry (Malé–Maafushi)",
+    "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+    "day_of_week": null,
+    "departure_time": "15:00",
+    "arrival_time": null,
+    "duration_minutes": 90,
+    "notes": "Sourced from holiday.com.mv/thingstodoplace.com summaries of the MTCC route-309 timetable: departs Malé at 15:00 'daily' except Friday (route does not operate on Fridays, the standard MTCC weekly off-day) via Gulhi and Guraidhoo before reaching Maafushi. `day_of_week` recorded as null ('every day') as the closest fit in this schema, since there is no way to encode a 'daily except one specific day' pattern — the Friday exception is preserved here in free text instead of being silently dropped."
+  },
+  {
+    "service_name": "Public Ferry (Malé–Guraidhoo)",
+    "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+    "day_of_week": null,
+    "departure_time": "15:00",
+    "arrival_time": null,
+    "duration_minutes": 135,
+    "notes": "Same physical route-309 departure as the Malé–Maafushi entry above (this run continues past Gulhi/Guraidhoo/Maafushi); Guraidhoo-specific arrival time not found in snippets reviewed, so `arrival_time` is left null while `duration_minutes` (135) reflects the route's own stated 2h15m journey time to Guraidhoo. Does not operate on Fridays (see notes above on the null `day_of_week` convention used here)."
+  },
+  {
+    "service_name": "Public Ferry (Guraidhoo–Malé)",
+    "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+    "day_of_week": null,
+    "departure_time": "07:00",
+    "arrival_time": null,
+    "duration_minutes": 135,
+    "notes": "Sourced from a search on the Malé–Guraidhoo MTCC route ('the ferry departs from Guraidhoo Saturday to Thursday at 7 am'). This is a genuinely Saturday–Thursday pattern (Friday excluded, matching the MTCC weekly off-day), which `day_of_week: null` ('every day') approximates rather than states exactly, since the schema has no multi-day-except-one encoding; the Friday exception is called out here in free text instead."
+  },
+  {
+    "service_name": "Public Ferry (Malé–Himmafushi)",
+    "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+    "day_of_week": null,
+    "departure_time": "14:30",
+    "arrival_time": "15:10",
+    "duration_minutes": 40,
+    "notes": "Sourced from a search on MTCC route 308 (budgetmaldives.com/moovitapp-derived summaries): departs Malé at 14:30 and arrives Himmafushi at 15:10, every day except Friday. `day_of_week` recorded as null for the same reason noted on the other entries above — the schema cannot express 'daily except Friday' directly, and that exception is preserved here in free text rather than silently dropped."
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "folder": "Amra-Palace",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/Amra-Palace/Amra-Palace-Hotel-Maldives-Gan-Island.html",
+  "legacyTitle": "Amra Palace Hotel in Male Maldives",
+  "legacyH1": "Amra Palace Island Hotel Maldives",
+  "metaDescription": "Amra Palace is a hotel opened in the local island of male\nmale atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "gan"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "BNO2diluGHE",
+  "descriptionParagraphs": [
+    "Amra Palace is a private gated residence surrounded by lush tropical gardens. It is the ideal setting for unwinding, relaxing, and enjoying the Maldives' natural beauty. The friendly staff at Amra Hotel can arrange you a variety of activities such as diving, snorkelling, island hopping, and dolphin watching, while the in-house restaurant serves local and foreign cuisine. In-room eating is also available through room service.",
+    "The rooms of Amra Palace are divided into two categories: deluxe and outstanding. Superior rooms are located on the first level and are big and pleasant, as well as equipped with all modern comforts. Deluxe rooms are on the ground level and enjoy a beautiful view of the Amra Palace grounds and gardens. Amra Palace can also accommodate families, with twin beds and interconnecting rooms available.",
+    "Amra Palace is located in a vibrant and dynamic local community and is accessible through a 35-minute flight from Velana International Airport to Kaddhoo Domestic Airport and a 10-minute car ride. It is ideally located a 5-minute walk from one of the Gan Atoll's nicest, most opulent, and prettiest beaches."
+  ],
+  "rooms": [],
+  "imageDirRelative": "hotels/Amra-Palace/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Amra-Palace-Hotel-Deluxe-Room.webp",
+    "Amra-Palace-Hotel-Deluxe-Room1.webp",
+    "Amra-Palace-Hotel-Maldives-Activity.webp",
+    "Amra-Palace-Hotel-Maldives-Dinning.webp",
+    "Amra-Palace-Hotel-Maldives-Gan-Island-Laamu-Atoll.webp",
+    "Amra-Palace-Hotel-Maldives-Gan-Island.webp",
+    "Amra-Palace-Hotel-Maldives-Gan.webp",
+    "Amra-Palace-Hotel-Maldives-Garden.webp",
+    "Amra-Palace-Hotel-Maldives-Laamu.webp",
+    "Amra-Palace-Hotel-Maldives-Pool-Laamu-Atoll.webp",
+    "Amra-Palace-Hotel-Maldives-Pool.webp",
+    "Amra-Palace-Hotel-Maldives-map.webp",
+    "Amra-Palace-Hotel-Maldives.webp",
+    "Amra-Palace-Hotel-Superior-Room.webp",
+    "Amra-Palace-Hotel-Superior-Room1.webp",
+    "Amra-Palace-Hotel-map.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,58 @@
+{
+  "folder": "Makunudu-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Makunudu-Island/Makunudu-Island-Maldives.html",
+  "legacyTitle": "Makunudu Island Resort Maldives",
+  "legacyH1": "Makunudu Island Resort Maldives",
+  "metaDescription": "Makunudu Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "m16ooP56quk",
+  "descriptionParagraphs": [
+    "Makunudu Island, located in North Malé Atoll and a 50-minute speedboat trip from Male International Airport, welcomes you into the warm embrace of an authentic Maldivian getaway. Where gleaming beaches give way to the turquoise lagoon's crystal pure waters, melting into endless ocean views. Where serenity permeates into your spirit and real hospitality greets you like a friend. A rare retreat, gloriously undisturbed, that has a particular place in the hearts of people who explore the world. Remove your shoes and immerse yourself in island time...",
+    "These vast havens of leisure merge rustic beauty with modern conveniences, thoughtfully designed in traditional Maldivian style utilising native woods, stones, and a palette of earthy colours. Enjoy the pleasure of a garden shower that is accessible to the outdoors yet entirely concealed. Relax on your individual sun loungers in the shade of the palms or under the warm Maldivian sun. Sleep quietly to the soothing sounds of lapping waves.",
+    "The Deluxe bungalows, inspired by its Maldivian history, represent the island's native culture and energy. One of 36 beachfront villas set among thick tropical greenery only steps from the beach is your own little getaway.",
+    "We are located in North Malé Atoll, 45 minutes via speedboat from Malé International Airport.",
+    "Indulge in spectacular buffets of meats, seafood, and tropical fruits, table-served set dinners, and once a week, a scorching barbeque and a wonderful slice of Maldivian spice in a beautiful Maldivian buffet supper. Quench your thirst at the Sand Bar, day or night, with delicious beverages and sunset cocktails, while conversing with fellow travellers and being cooled by the ocean wind. A carefully made candlelit supper beneath the stars on the beach, in your bungalow, or other secluded locales is an experience to truly savour on those special occasions.",
+    "Your rejuvenation journey begins with therapies that include the finest of Maldivian, Asian, and European wellness methods and traditions. A Maldivian massage utilising seashells and pure indigenous coconut oil is available. A customised face will restore your natural glow. Relax and restore balance from head to toe with an Ayurvedic Indian head massage or reflexology."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 300,
+      "priceInclTax": 342,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Makunudu-Island/images/Makunudu-Island-Resort-Maldives-Beach-Bangalow.webp",
+        "/resorts/Makunudu-Island/images/Makunudu-Island-Resort-Maldives-Beach-Bangalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Makunudu-Island/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "Makunudu-Island-Maldives-map.webp",
+    "Makunudu-Island-Resort-Maldives-Beach-Bangalow1.webp",
+    "Makunudu-Island-Resort-Maldives-Beach.webp",
+    "Makunudu-Island-Resort-Maldives-Dinning.webp",
+    "Makunudu-Island-Resort-Maldives-Diving.webp",
+    "Makunudu-Island-Resort-Maldives-North-Male-Atoll.webp",
+    "Makunudu-Island-Resort-Maldives-Restaurant.webp",
+    "Makunudu-Island-Resort-Maldives-Snorkeling-North-Male-Atoll.webp",
+    "Makunudu-Island-Resort-Maldives-Snorkeling.webp",
+    "Makunudu-Island-Resort-Maldives-Water-Sports.webp",
+    "Makunudu-Island-Resort-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

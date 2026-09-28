@@ -1,0 +1,72 @@
+{
+  "folder": "Alila-Kothaifaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Alila-Kothaifaru/Alila-Kothaifaru-Maldives.html",
+  "legacyTitle": "Alila Kothaifaru Maldives Island Resort",
+  "legacyH1": "Alila Kothaifaru Maldives Island Resort",
+  "metaDescription": "Alila Kothaifaru Maldives Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "iSxvRiuoJ80",
+  "descriptionParagraphs": [
+    "Relax in calm privacy with breathtaking views at this all-pool-villa retreat. Our 11.2 acre private island getaway is located in Raa Atoll, on the northern tip of the Maldives, and is accessible by a breathtaking 45-minute seaplane flight from Malé. Lush foliage, azure waterways, and an abundance of marine life set the stage for a relaxed visit punctuated by adventure.",
+    "The resort's tiered pavilions and villas are seamlessly incorporated into the landscape and mix solitude with openness to the outdoors in a unique expression of minimalist beauty. Each of the resort's 44 beachfront villas and 36 overwater villas has a private pool and has contemporary furnishings in a palette of relaxing colours with natural textures. These vast hideaways have been thoughtfully placed to give complete seclusion and comfort in an understated, classy manner.",
+    "Each of the resort's 44 beachfront villas and 36 overwater villas has a private pool for your enjoyment and is designed for calm relaxation in harmony with nature. These roomy hideaways are thoughtfully positioned to give seclusion and comfort in modest, classy design, with contemporary décor in a palette of calming colours and natural textures.",
+    "Our 11.2 acre private island getaway is located on the northernmost tip of the Maldives, in the Raa Atoll, and is accessible by a picturesque 45-minute seaplane flight from Malé."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 950,
+      "priceInclTax": 1010,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Alila-Kothaifaru/images/Alila-Kothaifaru-Maldives-Beach-Room.webp",
+        "/resorts/Alila-Kothaifaru/images/Alila-Kothaifaru-Maldives-Beach-Room1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Water Villa",
+      "price": 1050,
+      "priceInclTax": 1115,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Alila-Kothaifaru/images/Alila-Kothaifaru-Maldives-Water-Villa.webp",
+        "/resorts/Alila-Kothaifaru/images/Alila-Kothaifaru-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Alila-Kothaifaru/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "Alila-Kothaifaru-Maldives-Beach-Room.webp",
+    "Alila-Kothaifaru-Maldives-Beach-Room1.webp",
+    "Alila-Kothaifaru-Maldives-Beach.webp",
+    "Alila-Kothaifaru-Maldives-Island-Resort.webp",
+    "Alila-Kothaifaru-Maldives-Island-map.webp",
+    "Alila-Kothaifaru-Maldives-Island.webp",
+    "Alila-Kothaifaru-Maldives-Pool.webp",
+    "Alila-Kothaifaru-Maldives-Resort-Island.webp",
+    "Alila-Kothaifaru-Maldives-Resort.webp",
+    "Alila-Kothaifaru-Maldives-Water-Villa.webp",
+    "Alila-Kothaifaru-Maldives-Water-Villa1.webp",
+    "Alila-Kothaifaru-Maldives.webp",
+    "Maldives-Resort-Alila-Kothaifaru.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

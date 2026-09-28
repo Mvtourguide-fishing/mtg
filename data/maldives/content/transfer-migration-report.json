@@ -1,0 +1,852 @@
+{
+  "generatedAt": "2026-09-20T12:57:25.078Z",
+  "note": "Task 15 §12-16. Every 'ready' entry has real JSON-LD-sourced commercial data (name/price/currency/duration) and a real, already-seeded destination accommodation + island — never fabricated. 'needs-review' entries are never silently dropped; each carries a specific reason (see scripts/import-legacy-transfers.mjs).",
+  "totalTransferPages": 88,
+  "byMigrationStatus": {
+    "needs-review": 86,
+    "already-covered": 2
+  },
+  "alreadyCoveredDestinationSlugs": [
+    "male",
+    "vihamanaafushi",
+    "baros",
+    "velassaru",
+    "lankanfushi",
+    "maafushi",
+    "kunfunadhoo",
+    "olhuveli"
+  ],
+  "pages": [
+    {
+      "oldUrl": "/maafushi-island-transfer.html",
+      "sourceFile": "maafushi-island-transfer.html",
+      "title": "(25$) Maafushi Island Airport Transfer With Hotels and activities",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/maldives-transportation-ferry-speedboat-transfers.html",
+      "sourceFile": "maldives-transportation-ferry-speedboat-transfers.html",
+      "title": "Book Maldives Transfers - ferry & Speedboat transportation schedules (20$)",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/marina-hardrock-saiilagoon-transfer.html",
+      "sourceFile": "marina-hardrock-saiilagoon-transfer.html",
+      "title": "Marina Maldives Hardrock SaiiLagoon Transfer",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/patina-ritz-carlton-fari-island-transfer.html",
+      "sourceFile": "patina-ritz-carlton-fari-island-transfer.html",
+      "title": "Patina Maldives Ritz Carlton Fari Island Transfer",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Adaaran-Hudhuranfushi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Adaaran-Hudhuranfushi-Maldives-Transfer.html",
+      "title": "Adaaran Select Hudhuranfushi Speedboat Transfer | Male Airport - $130 | Maldives Tour Guide",
+      "destinationNameRaw": "Adaaran Select Hudhuranfushi",
+      "price": 130,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Adaaran Select Hudhuranfushi\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Adaaran-Rannalhi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Adaaran-Rannalhi-Maldives-Transfer.html",
+      "title": "Adaaran Club Rannalhi Maldives Speedboat Transfer | Male Airport - $180 | Maldives Tour Guide",
+      "destinationNameRaw": "Adaaran Club Rannalhi",
+      "price": 180,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Adaaran Club Rannalhi\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Adaaran-Vadoo-Maldives-Transfer.html",
+      "sourceFile": "transfer/Adaaran-Vadoo-Maldives-Transfer.html",
+      "title": "Adaaran Prestige Vadoo Maldives Speedboat Transfer | Male Airport - $80 | Maldives Tour Guide",
+      "destinationNameRaw": "Adaaran Prestige Vadoo",
+      "price": 80,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Adaaran Prestige Vadoo\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Anantara-Dhigu-Maldives-Transfer.html",
+      "sourceFile": "transfer/Anantara-Dhigu-Maldives-Transfer.html",
+      "title": "Anantara Dhigu Maldives Speedboat Transfer | Male Airport - $115 | Maldives Tour Guide",
+      "destinationNameRaw": "Anantara Dhigu Maldives Resort",
+      "price": 115,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Anantara Dhigu Maldives Resort\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Anantara-Veli-Maldives-Transfer.html",
+      "sourceFile": "transfer/Anantara-Veli-Maldives-Transfer.html",
+      "title": "Anantara Veli Maldives Speedboat Transfer | Male Airport - $115 | Maldives Tour Guide",
+      "destinationNameRaw": "Anantara Veli Maldives Resort",
+      "price": 115,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Anantara Veli Maldives Resort\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Angsana-ihuru-Maldives-Transfer.html",
+      "sourceFile": "transfer/Angsana-ihuru-Maldives-Transfer.html",
+      "title": "Angsana Ihuru Maldives Transfer | Speedboat Services | Private Island Resort",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Bandos-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Bandos-Island-Maldives-Transfer.html",
+      "title": "Bandos Maldives Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "Bandos Maldives Resort",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Bandos Maldives Resort\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Banyan-Tree-Maldives-Transfer.html",
+      "sourceFile": "transfer/Banyan-Tree-Maldives-Transfer.html",
+      "title": "Banyan Tree Maldives Transfer | Speedboat & Seaplane Services | Luxury Resorts",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Banyan-Tree-Vabbinfaru-Maldives-Transfer.html",
+      "sourceFile": "transfer/Banyan-Tree-Vabbinfaru-Maldives-Transfer.html",
+      "title": "Banyan Tree Vabbinfaru Speedboat Transfer | Male Airport - $72 | Maldives Tour Guide",
+      "destinationNameRaw": "Banyan Tree Vabbinfaru",
+      "price": 72,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Banyan Tree Vabbinfaru\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Biyadhoo-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Biyadhoo-Island-Maldives-Transfer.html",
+      "title": "Biyadhoo Island Resort Speedboat Transfer | Male Airport - $115 | Maldives Tour Guide",
+      "destinationNameRaw": "Biyadhoo Island Resort",
+      "price": 115,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Biyadhoo Island Resort\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/COMO-Cocoa-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/COMO-Cocoa-Island-Maldives-Transfer.html",
+      "title": "COMO Cocoa Island Maldives Speedboat Transfer | Male Airport - $120 | Maldives Tour Guide",
+      "destinationNameRaw": "COMO Cocoa Island Maldives",
+      "price": 120,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"COMO Cocoa Island Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Centara-Rasfushi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Centara-Rasfushi-Maldives-Transfer.html",
+      "title": "Centara Ras Fushi Resort & Spa Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "Centara Ras Fushi Resort & Spa",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Centara Ras Fushi Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Cinnamon-Dhonveli-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Cinnamon-Dhonveli-Island-Maldives-Transfer.html",
+      "title": "Cinnamon Dhonveli Maldives Speedboat Transfer | Male Airport - $90 | Maldives Tour Guide",
+      "destinationNameRaw": "Cinnamon Dhonveli Maldives",
+      "price": 90,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Cinnamon Dhonveli Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Clubmed-finolhu-Maldives-Transfer.html",
+      "sourceFile": "transfer/Clubmed-finolhu-Maldives-Transfer.html",
+      "title": "Club Med Finolhu Villas Maldives Speedboat Transfer | Male Airport - $115 | Maldives Tour Guide",
+      "destinationNameRaw": "Club Med Finolhu Villas Maldives",
+      "price": 115,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Club Med Finolhu Villas Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Coco-boduhithi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Coco-boduhithi-Maldives-Transfer.html",
+      "title": "Coco Bodu Hithi Maldives Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "Coco Bodu Hithi Maldives",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Coco Bodu Hithi Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Coco-kudahithi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Coco-kudahithi-Maldives-Transfer.html",
+      "title": "Coco Kuda Hithi Maldives Transfer - Speedboat & Ferry Guide",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Embudu-village-Maldives-Transfer.html",
+      "sourceFile": "transfer/Embudu-village-Maldives-Transfer.html",
+      "title": "Embudu Village Maldives Speedboat Transfer | Male Airport - $72 | Maldives Tour Guide",
+      "destinationNameRaw": "Embudu Village Maldives",
+      "price": 72,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Embudu Village Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Eriyadu-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Eriyadu-Island-Maldives-Transfer.html",
+      "title": "Eriyadu Maldives Speedboat Transfer | Male Airport - $170 | Maldives Tour Guide",
+      "destinationNameRaw": "Eriyadu Maldives",
+      "price": 170,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Eriyadu Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Fari-island-and-Capella-Maldives-Transfer.html",
+      "sourceFile": "transfer/Fari-island-and-Capella-Maldives-Transfer.html",
+      "title": "Fari Islands & Capella Maldives Speedboat Transfer | Male Airport - $230 | Maldives Tour Guide",
+      "destinationNameRaw": "Capella Maldives at Fari Islands",
+      "price": 230,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Capella Maldives at Fari Islands\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Fihalhohi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Fihalhohi-Maldives-Transfer.html",
+      "title": "Fihalhohi Maldives Speedboat Transfer | Male Airport - $145 | Maldives Tour Guide",
+      "destinationNameRaw": "Fihalhohi Maldives",
+      "price": 145,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Fihalhohi Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Fourseason-kuda-huraa-Maldives-Transfer.html",
+      "sourceFile": "transfer/Fourseason-kuda-huraa-Maldives-Transfer.html",
+      "title": "Four Seasons Resort Maldives at Kuda Huraa Speedboat Transfer | Male Airport - $100 | Maldives Tour Guide",
+      "destinationNameRaw": "Four Seasons Resort Maldives at Kuda Huraa",
+      "price": 100,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Four Seasons Resort Maldives at Kuda Huraa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Fun-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Fun-Island-Maldives-Transfer.html",
+      "title": "Fun Island Maldives Speedboat Transfer | Male Airport - $135 | Maldives Tour Guide",
+      "destinationNameRaw": "Fun Island Maldives",
+      "price": 135,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Fun Island Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Gili-Lankafushi-Maldives-Transfer - Copy (2).html",
+      "sourceFile": "transfer/Gili-Lankafushi-Maldives-Transfer - Copy (2).html",
+      "title": "Club Med Finolhu Maldives Transfer | Premium Speedboat Services | All-Inclusive Resort",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Gili-Lankafushi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Gili-Lankafushi-Maldives-Transfer.html",
+      "title": "Gili Lankanfushi Speedboat Transfer | Male Airport - $75 | Maldives Tour Guide",
+      "serviceName": "Gili Lankanfushi Speedboat Transfer",
+      "description": "Premium speedboat transfer service from Velana International Airport to Gili Lankanfushi Maldives Luxury Eco-Resort",
+      "originName": "Velana International Airport",
+      "destinationNameRaw": "Gili Lankanfushi Maldives",
+      "matchedAccommodation": {
+        "slug": "gili-lankanfushi",
+        "title": "Gili Lankanfushi",
+        "score": 1
+      },
+      "destinationIslandSlug": "lankanfushi",
+      "price": 75,
+      "currency": "USD",
+      "durationMinutes": 20,
+      "transferType": "speedboat",
+      "sharedOrPrivate": "shared",
+      "sharedOrPrivateInferred": true,
+      "migrationStatus": "already-covered",
+      "reason": "a transfer_routes row from Velana International Airport to \"Lankanfushi\" already exists (Task 10) — not duplicated"
+    },
+    {
+      "oldUrl": "/transfer/Grand-Park-kohdhipparu-Maldives-Transfer.html",
+      "sourceFile": "transfer/Grand-Park-kohdhipparu-Maldives-Transfer.html",
+      "title": "Grand Park Kodhipparu Speedboat Transfer | Male Airport - $75 | Maldives Tour Guide",
+      "destinationNameRaw": "Grand Park Kodhipparu Maldives",
+      "price": 75,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Grand Park Kodhipparu Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Hard-Rock-Maldives-Transfer.html",
+      "sourceFile": "transfer/Hard-Rock-Maldives-Transfer.html",
+      "title": "Hard Rock Hotel Maldives Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "Hard Rock Hotel Maldives",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Hard Rock Hotel Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Holidayinn-Kandooma-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Holidayinn-Kandooma-Island-Maldives-Transfer.html",
+      "title": "Holiday Inn Resort Kandooma Speedboat Transfer | Male Airport - $120 | Maldives Tour Guide",
+      "destinationNameRaw": "Holiday Inn Resort Kandooma Maldives",
+      "price": 120,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Holiday Inn Resort Kandooma Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Huvafenfushi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Huvafenfushi-Maldives-Transfer.html",
+      "title": "Huvafen Fushi Speedboat Transfer | Male Airport - $105 | Maldives Tour Guide",
+      "destinationNameRaw": "Huvafen Fushi Maldives",
+      "price": 105,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Huvafen Fushi Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Jumeirah-Olhahali-Maldives-Transfer.html",
+      "sourceFile": "transfer/Jumeirah-Olhahali-Maldives-Transfer.html",
+      "title": "Jumeirah Olhahali Island Speedboat Transfer | Male Airport - $250 | Maldives Tour Guide",
+      "destinationNameRaw": "Jumeirah Olhahali Island Maldives",
+      "price": 250,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Jumeirah Olhahali Island Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Kagi-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Kagi-Island-Maldives-Transfer.html",
+      "title": "Kagi Island Speedboat Transfer | Male Airport - $190 | Maldives Tour Guide",
+      "destinationNameRaw": "Kagi Island Maldives Resort & Spa",
+      "price": 190,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Kagi Island Maldives Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Kuda-Villingili-Resort-Maldives-Transfer.html",
+      "sourceFile": "transfer/Kuda-Villingili-Resort-Maldives-Transfer.html",
+      "title": "Kuda Villingili Speedboat Transfer | Male Airport - $130 | Maldives Tour Guide",
+      "destinationNameRaw": "Kuda Villingili Resort Maldives",
+      "price": 130,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Kuda Villingili Resort Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Kurumba-Maldives-Transfer.html",
+      "sourceFile": "transfer/Kurumba-Maldives-Transfer.html",
+      "title": "Kurumba Maldives Speedboat Transfer | Male Airport - $50 | Maldives Tour Guide",
+      "destinationNameRaw": "Kurumba Maldives",
+      "price": 50,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Kurumba Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Lux-North-Male-Maldives-Transfer.html",
+      "sourceFile": "transfer/Lux-North-Male-Maldives-Transfer.html",
+      "title": "LUX* North Male Atoll Speedboat Transfer | Male Airport - $190 | Maldives Tour Guide",
+      "destinationNameRaw": "LUX* North Male Atoll",
+      "price": 190,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"LUX* North Male Atoll\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Makunudu-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Makunudu-Island-Maldives-Transfer.html",
+      "title": "Makunudu Island Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "Makunudu Island",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Makunudu Island\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Malahini-kuda-bados-Maldives-Transfer.html",
+      "sourceFile": "transfer/Malahini-kuda-bados-Maldives-Transfer.html",
+      "title": "Malahini Kuda Bandos Speedboat Transfer | Male Airport - $70 | Maldives Tour Guide",
+      "destinationNameRaw": "Malahini Kuda Bandos",
+      "price": 70,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Malahini Kuda Bandos\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Marina-Crossroad-Maldives-Transfer.html",
+      "sourceFile": "transfer/Marina-Crossroad-Maldives-Transfer.html",
+      "title": "The Marina CROSSROADS Maldives Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "The Marina at CROSSROADS Maldives",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"The Marina at CROSSROADS Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Meeru-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Meeru-Island-Maldives-Transfer.html",
+      "title": "Meeru Island Resort & Spa Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "Meeru Island Resort & Spa",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Meeru Island Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Naladu-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Naladu-Island-Maldives-Transfer.html",
+      "title": "Naladhu Island Maldives Transfer | Premium Speedboat Services | Maldives Tour Guide",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/OBLU-SELECT-Lobigili-Transfer.html",
+      "sourceFile": "transfer/OBLU-SELECT-Lobigili-Transfer.html",
+      "title": "OBLU SELECT Lobigili Speedboat Transfer | Male Airport - $85 | Maldives Tour Guide",
+      "destinationNameRaw": "OBLU SELECT Lobigili",
+      "price": 85,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OBLU SELECT Lobigili\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/OBLU-Sangeli-Maldives-Transfer.html",
+      "sourceFile": "transfer/OBLU-Sangeli-Maldives-Transfer.html",
+      "title": "OBLU SELECT Sangeli Speedboat Transfer | Male Airport - $170 | Maldives Tour Guide",
+      "destinationNameRaw": "OBLU SELECT Sangeli",
+      "price": 170,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OBLU SELECT Sangeli\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/OBLU-Xperience-Ailafushi-Transfer.html",
+      "sourceFile": "transfer/OBLU-Xperience-Ailafushi-Transfer.html",
+      "title": "OBLU XPERIENCE Ailafushi Speedboat Transfer | Male Airport - $85 | Maldives Tour Guide",
+      "destinationNameRaw": "OBLU XPERIENCE Ailafushi",
+      "price": 85,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OBLU XPERIENCE Ailafushi\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/OBLU-atmosphere-helengeli-Maldives-Transfer.html",
+      "sourceFile": "transfer/OBLU-atmosphere-helengeli-Maldives-Transfer.html",
+      "title": "OBLU NATURE Helengeli by SENTIDO Speedboat Transfer | Male Airport - $190 | Maldives Tour Guide",
+      "destinationNameRaw": "OBLU NATURE Helengeli by SENTIDO",
+      "price": 190,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OBLU NATURE Helengeli by SENTIDO\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/OZEN-maadhoo-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/OZEN-maadhoo-Island-Maldives-Transfer.html",
+      "title": "OZEN LIFE MAADHOO Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "OZEN LIFE MAADHOO",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OZEN LIFE MAADHOO\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/One-and-only-reethirah-Maldives-Transfer.html",
+      "sourceFile": "transfer/One-and-only-reethirah-Maldives-Transfer.html",
+      "title": "One&Only Reethi Rah Speedboat Transfer | Male Airport - $190 | Maldives Tour Guide",
+      "destinationNameRaw": "One&Only Reethi Rah",
+      "price": 190,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"One&Only Reethi Rah\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Orga-Art-Resort-Maldives-Transfer.html",
+      "sourceFile": "transfer/Orga-Art-Resort-Maldives-Transfer.html",
+      "title": "Oaga Art Resort Maldives Speedboat Transfer | Male Airport - $190 | Maldives Tour Guide",
+      "destinationNameRaw": "Oaga Art Resort Maldives",
+      "price": 190,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Oaga Art Resort Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Ozen-Reserve-Bolifushi-Maldives-Transfer.html",
+      "sourceFile": "transfer/Ozen-Reserve-Bolifushi-Maldives-Transfer.html",
+      "title": "OZEN RESERVE Bolifushi Speedboat Transfer | Male Airport - $100 | Maldives Tour Guide",
+      "destinationNameRaw": "OZEN RESERVE Bolifushi",
+      "price": 100,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"OZEN RESERVE Bolifushi\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Patina-Maldives-Transfer.html",
+      "sourceFile": "transfer/Patina-Maldives-Transfer.html",
+      "title": "Patina Maldives Speedboat Transfer | Male Airport - $200 | Maldives Tour Guide",
+      "destinationNameRaw": "Patina Maldives, Fari Islands",
+      "price": 200,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Patina Maldives, Fari Islands\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Rihiveli-Maldives-Transfer.html",
+      "sourceFile": "transfer/Rihiveli-Maldives-Transfer.html",
+      "title": "Rihiveli Maldives Transfer | Speedboat Services | Maldives Tour Guide",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Saii-Lagoon-Maldives-Transfer.html",
+      "sourceFile": "transfer/Saii-Lagoon-Maldives-Transfer.html",
+      "title": "SAii Lagoon Maldives Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "SAii Lagoon Maldives, Curio Collection by Hilton",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"SAii Lagoon Maldives, Curio Collection by Hilton\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Sheraton-Full-moon-Maldives-Transfer.html",
+      "sourceFile": "transfer/Sheraton-Full-moon-Maldives-Transfer.html",
+      "title": "Sheraton Maldives Full Moon Resort & Spa Speedboat Transfer | Male Airport - $55 | Maldives Tour Guide",
+      "destinationNameRaw": "Sheraton Maldives Full Moon Resort & Spa",
+      "price": 55,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Sheraton Maldives Full Moon Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Summer-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Summer-Island-Maldives-Transfer.html",
+      "title": "Summer Island Maldives Speedboat Transfer | Male Airport - $155 | Maldives Tour Guide",
+      "destinationNameRaw": "Summer Island Maldives",
+      "price": 155,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Summer Island Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Sun-Siyam-Olhuveli-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/Sun-Siyam-Olhuveli-Island-Maldives-Transfer.html",
+      "title": "Sun Siyam Olhuveli Maldives Speedboat Transfer | Male Airport - $155 | Maldives Tour Guide",
+      "destinationNameRaw": "Sun Siyam Olhuveli Maldives",
+      "price": 155,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Sun Siyam Olhuveli Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Taj-Coral-Reef-Maldives-Transfer.html",
+      "sourceFile": "transfer/Taj-Coral-Reef-Maldives-Transfer.html",
+      "title": "Taj Coral Reef Resort & Spa Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "Taj Coral Reef Resort & Spa",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Taj Coral Reef Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Taj-Exotica-Maldives-Transfer.html",
+      "sourceFile": "transfer/Taj-Exotica-Maldives-Transfer.html",
+      "title": "Taj Exotica Resort & Spa Speedboat Transfer | Male Airport - $75 | Maldives Tour Guide",
+      "destinationNameRaw": "Taj Exotica Resort & Spa",
+      "price": 75,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Taj Exotica Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/The-Ritz-Carlton-Maldives-Transfer.html",
+      "sourceFile": "transfer/The-Ritz-Carlton-Maldives-Transfer.html",
+      "title": "The Ritz-Carlton Maldives, Fari Islands Speedboat Transfer | Male Airport - $200 | Maldives Tour Guide",
+      "destinationNameRaw": "The Ritz-Carlton Maldives, Fari Islands",
+      "price": 200,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"The Ritz-Carlton Maldives, Fari Islands\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Thulhagiri-Island-Resort-Transfer.html",
+      "sourceFile": "transfer/Thulhagiri-Island-Resort-Transfer.html",
+      "title": "Thulhagiri Island Resort Maldives Transfer | Speedboat Services | Island Paradise",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/VARU-by-Atmosphere-Maldives-Transfer.html",
+      "sourceFile": "transfer/VARU-by-Atmosphere-Maldives-Transfer.html",
+      "title": "VARU by Atmosphere Maldives Transfer | Speedboat Services | Maldives Tour Guide",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/Velassaru-Maldives-Transfer.html",
+      "sourceFile": "transfer/Velassaru-Maldives-Transfer.html",
+      "title": "Niva Velassaru Maldives Speedboat Transfer | Male Airport - $70 | Maldives Tour Guide",
+      "destinationNameRaw": "Niva Velassaru Maldives",
+      "price": 70,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Niva Velassaru Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Villa-Nautica-Paradise-Maldives-Transfer.html",
+      "sourceFile": "transfer/Villa-Nautica-Paradise-Maldives-Transfer.html",
+      "title": "Villa Nautica Paradise Island Speedboat Transfer | Male Airport - $70 | Maldives Tour Guide",
+      "destinationNameRaw": "Villa Nautica Paradise Island",
+      "price": 70,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Villa Nautica Paradise Island\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/Waldorf-Astoria-Maldives-Ithaafushi-Transfer.html",
+      "sourceFile": "transfer/Waldorf-Astoria-Maldives-Ithaafushi-Transfer.html",
+      "title": "Waldorf Astoria Maldives Ithaafushi Speedboat Transfer | Male Airport - $150 | Maldives Tour Guide",
+      "destinationNameRaw": "Waldorf Astoria Maldives Ithaafushi",
+      "price": 150,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Waldorf Astoria Maldives Ithaafushi\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/alifalif-transfer-booking.html",
+      "sourceFile": "transfer/alifalif-transfer-booking.html",
+      "title": "Alif ALif Atoll Transfer Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/baaatoll-transfer-booking.html",
+      "sourceFile": "transfer/baaatoll-transfer-booking.html",
+      "title": "Baa Atoll Speedboat Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/baros-Island-Maldives-Transfer.html",
+      "sourceFile": "transfer/baros-Island-Maldives-Transfer.html",
+      "title": "Baros Maldives Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "serviceName": "Baros Maldives Speedboat Transfer",
+      "description": "Reliable speedboat transfer service from Velana International Airport to Baros Maldives",
+      "originName": "Velana International Airport",
+      "destinationNameRaw": "Baros Maldives",
+      "matchedAccommodation": {
+        "slug": "baros-maldives",
+        "title": "Baros Maldives",
+        "score": 1
+      },
+      "destinationIslandSlug": "baros",
+      "price": 65,
+      "currency": "USD",
+      "durationMinutes": 20,
+      "transferType": "speedboat",
+      "sharedOrPrivate": "shared",
+      "sharedOrPrivateInferred": true,
+      "migrationStatus": "already-covered",
+      "reason": "a transfer_routes row from Velana International Airport to \"Baros\" already exists (Task 10) — not duplicated"
+    },
+    {
+      "oldUrl": "/transfer/bookingphp/index.html",
+      "sourceFile": "transfer/bookingphp/index.html",
+      "title": "Booking Form",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/centara-mirage-and-grand-lagoon-maldives-transfer.html",
+      "sourceFile": "transfer/centara-mirage-and-grand-lagoon-maldives-transfer.html",
+      "title": "Centara Mirage and Grand Island Resort Maldives Speedboat Transfer | Male Airport - $110 | Maldives Tour Guide",
+      "destinationNameRaw": "Centara Mirage and Grand Island Resort Maldives",
+      "price": 110,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Centara Mirage and Grand Island Resort Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/clubmed-kani-maldives-transfer.html",
+      "sourceFile": "transfer/clubmed-kani-maldives-transfer.html",
+      "title": "Club Med Kani Maldives Speedboat Transfer | Male Airport - $110 | Maldives Tour Guide",
+      "destinationNameRaw": "Club Med Kani Maldives",
+      "price": 110,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Club Med Kani Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/customize-transfer-booking.html",
+      "sourceFile": "transfer/customize-transfer-booking.html",
+      "title": "Maldives Customize Transfer Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/dhawa-ihuru-Maldives-Transfer.html",
+      "sourceFile": "transfer/dhawa-ihuru-Maldives-Transfer.html",
+      "title": "Dhawa Ihuru Speedboat Transfer | Male Airport - $72 | Maldives Tour Guide",
+      "destinationNameRaw": "Dhawa Ihuru",
+      "price": 72,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Dhawa Ihuru\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/dhawa-ihuru-maldives-transfers.html",
+      "sourceFile": "transfer/dhawa-ihuru-maldives-transfers.html",
+      "title": "Dhawa Ihuru Maldives Transfer | Speedboat Services | Ihuru Resort",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/dusitd2-feydhoo-finolhu-Maldives-Transfer.html",
+      "sourceFile": "transfer/dusitd2-feydhoo-finolhu-Maldives-Transfer.html",
+      "title": "DusitD2 Feydhoo Maldives Speedboat Transfer | Male Airport - $50 | Maldives Tour Guide",
+      "destinationNameRaw": "DusitD2 Feydhoo Maldives",
+      "price": 50,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"DusitD2 Feydhoo Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/flight-booking.html",
+      "sourceFile": "transfer/flight-booking.html",
+      "title": "Cheap Maldives Flight Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/ga-transfer-booking.html",
+      "sourceFile": "transfer/ga-transfer-booking.html",
+      "title": "Speedboat Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/hilton-amingiri-Maldives-Transfer.html",
+      "sourceFile": "transfer/hilton-amingiri-Maldives-Transfer.html",
+      "title": "Hilton Maldives Amingiri Resort & Spa Speedboat Transfer | Male Airport - $110 | Maldives Tour Guide",
+      "destinationNameRaw": "Hilton Maldives Amingiri Resort & Spa",
+      "price": 110,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Hilton Maldives Amingiri Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/joy-island-maldives-transfers.html",
+      "sourceFile": "transfer/joy-island-maldives-transfers.html",
+      "title": "Joy Island Speedboat Transfer | Male Airport - $180 | Maldives Tour Guide",
+      "destinationNameRaw": "Joy Island Maldives",
+      "price": 180,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Joy Island Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/jw-marriot-kaafu-atoll-maldives-transfer.html",
+      "sourceFile": "transfer/jw-marriot-kaafu-atoll-maldives-transfer.html",
+      "title": "JW Marriott Maldives Speedboat Transfer | Male Airport - $100 | Maldives Tour Guide",
+      "destinationNameRaw": "JW Marriott Maldives Resort & Spa",
+      "price": 100,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"JW Marriott Maldives Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/maniafaru-Maldives-Transfer.html",
+      "sourceFile": "transfer/maniafaru-Maldives-Transfer.html",
+      "title": "Centara Ras Fushi Resort & Spa Speedboat Transfer | Male Airport - $65 | Maldives Tour Guide",
+      "destinationNameRaw": "Centara Ras Fushi Resort & Spa",
+      "price": 65,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Centara Ras Fushi Resort & Spa\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/new-transfer-booking.html",
+      "sourceFile": "transfer/new-transfer-booking.html",
+      "title": "Booking Form",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/nika-island-Maldives-Transfer.html",
+      "sourceFile": "transfer/nika-island-Maldives-Transfer.html",
+      "title": "Nika Island Resort Maldives Transfer | Speedboat Services | Nika Island",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/rosewood-ranfaru-maldives-transfer.html",
+      "sourceFile": "transfer/rosewood-ranfaru-maldives-transfer.html",
+      "title": "Rosewood Ranfaru Resort Speedboat Transfer | Male Airport - $180 | Maldives Tour Guide",
+      "destinationNameRaw": "Rosewood Ranfaru Resort",
+      "price": 180,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"Rosewood Ranfaru Resort\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/snorkeling-and-diving-activities-in-maldives.html",
+      "sourceFile": "transfer/snorkeling-and-diving-activities-in-maldives.html",
+      "title": "Book Maldives Snorkeling, Scuba Diving and Water Sports Activities",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/so-maldives-transfers.html",
+      "sourceFile": "transfer/so-maldives-transfers.html",
+      "title": "SO/ Maldives Speedboat Transfer | Male Airport - $70 | Maldives Tour Guide",
+      "destinationNameRaw": "SO/ Maldives",
+      "price": 70,
+      "currency": "USD",
+      "migrationStatus": "needs-review",
+      "reason": "destination \"SO/ Maldives\" does not match any accommodation in the current MTG catalogue (data/maldives/accommodations/accommodations.json) — never fabricated"
+    },
+    {
+      "oldUrl": "/transfer/speedboat-booking.html",
+      "sourceFile": "transfer/speedboat-booking.html",
+      "title": "Speedboat Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/transfer-booking.html",
+      "sourceFile": "transfer/transfer-booking.html",
+      "title": "Speedboat Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    },
+    {
+      "oldUrl": "/transfer/transfer-thank-you.html",
+      "sourceFile": "transfer/transfer-thank-you.html",
+      "title": "Thank You for Your Booking",
+      "migrationStatus": "needs-review",
+      "reason": "no structured (JSON-LD) route/price data on this page — likely a hub/listing page, not a single bookable transfer"
+    }
+  ]
+}

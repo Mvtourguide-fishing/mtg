@@ -1,0 +1,75 @@
+{
+  "folder": "w-maldives",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/w-maldives/w-maldives-island-resort.html",
+  "legacyTitle": "W Maldives Island Resort",
+  "legacyH1": "W Maldives Island Resort Maldives",
+  "metaDescription": "W Maldives Island is a resort located in Male atoll",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "dVPW7ifhylg",
+  "descriptionParagraphs": [
+    "W Maldives is a wonderland of white sand beaches, turquoise lagoons, and stunning reefs where you can relax, mingle, dance, and enhance your paradise adventure. W Maldives is a peaceful haven with a Diving Center, Fitness Center, and open-air Infinity Pool. Expansive Villas come with a private plunge pool and direct beach, lagoon, or ocean entry. AWAY® Spa, which offers massage, Ayurvedic, and facial treatments, is a haven of indulgence. Water Sports, Yoga, and Aqua Aerobics are among the activities available to visitors.",
+    "On W Maldives, there are 78 different Retreats to choose from. There are 28 land-based Beach Oasis, including three twin Beach Oasis; 25 over-water Ocean Oasis and 21 Ocean Oasis Lagoon View Retreats; 3 Seascape Escapes, our Junior Suites; and one Extreme WOW Villa, the 2-Bedroom Ocean Haven."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 824,
+      "priceInclTax": 1029,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/w-maldives/images/w-maldives-beach-pool-villa.webp",
+        "/resorts/w-maldives/images/w-maldives-beach-pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Pool Villa",
+      "price": 728,
+      "priceInclTax": 909,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/w-maldives/images/w-maldives-water-pool-villa.webp",
+        "/resorts/w-maldives/images/w-maldives-water-pool-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/w-maldives/images",
+  "imageCount": 20,
+  "imageFiles": [
+    "w-island-resort-maldives.webp",
+    "w-island-resort.webp",
+    "w-maldives-beach-pool-villa.jpg",
+    "w-maldives-beach-pool-villa.webp",
+    "w-maldives-beach-pool-villa1.webp",
+    "w-maldives-island-hotel.webp",
+    "w-maldives-island-maldives.webp",
+    "w-maldives-island-resort-a-atoll.webp",
+    "w-maldives-island-resort-ari-atoll.jpg",
+    "w-maldives-island-resort-ari-atoll.webp",
+    "w-maldives-island-resort.webp",
+    "w-maldives-island.webp",
+    "w-maldives-resort.webp",
+    "w-maldives-water-pool-villa.jpg",
+    "w-maldives-water-pool-villa.webp",
+    "w-maldives-water-pool-villa1.webp",
+    "w-maldives.webp",
+    "wmaldives-island-map.jpg",
+    "wmaldives-island-map.webp",
+    "wmaldives-island-resort-ari-atoll.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,87 @@
+{
+  "folder": "Amari-Havodda",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Amari-Havodda/Amari-Havodda-Maldives.html",
+  "legacyTitle": "Amari Havodda Maldives Island Resort",
+  "legacyH1": "Amari Havodda Maldives Island Resort",
+  "metaDescription": "Amari Havodda Maldives Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GDh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Gg2E1SAp9HY",
+  "descriptionParagraphs": [
+    "situated on a quiet private island 400 kilometres south of Male, in the Gaafu Dhaalu Atoll, an Indian Ocean paradise Amari Havodda Maldives is a secluded refuge with tropical flora, crystal-clear blue seas, and white sandy beaches. This pristine refuge is all yours, allowing you to completely unplug and rejuvenate on your own terms.",
+    "Our interiors have been meticulously created to provide a welcoming home-away-from-home experience. We've tweaked the décor to highlight modern workmanship at every turn - a modern reimagining of the traditional Maldivian house. Our resort also provides a diverse range of recreational and athletic activities, as well as unique dining experiences under the stars.",
+    "Welcome to your personal haven, your own bit of bliss. Our magnificent villas at Amari Havodda Maldives are warm, stylish, and homey. Your beach or overwater retreat boasts natural timber floors, towering palm-thatched roofs, beautiful furniture, an outdoor open-air shower, and modern technology inspired by traditional Maldivian architecture and created within a concept of natural simplicity.",
+    "Our resort is located in the Indian Ocean on a private island 400 kilometres south of Male in the Gaafu Dhaalu Atoll. Amari Havodda is accessible through a 55-60 minute domestic air transfer."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Beach Villa",
+      "price": 480,
+      "priceInclTax": 534,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-Beach-Villa.webp",
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Sunrise Beach Pool Villa",
+      "price": 700,
+      "priceInclTax": 752,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-sunrise-pool-Villa.webp",
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-sunrise-pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 700,
+      "priceInclTax": 752,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-over-water-Villa.webp",
+        "/resorts/Amari-Havodda/images/Amari-Havodda-Maldives-over-water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Amari-Havodda/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Amari-Havodda-Island-Maldives.webp",
+    "Amari-Havodda-Maldives-Beach-Villa.webp",
+    "Amari-Havodda-Maldives-Beach-Villa1.webp",
+    "Amari-Havodda-Maldives-Island-map.webp",
+    "Amari-Havodda-Maldives-Island.webp",
+    "Amari-Havodda-Maldives-beach.webp",
+    "Amari-Havodda-Maldives-gym.webp",
+    "Amari-Havodda-Maldives-over-water-Villa.webp",
+    "Amari-Havodda-Maldives-over-water-Villa1.webp",
+    "Amari-Havodda-Maldives-pool.webp",
+    "Amari-Havodda-Maldives-snorkeling.webp",
+    "Amari-Havodda-Maldives-spa.webp",
+    "Amari-Havodda-Maldives-sunrise-pool-Villa.webp",
+    "Amari-Havodda-Maldives-sunrise-pool-Villa1.webp",
+    "Amari-Havodda-Maldives.webp",
+    "Maldives-Amari-Havodda-Island.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

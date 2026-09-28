@@ -1,0 +1,149 @@
+[
+  {
+    "administrative_code": "HA",
+    "dhivehi_code": "ހއ",
+    "name": "Haa Alif Atoll",
+    "capital_island": "Dhidhdhoo",
+    "notes": "Historically/geographically known as Thiladhunmathi Uthuruburi (Northern Thiladhunmathi). Comprises the natural atolls Ihavandhippolhu and North Thiladhunmathi."
+  },
+  {
+    "administrative_code": "HDh",
+    "dhivehi_code": "ހދ",
+    "name": "Haa Dhaalu Atoll",
+    "capital_island": "Kulhudhuffushi",
+    "notes": "Historically/geographically known as Thiladhunmathi Dhekunuburi (Southern Thiladhunmathi). One source gave 13 inhabited islands vs. 14 named individually on Wikipedia; see SOURCES.md."
+  },
+  {
+    "administrative_code": "Sh",
+    "dhivehi_code": "ށ",
+    "name": "Shaviyani Atoll",
+    "capital_island": "Funadhoo",
+    "notes": "Historically/geographically known as Miladhunmadulu Uthuruburi (Northern Miladhunmadulu)."
+  },
+  {
+    "administrative_code": "N",
+    "dhivehi_code": "ނ",
+    "name": "Noonu Atoll",
+    "capital_island": "Manadhoo",
+    "notes": "Historically/geographically known as Miladhunmadulu Dhekunuburi (Southern Miladhunmadulu)."
+  },
+  {
+    "administrative_code": "R",
+    "dhivehi_code": "ރ",
+    "name": "Raa Atoll",
+    "capital_island": "Ungoofaaru",
+    "notes": "Historically/geographically known as Maalhosmadulu Uthuruburi (Northern Maalhosmadulu). Island list includes 'Maamigili', a name more commonly associated with Alif Dhaalu Atoll ('Maamingili'); Wikipedia lists it under Raa in two independent search passes, but this could not be cross-checked against a second independent source. See SOURCES.md."
+  },
+  {
+    "administrative_code": "B",
+    "dhivehi_code": "ބ",
+    "name": "Baa Atoll",
+    "capital_island": "Eydhafushi",
+    "notes": "Historically/geographically known as Maalhosmadulu Dhekunuburi (Southern Maalhosmadulu), plus Fasdhuutherē and Goidhoo (Goifulhafehendhu) natural atolls. A UNESCO Biosphere Reserve."
+  },
+  {
+    "administrative_code": "Lh",
+    "dhivehi_code": "ޅ",
+    "name": "Lhaviyani Atoll",
+    "capital_island": "Naifaru",
+    "notes": "Historically/geographically known as Faadhippolhu."
+  },
+  {
+    "administrative_code": "K",
+    "dhivehi_code": "ކ",
+    "name": "Kaafu Atoll",
+    "capital_island": "Thulusdhoo",
+    "notes": "Geographically corresponds to Malé Atoll (North Malé + South Malé + Gaafaru + Kaashidhoo). Malé, Hulhulé, Hulhumalé and Villimalé (Villingili) are geographically within North Malé Atoll but are administratively part of Malé City, NOT part of the Kaafu Atoll administrative division. See the separate 'Malé City' entry."
+  },
+  {
+    "administrative_code": "AA",
+    "dhivehi_code": "އއ",
+    "name": "Alif Alif Atoll",
+    "capital_island": "Rasdhoo",
+    "notes": "Also known as North Ari Atoll (Ari Atholhu Uthuruburi). Created 1 March 1984 by splitting Ari Atoll into Alif Alif and Alif Dhaalu. Comprises northern Ari Atoll, Rasdhoo Atoll, and Thoddoo."
+  },
+  {
+    "administrative_code": "ADh",
+    "dhivehi_code": "އދ",
+    "name": "Alif Dhaalu Atoll",
+    "capital_island": "Mahibadhoo",
+    "notes": "Also known as South Ari Atoll (Ari Atholhu Dhekunuburi). Created 1 March 1984 by splitting Ari Atoll into Alif Alif and Alif Dhaalu."
+  },
+  {
+    "administrative_code": "V",
+    "dhivehi_code": "ވ",
+    "name": "Vaavu Atoll",
+    "capital_island": "Felidhoo",
+    "notes": "Historically/geographically known as Felidhu Atoll; also includes the Vattaru reef. Smallest administrative atoll by population."
+  },
+  {
+    "administrative_code": "M",
+    "dhivehi_code": "މ",
+    "name": "Meemu Atoll",
+    "capital_island": "Muli",
+    "notes": "Historically/geographically known as Mulaku Atoll (Mulakatholhu)."
+  },
+  {
+    "administrative_code": "F",
+    "dhivehi_code": "ފ",
+    "name": "Faafu Atoll",
+    "capital_island": "Nilandhoo",
+    "notes": "Historically/geographically known as Nilandhe Atholhu Uthuruburi (Northern Nilandhe Atoll)."
+  },
+  {
+    "administrative_code": "Dh",
+    "dhivehi_code": "ދ",
+    "name": "Dhaalu Atoll",
+    "capital_island": "Kudahuvadhoo",
+    "notes": "Historically/geographically known as Nilandhe Atholhu Dhekunuburi (Southern Nilandhe Atoll). Sources state 7 inhabited islands but only 6 could be individually named/cross-checked; treated as a known gap. See SOURCES.md."
+  },
+  {
+    "administrative_code": "Th",
+    "dhivehi_code": "ތ",
+    "name": "Thaa Atoll",
+    "capital_island": "Veymandoo",
+    "notes": "Historically/geographically known as Kolhumadulu Atoll."
+  },
+  {
+    "administrative_code": "L",
+    "dhivehi_code": "ލ",
+    "name": "Laamu Atoll",
+    "capital_island": "Fonadhoo",
+    "notes": "Historically/geographically known as Haddhunmathi Atoll. Kadhdhoo Island (site of the atoll's airport) is excluded from islands.json as it has no permanent resident population."
+  },
+  {
+    "administrative_code": "GA",
+    "dhivehi_code": "ގއ",
+    "name": "Gaafu Alifu Atoll",
+    "capital_island": "Vilingili",
+    "notes": "Also known as Huvadhu Atholhu Uthuruburi (Northern Huvadhoo Atoll)."
+  },
+  {
+    "administrative_code": "GDh",
+    "dhivehi_code": "ގދ",
+    "name": "Gaafu Dhaalu Atoll",
+    "capital_island": "Thinadhoo",
+    "notes": "Also known as Huvadhu Atholhu Dhekunuburi (Southern Huvadhoo Atoll). Multiple sources state 10 inhabited islands but only 9 could be individually named/cross-checked; treated as a known gap. See SOURCES.md."
+  },
+  {
+    "administrative_code": "Gn",
+    "dhivehi_code": "ޏ",
+    "name": "Gnaviyani Atoll",
+    "capital_island": "Fuvahmulah",
+    "notes": "Smallest administrative atoll; corresponds to the single natural island/atoll of Fuvahmulah. Since 2020 Fuvahmulah is also constituted as 'Fuvahmulah City', but the atoll-level administrative code Gn is retained here for consistency with the other 20 divisions."
+  },
+  {
+    "administrative_code": "S",
+    "dhivehi_code": "ސ",
+    "name": "Seenu Atoll",
+    "capital_island": "Hithadhoo",
+    "notes": "Also known as Addu Atoll. Most of the inhabited area is constituted as 'Addu City'. Following a 3 November 2025 presidential decree, Addu Hulhudhoo and Addu Meedhoo were designated separate inhabited islands, and Addu City was redefined to comprise only Hithadhoo, Maradhoo, Maradhoo-Feydhoo and Feydhoo. Gan Island (site of Gan International Airport) has no permanent resident population and is excluded from islands.json."
+  },
+  {
+    "administrative_code": "MLE",
+    "dhivehi_code": null,
+    "name": "Malé City",
+    "capital_island": "Malé",
+    "notes": "Administratively distinct from Kaafu Atoll, although geographically within North Malé Atoll. Comprises Malé (the capital island), Hulhumalé and Villimalé (Villingili) as its inhabited constituent islands, plus the uninhabited/airport island of Hulhulé (excluded from islands.json) and industrial reclaimed islands such as Thilafushi and Gulhifalhu (also excluded). 'MLE' is used here as a practical code since Malé City, unlike the 20 atolls, has no Thaana-alphabet-derived administrative letter code in common use; addresses for Malé are typically written without any atoll-style prefix."
+  }
+]

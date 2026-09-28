@@ -1,0 +1,3204 @@
+{
+  "generatedAt": "2026-09-23T17:01:04.480Z",
+  "summary": {
+    "resortFoldersFound": 138,
+    "hotelFoldersFound": 12,
+    "extracted": 150,
+    "failures": 0,
+    "noPrimaryPage": 0,
+    "multiFileFoldersFlagged": 1,
+    "atollConfidence": {
+      "agree": 59,
+      "metaOnly": 44,
+      "bodyOnly": 17,
+      "conflict": 17,
+      "none": 10,
+      "ambiguousOnly": 3
+    },
+    "withExplicitIslandName": 19,
+    "withoutExplicitIslandName": 131,
+    "guesthouseMentionsAmongHotelFolder": 3,
+    "withVideo": 137,
+    "withoutVideo": 13,
+    "propertiesWithAtLeastOneRoom": 140,
+    "totalRoomsExtracted": 310,
+    "totalImagesFound": 2340
+  },
+  "noPrimaryPage": [],
+  "failures": [],
+  "multiFileFolders": {
+    "resorts": [
+      {
+        "folder": "The-Ritz-Carlton",
+        "files": [
+          "The-Ritz-Carlton-Fari-island-Maldives.html",
+          "ritz-carlton-fari-island-ocean-pool-villa-bookin.html"
+        ]
+      }
+    ],
+    "hotels": []
+  },
+  "properties": [
+    {
+      "folder": "Aaaveee-Natures-Paradise",
+      "propertyKind": "resort",
+      "legacyH1": "Aaaveee Nature's Paradise Island Resort Maldives",
+      "sourceFile": "resorts/Aaaveee-Natures-Paradise/aaaveee-natures-paradise-maldives-island-resort.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [
+        "Dh"
+      ],
+      "bodyAtollCodes": [
+        "Dh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Yp51yOrPzpA",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Adaaran-Hudhuranfushi",
+      "propertyKind": "resort",
+      "legacyH1": "Adaaran Select Hudhuran Fushi Island Resort Maldives",
+      "sourceFile": "resorts/Adaaran-Hudhuranfushi/Adaaran-Select-Hudhuran-Fushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "DDBNdhpfmHk",
+      "roomCount": 2,
+      "imageCount": 29
+    },
+    {
+      "folder": "Adaaran-Select",
+      "propertyKind": "resort",
+      "legacyH1": "Adaaran Select Meedhupparu Island Resort Maldives",
+      "sourceFile": "resorts/Adaaran-Select/Adaaran-Select-Meedhupparu-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "1JV3MeBgVFs",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Adaaran-Vadoo",
+      "propertyKind": "resort",
+      "legacyH1": "Adaaran Prestige Vadoo Island Resort Maldives",
+      "sourceFile": "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Vadoo",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "-diTGI7I0PI",
+      "roomCount": 1,
+      "imageCount": 23
+    },
+    {
+      "folder": "Alila-Kothaifaru",
+      "propertyKind": "resort",
+      "legacyH1": "Alila Kothaifaru Maldives Island Resort",
+      "sourceFile": "resorts/Alila-Kothaifaru/Alila-Kothaifaru-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "iSxvRiuoJ80",
+      "roomCount": 2,
+      "imageCount": 13
+    },
+    {
+      "folder": "Alimathaa",
+      "propertyKind": "resort",
+      "legacyH1": "Nakai Alimathaa Island Resort Maldives",
+      "sourceFile": "resorts/Alimathaa/Alimathaa-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "V",
+      "metaAtollCodes": [
+        "V"
+      ],
+      "bodyAtollCodes": [
+        "V"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "jOZq8S7pJzA",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Amari-Havodda",
+      "propertyKind": "resort",
+      "legacyH1": "Amari Havodda Maldives Island Resort",
+      "sourceFile": "resorts/Amari-Havodda/Amari-Havodda-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "GDh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Gg2E1SAp9HY",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "Amaya-Resort",
+      "propertyKind": "resort",
+      "legacyH1": "Amaya Kuda Rah Island Resort Maldives",
+      "sourceFile": "resorts/Amaya-Resort/Amaya-Resort-Kuda-Rah-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "24h6vGDC5gs",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Amilla-Fushi",
+      "propertyKind": "resort",
+      "legacyH1": "Amilla Fushi Island Resort Maldives",
+      "sourceFile": "resorts/Amilla-Fushi/Amilla-Fushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "9vdcB98lF6E",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Angaga-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Angaga Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Angaga-Island/Angaga-Island-Resort-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [
+        "ari"
+      ],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "p21Ix-mticw",
+      "roomCount": 2,
+      "imageCount": 27
+    },
+    {
+      "folder": "Angsana-Velavaru",
+      "propertyKind": "resort",
+      "legacyH1": "Angsana Velavaru Island Resort Maldives",
+      "sourceFile": "resorts/Angsana-Velavaru/Angsana-Velavaru-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [
+        "Dh"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "G9Q7xzdH5AU",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Atmosphere-Kanifushi",
+      "propertyKind": "resort",
+      "legacyH1": "Atmosphere Kanifushi Island Resort Maldives",
+      "sourceFile": "resorts/Atmosphere-Kanifushi/Atmosphere-Kanifushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "Tm37BJAKfiw",
+      "roomCount": 3,
+      "imageCount": 15
+    },
+    {
+      "folder": "Ayada",
+      "propertyKind": "resort",
+      "legacyH1": "Ayada Maldives Island Resort",
+      "sourceFile": "resorts/Ayada/Ayada-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "GDh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "GDh"
+      ],
+      "metaAtollAmbiguous": [
+        "huvadhoo"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CZGxcfCXJz0",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "Baglioni-Resort",
+      "propertyKind": "resort",
+      "legacyH1": "Baglioni Island Resort Maldives",
+      "sourceFile": "resorts/Baglioni-Resort/Baglioni-Resort-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "Dh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Maagau",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "5d1Pp6Ky0-8",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Bandos-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Bandos Island Resort Maldives",
+      "sourceFile": "resorts/Bandos-Island/Bandos-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Bandos",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "NXykEIVZthY",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Banyan-Tree",
+      "propertyKind": "resort",
+      "legacyH1": "Banyan Tree Vabbinfaru Island Resort Maldives",
+      "sourceFile": "resorts/Banyan-Tree/Banyan-Tree-Vabbinfaru-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "j1sbqolKVj4",
+      "roomCount": 1,
+      "imageCount": 12
+    },
+    {
+      "folder": "Baros-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Baros Island Resort Maldives",
+      "sourceFile": "resorts/Baros-Island/Baros-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "9NssgRLiKF8",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "COMO-Cocoa",
+      "propertyKind": "resort",
+      "legacyH1": "COMO Cocoa Island Resort Maldives",
+      "sourceFile": "resorts/COMO-Cocoa/COMO-Cocoa-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "_XB8pI2cRwU",
+      "roomCount": 0,
+      "imageCount": 13
+    },
+    {
+      "folder": "COMO-Maalifushi",
+      "propertyKind": "resort",
+      "legacyH1": "COMO Maalifushi Island Resort Maldives",
+      "sourceFile": "resorts/COMO-Maalifushi/COMO-Maalifushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Th",
+      "metaAtollCodes": [
+        "Th"
+      ],
+      "bodyAtollCodes": [
+        "Th"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "JXF1GshPotc",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Cinnamon-Dhonveli",
+      "propertyKind": "resort",
+      "legacyH1": "Cinnamon Dhonveli Island Resort Maldives",
+      "sourceFile": "resorts/Cinnamon-Dhonveli/Cinnamon-Dhonveli-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "9Cblu6zFvVA",
+      "roomCount": 2,
+      "imageCount": 13
+    },
+    {
+      "folder": "Cinnamon-Hakuraa",
+      "propertyKind": "resort",
+      "legacyH1": "Cinnamon Hakuraa Huraa Island Resort Maldives",
+      "sourceFile": "resorts/Cinnamon-Hakuraa/Cinnamon-Hakuraa-Huraa-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "M",
+      "metaAtollCodes": [
+        "M"
+      ],
+      "bodyAtollCodes": [
+        "M"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "xOcMV9PMeSU",
+      "roomCount": 2,
+      "imageCount": 11
+    },
+    {
+      "folder": "Cinnamon-Velifushi",
+      "propertyKind": "resort",
+      "legacyH1": "Cinnamon Velifushi Island Resort Maldives",
+      "sourceFile": "resorts/Cinnamon-Velifushi/Cinnamon-Velifushi-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "V",
+      "metaAtollCodes": [
+        "V"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "kbMWsPEN_tI",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Coco-Bodu-Hithi",
+      "propertyKind": "resort",
+      "legacyH1": "Coco Bodu Hithi Island Resort Maldives",
+      "sourceFile": "resorts/Coco-Bodu-Hithi/Coco-Bodu-Hithi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "xGAFeyMV4XI",
+      "roomCount": 2,
+      "imageCount": 31
+    },
+    {
+      "folder": "Cocogiri-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Cocogiri Island Resort Maldives",
+      "sourceFile": "resorts/Cocogiri-Island/Cocogiri-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "V",
+      "metaAtollCodes": [
+        "V"
+      ],
+      "bodyAtollCodes": [
+        "V"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 1,
+      "imageCount": 1
+    },
+    {
+      "folder": "Cocoon",
+      "propertyKind": "resort",
+      "legacyH1": "Cocoon Island Resort Maldives",
+      "sourceFile": "resorts/Cocoon/Cocoon-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Ookolhufinolhu",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "VBv-4dBPSy4",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Conrad-Rangali",
+      "propertyKind": "resort",
+      "legacyH1": "Conrad Maldives Rangali Island Resort Maldives",
+      "sourceFile": "resorts/Conrad-Rangali/Conrad-Maldives-Rangali-Island.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [
+        "ADh"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [
+        "ari"
+      ],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "Cora-Cora",
+      "propertyKind": "resort",
+      "legacyH1": "Cora Cora Maldives Island Resort Maldives",
+      "sourceFile": "resorts/Cora-Cora/Cora-Cora-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 3,
+      "imageCount": 15
+    },
+    {
+      "folder": "Dhigali",
+      "propertyKind": "resort",
+      "legacyH1": "Dhigali Maldives Island Resort",
+      "sourceFile": "resorts/Dhigali/Dhigali-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "mK3be2nNVlI",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Dhiggiri",
+      "propertyKind": "resort",
+      "legacyH1": "NAKAI Dhiggiri Island Resort Maldives",
+      "sourceFile": "resorts/Dhiggiri/Dhiggiri-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "V",
+      "metaAtollCodes": [
+        "V"
+      ],
+      "bodyAtollCodes": [
+        "V"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Ng4M3P60Mio",
+      "roomCount": 2,
+      "imageCount": 13
+    },
+    {
+      "folder": "Dhigufaru-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Dhigufaru Island Resort Maldives",
+      "sourceFile": "resorts/Dhigufaru-Island/Dhigufaru-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "ni9GAZMyeBY",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Diamonds-Thudufushi",
+      "propertyKind": "resort",
+      "legacyH1": "Diamond Thudufushi Maldives Resort and Spa",
+      "sourceFile": "resorts/Diamonds-Thudufushi/Diamonds-Thudufushi-Island-Maldives.html",
+      "atollConfidence": "ambiguousOnly",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Caues3sglgg",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Dusit-Thani",
+      "propertyKind": "resort",
+      "legacyH1": "Dusit Thani Island Resort Maldives",
+      "sourceFile": "resorts/Dusit-Thani/Dusit-Thani-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "PmHX8kEUcLI",
+      "roomCount": 3,
+      "imageCount": 20
+    },
+    {
+      "folder": "Emerald-Maldives",
+      "propertyKind": "resort",
+      "legacyH1": "Emerald Maldives Resort & Spa Fasmendhoo",
+      "sourceFile": "resorts/Emerald-Maldives/Emerald-Maldives-Resort-and-Spa.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "C5NRgq0L8_8",
+      "roomCount": 3,
+      "imageCount": 18
+    },
+    {
+      "folder": "Eriyadu-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Eriyadu Island Resort Maldives",
+      "sourceFile": "resorts/Eriyadu-Island/Eriyadu-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "dYXK4n48TUI",
+      "roomCount": 1,
+      "imageCount": 12
+    },
+    {
+      "folder": "Faarufushi",
+      "propertyKind": "resort",
+      "legacyH1": "Emerald Faarufushi Island Resort Maldives",
+      "sourceFile": "resorts/Faarufushi/Faarufushi-Island-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "_WWq9VYHs5I",
+      "roomCount": 1,
+      "imageCount": 18
+    },
+    {
+      "folder": "Fairmont",
+      "propertyKind": "resort",
+      "legacyH1": "Fairmont Maldives Sirru Fen Fushi",
+      "sourceFile": "resorts/Fairmont/Fairmont-Maldives-Sirru-FenFushi.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Sh",
+      "metaAtollCodes": [
+        "Sh"
+      ],
+      "bodyAtollCodes": [
+        "Sh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "jGU84_1YfzM",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Filitheyo-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Filitheyo Island Resort Maldives",
+      "sourceFile": "resorts/Filitheyo-Island/Filitheyo-Island-Resort-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "F"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "N-FaHyKf1uI",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Finolhu",
+      "propertyKind": "resort",
+      "legacyH1": "Finolhu Maldives Island Resort Kanufushi",
+      "sourceFile": "resorts/Finolhu/Finolhu-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "F"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "WRlxlbZ3pYU",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Four-Seasons-Giraavaru",
+      "propertyKind": "resort",
+      "legacyH1": "Four Seasons Resort Maldives at Landaa Giraavaru",
+      "sourceFile": "resorts/Four-Seasons-Giraavaru/Four-Seasons-Maldives-Landaa-Giraavaru.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "74y61Fcw970",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Four-Seasons-Huraa",
+      "propertyKind": "resort",
+      "legacyH1": "FOUR SEASONS RESORT MALDIVES AT KUDA HURAA",
+      "sourceFile": "resorts/Four-Seasons-Huraa/Four-Seasons-Maldives-Kuda-Huraa.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "-8e3_fdwxmk",
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "Four-Seasons-Voavah",
+      "propertyKind": "resort",
+      "legacyH1": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+      "sourceFile": "resorts/Four-Seasons-Voavah/Four-Seasons-Maldives-Private-Island-Voavah.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 3,
+      "imageCount": 1
+    },
+    {
+      "folder": "Fun-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Fun Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Fun-Island/Fun-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "9Q9Kcl2V2CI",
+      "roomCount": 1,
+      "imageCount": 11
+    },
+    {
+      "folder": "Furaveri",
+      "propertyKind": "resort",
+      "legacyH1": "Furaveri Maldives Island Resort",
+      "sourceFile": "resorts/Furaveri/Furaveri-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "qucF2L2aKvY",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "Fushifaru",
+      "propertyKind": "resort",
+      "legacyH1": "Fushifaru Maldives Island Resort",
+      "sourceFile": "resorts/Fushifaru/Fushifaru-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Lr0Y0xhbVsY",
+      "roomCount": 3,
+      "imageCount": 18
+    },
+    {
+      "folder": "Gangehi-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Gangehi Island Resort Maldives",
+      "sourceFile": "resorts/Gangehi-Island/Gangehi-Island-Resort-Maldives.html",
+      "atollConfidence": "ambiguousOnly",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "m3ixdDDUZU4",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Gili-Lankanfushi",
+      "propertyKind": "resort",
+      "legacyH1": "Gili Lankanfushi Maldives Island Resort",
+      "sourceFile": "resorts/Gili-Lankanfushi/Gili-Lankanfushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Lankanfushi",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Xx61PgIeXRA",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Grand-Park-Kodhipparu",
+      "propertyKind": "resort",
+      "legacyH1": "Grand Park Kodhipparu Maldives Island Resort",
+      "sourceFile": "resorts/Grand-Park-Kodhipparu/Grand-Park-Kodhipparu-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Kodhipparu",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "fcqLbMY_V18",
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "Hard-Rock-Hotel",
+      "propertyKind": "resort",
+      "legacyH1": "Hard Rock Hotel Maldives Island Resort",
+      "sourceFile": "resorts/Hard-Rock-Hotel/Hard-Rock-Hotel-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "aglVRgHZars",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Heritance-Aarah",
+      "propertyKind": "resort",
+      "legacyH1": "Heritance Aarah Maldives Island Resort",
+      "sourceFile": "resorts/Heritance-Aarah/Heritance-Aarah-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "kEchVUUdLCg",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Hideaway-Beach",
+      "propertyKind": "resort",
+      "legacyH1": "Hideaway Beach Resort & Spa Maldives Island",
+      "sourceFile": "resorts/Hideaway-Beach/Hideaway-Beach-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "HA",
+      "metaAtollCodes": [
+        "HA"
+      ],
+      "bodyAtollCodes": [
+        "HA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "cckWsTSD3l4",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Holiday-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+      "sourceFile": "resorts/Holiday-Island/Holiday-Island-Resort-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 3,
+      "imageCount": 1
+    },
+    {
+      "folder": "Hotel-Riu",
+      "propertyKind": "resort",
+      "legacyH1": "RIU Palace Maldives Island Resort",
+      "sourceFile": "resorts/Hotel-Riu/Hotel-Riu-Palace-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "Dh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Kedhigandu",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "LlGWVpZYozE",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Hurawalhi-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Hurawalhi Island Resort Maldives",
+      "sourceFile": "resorts/Hurawalhi-Island/Hurawalhi-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "xznjFXZmNPI",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Innahura",
+      "propertyKind": "resort",
+      "legacyH1": "Innahura Maldives Island Resort",
+      "sourceFile": "resorts/Innahura/Innahura-Maldives-Resort.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Innahura",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "6JHqOSK--sw",
+      "roomCount": 1,
+      "imageCount": 13
+    },
+    {
+      "folder": "InterContinental",
+      "propertyKind": "resort",
+      "legacyH1": "InterContinental Maldives Maamunagau Island Resort",
+      "sourceFile": "resorts/InterContinental/InterContinental-Maldives-Maamunagau-Resort.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R",
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "enmAUSapMec",
+      "roomCount": 2,
+      "imageCount": 18
+    },
+    {
+      "folder": "JA-Manafaru",
+      "propertyKind": "resort",
+      "legacyH1": "JA Manafaru Maldives Island Resort",
+      "sourceFile": "resorts/JA-Manafaru/JA-Manafaru-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "HA",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "HA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "RUmR4femVf4",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "JOALI",
+      "propertyKind": "resort",
+      "legacyH1": "JOALI Maldives Island Resort",
+      "sourceFile": "resorts/JOALI/JOALI-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "0VIhza1IyE0",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "JW-Marriott",
+      "propertyKind": "resort",
+      "legacyH1": "JW Marriott Maldives Island Resort",
+      "sourceFile": "resorts/JW-Marriott/JW-Marriott-Maldives-Resort.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Sh",
+      "metaAtollCodes": [
+        "Sh"
+      ],
+      "bodyAtollCodes": [
+        "Sh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Van'gaaru",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "EHZiO7QOToA",
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "Jumeirah-Olhahali",
+      "propertyKind": "resort",
+      "legacyH1": "Jumeirah Maldives Olhahali Island Resort",
+      "sourceFile": "resorts/Jumeirah-Olhahali/Jumeirah-Olhahali-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "EAExZzTcTGI",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Kandima",
+      "propertyKind": "resort",
+      "legacyH1": "Kandima Maldives Island Resort",
+      "sourceFile": "resorts/Kandima/Kandima-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "Dh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "yUpZcB6oe_A",
+      "roomCount": 0,
+      "imageCount": 17
+    },
+    {
+      "folder": "Kandolhu",
+      "propertyKind": "resort",
+      "legacyH1": "Kandolhu Maldives Island Resort",
+      "sourceFile": "resorts/Kandolhu/Kandolhu-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "uvRrBgIp_1I",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Komandoo-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Komandoo Island Resort and Spa Maldives",
+      "sourceFile": "resorts/Komandoo-Island/Komandoo-Island-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "USCSU8yKo_Y",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Kudadoo",
+      "propertyKind": "resort",
+      "legacyH1": "Kudadoo Maldives Private Island Resort",
+      "sourceFile": "resorts/Kudadoo/Kudadoo-Maldives-Private-Island.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Kmbrx_LYk0Q",
+      "roomCount": 1,
+      "imageCount": 14
+    },
+    {
+      "folder": "Kurumba",
+      "propertyKind": "resort",
+      "legacyH1": "Kurumba Maldives Island Resort",
+      "sourceFile": "resorts/Kurumba/Kurumba-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "8ODifdytxy4",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "LUX-South",
+      "propertyKind": "resort",
+      "legacyH1": "LUX* South Ari Atoll Resorts Maldives Island",
+      "sourceFile": "resorts/LUX-South/LUX-South-Ari-Atoll-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Dhidhoofinolhu",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "0wkm-EuG-Aw",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "Lily-beach",
+      "propertyKind": "resort",
+      "legacyH1": "Lily Beach Resort & Spa Maldives Island Resort",
+      "sourceFile": "resorts/Lily-beach/Lily-beach-Resort-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [
+        "ari"
+      ],
+      "explicitIslandName": "Huvahendhoo",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "JEgqJqbA79E",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Maayafushi",
+      "propertyKind": "resort",
+      "legacyH1": "NAKAI Maayafushi Maldives Island Resort",
+      "sourceFile": "resorts/Maayafushi/Nakai-Maayafushi-Island-Resort-Maldives.html",
+      "atollConfidence": "ambiguousOnly",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [
+        "ari"
+      ],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "09xGGXQ0WA0",
+      "roomCount": 0,
+      "imageCount": 14
+    },
+    {
+      "folder": "Makunudu-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Makunudu Island Resort Maldives",
+      "sourceFile": "resorts/Makunudu-Island/Makunudu-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "m16ooP56quk",
+      "roomCount": 1,
+      "imageCount": 11
+    },
+    {
+      "folder": "Malahini-Kuda-Bandos",
+      "propertyKind": "resort",
+      "legacyH1": "Malahini Kuda Bandos Maldives Island Resort",
+      "sourceFile": "resorts/Malahini-Kuda-Bandos/Malahini-Kuda-Bandos-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "f_g5hU7gpHI",
+      "roomCount": 1,
+      "imageCount": 13
+    },
+    {
+      "folder": "Medhufushi-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Medhufushi Island Resort Maldives",
+      "sourceFile": "resorts/Medhufushi-Island/Medhufushi-Island-ResortMaldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "M"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "5j7XZjsxiP8",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Meeru-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Meeru Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Meeru-Island/Meeru-Island-Resort-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "7cJKIs_Ps0Q",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Milaidhoo",
+      "propertyKind": "resort",
+      "legacyH1": "Milaidhoo Maldives Island Resort",
+      "sourceFile": "resorts/Milaidhoo/Milaidhoo-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "fQsrXcjbvqE",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Mirihi-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Mirihi Island Resort Maldives",
+      "sourceFile": "resorts/Mirihi-Island/Mirihi-Island-Resort-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "22tRj_0CFDQ",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Movenpick",
+      "propertyKind": "resort",
+      "legacyH1": "Movenpick Resort Kuredhivaru Maldives Resort",
+      "sourceFile": "resorts/Movenpick/Movenpick-Resort-Kuredhivaru-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "N"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "hEpEZxGW_Js",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Nika-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Nika Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Nika-Island/Nika-Island-Reosrt-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "AA",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "AA"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [
+        "ari"
+      ],
+      "explicitIslandName": "Nika",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "7WBGJrqLLz4",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Noku",
+      "propertyKind": "resort",
+      "legacyH1": "Noku Maldives Island Resort",
+      "sourceFile": "resorts/Noku/Noku-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "N",
+      "metaAtollCodes": [
+        "N"
+      ],
+      "bodyAtollCodes": [
+        "N"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Kuda-Funafaru",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "LRyhlGZy_q0",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Nova",
+      "propertyKind": "resort",
+      "legacyH1": "NOVA Maldives Island Resort",
+      "sourceFile": "resorts/Nova/Nova-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "pNaa-necLJQ",
+      "roomCount": 3,
+      "imageCount": 11
+    },
+    {
+      "folder": "OBLU-NATURE-Helengeli",
+      "propertyKind": "resort",
+      "legacyH1": "OBLU NATURE Helengeli Maldives Island Resort",
+      "sourceFile": "resorts/OBLU-NATURE-Helengeli/OBLU-NATURE-Helengeli-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "f9bdiPl0bWY",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "OBLU-SELECT-Lobigili",
+      "propertyKind": "resort",
+      "legacyH1": "OBLU SELECT Lobigili Maldives Island Resort",
+      "sourceFile": "resorts/OBLU-SELECT-Lobigili/OBLU-SELECT-Lobigili-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "RwiYnEODZuk",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "OBLU-SELECT-Sangeli",
+      "propertyKind": "resort",
+      "legacyH1": "OBLU SELECT Sangeli Maldives Island Resort",
+      "sourceFile": "resorts/OBLU-SELECT-Sangeli/OBLU-SELECT-Sangeli-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "B_VEo7K5gCI",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "OBLU-XPERIENCE-Ailafushi",
+      "propertyKind": "resort",
+      "legacyH1": "OBLU XPErience Ailafushi Maldives Island Resort",
+      "sourceFile": "resorts/OBLU-XPERIENCE-Ailafushi/OBLU-XPERIENCE-Ailafushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "2KS4bmFNL7Y",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "OZEN-LIFE-MAADHOO",
+      "propertyKind": "resort",
+      "legacyH1": "Ozen Life Maadhoo Maldives Island Resort",
+      "sourceFile": "resorts/OZEN-LIFE-MAADHOO/OZEN-LIFE-MAADHOO-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "UYUayGwigOI",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "One-and-Only",
+      "propertyKind": "resort",
+      "legacyH1": "One & Only Reethi Rah Maldives Island Resort",
+      "sourceFile": "resorts/One-and-Only/One-and-Only-Reethirah-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "4yLvHcjWaMY",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Outrigger-Konotta",
+      "propertyKind": "resort",
+      "legacyH1": "Outrigger Konotta Maldives Island Resort",
+      "sourceFile": "resorts/Outrigger-Konotta/Outrigger-Konotta-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "GDh",
+      "metaAtollCodes": [
+        "GDh"
+      ],
+      "bodyAtollCodes": [
+        "GDh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "eZFc1P6ivgw",
+      "roomCount": 0,
+      "imageCount": 16
+    },
+    {
+      "folder": "Outrigger-Maafushivaru",
+      "propertyKind": "resort",
+      "legacyH1": "Outrigger Maldives Maafushivaru Resort Island",
+      "sourceFile": "resorts/Outrigger-Maafushivaru/Outrigger-Maafushivaru-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "pN2jDp7fIA0",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Ozen-Reserve-Bolifushi",
+      "propertyKind": "resort",
+      "legacyH1": "Ozen Reserve Bolifushi Maldives Island Resort",
+      "sourceFile": "resorts/Ozen-Reserve-Bolifushi/Ozen-Reserve-Bolifushi-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "il6USSNhBDY",
+      "roomCount": 2,
+      "imageCount": 13
+    },
+    {
+      "folder": "Palm-Beach",
+      "propertyKind": "resort",
+      "legacyH1": "Palm Beach Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Palm-Beach/Palm-Beach-Island-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [
+        "Lh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "zS3TfPEFOcc",
+      "roomCount": 0,
+      "imageCount": 9
+    },
+    {
+      "folder": "Park-Hyatt",
+      "propertyKind": "resort",
+      "legacyH1": "Park Hyatt Maldives Hadahaa Island Resort",
+      "sourceFile": "resorts/Park-Hyatt/Park-Hyatt-Maldives-Hadahaa.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [
+        "huvadhoo"
+      ],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "MHEVNKQTr28",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Patina-Maldives",
+      "propertyKind": "resort",
+      "legacyH1": "The Patina Maldives Fari Island Resort",
+      "sourceFile": "resorts/Patina-Maldives/Patina-Maldives-Fari-Island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "g5ECncmC0OI",
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "Pullman",
+      "propertyKind": "resort",
+      "legacyH1": "Pullman Maldives Maamutaa Island Resort",
+      "sourceFile": "resorts/Pullman/Pullman-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "GA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "aCmdCbfQu10",
+      "roomCount": 4,
+      "imageCount": 17
+    },
+    {
+      "folder": "Radisson-Blu",
+      "propertyKind": "resort",
+      "legacyH1": "Radisson Blu Maldives Island Resort",
+      "sourceFile": "resorts/Radisson-Blu/Radisson-Blu-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "od5aJv768h4",
+      "roomCount": 2,
+      "imageCount": 12
+    },
+    {
+      "folder": "Raffles",
+      "propertyKind": "resort",
+      "legacyH1": "Raffles Maldives Meradhoo Island Resort",
+      "sourceFile": "resorts/Raffles/Raffles-Maldives-Meradhoo-Resort.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "GA",
+      "metaAtollCodes": [
+        "GA"
+      ],
+      "bodyAtollCodes": [
+        "GA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "q5l7E02JyYY",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Rahaa-Resort",
+      "propertyKind": "resort",
+      "legacyH1": "Rahaa Resort Maldives Island",
+      "sourceFile": "resorts/Rahaa-Resort/Rahaa-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "L",
+      "metaAtollCodes": [
+        "L"
+      ],
+      "bodyAtollCodes": [
+        "L"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "pFyLzV795hc",
+      "roomCount": 1,
+      "imageCount": 14
+    },
+    {
+      "folder": "Reethi-Beach",
+      "propertyKind": "resort",
+      "legacyH1": "Reethi Beach Resort Maldives",
+      "sourceFile": "resorts/Reethi-Beach/Reethi-Beach-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "su-IqEO2mS4",
+      "roomCount": 0,
+      "imageCount": 13
+    },
+    {
+      "folder": "Reethi-Faru",
+      "propertyKind": "resort",
+      "legacyH1": "Reethi Faru Resort Maldives Island",
+      "sourceFile": "resorts/Reethi-Faru/Reethi-Faru-Reosrt-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Filaidhoo",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "gvkORhQg47s",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Residence-Dhigurah",
+      "propertyKind": "resort",
+      "legacyH1": "The Residence Maldives at Dhigurah Island Resort",
+      "sourceFile": "resorts/Residence-Dhigurah/The-Residence-Dhigurah-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "GA",
+      "metaAtollCodes": [
+        "GA"
+      ],
+      "bodyAtollCodes": [
+        "GA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "1rqPO5YR71c",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Residence-Falhumaafushi",
+      "propertyKind": "resort",
+      "legacyH1": "The Residence Maldives at Falhumaafushi Island Resort",
+      "sourceFile": "resorts/Residence-Falhumaafushi/The-Residence-Falhumaafushi-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "GA",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "GA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Falhumaafushi",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "SE3hjQNVa-c",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Rihiveli",
+      "propertyKind": "resort",
+      "legacyH1": "Rihiveli Maldives",
+      "sourceFile": "resorts/Rihiveli/Rihiveli-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 0,
+      "imageCount": 0
+    },
+    {
+      "folder": "Robinson-Club",
+      "propertyKind": "resort",
+      "legacyH1": "Robinson Club Noonu Maldives Island Resort",
+      "sourceFile": "resorts/Robinson-Club/Robinson-Club-Noonu-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "N",
+      "metaAtollCodes": [
+        "N"
+      ],
+      "bodyAtollCodes": [
+        "N"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Orivaru",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "UXjDrUMTT-Y",
+      "roomCount": 3,
+      "imageCount": 17
+    },
+    {
+      "folder": "Robinson-Maldives",
+      "propertyKind": "resort",
+      "legacyH1": "Robinson Club Maldives Island Resort",
+      "sourceFile": "resorts/Robinson-Maldives/Robinson-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "GA",
+      "metaAtollCodes": [
+        "GA"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Funamadua",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "ctxxnGAKqlk",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Royal-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Royal Island Premium All Inclusive Maldives Island Resort",
+      "sourceFile": "resorts/Royal-Island/Royal-Island-Reosrt-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "YBSyiXv-LBQ",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "SAii-Lagoon",
+      "propertyKind": "resort",
+      "legacyH1": "Saii Lagoon Maldives Island Resort",
+      "sourceFile": "resorts/SAii-Lagoon/SAii-Lagoon-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "1HZWfy0F1-Y",
+      "roomCount": 2,
+      "imageCount": 28
+    },
+    {
+      "folder": "Safari-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Safari Island Resort and Spa Maldives",
+      "sourceFile": "resorts/Safari-Island/safari-island-maldives-mushimas-migili.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "AA",
+      "metaAtollCodes": [
+        "AA"
+      ],
+      "bodyAtollCodes": [
+        "AA"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "runiGf6kyVA",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Sheraton",
+      "propertyKind": "resort",
+      "legacyH1": "Sheraton Maldives Full Moon Resort & Spa Island",
+      "sourceFile": "resorts/Sheraton/Sheraton-Maldives-Full-Moon.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "ogVBxqQp3y4",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Six-Senses-Kanuhura",
+      "propertyKind": "resort",
+      "legacyH1": "Six Senses Kanuhura Maldives Private Island",
+      "sourceFile": "resorts/Six-Senses-Kanuhura/Six-Senses-Kanuhura-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "Lh",
+      "metaAtollCodes": [
+        "Lh"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 3,
+      "imageCount": 0
+    },
+    {
+      "folder": "Six-Senses-Laamu",
+      "propertyKind": "resort",
+      "legacyH1": "Six Senses Laamu Maldives Island Resort",
+      "sourceFile": "resorts/Six-Senses-Laamu/Six-Senses-Laamu-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "L",
+      "metaAtollCodes": [
+        "L"
+      ],
+      "bodyAtollCodes": [
+        "L"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "nR4SchedAl8",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Siyam-World",
+      "propertyKind": "resort",
+      "legacyH1": "Siyam World Maldives Island Resort",
+      "sourceFile": "resorts/Siyam-World/Siyam-World-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "N",
+      "metaAtollCodes": [
+        "N"
+      ],
+      "bodyAtollCodes": [
+        "N"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "FPEuNEfCHv8",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Soneva-Fushi",
+      "propertyKind": "resort",
+      "legacyH1": "Soneva Fushi Maldives Island Resort",
+      "sourceFile": "resorts/Soneva-Fushi/Soneva-Fushi-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B",
+        "N"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "SPn2V6YP_eg",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Soneva-Jani",
+      "propertyKind": "resort",
+      "legacyH1": "Soneva Jani Maldives Island Resort",
+      "sourceFile": "resorts/Soneva-Jani/Soneva-Jani-Maldives.html",
+      "atollConfidence": "conflict",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [
+        "N"
+      ],
+      "bodyAtollCodes": [
+        "N",
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "f3smYTocVT0",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "South-Palm",
+      "propertyKind": "resort",
+      "legacyH1": "South Palm Resort Maldives Island",
+      "sourceFile": "resorts/South-Palm/South-Palm-Resort-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "S",
+      "metaAtollCodes": [
+        "S"
+      ],
+      "bodyAtollCodes": [
+        "S"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "aYQPJc27w60",
+      "roomCount": 2,
+      "imageCount": 12
+    },
+    {
+      "folder": "Sun-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Sun Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Sun-Island/Sun-Island-Reosrt-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [
+        "ADh"
+      ],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "B9eBA_LNeJc",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "Sun-Siyam-IruVeli",
+      "propertyKind": "resort",
+      "legacyH1": "Sun Siyam Iru Veli Maldives Island Resort",
+      "sourceFile": "resorts/Sun-Siyam-IruVeli/Sun-Siyam-IruVeli-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [
+        "Dh"
+      ],
+      "bodyAtollCodes": [
+        "Dh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "1ljyDTmN1Yk",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Sun-Siyam-Olhuveli",
+      "propertyKind": "resort",
+      "legacyH1": "Sun Siyam Olhuveli Maldives Island Resort",
+      "sourceFile": "resorts/Sun-Siyam-Olhuveli/Sun-Siyam-Olhuveli-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Olhuveli",
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "H-_NBKBb1fw",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Sun-Siyam-ViluReef",
+      "propertyKind": "resort",
+      "legacyH1": "Sun Siyam Vilu Reef Maldives Island Resort",
+      "sourceFile": "resorts/Sun-Siyam-ViluReef/Sun-Siyam-ViluReef-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "Dh",
+      "metaAtollCodes": [
+        "Dh"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "KWl90P4Oe10",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Taj-Coral-Reef",
+      "propertyKind": "resort",
+      "legacyH1": "Taj Coral Reef Resort & Spa Maldives",
+      "sourceFile": "resorts/Taj-Coral-Reef/Taj-Coral-Reef-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "dPFQMGyAFck",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "Taj-Exotica",
+      "propertyKind": "resort",
+      "legacyH1": "Taj Exotica Resort & Spa Maldives",
+      "sourceFile": "resorts/Taj-Exotica/Taj-Exotica-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "AHXkN6Zbg3E",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "The-Ritz-Carlton",
+      "propertyKind": "resort",
+      "legacyH1": "The Ritz Carlton Maldives Fari Island Resort",
+      "sourceFile": "resorts/The-Ritz-Carlton/The-Ritz-Carlton-Fari-island-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "Zcocq4od2Tw",
+      "roomCount": 2,
+      "imageCount": 17
+    },
+    {
+      "folder": "VARU-Atmosphere",
+      "propertyKind": "resort",
+      "legacyH1": "VARU by Atmosphere Maldives Island Resort",
+      "sourceFile": "resorts/VARU-Atmosphere/VARU-by-Atmosphere-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "JCoOrSl6-as",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "Vakarufalhi",
+      "propertyKind": "resort",
+      "legacyH1": "Vakarufalhi Maldives Island Resort",
+      "sourceFile": "resorts/Vakarufalhi/Vakarufalhi-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "8c-NtpnhG10",
+      "roomCount": 0,
+      "imageCount": 14
+    },
+    {
+      "folder": "Vakkaru",
+      "propertyKind": "resort",
+      "legacyH1": "Vakkaru Maldives Island Resort",
+      "sourceFile": "resorts/Vakkaru/Vakkaru-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "-tmrOPCI3-Q",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Velassaru",
+      "propertyKind": "resort",
+      "legacyH1": "Velassaru Maldives Island Resort",
+      "sourceFile": "resorts/Velassaru/Velassaru-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "UBywDUXX3dA",
+      "roomCount": 3,
+      "imageCount": 19
+    },
+    {
+      "folder": "Veligandu-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Veligandu Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Veligandu-Island/Veligandu-Island-Resort-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "AA",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "AA"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "8RTjyBXGrJA",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Vilamendhoo-Island",
+      "propertyKind": "resort",
+      "legacyH1": "Vilamendhoo Island Resort & Spa Maldives",
+      "sourceFile": "resorts/Vilamendhoo-Island/Vilamendhoo-Island-Resort-Maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "ADh",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "ADh"
+      ],
+      "metaAtollAmbiguous": [
+        "ari"
+      ],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "vBYLNZEdaYI",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "Waldorf-Astoria",
+      "propertyKind": "resort",
+      "legacyH1": "Waldorf Astoria Maldives Ithaafushi Island Resort",
+      "sourceFile": "resorts/Waldorf-Astoria/Waldorf-Astoria-Maldives-Ithaafushi.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "gXK48Tb4Pic",
+      "roomCount": 0,
+      "imageCount": 12
+    },
+    {
+      "folder": "Westin-Miriandhoo",
+      "propertyKind": "resort",
+      "legacyH1": "The Westin Maldives Miriandhoo Resort",
+      "sourceFile": "resorts/Westin-Miriandhoo/The-Westin-Miriandhoo-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [
+        "B"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "Z67wPR8r8P8",
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "You-and-Me",
+      "propertyKind": "resort",
+      "legacyH1": "You & Me by Cocoon Maldives Island Resort",
+      "sourceFile": "resorts/You-and-Me/You-and-Me-Maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "R",
+      "metaAtollCodes": [
+        "R"
+      ],
+      "bodyAtollCodes": [
+        "R"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 5,
+      "isGuesthouseMention": false,
+      "videoId": "ncv136ZRUx0",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "adaaran-club-rannalhi",
+      "propertyKind": "resort",
+      "legacyH1": "Adaaran Club Rannalhi Island Resort Maldives",
+      "sourceFile": "resorts/adaaran-club-rannalhi/adaaran-club-rannalhi-maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "JnsS3oIjDiM",
+      "roomCount": 2,
+      "imageCount": 16
+    },
+    {
+      "folder": "anantara-dhigu",
+      "propertyKind": "resort",
+      "legacyH1": "Anantara Dhigu Island Resort Maldives",
+      "sourceFile": "resorts/anantara-dhigu/anantara-dhigu-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "CqbUr7mdR6w",
+      "roomCount": 4,
+      "imageCount": 19
+    },
+    {
+      "folder": "centara-rasfushi",
+      "propertyKind": "resort",
+      "legacyH1": "Centara Rasfushi Island Resort Maldives",
+      "sourceFile": "resorts/centara-rasfushi/centara-rasfushi-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "F1a21IInpQ4",
+      "roomCount": 3,
+      "imageCount": 23
+    },
+    {
+      "folder": "embudu-village",
+      "propertyKind": "resort",
+      "legacyH1": "Embudu Village Island Maldives",
+      "sourceFile": "resorts/embudu-village/embudu-village-resort-maldives.html",
+      "atollConfidence": "agree",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "pGzhOylYfog",
+      "roomCount": 2,
+      "imageCount": 15
+    },
+    {
+      "folder": "fihalhohi",
+      "propertyKind": "resort",
+      "legacyH1": "Fihaalhohi Island Resort Maldives",
+      "sourceFile": "resorts/fihalhohi/fihaalhohi-isand-resort-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "pgTJIQbrvuw",
+      "roomCount": 2,
+      "imageCount": 20
+    },
+    {
+      "folder": "huvafenfushi",
+      "propertyKind": "resort",
+      "legacyH1": "Huvafen Fushi Island Resort Maldives",
+      "sourceFile": "resorts/huvafenfushi/huvafen-fushi-maldives-island-resort.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "jpzWIVnQNic",
+      "roomCount": 2,
+      "imageCount": 22
+    },
+    {
+      "folder": "kuda-Villingili",
+      "propertyKind": "resort",
+      "legacyH1": "Kuda Villingili Resort Maldives",
+      "sourceFile": "resorts/kuda-Villingili/kuda-Villingili-Resort-Maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "8902D6Z2FQo",
+      "roomCount": 3,
+      "imageCount": 16
+    },
+    {
+      "folder": "nautilus",
+      "propertyKind": "resort",
+      "legacyH1": "The Nautilus Island Resort Maldives",
+      "sourceFile": "resorts/nautilus/the-nautilus-island-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "B",
+      "metaAtollCodes": [
+        "B"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "K4RmfjxrmyY",
+      "roomCount": 2,
+      "imageCount": 20
+    },
+    {
+      "folder": "paradise",
+      "propertyKind": "resort",
+      "legacyH1": "Paradise Island Resort Maldives",
+      "sourceFile": "resorts/paradise/paradise-island-resort-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "6DZ5G4PYy3Y",
+      "roomCount": 3,
+      "imageCount": 22
+    },
+    {
+      "folder": "summer-island",
+      "propertyKind": "resort",
+      "legacyH1": "Summer Island Resort Maldives",
+      "sourceFile": "resorts/summer-island/summer-island-resort-maldives.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "kZCfEKeP9dM",
+      "roomCount": 3,
+      "imageCount": 23
+    },
+    {
+      "folder": "vommuli",
+      "propertyKind": "resort",
+      "legacyH1": "The St. Regis Vommuli Island Resort Maldives",
+      "sourceFile": "resorts/vommuli/st-regis-vommuli-maldives-resort.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "SrtYhHoTGfw",
+      "roomCount": 3,
+      "imageCount": 23
+    },
+    {
+      "folder": "w-maldives",
+      "propertyKind": "resort",
+      "legacyH1": "W Maldives Island Resort Maldives",
+      "sourceFile": "resorts/w-maldives/w-maldives-island-resort.html",
+      "atollConfidence": "metaOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [
+        "K"
+      ],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "dVPW7ifhylg",
+      "roomCount": 2,
+      "imageCount": 20
+    },
+    {
+      "folder": "Amra-Palace",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Amra Palace Island Hotel Maldives",
+      "sourceFile": "hotels/Amra-Palace/Amra-Palace-Hotel-Maldives-Gan-Island.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": "BNO2diluGHE",
+      "roomCount": 0,
+      "imageCount": 16
+    },
+    {
+      "folder": "arena-maafushi",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Arena Beach Hotel Maafushi Maldives",
+      "sourceFile": "hotels/arena-maafushi/arena-beach-hotel-in-maafushi-maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 3,
+      "imageCount": 18
+    },
+    {
+      "folder": "casa-retreat",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": null,
+      "sourceFile": "hotels/casa-retreat/casa-retreat-hotel-in-hulhumale-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 1,
+      "imageCount": 9
+    },
+    {
+      "folder": "crystal-beach",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": null,
+      "sourceFile": "hotels/crystal-beach/crystal-beach-hotel-in-hulhumale-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 3,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 1,
+      "imageCount": 11
+    },
+    {
+      "folder": "gaafaru-view-inn-maldives",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Gaafari view inn Hotel Maldives",
+      "sourceFile": "hotels/gaafaru-view-inn-maldives/gaafaru-view-inn-maldives.html",
+      "atollConfidence": "bodyOnly",
+      "resolvedAtollCode": "K",
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [
+        "K"
+      ],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 3,
+      "isGuesthouseMention": true,
+      "videoId": null,
+      "roomCount": 1,
+      "imageCount": 18
+    },
+    {
+      "folder": "island-break-fulidhoo",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Island Break Fulidhoo Maldives",
+      "sourceFile": "hotels/island-break-fulidhoo/island-break-hotel-fulidhoo.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 4,
+      "imageCount": 40
+    },
+    {
+      "folder": "kaanibeach-maafushi",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Kaani Beach Hotel Maafushi Maldives",
+      "sourceFile": "hotels/kaanibeach-maafushi/kaani-beach-hotel-in-maafushi-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 3,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 2,
+      "imageCount": 14
+    },
+    {
+      "folder": "maagiri",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Maagiri Hotel Male Maldives",
+      "sourceFile": "hotels/maagiri/maagiri-hotel-in-male-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": 4,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 2,
+      "imageCount": 13
+    },
+    {
+      "folder": "mantha-view-hotel",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Mantha view Hotel Maldives",
+      "sourceFile": "hotels/mantha-view-hotel/mantha-view-hotel-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": true,
+      "videoId": null,
+      "roomCount": 1,
+      "imageCount": 20
+    },
+    {
+      "folder": "reveries-village",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": null,
+      "sourceFile": "hotels/reveries-village/reveries-diving-village-surfandSpa.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": true,
+      "videoId": null,
+      "roomCount": 1,
+      "imageCount": 0
+    },
+    {
+      "folder": "rosemery-maafushi",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": null,
+      "sourceFile": "hotels/rosemery-maafushi/rosemery-hotel-in-maafushi-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": "Maafushi",
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 2,
+      "imageCount": 11
+    },
+    {
+      "folder": "surfview-male",
+      "propertyKind": "hotel_or_guesthouse",
+      "legacyH1": "Surfview Hotel Male Maldives",
+      "sourceFile": "hotels/surfview-male/surfview-hotel-in-male-maldives.html",
+      "atollConfidence": "none",
+      "resolvedAtollCode": null,
+      "metaAtollCodes": [],
+      "bodyAtollCodes": [],
+      "metaAtollAmbiguous": [],
+      "bodyAtollAmbiguous": [],
+      "explicitIslandName": null,
+      "starRating": null,
+      "isGuesthouseMention": false,
+      "videoId": null,
+      "roomCount": 2,
+      "imageCount": 10
+    }
+  ]
+}

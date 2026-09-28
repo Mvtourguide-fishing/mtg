@@ -1,0 +1,88 @@
+{
+  "folder": "Ayada",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Ayada/Ayada-Maldives.html",
+  "legacyTitle": "Ayada Maldives Island Resort",
+  "legacyH1": "Ayada Maldives Island Resort",
+  "metaDescription": "Ayada Maldives Island is a resort located in Huvadhoo atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "huvadhoo"
+  ],
+  "bodyAtollCodes": [
+    "GDh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CZGxcfCXJz0",
+  "descriptionParagraphs": [
+    "Ayada Maldives, located on a lovely private island with pristine beaches and rich tropical flora, offers a really magnificent escape in true Maldivian style. Ayada Maldives is a wonderful choice because of its many restaurants, huge villas with private infinity pools, and our numerous award-winning AySpa. Our visitors may choose from a wide range of water sports, excursions, and other activities.",
+    "At Ayada Maldives, we have 8 outlets, each offering a different cuisine and unique dining experience, such as Teppanyaki, Mediterranean fine dining, and Asian delicacies. We use fresh organic ingredients from our garden and nearby farmers in each restaurant, which makes our meal genuine and wonderfully delicious. Ile de Joie, our over-water wine cellar, provides a one-of-a-kind wine and cheese experience. Our cooks are prepared to accommodate any dietary restrictions.",
+    "Ayada Maldives provides nine different types of luxury accommodation, all of which incorporate contemporary and traditional Maldivian design aspects. The stilted water villas have been carefully situated on the beautifully formed jetty to catch amazing views of the boundless horizon, whilst the beach villas provide an enclave of perfect seclusion and quiet only 30 steps from the Indian Ocean.",
+    "The magnificent and spacious 10 Garden Villas, 33 Beach Villas, 4 Beach Suites, 14 Sunset Beach Villas, 11 Sunset Lagoon Suites, 33 Ocean Villas, 14 Sunset Ocean Suites, 2 Sunset Family Suites, and Ayada Royal Suite are all tastefully designed and furnished to provide maximum privacy and utmost comfort.",
+    "Ayada Maldives is situated in the beautiful Gaafu Dhaalu Atoll in the country's south. When passengers arrive at Velena (MLE), they are met by one of our airport personnel and brought to the domestic lounge, followed by the leaving domestic aircraft gate. The resort is merely a 55-minute domestic flight and a 50-minute speed boat ride from Male."
+  ],
+  "rooms": [
+    {
+      "name": "Garden Villa",
+      "price": 670,
+      "priceInclTax": 718,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Ayada/images/Ayada-Maldives-Garden-villa.webp",
+        "/resorts/Ayada/images/Ayada-Maldives-Garden-villa1.webp"
+      ]
+    },
+    {
+      "name": "Pool Villa",
+      "price": 850,
+      "priceInclTax": 908,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Ayada/images/Ayada-Maldives-Pool-villa.webp",
+        "/resorts/Ayada/images/Ayada-Maldives-Pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Ocean Villa",
+      "price": 1300,
+      "priceInclTax": 1405,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Ayada/images/Ayada-Maldives-Ocean-villa.webp",
+        "/resorts/Ayada/images/Ayada-Maldives-Ocean-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Ayada/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Ayada-Maldives-Beach.webp",
+    "Ayada-Maldives-Garden-villa.webp",
+    "Ayada-Maldives-Garden-villa1.webp",
+    "Ayada-Maldives-Island-Resort.webp",
+    "Ayada-Maldives-Island-map.webp",
+    "Ayada-Maldives-Island.webp",
+    "Ayada-Maldives-Kids-area.webp",
+    "Ayada-Maldives-Ocean-villa.webp",
+    "Ayada-Maldives-Ocean-villa1.webp",
+    "Ayada-Maldives-Playground.webp",
+    "Ayada-Maldives-Pool-villa.webp",
+    "Ayada-Maldives-Pool-villa1.webp",
+    "Ayada-Maldives-Pool.webp",
+    "Ayada-Maldives-Resort.webp",
+    "Ayada-Maldives-Surfing.webp",
+    "Ayada-Maldives.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "GDh"
+}

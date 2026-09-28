@@ -1,0 +1,92 @@
+{
+  "folder": "Fairmont",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Fairmont/Fairmont-Maldives-Sirru-FenFushi.html",
+  "legacyTitle": "Fairmont Maldives Sirru Fen Fushi Resort",
+  "legacyH1": "Fairmont Maldives Sirru Fen Fushi",
+  "metaDescription": "Fairmont Sirru Fen Fushi Island is a resort located in Shaviyani atoll, Maldives",
+  "metaAtollCodes": [
+    "Sh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Sh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "jGU84_1YfzM",
+  "descriptionParagraphs": [
+    "Sirru Fen Fushi is more than simply your own retreat. It is located on the Shaviyani Atoll, which contains one of the country's largest resort lagoons, Fairmont Maldives. Our \"hidden water island,\" as the locals call it, shines like a gem. Postcard-perfect white sand beaches bordered with swaying palms, lapped by the turquoise waters of the 600-hectare lagoon that leads to the calm blues of the Indian Ocean and an endless horizon.",
+    "Our magnificent resort has the Maldives' largest infinity pool, which leads to the Coralarium, the Maldives' first and only coral regeneration project in the form of an underwater art installation by Jason deCaires Taylor. Sirru Fen Fushi at Fairmont Maldives is surrounded by magnificent Beach Villas, decadent Over Water Villas, and the unique luxury Tented Jungle Villas.",
+    "The Beach Sunset Villas, nestled among thick mangrove greenery on the edge of beautiful white sands, have an en-suite private bathroom with separate shower, twin vanities, a Nespresso coffee machine, wine fridge, a Bose sound system, and a California king-size bed. Outside, there's a private alfresco bathroom with bathtub and shower, a 14-square-meter plunge pool, and a sala where you can rest and eat. Your personal butler is accessible 24 hours a day to attend to every detail and is only a phone call away. Alternatively, ride your bike along the resort's sandy roads.",
+    "These 495 sqm private luxury pool homes on the island's east coast are ideal for families, tucked among lush tropical flora. The villas offer private tropical gardens, a plunge pool, big indoor and outdoor bathrooms with separate shower and double sink, a Nespresso coffee maker, wine fridge, Bose Hi-Fi system, a California King-size bed, and a separate living room space. A professional Villa Host is on hand 24 hours a day and takes care in making your stay as pleasant as possible; simply call them and begin exploring our private water island.",
+    "These 495 sqm private premium pool homes tucked on the island's east coast are ideal for families. The pristine Indian Ocean in front of you, lush mangrove behind, the villas feature private tropical gardens, plunge pool, generous indoor and outdoor bathrooms with separate shower and double sink, a Nespresso coffee machine, wine fridge, Bose Hi-Fi system, a California King-size bed, and a separate living room area. A specialised Villa Host is accessible 24 hours a day and takes delight in making your stay as pleasant as possible; simply call them and begin exploring our secret water island.",
+    "Relax into the natural elegance of Fairmont Maldives Sirru Fen Fushi's rustic chic Beach and Water Villas, each with its own private pool, or retreat in true tropical flair to Tented Jungle Villa while indulging in an inspiring Maldivian experience."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 850,
+      "priceInclTax": 904,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Beach-Villa.webp",
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Beach Sunrise Villa",
+      "price": 1280,
+      "priceInclTax": 1327,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Island-Resort-Shaviyani-Atoll.webp",
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Island-Resort-Shaviyani-Atoll.webp"
+      ]
+    },
+    {
+      "name": "Water Sunrise Villa",
+      "price": 1111,
+      "priceInclTax": 1168,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Water-Villa.webp",
+        "/resorts/Fairmont/images/Fairmont-Maldives-Sirru-Fen-Fushi-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Fairmont/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Beach-Villa.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Beach-Villa1.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Beach.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Dinner.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Gym.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Island-Resort.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Island-ResortShaviyani-Atoll.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Island-Shaviyani-Atoll.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Island.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Pool-Villa.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Pool-Villa1.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Pool.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Resort.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Spa.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Water-Villa.webp",
+    "Fairmont-Maldives-Sirru-Fen-Fushi-Water-Villa1.webp",
+    "Fairmont-Maldives-Sirru-FenFushi-Island-map.webp",
+    "Fairmont-Maldives-Sirru-FenFushi.webp",
+    "Fairmont-Maldives-SirruFenFushi-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Sh"
+}

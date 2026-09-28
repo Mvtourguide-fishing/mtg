@@ -1,0 +1,51 @@
+{
+  "folder": "Cocogiri-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cocogiri-Island/Cocogiri-Island-Resort-Maldives.html",
+  "legacyTitle": "Cocogiri Island Resort Maldives",
+  "legacyH1": "Cocogiri Island Resort Maldives",
+  "metaDescription": "Cocogiri Island is a resort located in Vaavu atoll, Maldives",
+  "metaAtollCodes": [
+    "V"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "V"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "the vaavu"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [
+    "Our swimming pool is right adjacent to White Sand's Bar and Cafe and the beach, giving our visitors with spectacular views of the Indian Ocean. Enjoy a delicious drink from our Bar while lying by the pool in the Maldivian sun. Our Swimming Pool also features a children's section for the enjoyment of the entire family.",
+    "Through our daily excursions, you can explore the surrounding islands and immerse yourself in the cultural beauty of the Maldives. Cocogiri is your private gateway to tropical paradise, located only 18 minutes by seaplane or 60 minutes by speed boat from Male International Airport.",
+    "Azure Lagoona Restaurant offers a pleasant dining experience with views of the Indian Ocean. The buffet offers a diverse selection of cuisine, as well as live cooking stations and themed evenings. Take your dining experience to the next level by ordering from our A La Carte menu. Breakfast, lunch, and dinner are all gastronomic experiences at Azure Lagoona Restaurant, where delectable specialties are prepared using only the finest ingredients.",
+    "Ameera Spa is created in discrete pods to provide our visitors with a sense of calm and joy. Our Spa Therapists are trained to provide a variety of services such as massage, facials, body wraps, scrubs, and numerous aesthetic treatments. Begin your day with a revitalising facial treatment or relax after a day of activities with our hot stone massage.",
+    "The secluded Vaavu Atoll has some of the Maldives' most stunning coral reefs and sandbanks. The Vaavu Atoll is well-known for its diverse marine life, including dolphins, turtles, manta rays, eagle rays, living coral, and whale sharks. It is also home to Fotteyo Kandu, the Maldives' largest unbroken barrier reef stretching over 50 kilometers, making it one of the best places in the world for diving."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 540,
+      "priceInclTax": 687,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/images/island.webp",
+        "/resorts/images/island.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cocogiri-Island/images",
+  "imageCount": 1,
+  "imageFiles": [
+    "Cocogiri-Island-Resort-Maldives-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "V"
+}

@@ -1,0 +1,594 @@
+{
+  "generatedAt": "2026-09-20T12:57:25.181Z",
+  "note": "Task 15 §17-20. A page only reaches migrationStatus='ready' when it names a specific accommodation that confidently matches the real MTG catalogue AND carries a real extractable price and night count — never a package built around a generic/unidentified resort. See scripts/import-legacy-packages.mjs for the full classification rules.",
+  "totalPackagePages": 64,
+  "byMigrationStatus": {
+    "needs-review": 22,
+    "skipped": 42
+  },
+  "byPageSubType": {
+    "generic-template-marketing": 22,
+    "partner-recruitment": 4,
+    "booking-form-widget": 38
+  },
+  "pages": [
+    {
+      "oldUrl": "/maldives-holiday-tour-packages.html",
+      "sourceFile": "maldives-holiday-tour-packages.html",
+      "title": "Maldives Best Holiday Tour All Inclusive Packages",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": 2,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/packages/activities.html",
+      "sourceFile": "packages/activities.html",
+      "title": "Liveaboard Partners | Maldives Tour Guide - Diving & Ocean Adventures",
+      "pageSubType": "partner-recruitment",
+      "migrationStatus": "skipped",
+      "reason": "B2B partner-recruitment page aimed at operators, not a customer-facing package"
+    },
+    {
+      "oldUrl": "/packages/business-travel-package.html",
+      "sourceFile": "packages/business-travel-package.html",
+      "title": "Business District Retreat - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 450,
+      "nightsFound": 3,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/diving-holiday-package.html",
+      "sourceFile": "packages/diving-holiday-package.html",
+      "title": "Diving Adventure Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 2200,
+      "nightsFound": 7,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/family-holiday-package.html",
+      "sourceFile": "packages/family-holiday-package.html",
+      "title": "Family Beach Adventure - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 850,
+      "nightsFound": 5,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/fishing-holiday-package.html",
+      "sourceFile": "packages/fishing-holiday-package.html",
+      "title": "Fishing Adventure Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 1800,
+      "nightsFound": 6,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/guesthouses.html",
+      "sourceFile": "packages/guesthouses.html",
+      "title": "Guesthouse Partners | Maldives Tour Guide - Join Our Network",
+      "pageSubType": "partner-recruitment",
+      "migrationStatus": "skipped",
+      "reason": "B2B partner-recruitment page aimed at operators, not a customer-facing package"
+    },
+    {
+      "oldUrl": "/packages/honeymoon-package.html",
+      "sourceFile": "packages/honeymoon-package.html",
+      "title": "Honeymoon Paradise Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 3500,
+      "nightsFound": 7,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/liveaboard-safari-package.html",
+      "sourceFile": "packages/liveaboard-safari-package.html",
+      "title": "Liveaboard Safari Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 2200,
+      "nightsFound": 7,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/liveaboards.html",
+      "sourceFile": "packages/liveaboards.html",
+      "title": "Liveaboard Partners | Maldives Tour Guide - Diving & Ocean Adventures",
+      "pageSubType": "partner-recruitment",
+      "migrationStatus": "skipped",
+      "reason": "B2B partner-recruitment page aimed at operators, not a customer-facing package"
+    },
+    {
+      "oldUrl": "/packages/longstay-holiday-package.html",
+      "sourceFile": "packages/longstay-holiday-package.html",
+      "title": "Long Stay Paradise Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 250,
+      "nightsFound": 20,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/maldives-luxury-package.html",
+      "sourceFile": "packages/maldives-luxury-package.html",
+      "title": "Luxury Beach Resort Getaway - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 1200,
+      "nightsFound": 7,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/multi-island-package.html",
+      "sourceFile": "packages/multi-island-package.html",
+      "title": "Island Hopping Adventure Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 2400,
+      "nightsFound": 7,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/packages.html",
+      "sourceFile": "packages/packages.html",
+      "title": "Package Partners | Maldives Tour Guide - Tour Operators & Package Providers",
+      "pageSubType": "partner-recruitment",
+      "migrationStatus": "skipped",
+      "reason": "B2B partner-recruitment page aimed at operators, not a customer-facing package"
+    },
+    {
+      "oldUrl": "/packages/partner-request.html",
+      "sourceFile": "packages/partner-request.html",
+      "title": "Hotel Packages - Find Your Perfect Stay",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 1200,
+      "nightsFound": 3,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/packages/resorts.html",
+      "sourceFile": "packages/resorts.html",
+      "title": "Resort Partners | Maldives Tour Guide - Luxury Resort Network",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 500,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/packages/solo-traveler-package.html",
+      "sourceFile": "packages/solo-traveler-package.html",
+      "title": "Solo Traveller Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 1400,
+      "nightsFound": 5,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/surfing-holiday-package.html",
+      "sourceFile": "packages/surfing-holiday-package.html",
+      "title": "Surfing Holiday Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 1000,
+      "nightsFound": 5,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/packages/transfers.html",
+      "sourceFile": "packages/transfers.html",
+      "title": "Transfer Partners | Maldives Tour Guide - Transportation Services",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/packages/wedding-package.html",
+      "sourceFile": "packages/wedding-package.html",
+      "title": "Destination Wedding Package - Package Details",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 2200,
+      "nightsFound": 10,
+      "hasFabricatedRating": true,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort; also carries an unverifiable templated star rating/review count"
+    },
+    {
+      "oldUrl": "/tours/Chartered-Fishing-Trip-Booing.html",
+      "sourceFile": "tours/Chartered-Fishing-Trip-Booing.html",
+      "title": "Chartered Fishing Trip",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/Chartered-Fishing-Trip-Booking.html",
+      "sourceFile": "tours/Chartered-Fishing-Trip-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Half-Day-Fly-Fishing-Booking.html",
+      "sourceFile": "tours/Half-Day-Fly-Fishing-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Half-Day-Jigging-Booking.html",
+      "sourceFile": "tours/Half-Day-Jigging-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Half-Day-Trolling-Booking.html",
+      "sourceFile": "tours/Half-Day-Trolling-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Maldives-Fishing-Holiday-Package-Booking-1.html",
+      "sourceFile": "tours/Maldives-Fishing-Holiday-Package-Booking-1.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Maldives-Fishing-Holiday-Package-Booking.html",
+      "sourceFile": "tours/Maldives-Fishing-Holiday-Package-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/Maldives-Fishing-Short-Holiday-Package-Booking.html",
+      "sourceFile": "tours/Maldives-Fishing-Short-Holiday-Package-Booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/activities/fullday-surfing-booking.html",
+      "sourceFile": "tours/activities/fullday-surfing-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/activities/half-day-surfing-booking.html",
+      "sourceFile": "tours/activities/half-day-surfing-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/activities/shrot-surfing-booking.html",
+      "sourceFile": "tours/activities/shrot-surfing-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/activities/shrot-surfing-holiday-booking.html",
+      "sourceFile": "tours/activities/shrot-surfing-holiday-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/activities/surfing-holiday-booking.html",
+      "sourceFile": "tours/activities/surfing-holiday-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/big-game-fishing-booking.html",
+      "sourceFile": "tours/big-game-fishing-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/bookingphp/index.html",
+      "sourceFile": "tours/bookingphp/index.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/car-tour-booking.html",
+      "sourceFile": "tours/car-tour-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/city-bike-tour-booking.html",
+      "sourceFile": "tours/city-bike-tour-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/city-walking-tour-booking.html",
+      "sourceFile": "tours/city-walking-tour-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/dayvisitresort-booking.html",
+      "sourceFile": "tours/dayvisitresort-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/dolphin-excursion-male-atoll-activities.html",
+      "sourceFile": "tours/dolphin-excursion-male-atoll-activities.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/dolphin-sunset-booking.html",
+      "sourceFile": "tours/dolphin-sunset-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/dolphingandgrill-booking.html",
+      "sourceFile": "tours/dolphingandgrill-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/emailtemp/emailtemp.html",
+      "sourceFile": "tours/emailtemp/emailtemp.html",
+      "title": "",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/fishing-trip-booking.html",
+      "sourceFile": "tours/fishing-trip-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/fullday-excursion-male-atoll-activities.html",
+      "sourceFile": "tours/fullday-excursion-male-atoll-activities.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/halfday-bike-tour-booking.html",
+      "sourceFile": "tours/halfday-bike-tour-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/halfday-walking-tour-booking.html",
+      "sourceFile": "tours/halfday-walking-tour-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/island-hopping-booking.html",
+      "sourceFile": "tours/island-hopping-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/island-hopping-male-atoll-activities.html",
+      "sourceFile": "tours/island-hopping-male-atoll-activities.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/local-islandvisit-booking.html",
+      "sourceFile": "tours/local-islandvisit-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/maafushi-activity-booking.html",
+      "sourceFile": "tours/maafushi-activity-booking.html",
+      "title": "Acitvities Booking",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/maafushi-transfer-booking - Copy.html",
+      "sourceFile": "tours/maafushi-transfer-booking - Copy.html",
+      "title": "Maafushi Transfer Booking",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/maafushi-transfer-booking.html",
+      "sourceFile": "tours/maafushi-transfer-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/sandbank-and-snorkeling-booking-magic - Copy.html",
+      "sourceFile": "tours/sandbank-and-snorkeling-booking-magic - Copy.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/sandbank-and-snorkeling-booking-magic.html",
+      "sourceFile": "tours/sandbank-and-snorkeling-booking-magic.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/sandbank-and-snorkeling-male-atoll-activities.html",
+      "sourceFile": "tours/sandbank-and-snorkeling-male-atoll-activities.html",
+      "title": "Sandbank and Snorkeling Tour Maldives | Male Atoll Activities | Book Now",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/sandbanksnorkeling-booking.html",
+      "sourceFile": "tours/sandbanksnorkeling-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/scuba-diving-booking.html",
+      "sourceFile": "tours/scuba-diving-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/shipwreck-snorkeling-excursion.html",
+      "sourceFile": "tours/shipwreck-snorkeling-excursion.html",
+      "title": "Maldives Shipwreck Excursion Tour",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": null,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/snorkeling-and-diving-activities-in-maldives.html",
+      "sourceFile": "tours/snorkeling-and-diving-activities-in-maldives.html",
+      "title": "Book Maldives Snorkeling, Scuba Diving and Water Sports Activities",
+      "pageSubType": "generic-template-marketing",
+      "priceFound": 75,
+      "nightsFound": null,
+      "hasFabricatedRating": false,
+      "migrationStatus": "needs-review",
+      "reason": "genuine-looking package copy, but does not name a specific accommodation that matches the real MTG catalogue (data/maldives/accommodations/accommodations.json) — never migrated against a generic/unidentified resort"
+    },
+    {
+      "oldUrl": "/tours/snorkeling-booking.html",
+      "sourceFile": "tours/snorkeling-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/stingray-snorkeling-male-atoll-activities.html",
+      "sourceFile": "tours/stingray-snorkeling-male-atoll-activities.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/vaavu-excursion-male-atoll-activities.html",
+      "sourceFile": "tours/vaavu-excursion-male-atoll-activities.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    },
+    {
+      "oldUrl": "/tours/whale-submarine-booking.html",
+      "sourceFile": "tours/whale-submarine-booking.html",
+      "title": "Booking Form",
+      "pageSubType": "booking-form-widget",
+      "migrationStatus": "skipped",
+      "reason": "checkout/booking-form widget, not a package content page"
+    }
+  ]
+}

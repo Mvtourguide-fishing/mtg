@@ -1,0 +1,52 @@
+{
+  "folder": "crystal-beach",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/crystal-beach/crystal-beach-hotel-in-hulhumale-maldives.html",
+  "legacyTitle": "Crystal Beach Hotel in Hulhumale Maldives",
+  "legacyH1": null,
+  "metaDescription": "Crystal Beach is a hotel opened in the local island of Hulhumale male atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 3,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Crystal Beach Inn is a 3-star hotel with a commanding location near sightseeing, family fun, beaches, Male City's center, and the airport. Guests can have convenient access to all of the city's exciting events from here. The hotel is a haven of rest and relaxation just steps away from the city's many attractions, including Hulhumale Island, Tree Top Hospital, and Hulhumale Hospital. The tour desk's friendly workers can also arrange tours and events in Male' and the surrounding islands.",
+    "The hotel has 12 air-conditioned rooms with city or sea views, as well as a flat-screen TV with English and Chinese cable channels, a minibar, and a safe. A hot shower and free toiletries are included in the private bathroom. Luggage storage is available at the front desk 24 hours a day, 7 days a week. Laundry services are available for an additional fee. An on-site restaurant serves local and foreign food, and room service is available 24 hours a day. The Crystal Beach Inn is an ideal place to stay in Male' City and the Airport for travelers seeking beauty, comfort, and convenience."
+  ],
+  "rooms": [
+    {
+      "name": "Standard Room",
+      "price": 60,
+      "priceInclTax": 76,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/crystal-beach/images/crystal-beach-in-hotel-hulhumale-room1.webp",
+        "/hotels/crystal-beach/images/crystal-beach-in-hotel-hulhumale-room2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/crystal-beach/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "crystal-beach-hotel-in-hulhumale-maldives.jpg",
+    "crystal-beach-hotel-in-hulhumale-maldives.webp",
+    "crystal-beach-in-hotel-hulhumale-maldives.webp",
+    "crystal-beach-in-hotel-hulhumale-room1.webp",
+    "crystal-beach-in-hotel-hulhumale-room2.webp",
+    "crystal-beach-in-hotel-hulhumale.webp",
+    "crystal-beach-in-hotel-maldives.webp",
+    "crystal-beach-in-hotel.webp",
+    "crystal-beach-in-hulhumale-maldives.webp",
+    "crystal-beach-in.webp",
+    "crystal-beach-map.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

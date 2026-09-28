@@ -1,0 +1,90 @@
+{
+  "folder": "OBLU-SELECT-Sangeli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/OBLU-SELECT-Sangeli/OBLU-SELECT-Sangeli-Maldives.html",
+  "legacyTitle": "OBLU SELECT Sangeli Maldives Island Resort",
+  "legacyH1": "OBLU SELECT Sangeli Maldives Island Resort",
+  "metaDescription": "OBLU SELECT Sangeli Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "B_VEo7K5gCI",
+  "descriptionParagraphs": [
+    "The gloriously lovely OBLU SELECT Sangeli is located on the northwestern point of Malé Atoll, Maldives. Stay in elegant, tropical villas and suites and sample exotic cuisine at exotic restaurants and bars. Enjoy a scenic environment with swaying palm trees, pure white beaches, and a blue lagoon brimming with colourful coral life. Every aspect of a deluxe holiday is included into your stay for a really carefree and unforgettable trip at the Maldives' greatest beach resort!",
+    "These stand-alone Maldives beach bungalows are vibrant and tropical, overlooking Sangeli island's gorgeous blue lagoons. Each has a bedroom with high ceilings, a walk-in closet, and a partially open-air Maldivian bathroom. A warm, inviting room is created by combining current design concepts with traditional Maldivian architecture. Step out onto the spacious terrace, which leads to a private garden and beach.",
+    "The stand-alone beach villas with pool on Sangeli Island's lush green northern side are the best among Maldives hotels. Some of the attractions of this property include 5 star in-villa facilities, an open-air porch, a luxury 13m2 plunge pool, and a tropical garden going directly out to the stunning white beach and a brilliantly blue lagoon!",
+    "A stretch of ocean-facing water villas curves around the turquoise waters of the enormous Sangeli lagoon. These Maldives overwater villas are light and airy, with separate sundecks and steps going directly into the lagoon. Indulgent facilities, stunning views, and sophisticated design combine to create a deliciously intimate atmosphere, ideal for a romantic holiday!",
+    "The villas are the genuine stars of OBLU SELECT at Sangeli. On their Maldives vacation, these havens provide postcard-perfect luxury, with stand-alone villas offering private pools, lagoon-facing beach villas with direct beach access, and open-air baths. Of course, there are the Maldives' iconic 42 over-water villas with direct lagoon access, 26 of which have a private 8 square metre plunge pool. In-villa minibars are equipped with beer, wine, soft drinks, and a variety of food and are restocked once daily. Whatever sort of accommodation you seek on your next Maldives vacation, OBLU SELECT at Sangeli has the ideal villa for you.",
+    "OBLU SELECT at Sangeli is ideally located at the northwestern tip of Male' Atoll and is only 50 minutes by speed boat from Velana International Airport. The spacious Stand-Alone Beach & Water Villas - with & without Private Pools, an upgraded All-Inclusive plan - THE SERENITY PlanTM, with inclusions of Fine Dining experiences at two specialty restaurants - JUST GRILL & SIMPLY VEG, as well as In-Villa Mini Bar replenishment at no extra charge, set this resort apart from the rest!"
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 700,
+      "priceInclTax": 773,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Beach-Villa.webp",
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 931,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Beach-Villa-Pool.webp",
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 780,
+      "priceInclTax": 826,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Water-Villa.webp",
+        "/resorts/OBLU-SELECT-Sangeli/images/OBLU-SELECT-Sangeli-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/OBLU-SELECT-Sangeli/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "FOBLU-SELECT-Sangeli-Maldives-Island-map.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Activities.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Pool-North-Male-Atoll.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Pool.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Villa-Pool.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Villa-Pool1.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Villa.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Beach-Villa1.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Dinning.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Diving.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Island.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Pool.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Resort-North-Male-Atoll.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Resort.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Restaurant.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Water-Villa.webp",
+    "OBLU-SELECT-Sangeli-Maldives-Water-Villa1.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

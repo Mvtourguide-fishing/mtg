@@ -1,0 +1,75 @@
+{
+  "folder": "Meeru-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Meeru-Island/Meeru-Island-Resort-Maldives.html",
+  "legacyTitle": "Meeru Island Resort & Spa Maldives",
+  "legacyH1": "Meeru Island Resort & Spa Maldives",
+  "metaDescription": "Meeru Island Resort Maldives is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "7cJKIs_Ps0Q",
+  "descriptionParagraphs": [
+    "Meeru Island Resort welcomes you to experience an unique beach filled holiday with a splash of simply Maldivian mixing into every facet of your stay, boasting one of the world's most amazing beaches. Meeru takes pride in servicing the Maldives hotel sector for over 40 years. Explore the authentic Maldivian culture all throughout the island, including our very own state-of-the-art island museum. You will undoubtedly share Magical Moments with your loved ones when visiting here.",
+    "Meeru's Beach Villas are big, well-appointed wooden bungalows on the beach with a stunning view of the lagoon. Step right onto the secluded beach, which offers breathtaking views of the island lagoon. These wooden bungalows provide a real Maldives beachfront experience. Relax on the villa terrace or on your beach sun loungers while listening to natural noises and inhaling in the ocean wind.",
+    "These classic Maldives villas are set in the lagoon, over-the-water. Only a short walk along your private jetty to this isolated refuge where you may immerse yourself in a Jacuzzi for two \"under the stars\" and simply climb the stairs into the water with the most spectacular views of all.",
+    "Meeru offers pleasant accommodation with tropical décor and modern conveniences, whether close to the beach or over-the-water, with 284 guest rooms divided into 5 room types. All Rooms have tropical décor, a king-sized bed, a private porch with furniture, air conditioning, a ceiling fan, a partially open-air bathroom (except Garden Rooms) with a rain shower, and amenities for an unforgettable Meeru stay.",
+    "Much of this lovely island remains undisturbed, with its bordering coconut palm trees, rich greenery, and brilliant coral reefs alive with marine life. It takes a 55-minute scenic motorboat trip from Velana International Airport to reach this unspoilt, natural paradise. Whether on a family holiday in the sun or an intimate beach gateway with a loved one, enjoy a relaxed, calm ambiance in a natural setting.",
+    "Meeru Island has two Buffet Restaurants, both with the same menu and a range of foreign and regional cuisines to suit everyone's taste. Breakfast, lunch, and supper are all-you-can-eat buffet style, with vibrant Theme Nights. Friday evenings are Maldivian theme nights, complete with a themed cuisine and staff dressed in traditional clothes. Sunday brunch includes free Sparkling Wine."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 440,
+      "priceInclTax": 443,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Meeru-Island/images/Meeru-Island-Resort-and-Spa-Beach-Villa.webp",
+        "/resorts/Meeru-Island/images/Meeru-Island-Resort-and-Spa-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Jacuzzi Water Villa",
+      "price": 500,
+      "priceInclTax": 566,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Meeru-Island/images/Meeru-Island-Resort-and-Spa-Jacuzzi-Water-Villa.webp",
+        "/resorts/Meeru-Island/images/Meeru-Island-Resort-and-Spa-Jacuzzi-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Meeru-Island/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Meeru-Island-Resort-Maldives-map.webp",
+    "Meeru-Island-Resort-Spa.webp",
+    "Meeru-Island-Resort-and-Spa-Beach-Kaafu-Atoll.webp",
+    "Meeru-Island-Resort-and-Spa-Beach-Villa.webp",
+    "Meeru-Island-Resort-and-Spa-Beach-Villa1.webp",
+    "Meeru-Island-Resort-and-Spa-Beach.webp",
+    "Meeru-Island-Resort-and-Spa-Dinning.webp",
+    "Meeru-Island-Resort-and-Spa-Jacuzzi-Water-Villa.webp",
+    "Meeru-Island-Resort-and-Spa-Jacuzzi-Water-Villa1.webp",
+    "Meeru-Island-Resort-and-Spa-Maldives-Kaafu-Atoll.webp",
+    "Meeru-Island-Resort-and-Spa-Maldives.webp",
+    "Meeru-Island-Resort-and-Spa-Pool.webp",
+    "Meeru-Island-Resort-and-Spa-Water-Sports.webp",
+    "Meeru-Island-Resort-and-Spa-Wedding.webp",
+    "Meeru-Island-Resort-and-Spa.webp",
+    "Meeru-Island-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

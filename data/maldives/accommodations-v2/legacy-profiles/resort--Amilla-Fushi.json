@@ -1,0 +1,72 @@
+{
+  "folder": "Amilla-Fushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Amilla-Fushi/Amilla-Fushi-Maldives.html",
+  "legacyTitle": "Amilla Fushi Island Resort Maldives",
+  "legacyH1": "Amilla Fushi Island Resort Maldives",
+  "metaDescription": "Amilla Fushi Island is a resort located in Baa atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "9vdcB98lF6E",
+  "descriptionParagraphs": [
+    "Explore one of the Maldives' largest and most expansive five-star resorts. With just 67 villas with spacious outside spaces and individual plunge pools, you can experience the luxury of space. Over 70% of our island is unspoiled forest with stunning white sand beaches. The only footfall you hear are your own. Our Maldives private island resort is fortunate to be positioned in the UNESCO World Biosphere Reserve of Baa Atoll. Hanifaru Bay, which hosts the world's greatest aggregations of manta rays, beckons divers and snorkelers. Sustainability and wellbeing are key to our Considerate Collection of Small Luxury Hotels.",
+    "The private villas at Amilla Maldives Resort and Residence are located on sandy, sun-drenched coastlines that extend out over the lagoon. Each is a quiet enclave where elegance meets calm, a monument to the sky and water.",
+    "Amilla Maldives, a small island less than one kilometre long, rises on the outskirts of the Baa Atoll, home to some of the Maldives' finest seas and a biosphere reserve designated as a UNESCO World Heritage site since 2011. Arrive at your Baa Atoll Maldives resort in 30 minutes by seaplane from Malé or 10 minutes by speedboat from Dharavandhoo Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1590,
+      "priceInclTax": 1696,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amilla-Fushi/images/Amilla-Fushi-Maldives-island-pool-villa.webp",
+        "/resorts/Amilla-Fushi/images/Amilla-Fushi-Maldives-island-pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Sunset Water Villa",
+      "price": 1380,
+      "priceInclTax": 1484,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amilla-Fushi/images/Amilla-Fushi-Maldives-island-water-villa.webp",
+        "/resorts/Amilla-Fushi/images/Amilla-Fushi-Maldives-island-water-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Amilla-Fushi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Amilla-Fushi-Maldives-Island-map.webp",
+    "Amilla-Fushi-Maldives-Resort.webp",
+    "Amilla-Fushi-Maldives-island-Resort-Beach.webp",
+    "Amilla-Fushi-Maldives-island-Resort-and-Residences.webp",
+    "Amilla-Fushi-Maldives-island-Resort-pool.webp",
+    "Amilla-Fushi-Maldives-island-pool-villa.webp",
+    "Amilla-Fushi-Maldives-island-pool-villa1.webp",
+    "Amilla-Fushi-Maldives-island-water-villa.webp",
+    "Amilla-Fushi-Maldives-island-water-villa1.webp",
+    "Amilla-Fushi-Maldives-island.webp",
+    "Amilla-Fushi-Maldives.webp",
+    "Amilla-Maldives-island-Resort.webp",
+    "Amilla-Maldives-island.webp",
+    "Maldives-island-Resort-Amilla-Fushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

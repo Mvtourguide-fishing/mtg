@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-09-24T19:03:21.585Z",
+  "files": [
+    {
+      "mediaId": "c78afd64-0754-f227-5821-80b9bf57431b",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Feridhoo-island.webp",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-feridhoo-island.webp",
+      "altText": "Alifu alifu Feridhoo island"
+    },
+    {
+      "mediaId": "fa61f5f3-8225-ef73-0141-e364d0217d11",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Maalhos-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-maalhos-island.jpg",
+      "altText": "Alifu alifu Maalhos island"
+    },
+    {
+      "mediaId": "b766c663-ab9a-837e-ff21-ccc183a045c1",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Mathiveri-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-mathiveri-island.jpg",
+      "altText": "Alifu alifu Mathiveri island"
+    },
+    {
+      "mediaId": "f80530e1-5ea7-2263-0b4f-210176f608fc",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Rasdhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-rasdhoo-island.jpg",
+      "altText": "Alifu alifu Rasdhoo island"
+    },
+    {
+      "mediaId": "0ec326ac-0e0c-b1ee-a6ff-1f9888c7cd2f",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Dhangethi-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-dhangethi-isand.jpg",
+      "altText": "alifu dhaalu Dhangethi isand"
+    },
+    {
+      "mediaId": "a6093e5b-18b5-9868-3150-e48dc6524649",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Dhidhdhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-dhidhdhoo-isand.jpg",
+      "altText": "alifu dhaalu Dhidhdhoo isand"
+    },
+    {
+      "mediaId": "1bd146e8-7c5d-0e6f-d0a7-1c269abf0e4e",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Fenfushi-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-fenfushi-isand.jpg",
+      "altText": "alifu dhaalu Fenfushi isand"
+    },
+    {
+      "mediaId": "a8d3f342-840e-df4e-e024-1639023f56e0",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Hangnaameedhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-hangnaameedhoo-isand.jpg",
+      "altText": "alifu dhaalu Hangnaameedhoo isand"
+    },
+    {
+      "mediaId": "02b77aa1-c95f-c341-339c-f1912e11c087",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Kunburudhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-kunburudhoo-isand.jpg",
+      "altText": "alifu dhaalu Kunburudhoo isand"
+    },
+    {
+      "mediaId": "c77d9f6d-63de-0b3d-6acf-82cca18a463e",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Mahibadhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-mahibadhoo-isand.jpg",
+      "altText": "alifu dhaalu Mahibadhoo isand"
+    },
+    {
+      "mediaId": "ebf6c570-6efa-7897-0d11-ec1259c97949",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Mandhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-mandhoo-isand.jpg",
+      "altText": "alifu dhaalu Mandhoo isand"
+    },
+    {
+      "mediaId": "3f039013-d33a-7639-3056-6e3525779098",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Omadhoo-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-omadhoo-isand.jpg",
+      "altText": "alifu dhaalu Omadhoo isand"
+    },
+    {
+      "mediaId": "086906f2-bcd2-3cef-72cd-a0bb6f0c2817",
+      "relativePath": "assets/uploads/north/ba-Dhonfanu-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-dhonfanu-island.jpg",
+      "altText": "ba Dhonfanu island"
+    },
+    {
+      "mediaId": "10ea3447-61c8-5788-0266-2e155b76f483",
+      "relativePath": "assets/uploads/north/ba-Eydhafushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-eydhafushi-island.jpg",
+      "altText": "ba Eydhafushi island"
+    },
+    {
+      "mediaId": "f535b66d-806a-843b-14eb-cfd35636896b",
+      "relativePath": "assets/uploads/north/ba-Fehendhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-fehendhoo-island.jpg",
+      "altText": "ba Fehendhoo island"
+    },
+    {
+      "mediaId": "6e17ff7a-3b06-7883-e0f6-73910a8f0e9a",
+      "relativePath": "assets/uploads/north/ba-Fulhadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-fulhadhoo-island.jpg",
+      "altText": "ba Fulhadhoo island"
+    },
+    {
+      "mediaId": "f5faa390-a477-7b25-ba67-1a54a9d2f825",
+      "relativePath": "assets/uploads/north/ba-Hithaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-hithaadhoo-island.jpg",
+      "altText": "ba Hithaadhoo island"
+    },
+    {
+      "mediaId": "f1c10580-026d-99f0-cea5-fbccbd43d1c7",
+      "relativePath": "assets/uploads/north/ba-Kamadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-kamadhoo-island.jpg",
+      "altText": "ba Kamadhoo island"
+    },
+    {
+      "mediaId": "24d789b7-59c8-980e-12a8-82f99c1a7cca",
+      "relativePath": "assets/uploads/north/ba-Kendhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-kendhoo-island.jpg",
+      "altText": "ba Kendhoo island"
+    },
+    {
+      "mediaId": "bfe6c192-ade8-df9d-a13a-9218cf74fdbe",
+      "relativePath": "assets/uploads/north/ba-Kihaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-kihaadhoo-island.jpg",
+      "altText": "ba Kihaadhoo island"
+    },
+    {
+      "mediaId": "30485f4f-7a87-e7a8-0693-396b7a4ecb6a",
+      "relativePath": "assets/uploads/north/ba-Kudarikilu-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-kudarikilu-island.jpg",
+      "altText": "ba Kudarikilu island"
+    },
+    {
+      "mediaId": "182e704c-9ebe-bd9d-3b44-0547773a75f2",
+      "relativePath": "assets/uploads/north/ba-Maalhos-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-maalhos-island.jpg",
+      "altText": "ba Maalhos island"
+    },
+    {
+      "mediaId": "9957b1d7-d3e8-ff46-8947-497fa163236e",
+      "relativePath": "assets/uploads/north/ba-Thulhaadhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-thulhaadhoo-island.jpg",
+      "altText": "ba Thulhaadhoo island"
+    },
+    {
+      "mediaId": "9758e70c-0b0f-0382-e845-6274f349db8b",
+      "relativePath": "assets/uploads/north/ba-goidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-goidhoo-island.jpg",
+      "altText": "ba goidhoo island"
+    },
+    {
+      "mediaId": "33ea123f-a2db-59ea-bebe-b6f4b5703aeb",
+      "relativePath": "assets/uploads/north/dhaalu-Bandidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-bandidhoo-maldives.jpg",
+      "altText": "dhaalu Bandidhoo maldives"
+    },
+    {
+      "mediaId": "4de57df2-2922-ec91-1b90-2eee3fa24e5e",
+      "relativePath": "assets/uploads/north/dhaalu-Hulhudheli-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-hulhudheli-maldives.jpg",
+      "altText": "dhaalu Hulhudheli maldives"
+    },
+    {
+      "mediaId": "3a4372fd-ec7c-d29a-3077-162e2296642c",
+      "relativePath": "assets/uploads/north/dhaalu-Kudahuvadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-kudahuvadhoo-maldives.jpg",
+      "altText": "dhaalu Kudahuvadhoo maldives"
+    },
+    {
+      "mediaId": "f69a815c-994e-093b-71e2-160d4467906d",
+      "relativePath": "assets/uploads/north/dhaalu-Maaenboodhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-maaenboodhoo-maldives.jpg",
+      "altText": "dhaalu Maaenboodhoo maldives"
+    },
+    {
+      "mediaId": "eaf3a851-454d-27f5-369f-a45e9101fcc7",
+      "relativePath": "assets/uploads/north/dhaalu-Meedhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-meedhoo-maldives.jpg",
+      "altText": "dhaalu Meedhoo maldives"
+    },
+    {
+      "mediaId": "25c151c6-bc36-3041-7e40-ab51ad043c8e",
+      "relativePath": "assets/uploads/north/dhaalu-Rinbudhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-rinbudhoo-maldives.jpg",
+      "altText": "dhaalu Rinbudhoo maldives"
+    },
+    {
+      "mediaId": "18ced427-2e55-af75-6ac2-136aa0505924",
+      "relativePath": "assets/uploads/north/faafu-Dharanboodhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/faafu-dharanboodhoo-maldives.jpg",
+      "altText": "faafu Dharanboodhoo maldives"
+    },
+    {
+      "mediaId": "8009c59a-0bd4-c07d-c639-cb1c60507183",
+      "relativePath": "assets/uploads/north/faafu-Magoodhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/faafu-magoodhoo-maldives.jpg",
+      "altText": "faafu Magoodhoo maldives"
+    },
+    {
+      "mediaId": "34f4ed70-d2ae-ea0b-dedc-125eee65ff05",
+      "relativePath": "assets/uploads/north/faafu-Nilandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/faafu-nilandhoo-maldives.jpg",
+      "altText": "faafu Nilandhoo maldives"
+    },
+    {
+      "mediaId": "4d5987c6-809d-5196-3123-b2f2bba8fba5",
+      "relativePath": "assets/uploads/north/faafu-feeali-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/faafu-feeali-maldives.jpg",
+      "altText": "faafu feeali maldives"
+    },
+    {
+      "mediaId": "69404ae7-06f9-b7a5-27e8-2596eabde7d0",
+      "relativePath": "assets/uploads/south/hdh-nellaidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/hdh-nellaidhoo-island.jpg",
+      "altText": "hdh nellaidhoo island"
+    },
+    {
+      "mediaId": "ef7d7fb2-dee2-288c-9631-86386f04da82",
+      "relativePath": "assets/uploads/south/hdh-neykurendhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/hdh-neykurendhoo-island.jpg",
+      "altText": "hdh neykurendhoo island"
+    },
+    {
+      "mediaId": "04b7eacc-e890-5841-dc12-b33b041cf1ad",
+      "relativePath": "assets/uploads/south/hdh-nolhivaram-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/hdh-nolhivaram-island.jpg",
+      "altText": "hdh nolhivaram island"
+    },
+    {
+      "mediaId": "e4d916f0-4e94-bfc9-b9bd-9afbf57f761f",
+      "relativePath": "assets/uploads/south/hdh-nolhivaranfaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/hdh-nolhivaranfaru-island.jpg",
+      "altText": "hdh nolhivaranfaru island"
+    },
+    {
+      "mediaId": "3f621d75-3eec-ec51-73f0-4f9581aec385",
+      "relativePath": "assets/uploads/south/hdh-vaikaradhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/hdh-vaikaradhoo-island.jpg",
+      "altText": "hdh vaikaradhoo island"
+    },
+    {
+      "mediaId": "6b7170de-af26-f948-8a81-21bfc4f45bd5",
+      "relativePath": "assets/uploads/south/kaafu-Dhiffushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-dhiffushi-island.jpg",
+      "altText": "kaafu Dhiffushi island"
+    },
+    {
+      "mediaId": "5c45fed3-c832-122f-0d3b-94c85d34ef42",
+      "relativePath": "assets/uploads/south/kaafu-Guraidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-guraidhoo-island.jpg",
+      "altText": "kaafu Guraidhoo island"
+    },
+    {
+      "mediaId": "4c149f1b-1b85-20b1-8670-5775f740b700",
+      "relativePath": "assets/uploads/south/kaafu-Himmafushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-himmafushi-island.jpg",
+      "altText": "kaafu Himmafushi island"
+    },
+    {
+      "mediaId": "cdef71c0-3e2b-b5be-e55d-f94f0f4ac889",
+      "relativePath": "assets/uploads/south/kaafu-Kaashidhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-kaashidhoo-island.jpg",
+      "altText": "kaafu Kaashidhoo island"
+    },
+    {
+      "mediaId": "e2e41f37-8a43-a8bf-1429-1bd3c2ba5ee5",
+      "relativePath": "assets/uploads/south/kaafu-gaafaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-gaafaru-island.jpg",
+      "altText": "kaafu gaafaru island"
+    },
+    {
+      "mediaId": "eff6ca8d-61f2-89a3-9e7a-01ba5add478c",
+      "relativePath": "assets/uploads/south/kaafu-gulhi-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-gulhi-island.jpg",
+      "altText": "kaafu gulhi island"
+    },
+    {
+      "mediaId": "8d130521-7604-635f-3983-7589d299b8a9",
+      "relativePath": "assets/uploads/south/laamu-Dhanbidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-dhanbidhoo-maldives.jpg",
+      "altText": "laamu Dhanbidhoo maldives"
+    },
+    {
+      "mediaId": "394ab67f-525e-fbc1-5aea-b44b8075cefd",
+      "relativePath": "assets/uploads/south/laamu-Fonadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-fonadhoo-maldives.jpg",
+      "altText": "laamu Fonadhoo maldives"
+    },
+    {
+      "mediaId": "a061ca02-58e5-75f5-0ee0-dafb46b8f3d5",
+      "relativePath": "assets/uploads/south/laamu-Hithadhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-hithadhoo-maldives.jpg",
+      "altText": "laamu Hithadhoo maldives"
+    },
+    {
+      "mediaId": "a149683f-8b30-5ef2-6f5a-ef76d1b63c0e",
+      "relativePath": "assets/uploads/south/laamu-Isdhoo-kalaidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-isdhoo-kalaidhoo-maldives.jpg",
+      "altText": "laamu Isdhoo kalaidhoo maldives"
+    },
+    {
+      "mediaId": "90b1e2e0-93a8-60c7-836a-3483f0ffe126",
+      "relativePath": "assets/uploads/south/laamu-Kunahandhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-kunahandhoo-maldives.jpg",
+      "altText": "laamu Kunahandhoo maldives"
+    },
+    {
+      "mediaId": "729f5ed0-fb41-e6ec-d1dd-e943ef9282bc",
+      "relativePath": "assets/uploads/south/laamu-Maabaidhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-maabaidhoo-maldives.jpg",
+      "altText": "laamu Maabaidhoo maldives"
+    },
+    {
+      "mediaId": "a43e8420-0b60-0951-b4a9-e8a641438017",
+      "relativePath": "assets/uploads/south/laamu-Maamendhoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-maamendhoo-maldives.jpg",
+      "altText": "laamu Maamendhoo maldives"
+    },
+    {
+      "mediaId": "f4ad9cb5-bc78-2d59-aa0e-4a8275506f48",
+      "relativePath": "assets/uploads/south/laamu-Maavah-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-maavah-maldives.jpg",
+      "altText": "laamu Maavah maldives"
+    },
+    {
+      "mediaId": "d00bd44f-aada-1cec-2a30-1e285deb95bb",
+      "relativePath": "assets/uploads/south/laamu-Mundoo-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-mundoo-maldives.jpg",
+      "altText": "laamu Mundoo maldives"
+    },
+    {
+      "mediaId": "6762b92e-16d9-ca97-beb6-521876d5b947",
+      "relativePath": "assets/uploads/south/laamu-gan-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-gan-maldives.jpg",
+      "altText": "laamu gan maldives"
+    },
+    {
+      "mediaId": "f2178eff-d28d-d42a-8bae-d07ae66e1594",
+      "relativePath": "assets/uploads/north/dhaalu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/dhaalu-atoll-maldives.jpg",
+      "altText": "dhaalu atoll maldives"
+    },
+    {
+      "mediaId": "7288bc17-b1f1-4ca0-ef6f-62dcefbd801d",
+      "relativePath": "assets/uploads/north/faafu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/faafu-atoll-maldives.jpg",
+      "altText": "faafu atoll maldives"
+    },
+    {
+      "mediaId": "e78042e9-42e0-7408-1806-b6739f84feb3",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Thoddoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-thoddoo-island.jpg",
+      "altText": "Alifu alifu Thoddoo island"
+    },
+    {
+      "mediaId": "f6ba51a5-2f0b-0e4c-2060-7e174d7ead65",
+      "relativePath": "assets/uploads/north/Alifu-alifu-Ukulhas-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-alifu-ukulhas-island.jpg",
+      "altText": "Alifu alifu Ukulhas island"
+    },
+    {
+      "mediaId": "418dd439-9083-98be-4409-88c455c0b382",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-Dhigurah-isand.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-dhigurah-isand.jpg",
+      "altText": "alifu dhaalu Dhigurah isand"
+    },
+    {
+      "mediaId": "1cb76419-5ba5-313c-9115-3bb44a2db721",
+      "relativePath": "assets/uploads/north/alifu-dhaalu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/alifu-dhaalu-atoll-maldives.jpg",
+      "altText": "alifu dhaalu atoll maldives"
+    },
+    {
+      "mediaId": "e3acbcec-bead-29f6-85a5-909a6331a38d",
+      "relativePath": "assets/uploads/north/ba-Dharavandhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-dharavandhoo-island.jpg",
+      "altText": "ba Dharavandhoo island"
+    },
+    {
+      "mediaId": "a855c469-2ecc-39c6-fff6-710eddc9c4c2",
+      "relativePath": "assets/uploads/north/ba-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/north/ba-atoll-maldives.jpg",
+      "altText": "ba atoll maldives"
+    },
+    {
+      "mediaId": "80783c73-5126-1261-bc7c-536a88ccaf0c",
+      "relativePath": "assets/uploads/north/baa-atoll-map.webp",
+      "storagePath": "uploads/assets/uploads/north/baa-atoll-map.webp",
+      "altText": "baa atoll map"
+    },
+    {
+      "mediaId": "49e64491-0859-3789-22d4-e3c9b9c942b5",
+      "relativePath": "assets/uploads/south/kaafu-Huraa-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-huraa-island.jpg",
+      "altText": "kaafu Huraa island"
+    },
+    {
+      "mediaId": "da057f9b-56c1-e67f-a78a-c31a07a0f69c",
+      "relativePath": "assets/uploads/south/kaafu-Maafushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-maafushi-island.jpg",
+      "altText": "kaafu Maafushi island"
+    },
+    {
+      "mediaId": "ab6ea07c-881c-9d9d-9744-59bfe3d164d5",
+      "relativePath": "assets/uploads/south/kaafu-Thulusdhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-thulusdhoo-island.jpg",
+      "altText": "kaafu Thulusdhoo island"
+    },
+    {
+      "mediaId": "130ead9e-5750-c2b1-6f5e-141efb186318",
+      "relativePath": "assets/uploads/south/kaafu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/kaafu-atoll-maldives.jpg",
+      "altText": "kaafu atoll maldives"
+    },
+    {
+      "mediaId": "dbdf5ec3-815e-3aa9-612d-2a625c03c0b6",
+      "relativePath": "assets/uploads/south/laamu-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/laamu-atoll-maldives.jpg",
+      "altText": "laamu atoll maldives"
+    },
+    {
+      "mediaId": "be632e70-63b0-8ca7-270c-9504e052f4c6",
+      "relativePath": "assets/uploads/south/lhaviyani-Hinnavaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/lhaviyani-hinnavaru-island.jpg",
+      "altText": "lhaviyani Hinnavaru island"
+    },
+    {
+      "mediaId": "217e976f-4144-24cd-b39c-0a6c4f53738c",
+      "relativePath": "assets/uploads/south/lhaviyani-Kurendhoo-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/lhaviyani-kurendhoo-island.jpg",
+      "altText": "lhaviyani Kurendhoo island"
+    },
+    {
+      "mediaId": "06f36e7a-9826-c57b-529d-40b412f9ac5b",
+      "relativePath": "assets/uploads/south/lhaviyani-Naifaru-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/lhaviyani-naifaru-island.jpg",
+      "altText": "lhaviyani Naifaru island"
+    },
+    {
+      "mediaId": "79f20d1a-4ce3-5590-1a70-866ebee625ad",
+      "relativePath": "assets/uploads/south/lhaviyani-Olhuvelifushi-island.jpg",
+      "storagePath": "uploads/assets/uploads/south/lhaviyani-olhuvelifushi-island.jpg",
+      "altText": "lhaviyani Olhuvelifushi island"
+    },
+    {
+      "mediaId": "b47f7b67-36c9-15fe-935d-6ccaad2db822",
+      "relativePath": "assets/uploads/south/lhaviyani-atoll-maldives.jpg",
+      "storagePath": "uploads/assets/uploads/south/lhaviyani-atoll-maldives.jpg",
+      "altText": "lhaviyani atoll maldives"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "folder": "COMO-Cocoa",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/COMO-Cocoa/COMO-Cocoa-Island-Maldives.html",
+  "legacyTitle": "COMO Cocoa Island Resort Maldives",
+  "legacyH1": "COMO Cocoa Island Resort Maldives",
+  "metaDescription": "COMO Cocoa Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "_XB8pI2cRwU",
+  "descriptionParagraphs": [
+    "COMO's white-sand private island retreat in the Maldives is a small, intimate resort with 33 overwater villas overlooking a turquoise lagoon. At its core? The essence of relaxation – and an outstanding COMO Shambhala health resort.",
+    "Our one- to three-bedroom villas inhabit the gently curved shapes of indigenous 'dhoni' boats, so you can stroll along wooden paths to your apartment."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/COMO-Cocoa/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "COMO-Cocoa-Island-Dhoni-water-villa.webp",
+    "COMO-Cocoa-Island-Dhoni-water-villa1.webp",
+    "COMO-Cocoa-Island-Maldives-1.webp",
+    "COMO-Cocoa-Island-Maldives-Beach.webp",
+    "COMO-Cocoa-Island-Maldives-Pool.webp",
+    "COMO-Cocoa-Island-Maldives-Resort.webp",
+    "COMO-Cocoa-Island-Maldives-map.webp",
+    "COMO-Cocoa-Island-Maldives.webp",
+    "COMO-Cocoa-Island-Resort-Maldives.webp",
+    "COMO-Cocoa-Island-Resort.webp",
+    "COMO-Cocoa-Island-water-villa.webp",
+    "COMO-Cocoa-Island-water-villa1.webp",
+    "COMO-Cocoa-Island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

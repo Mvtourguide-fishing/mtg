@@ -1,0 +1,77 @@
+{
+  "folder": "Westin-Miriandhoo",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Westin-Miriandhoo/The-Westin-Miriandhoo-Maldives.html",
+  "legacyTitle": "The Westin Maldives Miriandhoo Resort",
+  "legacyH1": "The Westin Maldives Miriandhoo Resort",
+  "metaDescription": "The Westin Maldives Miriandhoo Resort Island is a five star resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "excursions the baa"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "Z67wPR8r8P8",
+  "descriptionParagraphs": [
+    "The Westin Maldives Miriandhoo Resort promises an unforgettable experience. Our lovely family-friendly resort offers an unparalleled environment for your Maldives visit, beautifully positioned on the ocean in the UNESCO Biosphere Reserve in Baa Atoll, surrounded by the Indian Ocean. Your luxury journey begins the moment you arrive at our resort, whether by seaplane or boat. Return to your isolated apartment or villa for uninterrupted ocean views, a private deck, and, in select accommodations, a private pool. We encourage you to taste exquisite eating in our restaurants, relax poolside or on the beach, indulge at our wellness spa, play tennis, or explore the resort grounds when you are ready to leave your paradise. Our skilled crew is waiting to make your stay on Baa Atoll great in every way, whether you are celebrating a special family event or spending time with a loved one. Make unforgettable experiences at The Westin Maldives Miriandhoo Resort.",
+    "Our beach villas, located along the palm-fringed shoreline with direct beach access, gaze out over the huge waves of the Indian Ocean, embodying subtle style and constructed with exquisite open-plan living in mind. The Westin Maldives Miriandhoo Resort Heavenly Bath® is more than just a bathroom; it offers a rejuvenating bathing experience for body and soul, with a separate bathtub and rain-forest shower. The Island Villas are up to 140 square metres in size and have a private pool and sun terrace.",
+    "There are 41 stunning on-island and 29 over-sea homes in six categories, ranging from a one-bedroom pool villa to a two-bedroom, three-bathroom garden property with a kitchenette. Most feature pools, and all offer ocean vistas, huge 'Heavenly' mattresses, outdoor rain showers, original artwork, and high-quality facilities. The overwater villas are among the most spacious in Baa Atoll.",
+    "The Westin Maldives Miriandhoo Resort is located 112 kilometres north of Velana International Airport on an 11-acre island in Baa Atoll, Maldives' first and only UNESCO Biosphere Reserve. The island is roughly 30 minutes by sea plane and 20 minutes by domestic aircraft to Dharavandhoo Airport in Baa Atoll, followed by a 10-minute speed boat trip to the resort.",
+    "During your stay at the Westin Maldives Miriandhoo Resort, you may choose from four distinct dining selections. The three restaurants and elevated bar provide unforgettable gastronomic experiences in stunning settings. Cuisines range from The Pearl's exquisite Japanese menu with a seafood focus to Island Kitchen's healthful, cosmopolitan meals and all-day eating. Hawker, a colourful bar and restaurant, serves real Asian street cuisine in a bustling market-place setting, while Sunset Bar provides a relaxing conclusion to the day with tapas and seaside views.",
+    "The picturesque resort also has the Heavenly Spa by WestinTM, Westin's own branded spa concept. The Spa also incorporates the most recent aesthetic technologies and has a big treatment suite for two with a Jacuzzi and panoramic ocean views. The Spa area's design conveys a private and calm ambience. The treatments available at The Heavenly Spa by WestinTM represent the resort's dedication to wellbeing, allowing visitors to relax and revitalise via a personalised sensory experience. An appointment is necessary."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1080,
+      "priceInclTax": 1141,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Westin-Miriandhoo/images/The-Westin-Maldives-Miriandhoo-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Westin-Miriandhoo/images/The-Westin-Maldives-Miriandhoo-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 1200,
+      "priceInclTax": 1300,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Westin-Miriandhoo/images/The-Westin-Maldives-Miriandhoo-Resort-Water-Villa.webp",
+        "/resorts/Westin-Miriandhoo/images/The-Westin-Maldives-Miriandhoo-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Westin-Miriandhoo/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "The-Westin-Maldives-Miriandhoo-Resort-Baa-Atoll.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Beach-Pool-Villa.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Beach-Pool-Villa1.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Beach.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Dinning.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Kids-Club.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Pool-Baa-Atoll.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Pool.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Restaurant.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Water-Villa.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort-Water-Villa1.webp",
+    "The-Westin-Maldives-Miriandhoo-Resort.webp",
+    "The-Westin-Maldives-Miriandhoo.webp",
+    "The-Westin-Miriandhoo-Maldives-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

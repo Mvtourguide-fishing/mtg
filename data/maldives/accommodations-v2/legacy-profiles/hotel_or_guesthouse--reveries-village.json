@@ -1,0 +1,39 @@
+{
+  "folder": "reveries-village",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/reveries-village/reveries-diving-village-surfandSpa.html",
+  "legacyTitle": "Reveries Diving Village Surf & Spa Hotel",
+  "legacyH1": null,
+  "metaDescription": "Reveries Diving Village Surf and Spa is a hotel opened its doors as Laamu’s first guest house, in the heart of the atoll with a good price",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": true,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Reveries Diving Village proudly opened its doors as Laamu’s first guest house, in the heart of the atoll. The aim was to invite the world to experience the culture and beauty of Dhivehi island society at an affordable price. Our pioneering venture found its home on Gan, the longest island in the country, at the northern end of the Thundi village. From here, Reveries has gone from strength to strength, combining vibrant island culture and stunning natural environment with comfort and luxury for guests who wish to sample all the Maldives has to offer. A typical day with Reveries might take you from the comfort of your room, out past our private beach, snorkeling over the reef and diving down into the pristine lagoon. The next morning, you can let our guides take you on a tour of their island and relax in our rooftop spa before a candlelit dinner in our verdant garden. Reveries is a gateway to the precious underwater kingdom and best surfing experience. It’s your paradise."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Room",
+      "price": 65,
+      "priceInclTax": null,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 2,
+      "images": [
+        "/hotels/reveries-village/reveries-diving-village-surfandSpa-room.webp",
+        "/hotels/reveries-village/reveries-diving-village-surfandSpa-room2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/reveries-village/images",
+  "imageCount": 0,
+  "imageFiles": [],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

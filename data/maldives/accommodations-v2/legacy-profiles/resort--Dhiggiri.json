@@ -1,0 +1,74 @@
+{
+  "folder": "Dhiggiri",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Dhiggiri/Dhiggiri-Maldives.html",
+  "legacyTitle": "NAKAI Dhiggiri Island Resort Maldives",
+  "legacyH1": "NAKAI Dhiggiri Island Resort Maldives",
+  "metaDescription": "NAKAI Dhiggiri Island is a resort located in Vaavu atoll, Maldives",
+  "metaAtollCodes": [
+    "V"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "V"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Ng4M3P60Mio",
+  "descriptionParagraphs": [
+    "Dhiggiri is a three-hectare island in the peaceful and intriguing Vaavu atoll, 20 minutes by seaplane and 90 minutes by speed boat north of Male. It is a \"niche\" atoll that only the most ardent Maldives fans are familiar with due to its magnificent points of immersion and distinct naturalistic tone. Its low population density and resulting small number of human settlements result in breathtaking natural vistas that can capture the eyes and hearts of people who cross it.",
+    "A modern structure surrounded by traditional Maldivian coral. In addition to the distinctive comfort and unsurpassed charm of the beachfront, the 27 beach bungalows of Dhiggiri will provide you with the tranquillity that only the most intimate and friendly environs can provide.",
+    "You will wake up to the sound of the sea and a stunning horizon at the 34 Over Water of Dhiggiri. The Over Water woods combine exquisite minimalism with sensory stimulation, ushering you into a new day of relaxation and tranquillity.",
+    "Dhiggiri offers three various types of rooms to its guests, ranging from the Over Water Rooms that view the ocean to the Beach Bungalows that are just a few steps from the beach, passing through a Garden Villa that is surrounded by flora. Choose the one that best suits you and let yourself to be whisked away by Dhiggiri's enchantment.",
+    "It is close to a variety of diving sites in the Maldives, some of which are protected areas on the list of the greatest dive sites in the world, making it suitable for both expert and beginner divers. Dhiggiri is about 20 minutes by seaplane and 90 minutes by speed boat from Velana International Airport.",
+    "Let yourself be enslaved by the flavours of the island in Dhiggiri's restaurants and pubs. Our dining menu has been created to be as diverse as possible in order to fulfil the demands of all customers. In the restaurants, you can sample the delights of Italian and Maldivian cuisine, prepared and served daily by our Chefs. Our bars will be the ideal place to unwind and have a refreshing drink while taking in the sights and sounds that only the Maldives can provide."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 310,
+      "priceInclTax": 358,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhiggiri/images/NAKAI-Dhiggiri-Resort-Maldives-Beach-bungalow.webp",
+        "/resorts/Dhiggiri/images/NAKAI-Dhiggiri-Resort-Maldives-Beach-villa.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 375,
+      "priceInclTax": 409,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhiggiri/images/NAKAI-Dhiggiri-Resort-Maldives-Over-Water-Villa.webp",
+        "/resorts/Dhiggiri/images/NAKAI-Dhiggiri-Resort-Maldives-Over-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Dhiggiri/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "NAKAI-Dhiggiri-Maldives.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-1.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Beach-bungalow.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Beach-villa.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Beach.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Dining.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Over-Water-Villa.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Over-Water-Villa1.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Restaurant.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives-Sea.webp",
+    "NAKAI-Dhiggiri-Resort-Maldives.webp",
+    "NAKAI-Dhiggiri-Resort.webp",
+    "Nakai-Dhiggiri-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "V"
+}

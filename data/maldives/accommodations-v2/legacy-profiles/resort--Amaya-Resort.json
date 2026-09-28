@@ -1,0 +1,71 @@
+{
+  "folder": "Amaya-Resort",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Amaya-Resort/Amaya-Resort-Kuda-Rah-Maldives.html",
+  "legacyTitle": "Amaya Kuda Rah Island Resort Maldives",
+  "legacyH1": "Amaya Kuda Rah Island Resort Maldives",
+  "metaDescription": "Amaya Kuda Rah Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "24h6vGDC5gs",
+  "descriptionParagraphs": [
+    "Enter an island paradise where the ocean begs you to live and love at one of the Maldives' greatest luxury resorts. Dive into an underwater wonderland at the neighbouring Kuda Rah Thila, celebrate romance on a sunset boat, and find inner joy at our spa; come experience Amaya Kuda Rah's real emotional welcome.",
+    "You may visit our resort all year round. You may encounter overcast skies and rain showers from May to October, since this is considered our low season, but you may take advantage of some excellent deals during this time. From December through April, the island enjoys bright sky.",
+    "As you relax in dreamlike peace at Amaya Kuda Rah, let the beauty of the Maldives soak through every inch of their rooms. Their expansive villas and suites have been deliberately constructed to provide you with unparalleled enjoyment during your stay. Sunbathe on hardwood terraces, relax in your private plunge pool, or retire to your room for some well-deserved slumber.",
+    "The facility, located 94 kilometres south of Velana International Airport, features large villas with private pools, as well as a full-service spa and wellness centre. Amaya Kuda Rah may be reached by seaplane in 25 minutes. A 15-minute speedboat journey from this pier will take you to your beautiful little sanctuary of joy. Furthermore, Amaya Kuda Rah is just minutes away from the well-known diving location of Kuda Rah Thila, which is home to an abundance of marine life."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 240,
+      "priceInclTax": 271,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amaya-Resort/images/Amaya-Kuda-Rah-Maldives-Beach-pool-villa.webp",
+        "/resorts/Amaya-Resort/images/Amaya-Kuda-Rah-Maldives-Beach-pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Pool Water Villa",
+      "price": 390,
+      "priceInclTax": 427,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Amaya-Resort/images/Amaya-Kuda-Rah-Maldives-water-pool-villa.webp",
+        "/resorts/Amaya-Resort/images/Amaya-Kuda-Rah-Maldives-water-pool-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Amaya-Resort/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Amaya-Kuda-Rah-Island-Maldives-Resort - Copy.webp",
+    "Amaya-Kuda-Rah-Island-Maldives-Resort.webp",
+    "Amaya-Kuda-Rah-Maldives-Beach-pool-villa.webp",
+    "Amaya-Kuda-Rah-Maldives-Beach-pool-villa1.webp",
+    "Amaya-Kuda-Rah-Maldives-Resort-beach.webp",
+    "Amaya-Kuda-Rah-Maldives-Resort-pool.webp",
+    "Amaya-Kuda-Rah-Maldives-Resort-spa.webp",
+    "Amaya-Kuda-Rah-Maldives-Resort.webp",
+    "Amaya-Kuda-Rah-Maldives-island.webp",
+    "Amaya-Kuda-Rah-Maldives-water-pool-villa.webp",
+    "Amaya-Kuda-Rah-Maldives-water-pool-villa1.webp",
+    "Amaya-Kuda-Rah-Maldives.webp",
+    "Amaya-Resort-Kuda-Rah-Maldives-Island-map.webp",
+    "Maldives-Amaya-Kuda-Rah-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

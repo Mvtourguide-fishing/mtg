@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+/*
+ * MTG design system tokens (Task 12).
+ *
+ * A restrained Maldives-inspired palette layered on top of Tailwind's
+ * default scale — this only adds the brand-specific blues/teal/sand that
+ * Tailwind doesn't ship, so `bg-ocean-900`, `text-maldives-600`, etc.
+ * become available as ordinary utility classes. Everything else (grays,
+ * borders, spacing) intentionally keeps using Tailwind's built-in
+ * `neutral-*` scale, which the whole existing codebase already relies on —
+ * no migration of existing pages' gray/border classes is needed.
+ *
+ * Usage guide:
+ *   ocean-*     deep ocean blue — dark surfaces (header, footer, hero backdrops)
+ *   maldives-*  primary Maldives blue — links, buttons, active states
+ *   lagoon-*    lighter tropical blue — secondary backgrounds, hover tints
+ *   aqua-*      teal accent — small highlights, icons, badges (used sparingly)
+ *   sand-*      soft off-white — page background (not pure white everywhere)
+ */
+:root {
+  --background: #ffffff;
+  --foreground: #0f2a3d;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  --color-ocean-950: #051b28;
+  --color-ocean-900: #0a2e42;
+  --color-ocean-800: #0f3f59;
+  --color-ocean-700: #135677;
+
+  --color-maldives-600: #0e7aa4;
+  --color-maldives-500: #1596c9;
+  --color-maldives-400: #3fb3dc;
+
+  --color-lagoon-300: #82d9ec;
+  --color-lagoon-200: #aee6f2;
+  --color-lagoon-100: #d9f4f9;
+
+  --color-aqua-500: #14b8a6;
+  --color-aqua-400: #2dd4bf;
+
+  --color-sand-50: #f6faf9;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #0f2a3d;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Comfortable minimum touch target for the mobile bottom nav and other
+   icon-only controls, per WCAG 2.5.5/2.5.8. */
+.min-touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* iOS/Android safe-area clearance for the fixed mobile bottom nav. */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}

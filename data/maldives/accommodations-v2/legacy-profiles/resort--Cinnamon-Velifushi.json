@@ -1,0 +1,73 @@
+{
+  "folder": "Cinnamon-Velifushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cinnamon-Velifushi/Cinnamon-Velifushi-Maldives.html",
+  "legacyTitle": "Cinnamon Velifushi Island Resort Maldives",
+  "legacyH1": "Cinnamon Velifushi Island Resort Maldives",
+  "metaDescription": "Cinnamon Velifushi Island is a resort located in Vaavu atoll, Maldives",
+  "metaAtollCodes": [
+    "V"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "kbMWsPEN_tI",
+  "descriptionParagraphs": [
+    "This tranquil aquatic sanctuary is teeming with marine life, including the majestic nurse shark. These sluggish creatures, which are harmless to humans, can grow up to 10 feet long and make a stunning spectacle as they glide gently along the reef. At this pristine atoll, kids will appreciate getting up close and personal with nature. Wildlife is more likely to visit when there is less disturbance from boats and planes. Even our Over-water villas and suites feature a sinuous pathway that, from above, resembles a stingray!",
+    "Consider booking an appointment at the resort spa for an exquisite massage or any other unique spa treatment for a more relaxing activity. With our diverse eating alternatives, meals are never boring. Local and foreign cuisine is available, so you can try something new or savour the taste of an old favourite. If you want something more romantic, we will gladly create a more personalised dinner experience in a remote area, such as one of our white sand beaches.",
+    "When it's time to call it a day, relax in one of our 90 incredibly spacious rooms. The spacious, open, Italian-styled décor effectively compliment the magnificent vistas from each elegant accommodation at Cinnamon Velifushi Maldives. Nothing but you and the wide sea in our water villas! Every accent throughout the hotel echoes the movements and natural tones of the ocean's depths, so feel free to go with the flow...",
+    "This resort will have 66 over-water accommodations, including a Water Suite with a Pool, and 24 land-based rooms, including Beach Bungalows. The resort will also have an Over Water Spa, an Over Water Al-a-cater Restaurant, and other attractions.",
+    "The most precious things in life are said to come in small packages, and this glittering 5-star private island retreat is no exception, measuring 5 hectares. Cinnamon Velifushi Maldives is a short seaplane (or speedboat, if you prefer) ride away from Malé, and will provide you with all the breathing space from reality that you require.",
+    "We are always willing to add extra unique touches to your stay in order to enhance the romanticism of your holiday. Consider private dinners, island vacations, and personalised experiences for two. Here in Cinnamon Velifushi Maldives, the choices are endless."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 400,
+      "priceInclTax": 422,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Velifushi/images/Cinnamon-Velifushi-Maldives-Beach-Bungalow.webp",
+        "/resorts/Cinnamon-Velifushi/images/Cinnamon-Velifushi-Maldives-Beach-Bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 490,
+      "priceInclTax": 525,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Velifushi/images/Cinnamon-Velifushi-Maldives-Water-Bungalow.webp",
+        "/resorts/Cinnamon-Velifushi/images/Cinnamon-Velifushi-Maldives-Water-Bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cinnamon-Velifushi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Cinnamon-Hakuraa-Huraa-Maldives-Island-map.webp",
+    "Cinnamon-Island-Resort-Maldives.webp",
+    "Cinnamon-Velifushi-Maldives-Beach-Bungalow.webp",
+    "Cinnamon-Velifushi-Maldives-Beach-Bungalow1.webp",
+    "Cinnamon-Velifushi-Maldives-Island-Pool.webp",
+    "Cinnamon-Velifushi-Maldives-Island-Resort-Beach.webp",
+    "Cinnamon-Velifushi-Maldives-Island-Resort.webp",
+    "Cinnamon-Velifushi-Maldives-Island.webp",
+    "Cinnamon-Velifushi-Maldives-Resort.webp",
+    "Cinnamon-Velifushi-Maldives-Water-Bungalow.webp",
+    "Cinnamon-Velifushi-Maldives-Water-Bungalow1.webp",
+    "Cinnamon-Velifushi-Maldives.webp",
+    "Cinnamon-velifushi-Maldives-Island-map.webp",
+    "Maldives-Island-Cinnamon-Velifushi.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "V"
+}

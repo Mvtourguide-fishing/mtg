@@ -1,0 +1,75 @@
+{
+  "folder": "fihalhohi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/fihalhohi/fihaalhohi-isand-resort-maldives.html",
+  "legacyTitle": "Fihaalhohi Island Resort Maldives",
+  "legacyH1": "Fihaalhohi Island Resort Maldives",
+  "metaDescription": "Fihaalhohi Island is a resort located in Male atoll Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "pgTJIQbrvuw",
+  "descriptionParagraphs": [
+    "Come to a spot where a breathtaking view of the Indian Ocean and the island's natural tropical elegance are a daily backdrop. The Maldives' Fihalhohi Island Resort is an utter paradise island escape. A truly idyllic location where the mind and body are rejuvenated and time stands still. The island's ideal warm weather makes it ideal for water sports and excursions. A beautiful house reef surrounds the beach, teeming with rich aquatic life that can be enjoyed when diving. Huvandhumaa spa therapists have a variety of Balinese and foreign therapies in a lush tropical environment.",
+    "There are 138 beachfront rooms and 12 well-appointed water villas available for your stay on the island. A total of 150 rooms are available. Both rooms have a hair dryer, Bath & Beach Towels, room safe, Mini Bar, Individually Controlled Air-conditioning and Fan, telephones, and a hair dryer."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 141,
+      "priceInclTax": 176,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/fihalhohi/images/fihalhohi-island-resort-beach-room.webp",
+        "/resorts/fihalhohi/images/fihalhohi-island-resort-beach-room1.webp"
+      ]
+    },
+    {
+      "name": "Water Room",
+      "price": 308,
+      "priceInclTax": 364,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/fihalhohi/images/fihalhohi-island-resort-water-room.webp",
+        "/resorts/fihalhohi/images/fihalhohi-island-resort-water-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/fihalhohi/images",
+  "imageCount": 20,
+  "imageFiles": [
+    "fihalhohi-island-hotel.webp",
+    "fihalhohi-island-maldives-hotel.webp",
+    "fihalhohi-island-maldives-resort.jpg",
+    "fihalhohi-island-maldives-resort.webp",
+    "fihalhohi-island-map.jpg",
+    "fihalhohi-island-map.webp",
+    "fihalhohi-island-resort-beach-room.webp",
+    "fihalhohi-island-resort-beach-room1.webp",
+    "fihalhohi-island-resort-maldives-hotel.webp",
+    "fihalhohi-island-resort-maldives.webp",
+    "fihalhohi-island-resort-water-room.webp",
+    "fihalhohi-island-resort-water-room1.webp",
+    "fihalhohi-island-resort.webp",
+    "fihalhohi-island.webp",
+    "fihalhohi-resort-maldives.webp",
+    "water-villa.jpg",
+    "water-villa.webp",
+    "water-villa1.webp",
+    "water-villa2.jpg",
+    "water-villa2.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

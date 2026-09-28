@@ -1,0 +1,77 @@
+{
+  "folder": "JOALI",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/JOALI/JOALI-Maldives.html",
+  "legacyTitle": "JOALI Maldives Island Resort",
+  "legacyH1": "JOALI Maldives Island Resort",
+  "metaDescription": "JOALI Maldives Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "0VIhza1IyE0",
+  "descriptionParagraphs": [
+    "Our tale began with the ambition of creating a one-of-a-kind creative resort in the beautiful Raa Atoll. Thus was created JOALI Maldives, an utopia of creativity, pleasure, and adventure. Through a magnificent collection of artworks that spread over the island, visitors may feel the joy of life.",
+    "An art-infused luxury island resort located on Muravandhoo Island in Raa Atoll in the Maldives' northernmost reaches. Coral reefs teem with life and colour where lovely white dunes meet magnificent blue seas. Raise a glass to long-lasting glamour in this enchanted realm, a constant expression of joie de vivre.",
+    "Our luxurious one-bedroom beach home offers views of the Maldives' beach, garden, and ocean. Featuring hand-selected art objects, a private beach garden, and an infinity pool.",
+    "Discover the allure of ocean life from this one-bedroom water cottage. You are in for an unforgettable luxury resort experience.",
+    "Discover the best of island living. Awaken to glistening seascapes and delicate white dunes. Experience the awe of an impressionist sunset. Allow the waves to lull you to sleep. The Indian Ocean is your constant companion, bringing you joy at all hours of the day and night. The magnificent private villas and houses at the resort epitomise sustainable luxury. Each of JOALI's 73 villas was inspired by a different story and was created to take visitors on a sensory journey. An environment of unusual luxury is created through artisanal amenities, selected in-room book shelves, careful décor, and exquisite objet d'art.",
+    "JOALI Maldives is located on Muravandhoo island in the Raa Atoll in the Maldives' northernmost region. Arriving guests will be welcomed inside the special JOALI airport lounge at Male Airport. Before your transfer to the resort, you may unwind there. Transfer takes 40 minutes by seaplane or 35 minutes by domestic flight followed by 15 minutes by speedboat."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 2900,
+      "priceInclTax": 2921,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JOALI/images/JOALI-Maldives-Muravandhoo-Island-Beach-Pool-Villa.webp",
+        "/resorts/JOALI/images/JOALI-Maldives-Muravandhoo-Island-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa Pool",
+      "price": 2300,
+      "priceInclTax": 2314,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JOALI/images/JOALI-Maldives-Muravandhoo-Island-Water-Villa-Pool.webp",
+        "/resorts/JOALI/images/JOALI-Maldives-Muravandhoo-Island-Water-Villa-Pool1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/JOALI/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "JOALI-Maldives-Island-Raa-Atoll.webp",
+    "JOALI-Maldives-Island-map.webp",
+    "JOALI-Maldives-Island.webp",
+    "JOALI-Maldives-Luxury-Resort.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Beach-Pool-Villa.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Beach-Pool-Villa1.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Beach-Raa-Atoll.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Beach.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Dinning.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Pool.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Resort.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Water-Villa-Pool.webp",
+    "JOALI-Maldives-Muravandhoo-Island-Water-Villa-Pool1.webp",
+    "JOALI-Maldives-Muravandhoo-Island.webp",
+    "JOALI-Maldives-Muravandhoo.webp",
+    "JOALI-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

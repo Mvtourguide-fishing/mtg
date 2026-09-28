@@ -1,0 +1,23 @@
+import type { Metadata } from "next";
+
+import {
+  AccommodationDirectoryPage,
+  accommodationDirectoryMetadata,
+  type AccommodationDirectorySearchParams,
+} from "@/components/accommodation/accommodation-directory-page";
+
+export function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<AccommodationDirectorySearchParams>;
+}): Promise<Metadata> {
+  return accommodationDirectoryMetadata("guesthouse", searchParams);
+}
+
+export default function GuesthousesPage({
+  searchParams,
+}: {
+  searchParams: Promise<AccommodationDirectorySearchParams>;
+}) {
+  return <AccommodationDirectoryPage type="guesthouse" searchParams={searchParams} />;
+}

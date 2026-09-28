@@ -1,0 +1,80 @@
+{
+  "folder": "InterContinental",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/InterContinental/InterContinental-Maldives-Maamunagau-Resort.html",
+  "legacyTitle": "InterContinental Maldives Maamunagau Island Resort",
+  "legacyH1": "InterContinental Maldives Maamunagau Island Resort",
+  "metaDescription": "InterContinental Maldives Maamunagau Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R",
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "enmAUSapMec",
+  "descriptionParagraphs": [
+    "In the vast azure panorama of the Indian Ocean, escape and reconnect with nature, yourself, and those who mean most. From the time you board the seaplane to the serene shores of the Raa Atoll, you will be captivated by island life with silky white dunes and palm tree dotted terraces. Prepare to be astounded by the abundance of marine life in our lagoon, which is near to the UNESCO Biosphere Reserve and has a unique manta ray sanctuary.",
+    "When you hire the entire island for an intimate family celebration or business trip, you will find something for everyone with a variety of eating places, miles of beautiful beach, and a choice of recreational and wellness activities.",
+    "The InterContinental Maldives Maamunagau Resort's spacious 81 Beach, Lagoon, and Overwater Villas and Residences provide stunning views of the Maldives. Choose between relaxing lagoon or dramatic ocean views from your private patio, and enjoy a beautiful dawn or sunset.",
+    "The resort is located on a private island in Raa Atoll, 152 kilometres north of Velana International Airport. Guests will be charmed by the unusual marine life, which includes manta rays and dolphins, since it is located adjacent to the Baa Atoll UNESCO Reserve. Among these intriguing spots to visit nearby, Hanifaru Bay is 35 minutes away by speedboat and is well-known for being a nursery ground for grey sharks and sting rays.",
+    "Simple yet remarkable, guests will begin on a gastronomic adventure from the top of the Lighthouse with a predinner cocktail and rare 360 degree views of the Indian Ocean, followed by a personalised private dining experience or a communal sharing dinner at the main restaurant area.",
+    "AVI Spa is meant to rejuvenate the spirit by waking the senses and is inspired by the ethereality of the ocean and the transforming power of clean island air. Rejuvenate in one of six over-the-water treatment villas, each of which uses the psychology of natural light and sound to put you in a profound state of relaxation."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1200,
+      "priceInclTax": 1246,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/InterContinental/images/InterContinental-Maldives-Maamunagau-Resort-Beach-Pool-villa.webp",
+        "/resorts/InterContinental/images/InterContinental-Maldives-Maamunagau-Resort-Beach-Pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Overwater Pool Villa",
+      "price": 800,
+      "priceInclTax": 870,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/InterContinental/images/InterContinental-Maldives-Maamunagau-Resort-Overwater-villa.webp",
+        "/resorts/InterContinental/images/InterContinental-Maldives-Maamunagau-Resort-Overwater-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/InterContinental/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "InterContinental-Maldives-Maamunagau-Resort-Activities.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Beach-Pool-villa.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Beach-Pool-villa1.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Beach.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Diving.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Gym.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Kids-Pool.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Overwater-villa.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Overwater-villa1.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Pool-Raa-Atoll.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Pool.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Raa-Atoll.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Sandbank.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Spa.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-Yoga.webp",
+    "InterContinental-Maldives-Maamunagau-Resort-map.webp",
+    "InterContinental-Maldives-Maamunagau-Resort.webp",
+    "InterContinental-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

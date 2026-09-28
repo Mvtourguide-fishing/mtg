@@ -1,0 +1,74 @@
+{
+  "folder": "Baros-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Baros-Island/Baros-Island-Maldives.html",
+  "legacyTitle": "Baros Island Resort Maldives",
+  "legacyH1": "Baros Island Resort Maldives",
+  "metaDescription": "Baros Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "9NssgRLiKF8",
+  "descriptionParagraphs": [
+    "Turquoise seas lap against white-sand beaches. Palm trees rustle in the breeze. Welcome to Baros, a lush island canopy natural paradise about 25 minutes by speedboat from the Maldives' international airport. We've been greeting visitors since 1973, and we've spent decades polishing our services and developing our surroundings to create what we feel to be a renowned resort. Today, we're one of the most popular Maldives resorts, and we can't wait to show you what makes us so unique.",
+    "Unrivaled in its attention to detail, Baros creates really transformative experiences by putting the individual first, customising to their specific needs and expectations in a spirit of true generosity. Allow us to contact you in order to design your Maldives vacation.",
+    "The lavish furniture and unique artworks in this enormous property create a warm and welcome atmosphere. A private pool is bordered by tropical flowers in the garden courtyard, and a front balcony leads to your own length of Baros beach. Butler service is available 24 hours a day, seven days a week, ensuring that you have whatever you need, when you need it.",
+    "Turquoise seas lap against white-sand beaches. Palm trees rustle in the breeze. A beautiful island canopy in a natural wonderland within 25 minutes by speedboat from the Maldives' international airport. We've been greeting visitors since 1973, and we've spent decades perfecting our services and nurturing our surroundings.",
+    "Take a supper cruise for two on a dhoni. Or, for a special gourmet supper, come to the Piano Deck with your own private chef. Alternatively, enjoy the sunset with cocktails and canapés at The Lighthouse. Every meal is yours to savour at these gourmet restaurants in Baros, and every mouthful is meant to inspire. For more than 40 years, we've been working to refine classic meals while experimenting with new techniques and ingredients from across the world. From opulent buffet breakfasts by the pool to exquisite dining at the famed Lighthouse, each meal is another chance to indulge in a favourite or try something new.",
+    "Serenity Spa, a haven of relaxation and a sanctuary nestled in the forest, welcomes you into a world of luxurious spa and beauty rituals. You can come here to unwind for a few hours or to create a personalised wellness journey with a series of daily treatments. From daily yoga classes to therapeutic massage, everything here is geared to help you regain your balance and find your peace. Request a yoga session anywhere on the island for something out of the usual, or get a soothing massage in the privacy of your comfy home."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Villa",
+      "price": 780,
+      "priceInclTax": 801,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Baros-Island/images/Baros-Maldives-Deluxe-Villa.webp",
+        "/resorts/Baros-Island/images/Baros-Maldives-Deluxe-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1100,
+      "priceInclTax": 1181,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Baros-Island/images/Baros-Maldives-Water-Villa.webp",
+        "/resorts/Baros-Island/images/Baros-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Baros-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Baros-Isalnd-Maldives-Resort.webp",
+    "Baros-Island-Maldives-Island-map.webp",
+    "Baros-Island-Resort-Maldives.webp",
+    "Baros-Maldives-Deluxe-Villa.webp",
+    "Baros-Maldives-Deluxe-Villa1.webp",
+    "Baros-Maldives-Island-Resort-Beach-Dinner.webp",
+    "Baros-Maldives-Island-Resort-Beach.webp",
+    "Baros-Maldives-Island-Resort-Restaurant.webp",
+    "Baros-Maldives-Island-Resort-Spa.webp",
+    "Baros-Maldives-Island-Resort-bar.webp",
+    "Baros-Maldives-Island-Resort.webp",
+    "Baros-Maldives-Island.webp",
+    "Baros-Maldives-Water-Villa.webp",
+    "Baros-Maldives-Water-Villa1.webp",
+    "Baros-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

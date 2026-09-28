@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Universal Resorts",
+    "website_url": "https://universalresorts.com/",
+    "notes": "Operates: Kurumba Maldives, Velassaru Maldives. Confirmed via universalresorts.com and maldives-magazine.com/hotels/universal-resorts.htm. Per multiple 2025/2026-dated industry press sources (WTM Global Hub, edition.mv, see.mv, Maldives Magazine, thearrival.mv), Universal Enterprises' hotel-management arm announced in October 2025 that it is rebranding to 'VERSA Hospitality' and launching a new consumer-facing lifestyle brand, 'NIVA Hotels & Resorts', comprising six Indian Ocean properties: Niva Kurumba (Maldives), Niva Velassaru (Maldives), Niva Kuramathi (Maldives), Niva Dhigali (Maldives), Niva Labriz (Seychelles) and Niva Aria (Seychelles). Kurumba Maldives and Velassaru Maldives (the two properties in accommodations.json) are scheduled to become 'Niva Kurumba Maldives' (effective 31 March 2026) and 'Niva Velassaru Maldives' (effective 15 January 2026) respectively. 'Universal Resorts' was kept as the operator_name since that is the name confirmed operating both properties as of the September 2026 research date, but this is an active rebrand in progress and the name may need updating to 'VERSA Hospitality' / the NIVA brand shortly."
+  },
+  {
+    "name": "Soneva Management (BVI) Limited",
+    "website_url": "https://soneva.com",
+    "notes": "Operates: Soneva Fushi. Source: Forbes Travel Guide listing, which names 'Soneva Management (BVI) Limited' (registered address Jazeera Building, Male') as operator and 'Bunny Holdings (BVI) Ltd' as owner/lessee. Soneva also operates a second Maldives resort, Soneva Jani, which is not in accommodations.json (not individually researched/verified for this dataset)."
+  },
+  {
+    "name": "Six Senses",
+    "website_url": "https://www.sixsenses.com",
+    "notes": "Operates: Six Senses Laamu. Global hospitality brand/operator confirmed via sixsenses.com and multiple third-party travel-agency listings. Six Senses operates other properties outside the Maldives and (historically) other Maldives properties not included in this dataset; only Six Senses Laamu was individually verified here."
+  },
+  {
+    "name": "Kaani Hotels",
+    "website_url": null,
+    "notes": "Operates: Kaani Beach Hotel (Maafushi). Lower-confidence entry: search summaries repeatedly described Kaani Beach Hotel as part of a 'Kaani Hotels' group that also includes Kaani Grand Seaview and Kaani Palm Beach (both also on Maafushi Island), but no snippet surfaced a formal registered company name, ownership structure, or official group website for 'Kaani Hotels' beyond the shared branding across the three property names. Flagged in SOURCES.md Known Gaps; treat this operator record as provisional pending a stronger primary source."
+  }
+]

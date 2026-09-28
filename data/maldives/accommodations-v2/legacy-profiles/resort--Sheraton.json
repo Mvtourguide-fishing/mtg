@@ -1,0 +1,77 @@
+{
+  "folder": "Sheraton",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Sheraton/Sheraton-Maldives-Full-Moon.html",
+  "legacyTitle": "Sheraton Maldives Full Moon Resort & Spa Island",
+  "legacyH1": "Sheraton Maldives Full Moon Resort & Spa Island",
+  "metaDescription": "Sheraton Maldives Full Moon Resort & Spa Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "ogVBxqQp3y4",
+  "descriptionParagraphs": [
+    "We encourage you to enjoy all that the Sheraton Maldives Full Moon Resort & Spa has to offer from a beautiful 360° panoramic view. Plan your next holiday with your loved ones by exploring our stunning white sand beaches, lush tropical vegetation, over-water homes, and so much more. We travel not to escape life, but to prevent life from escaping us. Bring your loved ones and create wonderful moments. Explore the Maldives with your family, set among beautiful tropical gardens and outfitted with modern conveniences such as an outdoor garden shower and a big terrace with a garden, beach, or plunge pool view. Those who wish to stay near the water may be interested in our water villas and bungalows. There is a private plunge pool option available.",
+    "The Sheraton Maldives Full Moon Resort is a 5-star beach resort with 176 guest rooms ranging from beach huts to over water villas, all decorated in a tropical manner. With the greatest facilities, slipping into the rhythm of exquisite island living this side of heaven has never been easier. Enjoy the fantastic pool and nicely equipped suites.",
+    "Sheraton Maldives Full Moon Resort is conveniently positioned on Furanafushi Island in North Male' Atoll, about 15-20 minutes from Velana International Airport and 1 km from the next populated island.",
+    "We eat first, then we do everything else. The lovely sound of the ocean sets the tone for a romantic evening at Sea Salt, which provides courteous illuminated beach dining. Anchorage offers conventional pizzas, amazing salads, and Mediterranean favourites that are ideal for sharing while watching the sunset. The resort's buffet dining area, Feast, offers a diverse selection with interactive cooking stations. We recommend Baan Thai, our traditional Thai restaurant, or Masala Hut, our Indian restaurant, for bold tastes. Kakuni Hut is our Caribbean-inspired restaurant that serves fresh tacos, sweets, and handcrafted drinks. ChopstiX is ideal for a late meal, with handmade dumplings and filling noodle bowls. Take a gastronomic adventure with our destination dining for a unique experience.",
+    "Escape to paradise at our Maldives resort hotel on North Malé Atoll's newly remodelled Shine Spa for SheratonTM. On a secluded island with sea views, verdant gardens, and a yoga pavilion, rejuvenate with specialty treatments in your own spa pavilion.",
+    "Everything is available at Sheraton Maldives Full Moon Resort & Spa, with its azure blue oceans, exotic islands, and gorgeous sunsets, from sandbank picnics to sunset excursions for two."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Front Deluxe",
+      "price": 500,
+      "priceInclTax": 582,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sheraton/images/Sheraton-Maldives-Full-Moon-Resort-Beach-Front-Deluxe.webp",
+        "/resorts/Sheraton/images/Sheraton-Maldives-Full-Moon-Resort-Beach-Front-Deluxe1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 900,
+      "priceInclTax": 978,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sheraton/images/Sheraton-Maldives-Full-Moon-Resort-Water-Villa.webp",
+        "/resorts/Sheraton/images/Sheraton-Maldives-Full-Moon-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Sheraton/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Sheraton-Full-Moon-Resort.webp",
+    "Sheraton-Maldives-Full-Moon-Island-map.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Activities-Male-Atoll.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Activities.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Beach-Front-Deluxe.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Beach-Front-Deluxe1.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Beach-Male-Atoll.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Beach.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Dinning.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Honeymoon.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Pool.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Spa.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Water-Villa.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-Water-Villa1.webp",
+    "Sheraton-Maldives-Full-Moon-Resort-and-Spa.webp",
+    "Sheraton-Maldives-Full-Moon-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

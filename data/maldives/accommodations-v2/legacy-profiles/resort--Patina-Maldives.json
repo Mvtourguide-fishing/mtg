@@ -1,0 +1,76 @@
+{
+  "folder": "Patina-Maldives",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Patina-Maldives/Patina-Maldives-Fari-Island-Maldives.html",
+  "legacyTitle": "The Patina Maldives Fari Island Resort",
+  "legacyH1": "The Patina Maldives Fari Island Resort",
+  "metaDescription": "The Patina Maldives Fari Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "g5ECncmC0OI",
+  "descriptionParagraphs": [
+    "Far from all you know, there is a freedom inspired by everything you are - an island of pure beauty and surprising depth. Deep serenity or a shared experience. Follow your instincts to find what you require. Find the best luxury resort in the Maldives for your next vacation. At our Maldives resort, sophisticated rooms coexist with stimulating adventures. Create an unforgettable visit with Patina Maldives, Fari Islands' special packages and seasonal discounts.",
+    "Some of these one-bedroom villas offer views of the white sand beach, and they are all surrounded by a gorgeous garden of mature, natural tropical plants. This natural abundance provides the property and its grounds with seclusion and peace, making it perfect for seasoned travellers looking for a Maldives beach villa with a private pool. This is also felt within the villa, as floor-to-ceiling glass windows and doors open on three sides to provide a seamless transition between inside and outdoors.",
+    "Floor-to-ceiling panoramic glass swings back to reveal magnificent one-bedroom villas overlooking the turquoise ocean and at one with our local marine life. Nothing but the gentle ripples of the lagoon disrupt the horizon views from the private terrace. Inside our Maldives private water villa, the bedroom, bathroom, and lounge are crafted from natural materials that are in perfect harmony with our breathtaking setting.",
+    "In a secluded sanctuary, verdant landscaping envelops each of Patina Maldives' 90 contemporary one- to three-bedroom Beach and Water Pool Villas, as well as 20 Fari Studios, yet opens invitingly into the surrounding island life; a simultaneous sensation of seclusion and belonging.",
+    "The property is located on the North Malé Atoll, 45 minutes via speedboat from Malé International Airport.",
+    "Each of our 12 ideas, a selected ensemble of the greatest food, gives a new viewpoint on what a Maldives restaurant should be, where the best ingredients and methods take centre stage. To build a worldwide connection via cuisine, our chefs retain time-honored skills with a dash of creativity."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 2600,
+      "priceInclTax": 2724,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Patina-Maldives/images/The-Patina-Maldives-Fari-Island-Beach-Pool-Villa.webp",
+        "/resorts/Patina-Maldives/images/The-Patina-Maldives-Fari-Island-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 3000,
+      "priceInclTax": 3158,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Patina-Maldives/images/The-Patina-Maldives-Fari-Island-Water-Villa.webp",
+        "/resorts/Patina-Maldives/images/The-Patina-Maldives-Fari-Island-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Patina-Maldives/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Patina-Maldives-Fari-Island-Maldives-map.webp",
+    "The-Patina-Maldives-Fari-Island-Bar.webp",
+    "The-Patina-Maldives-Fari-Island-Beach-Pool-Villa.webp",
+    "The-Patina-Maldives-Fari-Island-Beach-Pool-Villa1.webp",
+    "The-Patina-Maldives-Fari-Island-Beach.webp",
+    "The-Patina-Maldives-Fari-Island-Dinning.webp",
+    "The-Patina-Maldives-Fari-Island-Maldives-Male-Atoll.webp",
+    "The-Patina-Maldives-Fari-Island-Maldives.webp",
+    "The-Patina-Maldives-Fari-Island-Male-Atoll.webp",
+    "The-Patina-Maldives-Fari-Island-Pool-Maldives-Male-Atoll.webp",
+    "The-Patina-Maldives-Fari-Island-Pool.webp",
+    "The-Patina-Maldives-Fari-Island-Reception.webp",
+    "The-Patina-Maldives-Fari-Island-Rooms.webp",
+    "The-Patina-Maldives-Fari-Island-Spa.webp",
+    "The-Patina-Maldives-Fari-Island-Water-Villa.webp",
+    "The-Patina-Maldives-Fari-Island-Water-Villa1.webp",
+    "The-Patina-Maldives-Fari-Island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

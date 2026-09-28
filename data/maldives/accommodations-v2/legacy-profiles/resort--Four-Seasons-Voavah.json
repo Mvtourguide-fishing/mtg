@@ -1,0 +1,69 @@
+{
+  "folder": "Four-Seasons-Voavah",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Four-Seasons-Voavah/Four-Seasons-Maldives-Private-Island-Voavah.html",
+  "legacyTitle": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+  "legacyH1": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+  "metaDescription": "Four Seasons Maldives Private Island at Voavah is a resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [
+    "What would you do if you had a whole island to yourself? The answer is \"anything\" at the five-acre UNESCO refuge of Four Seasons Maldives Private Island in Voavah. Remove your barriers, broaden your horizons, retreat, explore, connect, or rejoice. Voavah offers you - and up to 21 guests - to dream with your eyes open, with your own 19-metre (62-foot) boat, dive centre, spa, Beach House, seven bedrooms, and resident pod of dolphins. Only one island. One reservation. This is one incredible hideout.",
+    "Days at Voavah centre on the double-story Beach House and its nearby powder-white sands, pristine lagoon, and active coral, all of which are exceptional even by Maldives standards. Relax in the open-air lounge's shade. Dive the clear seas. A moonlight dinner or pool party is a classy way to celebrate. Exercise in the gym. Relax at the Library. Allow the children to assist the cooks as you view the great blueness of your Biosphere territory.",
+    "Voavah's isolated mid-ocean position, along with the option to travel by private jet to Velana or Maafaru International Airports and then continue by private seaplane, allows for anonymous access for anybody seeking to fly in and out without being detected. On-site privacy is maintained by 24-hour security and patrols, CCTV, and night-vision cameras.",
+    "What is it today? A floating breakfast in your pool, a tantalising tandoor lunch, and a BBQ on a sandbank? Or how about a morning picnic on the beach, hand-caught sashimi aboard your yacht, and a torchlit Bedouin beach banquet? Cocktails in the kitchen and a star-studded pool party? Wok masterpieces, wood-fired pizzas, or fine-dining bites? Alternatively, don't think at all and let us surprise you.",
+    "After a day of resting on Voavah's beautiful coastlines, indulge yourself to a tailored treatment in the serene settings of the Ocean of Consciousness - the island's exclusive Spa. Through breath preparation, a salt-and-crystal scrub, a bath soak, an awakening massage, and a deeply immersive sound bath, our hallmark treatment utilises the limitless power of sound to link you to the layers of awakened wisdom both inside and around you.",
+    "There are no neighbours, no paparazzi, and no restrictions on what you may do at Voavah. Keep the music going all night and celebrate an important anniversary with a big-name artist. Make your own mini-Woodstock or Coachella on the beach, plan an unforgettable island-wide proposal trail, or transform the island into a wedding fantasia."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 540,
+      "priceInclTax": 687,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Sunset Pool Villa",
+      "price": 739,
+      "priceInclTax": 923,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 775,
+      "priceInclTax": 968,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Four-Seasons-Voavah/images",
+  "imageCount": 1,
+  "imageFiles": [
+    "Four-Seasons-Maldives-Private-Island-Voavah-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "B"
+}

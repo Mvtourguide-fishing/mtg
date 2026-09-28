@@ -1,0 +1,90 @@
+{
+  "folder": "Finolhu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Finolhu/Finolhu-Maldives.html",
+  "legacyTitle": "Finolhu Maldives Island Resort Kanufushi",
+  "legacyH1": "Finolhu Maldives Island Resort Kanufushi",
+  "metaDescription": "Finolhu Maldives Island is a resort located in Faafu Atoll, Maldives",
+  "metaAtollCodes": [
+    "F"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "WRlxlbZ3pYU",
+  "descriptionParagraphs": [
+    "Finolhu, a Maldives resort, provides similar experiences. Imagine you're relaxing on the patio of your private villa at sunset when a manta ray swims past. Or perhaps you're snorkelling in the morning and are met by a colourful and interested turtle. Finolhu lies on the cusp of a very different world: the sea is the world's largest natural ecosystem. And here in Baa Atoll, a UNESCO biosphere reserve, the colours of the corals and fish reveal their very distinct enchantment. Finolhu is a fantastic destination, both on the beach and in the ocean. So please tell us about your dreams! We are excited to meet you!",
+    "Our Maldivian Beach Villas provide that laid-back island vibe. You can see your lush garden and the beach beyond without getting out of bed, and the blue sea is immediately behind you. The subtle changes in forms and tones of blue and green, as well as the apricot tone of the setting sun, provide lightness and freshness to this lovely 205-square-meter garden cottage. A large bathroom with tub and shower at the back contains an open-air space where you may stare at the stars while having a shower.",
+    "In one of our beachfront pool villas, you can experience true Maldivian comfort and relaxation. Imagine waking up in the morning and gazing out at your beautiful private garden, then wandering through it to the beach and the stunning lagoon beyond. Life can be so carefree and lovely when you're lying entirely comfortable in your own private pool, reading a book under the palm trees, or taking a refreshing shower in the open-air section of the bathroom. The pool villa is 205 square metres (2206 ft2) with indoor and outdoor areas and provides a pleasant blend of privacy and spaciousness, while the beautiful colour composition gives this home lightness and freshness.",
+    "The view over the tranquil waters of the lagoon with its countless colours of blue from this stylish Lagoon Villa may be seductive. You may sprawl out and relax on the sun loungers of your hidden wooden deck, which has 145 square metres of private area immediately above the ocean, while a private jetty runs directly into the sea. Take another drink while listening to your favourite music on the cutting-edge Marshall Sound System. Life is really amazing here!",
+    "Living by the sea and seeing its countless colours of blue on a daily basis is healthy for the soul. When one looks out over the water, the spirit is transported by the waves, and all sense of time fades. Staying in any of our 125 villas puts you right on the beach, on the lagoon, or on stilts above the water, and 79 of them have their own swimming pool. The acclaimed designers from Muza Lab in London have integrated the brilliant colours of nature inside the villas in an almost irresistible way, creating a kaleidoscope effect. Each villa not only has luxurious furnishings but also a high level of privacy, allowing you to sleep, relax, and shower in peace.",
+    "Finolhu Maldives lies in the UNESCO World Biosphere Reserve in Baa Atoll. Traveling by seaplane from Velana International Airport takes only 30 minutes, or take a 20-minute trip to Dharavandhoo Domestic Airport on Baa Atoll, followed by a 20-minute speedboat journey to Finolhu."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 950,
+      "priceInclTax": 1007,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Beach-Villa.webp",
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1400,
+      "priceInclTax": 1509,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 800,
+      "priceInclTax": 870,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Lagoon-Villa.webp",
+        "/resorts/Finolhu/images/Finolhu-Baa-Atoll-Maldives-Lagoon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Finolhu/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Finolhu-Baa-Atoll-Maldives-Beach-Pool-Villa.webp",
+    "Finolhu-Baa-Atoll-Maldives-Beach-Pool-Villa1.webp",
+    "Finolhu-Baa-Atoll-Maldives-Beach-Villa.webp",
+    "Finolhu-Baa-Atoll-Maldives-Beach-Villa1.webp",
+    "Finolhu-Baa-Atoll-Maldives-Kanufushi.webp",
+    "Finolhu-Baa-Atoll-Maldives-Lagoon-Villa.webp",
+    "Finolhu-Baa-Atoll-Maldives-Lagoon-Villa1.webp",
+    "Finolhu-Baa-Atoll-Maldives.webp",
+    "Finolhu-Island-Baa-Atoll-Maldives.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives-Activities.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives-Beach.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives-Dinning.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives-Pool-Kanufushi.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives-Pool.webp",
+    "Finolhu-Island-Resort-Baa-Atoll-Maldives.webp",
+    "Finolhu-Island-Resort-Maldives.webp",
+    "Finolhu-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

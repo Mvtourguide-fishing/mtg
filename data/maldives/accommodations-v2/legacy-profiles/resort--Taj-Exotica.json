@@ -1,0 +1,74 @@
+{
+  "folder": "Taj-Exotica",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Taj-Exotica/Taj-Exotica-Maldives.html",
+  "legacyTitle": "Taj Exotica Resort & Spa Maldives",
+  "legacyH1": "Taj Exotica Resort & Spa Maldives",
+  "metaDescription": "Taj Exotica Resort & Spa Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "AHXkN6Zbg3E",
+  "descriptionParagraphs": [
+    "Escape the frantic speed and confusion of everyday life at Taj Exotica Resort & Spa in the Maldives. Away from the bright lights of Male, our 5 star Maldives hotel is set across the Emboodhu Finolhu island in the heart of one of the Maldives' biggest lagoons. This tropical isle, also known as the Three Coconut Isle, is located among coral reefs and is recognised for its abundant flora and wildlife. A 15- to 20-minute speedboat journey from the airport takes you to Male's lovely beach resort, which is encircled by the blue seas of the Indian Ocean. Set gently above the lagoon, this postcard-perfect Maldives retreat offers 64 sea-view suites and villas that are sumptuous and extravagant while remaining affordable.",
+    "These lovely homes are set on excellent white beach sand and are only steps away from the lagoon. To round out your Maldives experience, indulge in the joys of a tropical outdoor shower in your private walled garden.",
+    "Overwater Villas on stilts with private sun decks, loungers, and easy chairs, as well as direct access to the lagoon. Each villa has a double vanity bathroom, rain showers, and bathtubs, as well as breathtaking views of the Indian Ocean.",
+    "This postcard-perfect retreat is set gently above the lagoon and provides 64 sea-view villas and suites that are sumptuous and extravagant while maintaining a fine balance with nature. The Taj Exotica Resort & Spa also includes a world-famous, award-winning presidential suite that is probably the most gorgeous spot on the planet.",
+    "Taj Exotica Resort & Spa is located away from the bright lights of Male', on Emboodhu Finolhu island, in the heart of one of the Maldives' biggest lagoons. The lovely resort is bordered by the blue seas of the Indian Ocean and is only a 15-minute speedboat ride from the airport.",
+    "At Taj Exotica Maldives, you can eat your way across the globe. The chefs at our award-winning Maldives restaurants guarantee to take you on a culinary tour de force. This, along with the splendour of the Maldives, creates an otherworldly experience."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Beach Pool Villa",
+      "price": 3400,
+      "priceInclTax": 3554,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Taj-Exotica/images/Taj-Exotica-Resort-and-Spa-Beach-Villa-Pool.webp",
+        "/resorts/Taj-Exotica/images/Taj-Exotica-Resort-and-Spa-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 2500,
+      "priceInclTax": 2594,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Taj-Exotica/images/Taj-Exotica-Resort-and-Spa-Laggon-Villa.webp",
+        "/resorts/Taj-Exotica/images/Taj-Exotica-Resort-and-Spa-Laggon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Taj-Exotica/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Taj-Exotica-Maldives-map.webp",
+    "Taj-Exotica-Resort-Spa-Kaafu-Atoll.webp",
+    "Taj-Exotica-Resort-Spa.webp",
+    "Taj-Exotica-Resort-and-Spa-Bar.webp",
+    "Taj-Exotica-Resort-and-Spa-Beach-Villa-Pool.webp",
+    "Taj-Exotica-Resort-and-Spa-Beach-Villa-Pool1.webp",
+    "Taj-Exotica-Resort-and-Spa-Dinning.webp",
+    "Taj-Exotica-Resort-and-Spa-Holiday.webp",
+    "Taj-Exotica-Resort-and-Spa-Kaafu-Atoll.webp",
+    "Taj-Exotica-Resort-and-Spa-Laggon-Villa.webp",
+    "Taj-Exotica-Resort-and-Spa-Laggon-Villa1.webp",
+    "Taj-Exotica-Resort-and-Spa-Maldives.webp",
+    "Taj-Exotica-Resort-and-Spa-Pool.webp",
+    "Taj-Exotica-Resort-and-Spa-Yoga.webp",
+    "Taj-Exotica-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

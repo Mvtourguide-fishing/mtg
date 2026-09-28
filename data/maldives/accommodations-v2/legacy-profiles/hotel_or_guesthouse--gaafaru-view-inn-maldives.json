@@ -1,0 +1,62 @@
+{
+  "folder": "gaafaru-view-inn-maldives",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/gaafaru-view-inn-maldives/gaafaru-view-inn-maldives.html",
+  "legacyTitle": "Gaafari view inn Hotel Maldives",
+  "legacyH1": "Gaafari view inn Hotel Maldives",
+  "metaDescription": "Gaafari view inn is a hotel opened in the local island of Gaafaru vaavu atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 3,
+  "isGuesthouseMention": true,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Gaafaru View Inn is a three-star Guest House in the Maldives. The guest house provides guests with 7 air-conditioned rooms with private bathrooms and balconies, 1 main restaurant, as well as a variety of excursions, private dining experiences, and local culture. Our restaurant serves both regional and foreign cuisine.",
+    "The Gaafaru View Inn is situated on one of the Maldives' major lagoons. Gaafaru View inn Maldives, which is situated on a big lagoon with numerous snorkeling and diving areas, strives to give visitors a taste of the Maldives underwater beauty through a variety of organized trips to neighboring locations. Every day, turtles, manta rays, sharks, and dolphins can be spotted in these areas.",
+    "The Gaafaru Bikini Beach is only 2 minutes away from Gaafaru View Inn. Gaafaru View Inn attempts to deliver all you may want from a Maldives vacation at an inexpensive price, including white sand beaches, swaying palm trees, golden sunset views, and colorful corals and fish beneath the lagoon.",
+    "Gaafaru is one of Kaafu Atoll's inhabited islands, as well as the lone island of the Gaafaru natural atoll. As the name suggests, Gaafaru refers to corals and Faru refers to reefs. On a nearby pristine island, see how the local Maldivians live. It's a little fishing village in the Maldives. You will get a really private holiday experience, as it will not be overcrowded. The population of Gaafaru is estimated to be around 1500 people, with fishing being their primary source of income. As a result, the harbor is home to a variety of fishing boats ranging in size from 25 to 90 feet. The land area is estimated to be 17.2 hectares"
+  ],
+  "rooms": [
+    {
+      "name": "Room",
+      "price": 40,
+      "priceInclTax": 59,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/gaafaru-view-inn-maldives/images/gaafaru-view-maldives-room.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/gaafaru-view-inn-maldives/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "gaafaru-view-hotel.jpg",
+    "gaafaru-view-hotel.webp",
+    "gaafaru-view-inn-maldives-hotel.jpg",
+    "gaafaru-view-inn-maldives-hotel.webp",
+    "gaafaru-view-inn-maldives.jpg",
+    "gaafaru-view-inn-maldives.webp",
+    "gaafaru-view-inn.jpg",
+    "gaafaru-view-inn.webp",
+    "gaafaru-view-maldives-hotel.jpg",
+    "gaafaru-view-maldives-hotel.webp",
+    "gaafaru-view-maldives-map.jpg",
+    "gaafaru-view-maldives-map.webp",
+    "gaafaru-view-maldives-room.jpg",
+    "gaafaru-view-maldives-room.webp",
+    "gaafaru-view-maldives-room1.jpg",
+    "gaafaru-view-maldives-room1.webp",
+    "gaafaru-view-maldives.jpg",
+    "gaafaru-view-maldives.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "K"
+}

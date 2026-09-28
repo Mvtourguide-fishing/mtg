@@ -1,0 +1,66 @@
+{
+  "folder": "Six-Senses-Kanuhura",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Six-Senses-Kanuhura/Six-Senses-Kanuhura-Maldives.html",
+  "legacyTitle": "Six Senses Kanuhura Maldives Private Island",
+  "legacyH1": "Six Senses Kanuhura Maldives Private Island",
+  "metaDescription": "Six Senses Kanuhura Maldives Private Island  is a resort located in Lhaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "expereiences the lhaviyani"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [
+    "This is an exciting time in Kanuhura's lengthy history since we will be incorporating new wellness, sustainability, and conservation efforts into our everyday operations, as well as locally inspired experiences and activities. Kokaa Spa will become a Six Senses Spa, adopting the brand's high-touch, high-tech approach to health, while our restaurants will follow the Eat With Six Senses concept of natural, local, and sustainable products, and less is more. This will mark the start of a new chapter in the resort's history, which we are very eager to reveal later this year.",
+    "20 January 2022 - Our second Maldives resort, which will open in December 2022, has three white-sanded private islands, two of which are uninhabited, giving the ultimate choice of where to hang your hammock.",
+    "The Lhaviyani Atoll has about 40 diving spots where you may explore marine life. Through our relationship with Ocean Wings, additional watersport activities and high-performance equipment will be offered in the coming months. There will be a variety of events to excite people about the significance of ocean conservation, from touring the coasts of Jehunuhura Island to getting hands-on with coral and seagrass protection."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 540,
+      "priceInclTax": 687,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Sunset Pool Villa",
+      "price": 739,
+      "priceInclTax": 923,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 775,
+      "priceInclTax": 968,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Six-Senses-Kanuhura/images",
+  "imageCount": 0,
+  "imageFiles": [],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "Lh"
+}

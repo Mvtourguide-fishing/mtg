@@ -1,0 +1,58 @@
+{
+  "folder": "Fun-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Fun-Island/Fun-Island-Resort-Maldives.html",
+  "legacyTitle": "Fun Island Resort & Spa Maldives",
+  "legacyH1": "Fun Island Resort & Spa Maldives",
+  "metaDescription": "Fun Island Resort & Spa Maldives is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "9Q9Kcl2V2CI",
+  "descriptionParagraphs": [
+    "This well-known resort may be described as exotic, desolate, and unspoilt. Fun Island is a fantastic combination of 'Fun in the Sun.' The island's biggest draw, however, is Fun Island's massive lagoon, which provides ideal conditions for a variety of water sports, while the powder white beaches provide endless opportunities to enjoy the sun and sea in picturesque settings.",
+    "Our Maldivian Beach Villas provide that laid-back island vibe. You can see your lush garden and the beach beyond without getting out of bed, and the blue sea is immediately behind you. The subtle changes in forms and tones of blue and green, as well as the apricot tone of the setting sun, provide lightness and freshness to this lovely 205-square-meter garden cottage. A large bathroom with tub and shower at the back contains an open-air space where you may stare at the stars while having a shower.",
+    "Fun Island Resort has 75 rooms and offers cheap accommodations with big decor and excellent views of the ocean or atolls. They also have plenty of seats and private toilets with hot showers and amenities.",
+    "Fun Island Resort is located on the south coast of Male' Atoll, 37 kilometres from Velana International Airport. It takes around 45 minutes by speed boat to get to the resort and be met by the wonderful resort crew. It's also worth noting that the island is just 700 m long and 168 m broad, so the amenities are easily accessible."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 300,
+      "priceInclTax": 317,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fun-Island/images/Fun-Island-Resort-and-Spa-Maldives-Beach-Room.webp",
+        "/resorts/Fun-Island/images/Fun-Island-Resort-and-Spa-Male-Atoll-Beach-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Fun-Island/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "Fun-Island-Resort-Maldives-Island-map.webp",
+    "Fun-Island-Resort-Maldives.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Activities-Male-Atoll.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Activities.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Beach-Room.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Beach-Room1.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Beach.webp",
+    "Fun-Island-Resort-and-Spa-Maldives-Spa.webp",
+    "Fun-Island-Resort-and-Spa-Maldives.webp",
+    "Fun-Island-Resort-and-Spa-Male-Atoll.webp",
+    "Fun-Island-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

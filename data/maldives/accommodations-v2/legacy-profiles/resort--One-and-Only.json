@@ -1,0 +1,90 @@
+{
+  "folder": "One-and-Only",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/One-and-Only/One-and-Only-Reethirah-Maldives.html",
+  "legacyTitle": "One & Only Reethi Rah Maldives Island Resort",
+  "legacyH1": "One & Only Reethi Rah Maldives Island Resort",
+  "metaDescription": "One & Only Reethi Rah Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "4yLvHcjWaMY",
+  "descriptionParagraphs": [
+    "This Christmas season, One&Only Reethi Rah transforms into a Sparkling Wonderland, inspired by our pristine white beach surrounding by the sun-kissed Indian Ocean. The resort is bustling with entertainment, parties, and music, from acrobats to a 15-piece showband, fire dancers, and fairy ballerinas.",
+    "Each one-bedroom villa has a king-size bed and a large terrazzo bath with a walk-in rain and jet shower. Wake up to the sounds of soothing waves ebbing and flowing just metres away from your bright and spacious Maldives beachfront home. Step out into the sand from your outdoor wooden patio, through your private sun loungers and refreshing outdoor shower, and onto your own beachfront. While you settle into island life, your host and villa valet will attend to your every need discreetly.",
+    "The enormous bedroom has a king-size bed and floor-to-ceiling windows with beautiful ocean views, as well as a wide, sun-drenched en suite with soaking tub. The airy, roomy layout welcomes long and leisurely days relaxing between your living room and sun-lit patio through the wide villa doors. At our unique Maldives resort, you may relax in the solitude of your own swimming pool and length of sandy beach. Relax among the swaying palms in your hammock - a standard in all of our villas.",
+    "Our beautiful Water Villas in the Maldives have an open-plan bedroom with a king-size bed and floor-to-ceiling windows that provide panoramic water-to-sky vistas. A separate living and eating area joins a spacious bathroom, with the beautiful enormous tub affording its own spectacular perspective of the quiet waters beyond. On the split-level hardwood deck that encases the house and a coconut-thatched covered veranda, discover wrap-around netting hammocks hung just over the glittering sea.",
+    "The beautiful villas at One & Only Reethi Rah are set either over the lagoon or along the beach. These villas are sleek and stunning, with outstanding solitude and views.",
+    "One&Only Reethi Rah is located on one of the biggest islands in North Malé Atoll, surrounded by the wonders of the Indian Ocean. It is located around 700 kilometres (430 miles) southwest of Sri Lanka and is a gem among a line of coral atolls, lagoons, and white sands. Guests may reach the resort in 20 minutes via seaplane transfer or 45 minutes by speedboat transport."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 2050,
+      "priceInclTax": 2109,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Beach-Villa.webp",
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 2600,
+      "priceInclTax": 2676,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Beach-Pool-Villa.webp",
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 2450,
+      "priceInclTax": 2520,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Water-Villa.webp",
+        "/resorts/One-and-Only/images/One-and-Only-Reethi-Rah-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/One-and-Only/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "One-and-Only-Reethi-Rah-Activities.webp",
+    "One-and-Only-Reethi-Rah-Beach-Pool-Villa.webp",
+    "One-and-Only-Reethi-Rah-Beach-Pool-Villa1.webp",
+    "One-and-Only-Reethi-Rah-Beach-Villa.webp",
+    "One-and-Only-Reethi-Rah-Beach-Villa1.webp",
+    "One-and-Only-Reethi-Rah-Dinning.webp",
+    "One-and-Only-Reethi-Rah-Island.webp",
+    "One-and-Only-Reethi-Rah-Kaafu-Atoll.webp",
+    "One-and-Only-Reethi-Rah-Luxury-resort.webp",
+    "One-and-Only-Reethi-Rah-Maldives-Kaafu-Atoll.webp",
+    "One-and-Only-Reethi-Rah-Maldives.webp",
+    "One-and-Only-Reethi-Rah-Pool.webp",
+    "One-and-Only-Reethi-Rah-Water-Villa.webp",
+    "One-and-Only-Reethi-Rah-Water-Villa1.webp",
+    "One-and-Only-Reethi-Rah-beach.webp",
+    "One-and-Only-Reethi-Rah.webp",
+    "One-and-Only-Reethirah-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

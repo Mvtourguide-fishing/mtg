@@ -1,0 +1,67 @@
+{
+  "folder": "kaanibeach-maafushi",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/kaanibeach-maafushi/kaani-beach-hotel-in-maafushi-maldives.html",
+  "legacyTitle": "Kaani Beach Hotel in Maafushi Maldives",
+  "legacyH1": "Kaani Beach Hotel Maafushi Maldives",
+  "metaDescription": "Kaani beach is a hotel opened in the local island of maafushi male atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 3,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "On Maafushi Island, a sunny beach getaway surrounded by coconut palm trees, the 3-star Kaani Beach Hotel is located. On-site activities include scuba diving, island picnics, dolphin viewing, and snorkeling. Kaani Beach Hotel is the ideal choice for anyone looking for a romantic getaway or something a little more laid-back.",
+    "Sea View rooms with private balconies are available at Kaani Beach Hotel, a sunny beach getaway surrounded by coconut palm trees. All of the rooms have air conditioning, a hot water shower, satellite television, wireless Internet, a mini bar, a hair dryer, and a safe. There is also a restaurant offering buffet breakfast and dinner, as well as a rooftop open-air terrace with loungers."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Sea View Balcony Room",
+      "price": 71,
+      "priceInclTax": 89,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/kaanibeach-maafushi/images/kaani-beach-maafushi-seaview-room.webp",
+        "/hotels/kaanibeach-maafushi/images/kaani-beach-maafushi-seaview-room1.webp"
+      ]
+    },
+    {
+      "name": "Tripple Sea View Balcony Room",
+      "price": 84,
+      "priceInclTax": 106,
+      "currency": "USD",
+      "bedType": "Tripple",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/kaanibeach-maafushi/images/kaani-beach-maafushi-tripple-seaview-room.webp",
+        "/hotels/kaanibeach-maafushi/images/kaani-beach-maafushi-tripple-seaview-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/kaanibeach-maafushi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "kaani-beach-hotel-in-maafushi-maldives.jpg",
+    "kaani-beach-hotel-in-maafushi-maldives.webp",
+    "kaani-beach-hotel-maafushi-island-maldives.webp",
+    "kaani-beach-maafushi-hotel-maldives.webp",
+    "kaani-beach-maafushi-island-hotel-maldives.webp",
+    "kaani-beach-maafushi-island-hotel.webp",
+    "kaani-beach-maafushi-island.webp",
+    "kaani-beach-maafushi-seaview-room.webp",
+    "kaani-beach-maafushi-seaview-room1.webp",
+    "kaani-beach-maafushi-tripple-seaview-room.webp",
+    "kaani-beach-maafushi-tripple-seaview-room1.webp",
+    "kaani-beach-maafushi.webp",
+    "kaani-beach-map.webp",
+    "kaani-beach.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

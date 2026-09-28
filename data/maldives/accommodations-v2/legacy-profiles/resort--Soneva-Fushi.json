@@ -1,0 +1,93 @@
+{
+  "folder": "Soneva-Fushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Soneva-Fushi/Soneva-Fushi-Maldives.html",
+  "legacyTitle": "Soneva Fushi Maldives Island Resort",
+  "legacyH1": "Soneva Fushi Maldives Island Resort",
+  "metaDescription": "Soneva Fushi Maldives Island is a five star resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B",
+    "N"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "SPn2V6YP_eg",
+  "descriptionParagraphs": [
+    "Soneva Fushi is a natural wonder located in the UNESCO Biosphere Reserve of Baa Atoll, one of the Maldives' biggest islands. Sixty-four private island homes are tucked away in a lush expanse of lush vegetation. All have expansive living areas and views of the dawn or sunset, and most have their own pools in addition to being just steps from the beach. Our eight Water Retreats are among the largest of their kind in the world, boasting a terrace with a private pool and an ocean water slide. All Soneva Fushi villas have our personalised Barefoot Guardian service, which is available 24 hours a day, seven days a week.",
+    "Take a relaxing plunge in your private pool, which is protected by trees. If you wish to experience the pristine Maldivian ocean's underwater delights, you're only a few steps away. Relax among the whimsically rustic-chic apartments and balconies and succumb to the shipwrecked vibe.",
+    "Sunrise over the water has a mystical quality about it. With three two-story bungalows facing the ocean, there are infinite opportunities to enjoy the sunrise at this expansive seaside Retreat. Promenade the elevated walkway. Swim in the cool private pool. Bathe under the stars in the open-air garden bathrooms. Enjoy a leisurely lunch on the elevated dining pavilion, complemented by a cold beverage from the in-villa wine cooler.",
+    "The 1 Bedroom Water Retreat with Slide is positioned right over the pristine waters of the Indian Ocean and is accessible from the main island through a curving dock. The vast home has a light-filled, wide living space with a neighbouring pantry and minibar, as well as sleek and modest décor inspired by the sea.",
+    "Fifty-seven individual villas, each with its own length of beach, are tucked away among deep greenery and within touching distance of a magnificent coral reef. Our Soneva Fushi villas are located on the island's sunset or dawn side. Despite the fact that there are little distinctions, both sides boast the Maldives' characteristic white-sand beaches and crystal clear turquoise seas. Mr./Ms. Friday butlers deliver intuitive service.",
+    "Guests may fly directly to Soneva Fushi from Malé International Airport. Please keep in mind that the seaplane only operates throughout the day, with the latest trip departing at 17:00. Guests can also fly domestically to the neighbouring Dharavandhoo Airport, then take a 15-minute speedboat journey to the resorts. The final domestic flight departs at 23:15. Both flights last between 30 and 40 minutes. We recommend arriving by seaplane to get a bird's eye perspective of the Maldives' gorgeous islands."
+  ],
+  "rooms": [
+    {
+      "name": "Crusoe Villa Pool",
+      "price": 2000,
+      "priceInclTax": 2224,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-Cursoe-Villa-Pool.webp",
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-Cursoe-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Villa 41 Three Bedroom Pool Residence",
+      "price": 21700,
+      "priceInclTax": 21900,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 9,
+      "images": [
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-Three-Bedroom-Residence-Pool.webp",
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-Three-Bedroom-Residence-Pool1.webp"
+      ]
+    },
+    {
+      "name": "1 Bedroom Water Retreat Slide",
+      "price": 5700,
+      "priceInclTax": 5894,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat.webp",
+        "/resorts/Soneva-Fushi/images/Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Soneva-Fushi/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Soneva-Fushi-Island-Resort-Maldives.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Activities.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Baa-Atoll.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Beach.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Pool.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Resort.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Spa.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives-Water-Sports.webp",
+    "Soneva-Fushi-Kunfunadhoo-Island-Maldives.webp",
+    "Soneva-Fushi-Maldives-Cursoe-Villa-Pool.webp",
+    "Soneva-Fushi-Maldives-Cursoe-Villa-Pool1.webp",
+    "Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat.webp",
+    "Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat1-Baa-Atoll.webp",
+    "Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat1.webp",
+    "Soneva-Fushi-Maldives-One-Bedroom-Water-Retreat2.webp",
+    "Soneva-Fushi-Maldives-Three-Bedroom-Residence-Pool.webp",
+    "Soneva-Fushi-Maldives-Three-Bedroom-Residence-Pool1.webp",
+    "Soneva-Fushi-Maldives-map.webp",
+    "Soneva-Fushi-Maldives.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

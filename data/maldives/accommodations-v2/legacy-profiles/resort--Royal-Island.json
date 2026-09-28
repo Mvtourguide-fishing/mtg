@@ -1,0 +1,76 @@
+{
+  "folder": "Royal-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Royal-Island/Royal-Island-Reosrt-Maldives.html",
+  "legacyTitle": "Royal Island Premium All Inclusive Maldives Island Resort",
+  "legacyH1": "Royal Island Premium All Inclusive Maldives Island Resort",
+  "metaDescription": "Royal Island Premium All Inclusive Maldives Island is a five star resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "YBSyiXv-LBQ",
+  "descriptionParagraphs": [
+    "Your incredible All-Inclusive vacation begins here at Royal Island, which includes three daily meals at the main buffet style restaurant, beverages during and after meal times, and a variety of activities. Immerse yourself in a colourful voyage in the pristine and protected UNESCO Biosphere Reserve of Baa Atoll, whether you're looking for calm or action. Unrivaled services and amenities, such as the exquisite Araamu Spa and a world-class range of restaurants and bars, are available. Discover infinite interactions with the natural environment while relaxing and recharging in one of the world's most wonderful settings.",
+    "Royal Island villas are secluded luxury getaways in the middle of nature, giving breathtaking sunrise and sunset views while only steps away from the pure white beach and blue lagoon. Each house is thoughtfully built with rich and colourful aesthetics, stunning marble features, and elaborately carved wooden furnishings, with a focus on laid-back luxury. At Royal Island Resort & Spa, you may embrace independence and tropical tranquillity.",
+    "Royal Island Resort, located in the Baa Atoll, is only a 20-minute domestic flight from Velana International Airport. This resort is nearly 800 m long and 220 m wide, and offers the ideal holiday destination, set amongst lush tropical vegetation and perfect untouched beaches, and surrounded by the beautiful lagoon shimmering under the tropical sun.",
+    "Enjoy traditional Maldivian delicacies as well as exquisite cuisine from all around the world. Dine alfresco beneath a beautiful star-studded sky or in the traditional elegance of our Asian-style restaurant with breathtaking views of the Indian Ocean. Make memories that will last a lifetime by dancing the night away with friends and family at one of our chic pubs.",
+    "Araamu Spa will transport you to a tropical paradise. Discover a world of relaxation and tranquillity in the midst of beautiful coconut palms and tropical greenery. Indulge in a variety of Asian-inspired therapies meant to refresh and rejuvenate mind and body. Aromatherapy, reflexology, body wraps, and luxury pedicures and manicures are among the signature services.",
+    "Discover a plethora of resort activities and bucket-list adventures in a naturalist's paradise. In the magnificent UNESCO Biosphere Reserve of Baa Atoll, where lush nature meets the dazzling waves of the Indian Ocean, really unique activities await. Soar high above the turquoise waves on a thrilling parasailing trip, dine on a sumptuous meal on a secluded sandbank, or unwind at Araamu Spa."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 300,
+      "priceInclTax": 354,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Royal-Island/images/Royal-Island-Resort-Maldives-Beach-Villa.webp",
+        "/resorts/Royal-Island/images/Royal-Island-Resort-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Two Bedroom Family Beach Villa",
+      "price": 900,
+      "priceInclTax": 954,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Royal-Island/images/Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa.webp",
+        "/resorts/Royal-Island/images/Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Royal-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Activities.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Baa-Atoll.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Dinning.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Pool-Baa-Atoll.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Pool.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-Spa.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives-garden.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort-Maldives.webp",
+    "Royal-Island-Premium-All-Inclusive-Resort.webp",
+    "Royal-Island-Reosrt-Maldives-map.webp",
+    "Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa.webp",
+    "Royal-Island-Resort-Maldives-Beach-Pool-Family-Villa1.webp",
+    "Royal-Island-Resort-Maldives-Beach-Villa.webp",
+    "Royal-Island-Resort-Maldives-Beach-Villa1.webp",
+    "Royal-Island-Resort-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

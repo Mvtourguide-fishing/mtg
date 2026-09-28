@@ -1,0 +1,90 @@
+{
+  "folder": "vommuli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/vommuli/st-regis-vommuli-maldives-resort.html",
+  "legacyTitle": "The St. Regis Vommuli Island Resort Maldives",
+  "legacyH1": "The St. Regis Vommuli Island Resort Maldives",
+  "metaDescription": "The St. Regis Vommuli Island is a resort located in Male atoll Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "SrtYhHoTGfw",
+  "descriptionParagraphs": [
+    "The St. Regis Maldives Vommuli Resort overlooks the alluring waves of the Indian Ocean, nestled between verdant rain forest and white-sand beaches on a private island. Explore the quiet, eco-friendly setting's tropical beauty and abundant marine life. The Iridium Spa and outdoor swimming pool, as well as the private lagoon, offer unrivaled relaxation. At the beach, there is a wide range of water sports and excursions. The butlers, the diving center's signature operation, will arrange a wide range of water sports and excursions. In addition, their six restaurants and bars serve delectable cuisine.",
+    "Each of the 33 on-land and 44 over-water villas at St. Regis Maldives Vommuli Resort offers picturesque ocean or garden views from private terraces and pools, as well as refined furnishings and island-inspired architecture. The legendary Butlers of the St. Regis provide personalized service at all hours of the day and night."
+  ],
+  "rooms": [
+    {
+      "name": "Garden Pool Villa",
+      "price": 763,
+      "priceInclTax": 853,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/vommuli/images/vommuli-isalnd-resort-garden-pool-villa.webp",
+        "/resorts/vommuli/images/vommuli-isalnd-resort-garden-pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 859,
+      "priceInclTax": 1187,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/vommuli/images/vommuli-isalnd-resort-beach-pool-villa.webp",
+        "/resorts/vommuli/images/vommuli-isalnd-resort-beach-pool-villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Pool Villa",
+      "price": 910,
+      "priceInclTax": 1137,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/vommuli/images/vommuli-isalnd-resort-water-pool-villa.webp",
+        "/resorts/vommuli/images/vommuli-isalnd-resort-water-pool-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/vommuli/images",
+  "imageCount": 23,
+  "imageFiles": [
+    "st-regis-vommuli-isalnd-resort-maldives.jpg",
+    "st-regis-vommuli-isalnd-resort-maldives.webp",
+    "st-regis-vommuli-isalnd-resort.webp",
+    "st-regis-vommuli-resort-maldives.webp",
+    "stregis-vommuli-isalnd-resort-maldives.webp",
+    "the-st-regis-vommuli-isalnd-resort-maldives.webp",
+    "the-st-regis-vommuli-isalnd-resort.webp",
+    "the-st-regis-vommuli-isalnd.webp",
+    "the-st-regis-vommuli-maldives.webp",
+    "the-st-regis-vommuli.webp",
+    "vommuli-isalnd-maldives.webp",
+    "vommuli-isalnd-resort-beach-pool-villa.jpg",
+    "vommuli-isalnd-resort-beach-pool-villa.webp",
+    "vommuli-isalnd-resort-beach-pool-villa1.webp",
+    "vommuli-isalnd-resort-garden-pool-villa.jpg",
+    "vommuli-isalnd-resort-garden-pool-villa.webp",
+    "vommuli-isalnd-resort-garden-pool-villa1.webp",
+    "vommuli-isalnd-resort-maldives.webp",
+    "vommuli-isalnd-resort-water-pool-villa.jpg",
+    "vommuli-isalnd-resort-water-pool-villa.webp",
+    "vommuli-isalnd-resort-water-pool-villa1.webp",
+    "vommuli-island-map.jpg",
+    "vommuli-island-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

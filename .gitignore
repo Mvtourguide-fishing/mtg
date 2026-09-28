@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# supabase local dev
+/supabase/.branches
+/supabase/.temp
+
+# vercel
+.vercel
+
+# Task 14: legacy website migration source (extracted from the
+# "webmigration" GitHub Release asset). This is the migration INPUT, not
+# application code — never commit it. Migration outputs (JSON reports,
+# uploaded Storage URLs) live in data/maldives/media|content/ instead.
+/release/
+
+# scripts/upload-legacy-media.mjs rewrites this on every run (dry run or
+# --commit) as a local diagnostic, never something to review in a diff or
+# merge — tracking it just breaks the next `git pull` for whoever ran the
+# script locally ("local changes would be overwritten by merge").
+/data/maldives/media/storage-upload-report.json
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

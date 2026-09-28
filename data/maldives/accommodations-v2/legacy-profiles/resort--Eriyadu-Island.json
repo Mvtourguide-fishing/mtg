@@ -1,0 +1,58 @@
+{
+  "folder": "Eriyadu-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Eriyadu-Island/Eriyadu-Island-Resort-Maldives.html",
+  "legacyTitle": "Eriyadu Island Resort Maldives",
+  "legacyH1": "Eriyadu Island Resort Maldives",
+  "metaDescription": "Eriyadu Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "dYXK4n48TUI",
+  "descriptionParagraphs": [
+    "Feel a faraway wind, hear quiet laughing, and glide into a delicate groove that continually and beautifully fills this perfect piece of nature. Lie down on the sun-drenched white sand beach. Eriyadu Island exists, unlike a prophesied legend or a fantasy-scape, with its earthy-woody architecture and salty sea; it's all real and it's all here. When you arrive, you'll be whisked away to the little island known for some of the world's best diving.",
+    "SMARTLINE Eriyadu is a modest resort created with comfort in mind in the traditional Maldivian manner. These villas are tucked along the shoreline, beneath the sheltered fronds of palm trees.",
+    "SMARTLINE Eriyadu is located 45 minutes from Velana International Airport in North Male' Atoll and is easily accessible by speed boat."
+  ],
+  "rooms": [
+    {
+      "name": "Sea View Sky Room",
+      "price": 130,
+      "priceInclTax": 139,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Eriyadu-Island/images/Eriyadu-Island-Resort-Maldives-Sea-view-room.webp",
+        "/resorts/Eriyadu-Island/images/Eriyadu-Island-Resort-Maldives-Sea-view-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Eriyadu-Island/images",
+  "imageCount": 12,
+  "imageFiles": [
+    "Eriyadu-Island-Resort-Beach.webp",
+    "Eriyadu-Island-Resort-Maldives-Beach.webp",
+    "Eriyadu-Island-Resort-Maldives-Male-Atoll.webp",
+    "Eriyadu-Island-Resort-Maldives-Pool.webp",
+    "Eriyadu-Island-Resort-Maldives-Restaurant-Kaafu-Atoll.webp",
+    "Eriyadu-Island-Resort-Maldives-Restaurant.webp",
+    "Eriyadu-Island-Resort-Maldives-Sea-view-room.webp",
+    "Eriyadu-Island-Resort-Maldives-Sea-view-room1.webp",
+    "Eriyadu-Island-Resort-Maldives-Spa.webp",
+    "Eriyadu-Island-Resort-Maldives-map.webp",
+    "Eriyadu-Island-Resort-Maldives.webp",
+    "Eriyadu-Island-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

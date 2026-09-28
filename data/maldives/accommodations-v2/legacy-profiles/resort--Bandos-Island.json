@@ -1,0 +1,88 @@
+{
+  "folder": "Bandos-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Bandos-Island/Bandos-Island-Maldives.html",
+  "legacyTitle": "Bandos Island Resort Maldives",
+  "legacyH1": "Bandos Island Resort Maldives",
+  "metaDescription": "Bandos Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Bandos",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "NXykEIVZthY",
+  "descriptionParagraphs": [
+    "The island of Bandos is located in the centre of the Indian Ocean. A picture-perfect sanctuary tucked away from the worries of everyday life. The stunning blue ocean, colourful plant life, and white sandy beaches immediately generate a sense of calm. From the time you arrive, you will experience the pleasant, attentive service that has earned Bandos the nickname \"Island of Hospitality.\" We deliver the finest without having to travel any further, as we are only 10 minutes from the international airport.",
+    "Bandos Maldives is well-known for being a family-friendly resort. You may unwind and enjoy yourself as your children have the time of their lives. Our medical facility, which is equipped with a hyperbaric and decompression chamber, has two doctors on call 24 hours a day, seven days a week for general and dive-related needs. We have numerous repeat customers that have been with us for over 20 years. We are also pleased to be one of the best rated hotels in the Maldives across all booking and review sites.",
+    "Bandos' lodging options, which range from ultra-exclusive and magnificent Water Villas to regular rooms, clearly reflect the different interests and expectations of our guests.",
+    "Bandos Island, located 10 minutes from Velana International Airport, offers the finest without the burden of travelling further.",
+    "Bandos Maldives now offers an All Inclusive Package. Breakfast, lunch, and supper at the Gallery restaurant are included, as well as alcoholic and non-alcoholic beverages at the Sand Bar, Huvan, and Gallery restaurant. The bundle also includes a choice of sports and entertainment options. Enjoy a wonderful bargain vacation today on the white-sand beaches of Bandos, Maldives.",
+    "Everything at Orchid Spa is pleasurable: the energy of the pool, the calm of the tropical setting, the natural noises, the hot steam and sauna baths that enter the muscles and release stress. The quaint tiny hair salon offers Crème Baths, deep soothing head massages, hair conditioning treatments, and manicure services. Relax your body and mind with a wonderful massage at Orchid Spa while on vacation in Bandos. Spa's private villas and cabanas provide intimacy and solitude."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 350,
+      "priceInclTax": 399,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Bandos-Island/images/Bandos-Island-Beach-Villa.webp",
+        "/resorts/Bandos-Island/images/Bandos-Island-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 800,
+      "priceInclTax": 853,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Bandos-Island/images/Bandos-Island-Beach-Pool-Villa.webp",
+        "/resorts/Bandos-Island/images/Bandos-Island-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 910,
+      "priceInclTax": 985,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Bandos-Island/images/Bandos-Island-water-Villa.webp",
+        "/resorts/Bandos-Island/images/Bandos-Island-water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Bandos-Island/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Bandos-Island-Beach-Pool-Villa.webp",
+    "Bandos-Island-Beach-Pool-Villa1.webp",
+    "Bandos-Island-Beach-Villa.webp",
+    "Bandos-Island-Beach-Villa1.webp",
+    "Bandos-Island-Maldives-Resort.webp",
+    "Bandos-Island-Maldives-map.webp",
+    "Bandos-Island-Maldives.webp",
+    "Bandos-Island-Resort-Maldives.webp",
+    "Bandos-Island-water-Villa.webp",
+    "Bandos-Island-water-Villa1.webp",
+    "Bandos-Maldives-Island-Resort-Beach.webp",
+    "Bandos-Maldives-Island-Resort-Excursions.webp",
+    "Bandos-Maldives-Island-Resort-Romanctic-Dinner.webp",
+    "Bandos-Maldives-Island-Resort-Snorkeling.webp",
+    "Bandos-Maldives-Island-Resort.webp",
+    "Bandos-Maldives-Island.webp",
+    "Bandos-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

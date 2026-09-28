@@ -1,0 +1,81 @@
+{
+  "folder": "Lily-beach",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Lily-beach/Lily-beach-Resort-Maldives.html",
+  "legacyTitle": "Lily Beach Resort & Spa Maldives Island Resort",
+  "legacyH1": "Lily Beach Resort & Spa Maldives Island Resort",
+  "metaDescription": "Lily Beach Resort & Spa Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollUnresolved": [
+    "the south ari"
+  ],
+  "explicitIslandName": "Huvahendhoo",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "JEgqJqbA79E",
+  "descriptionParagraphs": [
+    "Lily Beach Resort & Spa's Platinum Plan allows you to enjoy a hassle-free, outstanding value-for-money vacation. This is an all-inclusive package that includes a magnificent assortment of high-quality services such as exquisite dining experiences, romantic excursions, sporting activities, and high-quality items such as premium wines and spirits.",
+    "The Beach Villas allow you to fully enjoy the lovely natural playground just outside your door. The Villas are set among lush greenery, only steps from the warm Indian Ocean and a short walk from the resort's main area.",
+    "Many of our visitors prefer the Lagoon Villas because of their private patio with direct access to the lagoon and tropical surroundings.",
+    "At Lily Beach Huvahendhoo, the pleasure never stops, and the hotel seeks to enliven days, enrapture evenings, and awaken visitors to a heightened level of well-being. The major goal has been to transform the resort into a high-quality, premium experience. All of its villas and public rooms are made entirely of natural materials. The finished project is a synthesis of current design and Maldivian architecture. It is a great combination of wood, various types of natural stones, and modern design that blends in wonderfully with the island's natural environment.",
+    "Lily Beach Resort is located on the island of Huvahendhoo, South Ari Atoll, and is 600 m long and 110 m wide. It is a 25-minute sea plane flight from Male International Airport. Because of its advantageous location in the magnificent Ari Atoll, it is adjacent to some of the world's most remarkable dive locations.",
+    "Maa, the local term for flower, is a place where your love of delicious cuisine may blossom into a pleasurable eating experience. The genuine value of this wonderful sand-floored restaurant is provided by its magnificent, all-inclusive buffet dishes that will whet anyone's appetite. Lily Maa, the primary buffet-style restaurant, will enable you bloom into a genuine gourmet, recognising that the quality of your Maldives experience will unavoidably expand through the seduction of your taste senses as well. Every day of the week, a new foreign cuisine to transport you to other corners of the world while being at the one you wouldn't exchange for anything else. Whatever your favourite dish, Lily Maa is an unrivalled gastronomic treat, recognised across the Maldives for its chefs' feasts. Don’t"
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1100,
+      "priceInclTax": 1128,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Lily-beach/images/Lily-Beach-Resort-and-Spa-Maldives-Beach-Villa.webp",
+        "/resorts/Lily-beach/images/Lily-Beach-Resort-and-Spa-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 1200,
+      "priceInclTax": 1286,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Lily-beach/images/Lily-Beach-Resort-and-Spa-Maldives-Lagoon-Villa.webp",
+        "/resorts/Lily-beach/images/Lily-Beach-Resort-and-Spa-Maldives-Lagoon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Lily-beach/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Lily-Beach-Resort-and-Spa-Maldives-Activities.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Beach-Villa.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Beach-Villa1.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Beach.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Huvahendhoo.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Island.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Lagoon-Villa.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Lagoon-Villa1.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Snorkeling.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-South-Ari-Atoll.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Spa.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Water-Sports-South-Ari-Atoll.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Water-Sports.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives-Wedding.webp",
+    "Lily-Beach-Resort-and-Spa-Maldives.webp",
+    "Lily-beach-Resort-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

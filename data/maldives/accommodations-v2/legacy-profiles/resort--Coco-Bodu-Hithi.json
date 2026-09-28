@@ -1,0 +1,92 @@
+{
+  "folder": "Coco-Bodu-Hithi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Coco-Bodu-Hithi/Coco-Bodu-Hithi-Maldives.html",
+  "legacyTitle": "Coco Bodu Hithi Island Resort Maldives",
+  "legacyH1": "Coco Bodu Hithi Island Resort Maldives",
+  "metaDescription": "Coco Bodu Hithi Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "xGAFeyMV4XI",
+  "descriptionParagraphs": [
+    "The Coco Bodu Hithi Resort in the Maldives captures the essence of the island in every detail. Our Maldives resort is your stylish haven. Reconnect with yourself, your loved ones, and the natural world's wonders. Remind yourself what it's like to take a break and travel. Breathe in the fresh sea air. The Hawksbill turtles have arrived. Witness the local Nurse sharks' tranquil majesty. Investigate the unusual colours of the reef's inhabitants. Swim beside Manta rays. Take a peaceful sunset cruise across the river. Sink your toes into the white sand and become acquainted with island life and its dreamlike rhythm. All of this is available to you at the Coco Bodu Hithi Maldives Resort.",
+    "The Maldives' private Coco Bodu Hithi villas combine the principles of ample space, private pools and outdoor decks, elegant decor, and true comfort. Our Island Villas offer one experience of Bodu Hithi, nestled in thick tropical flora only steps from the water, each with its own space on the beach. Our Water Villas and Escape Water Villas stand gently above the lagoon off the east coast of the island. Waking up to this vision of an endless ocean is eternally uplifting. Coco Residences, which face northwest, stand as an enclave on water, forming an unique wing of the resort.",
+    "Coco Bodu Hithi is an island paradise in North Male Atoll, 40 minutes by speedboat from Velana International Airport.",
+    "Every night, there's something new for you to experience, from Maldives fine dining to beach picnics. Our varied breakfast buffets and themed evenings are served at Air. Aqua is our fine-dining establishment that specialises in fish. Tsuki serves authentic Japanese cuisine. Stars combines flavours from the East and the Mediterranean. The Wine Loft is an oenophile's paradise, while Latitude is a cocktail lover's fantasy. If you simply cannot leave the sanctuary of your villa, you can order from an In-villa menu featuring a variety of food and drinks from our Maldives Restaurants, including dishes suitable for children.",
+    "Coco Spa in the Maldives exudes tranquillity. Eight chambers, each named after a different section of the coconut palm, provide the ideal retreat for disconnecting from the outer world and reconnecting with your body and mind. A variety of extremely restorative treatments inspired by ancient Indonesian, Thai, and Indian traditions and augmented with tea-inspired products. You can relax in the Raa room with our professional Thai masseurs or in the Kurumba room with our distinctive ritual, Journey to the Maldives. Each room at our Maldives Spa provides a tranquil setting in which to unwind after treatments and prolong the sensation of being pampered.",
+    "We recognise two things: the richness of our island home is found in its natural beauty, tropical climate, and slow pace, and the shared vision of those who visit us is to be refreshed, enriched, and inspired by their time with us. In response to the qualities of Bodu Hithi and the desires of our guests, we have designed excursions, adventures, and activities that allow you to discover the Maldives and combine it all into unforgettable, cherished realities."
+  ],
+  "rooms": [
+    {
+      "name": "Island Villa",
+      "price": 690,
+      "priceInclTax": 727,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Coco-Bodu-Hithi/images/Coco-Bodu-Hithi-Maldives-Island-Villa.webp",
+        "/resorts/Coco-Bodu-Hithi/images/Coco-Bodu-Hithi-Maldives-Island-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 900,
+      "priceInclTax": 963,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Coco-Bodu-Hithi/images/Coco-Bodu-Hithi-Maldives-Water-Villa.webp",
+        "/resorts/Coco-Bodu-Hithi/images/Coco-Bodu-Hithi-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Coco-Bodu-Hithi/images",
+  "imageCount": 31,
+  "imageFiles": [
+    "Coco-Bodu-Hithi-Island-Maldives.jpg",
+    "Coco-Bodu-Hithi-Island-Maldives.webp",
+    "Coco-Bodu-Hithi-Maldives-Activities.jpg",
+    "Coco-Bodu-Hithi-Maldives-Activities.webp",
+    "Coco-Bodu-Hithi-Maldives-Beach.jpg",
+    "Coco-Bodu-Hithi-Maldives-Beach.webp",
+    "Coco-Bodu-Hithi-Maldives-Dinner.jpg",
+    "Coco-Bodu-Hithi-Maldives-Dinner.webp",
+    "Coco-Bodu-Hithi-Maldives-Island-Villa.jpg",
+    "Coco-Bodu-Hithi-Maldives-Island-Villa.webp",
+    "Coco-Bodu-Hithi-Maldives-Island-Villa1.jpg",
+    "Coco-Bodu-Hithi-Maldives-Island-Villa1.webp",
+    "Coco-Bodu-Hithi-Maldives-Island-map.webp",
+    "Coco-Bodu-Hithi-Maldives-Island.jpg",
+    "Coco-Bodu-Hithi-Maldives-Island.webp",
+    "Coco-Bodu-Hithi-Maldives-Jetty.jpg",
+    "Coco-Bodu-Hithi-Maldives-Jetty.webp",
+    "Coco-Bodu-Hithi-Maldives-Pool.jpg",
+    "Coco-Bodu-Hithi-Maldives-Pool.webp",
+    "Coco-Bodu-Hithi-Maldives-Spa.jpg",
+    "Coco-Bodu-Hithi-Maldives-Spa.webp",
+    "Coco-Bodu-Hithi-Maldives-Water-Villa.jpg",
+    "Coco-Bodu-Hithi-Maldives-Water-Villa.webp",
+    "Coco-Bodu-Hithi-Maldives-Water-Villa1.jpg",
+    "Coco-Bodu-Hithi-Maldives-Water-Villa1.webp",
+    "Coco-Bodu-Hithi-Maldives-resort.jpg",
+    "Coco-Bodu-Hithi-Maldives-resort.webp",
+    "Coco-Bodu-Hithi-Maldives.jpg",
+    "Coco-Bodu-Hithi-Maldives.webp",
+    "Maldives-Coco-Bodu-Hithi.jpg",
+    "Maldives-Coco-Bodu-Hithi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

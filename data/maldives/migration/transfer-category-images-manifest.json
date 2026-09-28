@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-09-25T16:07:06.400Z",
+  "files": [
+    {
+      "mediaId": "4ed61c4d-2c5d-5d73-af3f-79fee2418314",
+      "relativePath": "assets/uploads/transfers/maldives-transfers.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-transfers.webp",
+      "altText": "Maldives transfers",
+      "filename": "maldives-transfers.webp"
+    },
+    {
+      "mediaId": "47c95968-8088-625a-98d2-20130258283c",
+      "relativePath": "assets/uploads/transfers/maldives-taxi-transfer.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-taxi-transfer.webp",
+      "altText": "Maldives airport transfers",
+      "filename": "maldives-taxi-transfer.webp"
+    },
+    {
+      "mediaId": "79238d89-7cc6-2d55-bafe-9e7affa84902",
+      "relativePath": "assets/uploads/transfers/maldives-resort-transfer-300x300.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-resort-transfer-300x300.webp",
+      "altText": "Maldives resort transfers",
+      "filename": "maldives-resort-transfer-300x300.webp"
+    },
+    {
+      "mediaId": "309f778c-2470-d34d-9428-64310c62eb13",
+      "relativePath": "assets/uploads/transfers/maldives-island-transfers.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-island-transfers.webp",
+      "altText": "Maldives island transfers",
+      "filename": "maldives-island-transfers.webp"
+    },
+    {
+      "mediaId": "621881e3-d458-7642-3d73-a3ccec438396",
+      "relativePath": "assets/uploads/transfers/maldives-bus-transfer.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-bus-transfer.webp",
+      "altText": "Maldives hotel transfers",
+      "filename": "maldives-bus-transfer.webp"
+    },
+    {
+      "mediaId": "57316a45-c325-79d0-5ec4-be975efe817d",
+      "relativePath": "assets/uploads/transfers/maldives-speed-boat-transfers.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-speed-boat-transfers.webp",
+      "altText": "Maldives speedboat transfers",
+      "filename": "maldives-speed-boat-transfers.webp"
+    },
+    {
+      "mediaId": "2492fc47-c79b-8611-5825-74dd404540ce",
+      "relativePath": "assets/uploads/transfers/maldives-speed-boat-transfers-870x500.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-speed-boat-transfers-870x500.webp",
+      "altText": "Private speedboat charter in the Maldives",
+      "filename": "maldives-speed-boat-transfers-870x500.webp"
+    },
+    {
+      "mediaId": "d865b111-b65a-6d09-bf58-728668c5829a",
+      "relativePath": "assets/uploads/transfers/maldives-transportation.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-transportation.webp",
+      "altText": "Maldives public transportation",
+      "filename": "maldives-transportation.webp"
+    },
+    {
+      "mediaId": "0740246b-2750-179c-8fa7-927170412361",
+      "relativePath": "assets/uploads/transfers/maldives-seaplane-transfers.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-seaplane-transfers.webp",
+      "altText": "Maldives seaplane transfers",
+      "filename": "maldives-seaplane-transfers.webp"
+    }
+  ]
+}

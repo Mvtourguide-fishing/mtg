@@ -1,0 +1,72 @@
+{
+  "folder": "embudu-village",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/embudu-village/embudu-village-resort-maldives.html",
+  "legacyTitle": "Embudu Village Island Resort Maldives",
+  "legacyH1": "Embudu Village Island Maldives",
+  "metaDescription": "Embudu Village Island is a resort located in Male atoll Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "pGzhOylYfog",
+  "descriptionParagraphs": [
+    "Embudu Village has remained pure and natural since its inception as one of the Maldives' first resorts. When you step foot on Embudu Village, you will be fully relaxed, surrounded by the calmness of the turquoise waters and the sound of the waves on the endless beaches.",
+    "Embudu Village is a small island off the coast of Male' Atoll, about a 30-minute speedboat ride from Velana International Airport. As a result, it is readily accessible and a common destination for most visitors. Embudu Village's villas are all close to the beach and surrounded by palm fronds and tropical plants, giving each room a sense of seclusion and privacy."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Room",
+      "price": 179,
+      "priceInclTax": 224,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/embudu-village/images/embudu-village-resort-beach-room.webp",
+        "/resorts/embudu-village/images/embudu-village-resort-beach-room1.webp"
+      ]
+    },
+    {
+      "name": "Water Room",
+      "price": 259,
+      "priceInclTax": 324,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/embudu-village/images/embudu-village-resort-water-villa.webp",
+        "/resorts/embudu-village/images/embudu-village-resort-water-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/embudu-village/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "embudu-island-map.jpg",
+    "embudu-island-map.webp",
+    "embudu-village-island-maldives-hotel.webp",
+    "embudu-village-island-maldives-resort.jpg",
+    "embudu-village-island-maldives-resort.webp",
+    "embudu-village-island-resort-maldives-hotel.webp",
+    "embudu-village-island-resort-maldives.webp",
+    "embudu-village-island-resort.webp",
+    "embudu-village-island.webp",
+    "embudu-village-resort-beach-room.webp",
+    "embudu-village-resort-beach-room1.webp",
+    "embudu-village-resort-maldives.webp",
+    "embudu-village-resort-water-villa.webp",
+    "embudu-village-resort-water-villa1.webp",
+    "embudu-village.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

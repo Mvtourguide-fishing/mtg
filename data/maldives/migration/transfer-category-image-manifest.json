@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-09-20T00:00:00.000Z",
+  "files": [
+    { "mediaId": "5f7b2509-92c8-fbfb-83a9-2bf74649ab4f", "relativePath": "images/transfers/maldives-transfers.webp", "storagePath": "legacy/images/transfers/maldives-transfers.webp" },
+    { "mediaId": "ceacc1c5-71e5-0d8c-dc4f-29d06f0153da", "relativePath": "images/transfers/maldives-airport-transfers.webp", "storagePath": "legacy/images/transfers/maldives-airport-transfers.webp" },
+    { "mediaId": "cdd2e7cc-2917-c029-24b3-9853e7dba7e8", "relativePath": "images/transfers/maldives-resort-transfers.webp", "storagePath": "legacy/images/transfers/maldives-resort-transfers.webp" },
+    { "mediaId": "3a77847b-1b23-e2a1-d7cc-8a2481214f0a", "relativePath": "images/transfers/maldives-island-transfers.webp", "storagePath": "legacy/images/transfers/maldives-island-transfers.webp" },
+    { "mediaId": "88336ddc-f145-5d47-0d0d-a95b31a0b925", "relativePath": "images/transfers/maldives-hotel-transfers.webp", "storagePath": "legacy/images/transfers/maldives-hotel-transfers.webp" },
+    { "mediaId": "d2d092f3-fa1d-99cd-ee64-bef3c62f556a", "relativePath": "images/transfers/maldives-speedboat-transfers.webp", "storagePath": "legacy/images/transfers/maldives-speedboat-transfers.webp" },
+    { "mediaId": "99737dda-3e6d-c1d0-7061-0d5b0e75a0d1", "relativePath": "images/transfers/private-speedboat-charter-maldives.webp", "storagePath": "legacy/images/transfers/private-speedboat-charter-maldives.webp" },
+    { "mediaId": "c77f4ccd-fd8e-5749-a8ea-7c45b0bad74a", "relativePath": "images/transfers/maldives-transportation.webp", "storagePath": "legacy/images/transfers/maldives-transportation.webp" },
+    { "mediaId": "9c4c56d1-9fe2-230e-99ed-b40cca564218", "relativePath": "images/transfers/maldives-seaplane-transfers.webp", "storagePath": "legacy/images/transfers/maldives-seaplane-transfers.webp" },
+    { "mediaId": "c84af170-4290-5719-145a-f317e30b11d4", "relativePath": "images/transfers/maldives-domestic-flight.webp", "storagePath": "legacy/images/transfers/maldives-domestic-flight.webp" }
+  ]
+}

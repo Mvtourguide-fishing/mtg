@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Cokes",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": "Thulusdhoo",
+    "difficulty": null,
+    "wave_notes": "A right-hand reef break, described by multiple sources (ahmedaznil.com, evendo.com, surf-forecast.com's 'Colas' guide) as lightning-fast, hollow and powerful, with a pitching, steep takeoff and two sections, both of which throw a curling lip -- the inside second section, where the reef is shallowest, gives the longest cover-up/barrel. Named after a nearby Coca-Cola bottling plant visible from the break.",
+    "season_notes": "General North Male Atoll surf season is typically given as March to October, with the most consistent swells in June-September (dreamingofmaldives.com/airial.travel summaries); treated as a hedge, not a guarantee, and not sourced specifically to Cokes alone.",
+    "access_notes": "Breaks directly off Thulusdhoo Island, in front of the island's own guesthouses/surf camps; the existing 'Private Surf Lesson (Cokes)' activity in this dataset confirms The Perfect Wave Cokes Surf Camp sits directly on this break.",
+    "notes": "Sources: maldives-magazine.com, ahmedaznil.com, evendo.com, surf-forecast.com ('Colas'), tropicalholidaysmaldives.com. One of the most famous breaks in the Maldives; reviews of the existing Cokes-based surf lesson describe the main break as 'unsuitable for true beginners' even though lessons are offered nearby, which is why difficulty was left null here rather than picking a single label -- no source used one of the standard beginner/intermediate/advanced/all_levels terms directly for Cokes itself."
+  },
+  {
+    "name": "Chickens",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "A long, fast left-hand reef break, described as one of the longest lefts in the Maldives, with rides reported up to ~500m on a good day across multiple (some sources say up to six) sections, several capable of barrelling. surfsphere.com/jonnymelon.com describe skill level as 'Intermediate to Advanced' -- a range rather than a single term, so difficulty was left null here rather than collapsed to one value, per the task's hard rule against upgrading a hedge.",
+    "season_notes": "Sources give May-October as the ideal window, with July-August southeast swells cited as most consistent, typically 2-8ft (jonnymelon.com/surfsphere.com summaries) -- kept as a hedge, not a guarantee.",
+    "access_notes": "Reached by a short boat/dhoni ride from Thulusdhoo (~$10 USD per person round-trip per several sources), which functions as the practical access point even though the wave itself breaks off a separate, uninhabited island.",
+    "notes": "Sources: maldives-magazine.com, stokedfortravel.com, mondo.surf, tropicalholidaysmaldives.com, jonnymelon.com, surfsphere.com, amaldives.com. Location is genuinely conflicting across sources: several describe Chickens as breaking on 'an uninhabited island next to/across the channel from Thulusdhoo' (implying Thulusdhoo as the practical nearby island), while jonnymelon.com names the specific uninhabited island as 'Viligilimathidhahuraa', which is not in our 193-island/6-resort-island dataset and is a different island from Thulusdhoo itself. Given that direct conflict, nearby_island_name was left null rather than guessed onto Thulusdhoo."
+  },
+  {
+    "name": "Sultans",
+    "break_type": "point_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "An exposed right-hand point break with consistent surf, breaking off the southern tip of Thanburudhoo Island on the eastern reef of North Male Atoll; known for very long rides with barrelling sections (surfatoll.com, amaldives.com).",
+    "season_notes": "Falls within the general North Male Atoll surf season (typically March-October, peak June-September per dreamingofmaldives.com/airial.travel) -- not independently confirmed for Sultans specifically.",
+    "access_notes": "Accessible by boat, typically from nearby resorts/guesthouses or organized surf tours/day trips out of Thulusdhoo and Himmafushi.",
+    "notes": "Sources: surf-forecast.com ('Sultans'), mondo.surf, dreamingofmaldives.com ('North Male Atoll Surf Breaks: The List'), perfectwavetravel.com, amaldives.com, swellnet.com. Thanburudhoo (also spelled Thamburudhoo) is an uninhabited island and is not present in the 193-inhabited-island or 6-resort-island lists used for this dataset, so nearby_island_name was left null rather than guessed onto a nearby inhabited island."
+  },
+  {
+    "name": "Honky's",
+    "break_type": "point_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "A long, wrapping left-hander that breaks around the western side of Thanburudhoo Island (Sultans breaks on the same island's other side); swellnet.com and surfatoll.com describe it as a point break, with rides that can build to well over 100 yards as the wave moves inside. Competes with Chickens for the region's best wave when conditions align.",
+    "season_notes": "Falls within the general North Male Atoll surf season (typically March-October, peak June-September) -- not independently confirmed for Honky's specifically.",
+    "access_notes": "Accessible by boat from nearby islands/resorts, commonly bundled into Thulusdhoo- or Himmafushi-based surf camp boat trips alongside Sultans and Jailbreak.",
+    "notes": "Sources: mondo.surf ('Honky's Surf Spot Guide'), surfatoll.com, swellnet.com, dreamingofmaldives.com, worldsurfaris.com. Same island-verification issue as Sultans: Thanburudhoo/Thamburudhoo is uninhabited and not in the 193-island/6-resort-island dataset, so nearby_island_name is null."
+  },
+  {
+    "name": "Ninjas",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": null,
+    "difficulty": "beginner",
+    "wave_notes": "A right-hand reef break peeling over dead coral in front of the Club Med Kani resort on Kanifinolhu; surfnerd.com and stokedfortravel.com describe it as slow and easygoing, explicitly 'good for beginners and long-boarders', closing out once surf pushes past shoulder-high (works roughly 1-5ft). Named for the Japanese surfers who favored the break.",
+    "season_notes": "surfnerd.com notes it works best on W-NW winds with a moderate south swell -- a condition-specific hedge, not a fixed calendar season.",
+    "access_notes": "Reached by boat from nearby North Male Atoll islands/resorts; the reef is shallow enough that reef boots are commonly recommended (surfnerd.com).",
+    "notes": "Sources: perfectwavetravel.com ('Club Med Maldives / Kani Resort'), surfnerd.com, stokedfortravel.com, clubmed.com.au. Kanifinolhu is an uninhabited resort island and is not present in the 193-inhabited-island or 6-resort-island dataset, so nearby_island_name was left null rather than guessed onto a nearby inhabited island (e.g. Himmafushi)."
+  },
+  {
+    "name": "Jailbreak",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": "Himmafushi",
+    "difficulty": null,
+    "wave_notes": "A long right-hand reef break directly off Himmafushi Island (named for a former jail on the point), described as a 'perfect right-hand reef break with a big wackable wall and fast sections', capable of getting hollow/barrelling on bigger days; generally regarded as a bit smaller/friendlier than its cross-channel neighbor Honky's (mondo.surf, various guesthouse listings). thesurftribe.com-linked summaries describe it as 'challenging but also suitable for intermediate surfers' -- a range, not a single term, so difficulty was left null.",
+    "season_notes": "Falls within the general North Male Atoll surf season (typically March-October, peak June-September) -- not independently confirmed for Jailbreak specifically.",
+    "access_notes": "A roughly 10-minute walk across Himmafushi Island from the Jail Break Surf Inn guesthouse to the point, then a short paddle out over coral.",
+    "notes": "Sources: booking.com and tripadvisor.com listings for 'Jail Break Surf Inn', jailbreaksurfinn.com, mondo.surf, backpackerbanter.com, nomadsurfers.com. Some sources spell the break 'Jailbreaks' (plural); 'Jailbreak' (singular) was used as the canonical name here to match the guesthouse's own branding ('Jailbreak Surf Inn')."
+  },
+  {
+    "name": "Guraidhoo Corner",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": "Guraidhoo",
+    "difficulty": null,
+    "wave_notes": "A reef break off Guraidhoo Island in South Male Atoll. Sources conflict on suitability: islandii.com and mytourway.com/roamingsurfer.com describe it as best suited to intermediate-to-advanced surfers, while both operators offering commercial surf sessions here (Active Watersports Maafushi and Maafushi Dive and Water Sports) explicitly market it to beginners with on-beach instruction. Given that conflict, difficulty was left null rather than picking one side.",
+    "season_notes": "Not independently confirmed beyond the general North/South Male Atoll surf season (typically March-October, peak June-September).",
+    "access_notes": "A 10-15 minute boat ride from Maafushi Island (activemaldives.com, maafushidive.com), which is how both Maafushi-based water sports operators in this dataset's activities.json reach it.",
+    "notes": "Sources: islandii.com ('Guraidhoo Island'/'Maldives Surf Adventures'), mytourway.com ('Guraidhoo Surf Point'), roamingsurfer.com, activemaldives.com, maafushidive.com. Distinct from the nearby, similarly-named 'Riptides' and 'Kandooma Right' breaks mentioned by the same sources, which were not added here as their own entries (Riptides' exact reef location and Kandooma Right's nearby island -- Kandooma is an uninhabited resort island not in our dataset -- were not confirmed with enough confidence)."
+  },
+  {
+    "name": "Pasta Point",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "K",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "A left-hand reef break described as North Male Atoll's most consistent 'wave machine', less wind-affected than most other spots in the area; waves typically 4-6ft but reportedly break with the same shape even at 1-2ft. Three sections capable of a 100+ yard ride. The name comes from an Italian restaurant that once stood on the site and discarded leftover pasta into the surf (atolltravel.com, stokedfortravel.com, waterwaystravel.com).",
+    "season_notes": "waterwaystravel.com/nomadsurfers.com summaries give May-August as the best window, when south-to-southwest trade winds keep conditions offshore and southern swells are most consistent; swell size is described as starting at 1m/3ft and holding up to 4m/12ft.",
+    "access_notes": "Directly in front of the resort now branded Cinnamon Dhonveli Maldives (formerly Chaaya Island Dhonveli), which markets exclusive guest access to the break; Sultans, Honky's and Jailbreak are each described as within about 10 minutes by boat.",
+    "notes": "Sources: atolltravel.com ('Pasta Point Surfing at Chaaya Island'), luex.com, stokedfortravel.com, waterwaystravel.com, nomadsurfers.com, surfatoll.com, xtremespots.com. The resort's own island name is genuinely conflicting across sources (Kanuhuraa per one source, Farukolhufushi per another, and the resort was also previously branded 'Shaya Island'), and none of those names appear in our 193-island/6-resort-island dataset -- so nearby_island_name was left null rather than guessed, and no commercial activity tied to Cinnamon Dhonveli/Pasta Point was added to activities.json for the same reason (island_name is a required field there)."
+  },
+  {
+    "name": "Yin-Yang",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "L",
+    "nearby_island_name": "Olhuveli",
+    "difficulty": null,
+    "wave_notes": "A long right-hand reef pass, described as arguably the most consistent wave in this part of the Maldives: a mellow outside wall in deep water that wraps into a long, hollow inside barrel section under a strong southeast swell (surfatoll.com, oceandimensions.com, amaldives.com). dreamingofmaldives.com describes it as 'generally better suited to intermediate and advanced surfers' -- a range, not a single term, so difficulty was left null rather than upgraded to one label.",
+    "season_notes": "Sources describe it as best under a strong southeast swell rather than giving a specific calendar window; no independently-confirmed month range surfaced for Yin-Yang specifically, so none was added.",
+    "access_notes": "A few minutes by boat from Six Senses Laamu (Olhuveli island), per the resort's own Tropicsurf-run surf program.",
+    "notes": "Sources: dreamingofmaldives.com ('Dreaming of Surfing at Six Senses Laamu | Ride Yin Yang'), perfectwavetravel.com, tropicsurf.com ('Surfing Laamu'), luex.com, surf-forecast.com, oceandimensions.com, amaldives.com. Six Senses Laamu resort's island (Olhuveli, Laamu Atoll, code L) is one of the 6 resort islands already established in this dataset via accommodations.json."
+  },
+  {
+    "name": "Isdoo Corner",
+    "break_type": null,
+    "atoll_administrative_code": "L",
+    "nearby_island_name": "Isdhoo",
+    "difficulty": null,
+    "wave_notes": "A right-hander (also referenced by the older name 'Langon Bank') on the northeast tip of Laamu Atoll, described as working well on a big south-to-southeasterly swell and well protected from southerly winds (stormrider.surf regional guide summary). No source in the snippets reviewed used an explicit 'reef break'/'point break'/etc. type label for this specific spot, so break_type was left null.",
+    "season_notes": "Best on a big south-to-southeasterly swell per the source; no specific calendar month range surfaced.",
+    "access_notes": "Described as rarely surfed due to a lack of safe boat anchorage nearby; visited mainly by the occasional surf charter boat transiting between Laamu and Thaa Atolls rather than as a standalone day-trip destination.",
+    "notes": "Sources: stormrider.surf ('Surfing in Thaa and Laamu Atolls'), en.wikipedia.org ('Isdhoo (Laamu Atoll)'), amaldives.com ('Laamu Atoll Guide'). Isdhoo is a real, inhabited island in our 193-island dataset (Laamu Atoll, code L), and the break's name directly derives from it, supporting the nearby_island_name tie."
+  },
+  {
+    "name": "Tiger Stripes",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "GDh",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "A long, playful left-hander on a coral reef, named for the narrow gouges in the reef that create a striped effect; can be tricky on takeoff, growling into a long, speedy wall before an inside tube section, on swells from about 2-8ft (bluestarsurfaris.com, airial.travel). Described by one summary as suited to intermediate-to-expert surfers -- a range, not a single term, so difficulty was left null.",
+    "season_notes": "Falls within the general Gaafu Dhaalu/Huvadhoo Atoll surf season, given by blue-horizon.com.mv as best 'early March-April and later October-November' -- a hedge from an atoll-wide guide, not confirmed specifically for Tiger Stripes.",
+    "access_notes": "Located on the southeast part of Gaafu Dhaalu Atoll; reached via surf charter/boat trip, per multiple southern-atoll surf-boat operator sites (suddenrush.com, bluestarsurfaris.com).",
+    "notes": "Sources: dreamingofmaldives.com ('Maldives Surfing Guide'), blue-horizon.com.mv, suddenrush.com, bluestarsurfaris.com, airial.travel ('Tiger Stripes Gaafu Dhaalu'). No specific inhabited island was named as adjacent to this break in the sources reviewed, so nearby_island_name was left null rather than guessed onto e.g. Thinadhoo or Vaadhoo."
+  },
+  {
+    "name": "Beacons",
+    "break_type": "reef_break",
+    "atoll_administrative_code": "GDh",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "Described by local accounts as the most powerful and dangerous surf spot in the region: a grinding right-hander with a solid barrel on a good southwest swell, breaking hard over very shallow, sharp coral with little margin for error (bluestarsurfaris.com, dreamingofmaldives.com). One summary labels it 'expert only', which was not carried into the difficulty field since it doesn't map cleanly onto this dataset's beginner/intermediate/advanced/all_levels scale -- kept instead as a direct hedge here.",
+    "season_notes": "Falls within the general Gaafu Dhaalu Atoll surf season, given by blue-horizon.com.mv as best 'early March-April and later October-November'.",
+    "access_notes": "Located on the southwest part of Gaafu Dhaalu Atoll; reached via surf charter/boat trip.",
+    "notes": "Sources: dreamingofmaldives.com, bluestarsurfaris.com ('Blue Bowls, Tiger Stripes, Beacons...'), suddenrush.com, perfectwavetravel.com ('Ayada'). No specific inhabited island was named as adjacent to this break, so nearby_island_name was left null."
+  },
+  {
+    "name": "Castaways",
+    "break_type": null,
+    "atoll_administrative_code": "GDh",
+    "nearby_island_name": null,
+    "difficulty": null,
+    "wave_notes": "An advanced, technical, barrelling right-hander; very shallow, surfable only around high tide when the swell exceeds about 4ft, in front of a small uninhabited ('desert') island (dreamingofmaldives.com, bluestarsurfaris.com). No source in the snippets reviewed used an explicit 'reef break' label for this specific spot (unlike Tiger Stripes and Beacons), so break_type was left null despite the shallow-coral description.",
+    "season_notes": "Falls within the general Gaafu Dhaalu Atoll surf season, given by blue-horizon.com.mv as best 'early March-April and later October-November'.",
+    "access_notes": "Reached via surf charter/boat trip in Gaafu Dhaalu Atoll; tide-dependent access (high tide only).",
+    "notes": "Sources: dreamingofmaldives.com, bluestarsurfaris.com, suddenrush.com. The 'small desert island' mentioned as fronting the break was not named in any source reviewed, and no specific inhabited island from our 193-island dataset could be confidently tied to it, so nearby_island_name was left null."
+  }
+]

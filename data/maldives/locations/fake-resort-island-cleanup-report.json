@@ -1,0 +1,452 @@
+{
+  "generatedAt": "2026-09-24T21:00:14.896Z",
+  "total": 55,
+  "byMethod": {
+    "accommodation": 35,
+    "title": 2,
+    "atoll-fallback": 16,
+    "needs-manual-review": 2
+  },
+  "entries": [
+    {
+      "fakeSlug": "so-maldives",
+      "fakeTitle": "SO/ Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "adaaran-select-hudhuranfushi",
+      "fakeTitle": "Adaaran Select Hudhuranfushi",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "adaaran-club-rannalhi",
+      "fakeTitle": "Adaaran Club Rannalhi",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:rannalhi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "adaaran-prestige-vadoo",
+      "fakeTitle": "Adaaran Prestige Vadoo",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:vadoo",
+      "score": 1
+    },
+    {
+      "fakeSlug": "anantara-dhigu-maldives-resort",
+      "fakeTitle": "Anantara Dhigu Maldives Resort",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:dhigufinolhu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "anantara-veli-maldives-resort",
+      "fakeTitle": "Anantara Veli Maldives Resort",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "bandos-maldives-resort",
+      "fakeTitle": "Bandos Maldives Resort",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:bandos",
+      "score": 1
+    },
+    {
+      "fakeSlug": "banyan-tree-vabbinfaru",
+      "fakeTitle": "Banyan Tree Vabbinfaru",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:vabbinfaru",
+      "score": 1
+    },
+    {
+      "fakeSlug": "biyadhoo-island-resort",
+      "fakeTitle": "Biyadhoo Island Resort",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "como-cocoa-island-maldives",
+      "fakeTitle": "COMO Cocoa Island Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:makunufushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "centara-ras-fushi-resort-spa",
+      "fakeTitle": "Centara Ras Fushi Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "cinnamon-dhonveli-maldives",
+      "fakeTitle": "Cinnamon Dhonveli Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:kanuhuraa",
+      "score": 1
+    },
+    {
+      "fakeSlug": "club-med-finolhu-villas-maldives",
+      "fakeTitle": "Club Med Finolhu Villas Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "coco-bodu-hithi-maldives",
+      "fakeTitle": "Coco Bodu Hithi Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:bodu-hithi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "embudu-village-maldives",
+      "fakeTitle": "Embudu Village Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:embudu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "eriyadu-maldives",
+      "fakeTitle": "Eriyadu Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:eriyadu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "capella-maldives-at-fari-islands",
+      "fakeTitle": "Capella Maldives at Fari Islands",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "title",
+      "resolvedTo": "island:fari-islands",
+      "score": 0.7
+    },
+    {
+      "fakeSlug": "fihalhohi-maldives",
+      "fakeTitle": "Fihalhohi Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "title",
+      "resolvedTo": "island:fihalhohi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "fun-island-maldives",
+      "fakeTitle": "Fun Island Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "grand-park-kodhipparu-maldives",
+      "fakeTitle": "Grand Park Kodhipparu Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:kodhipparu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "hard-rock-hotel-maldives",
+      "fakeTitle": "Hard Rock Hotel Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:akasdhoo",
+      "score": 1
+    },
+    {
+      "fakeSlug": "holiday-inn-resort-kandooma-maldives",
+      "fakeTitle": "Holiday Inn Resort Kandooma Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "huvafen-fushi-maldives",
+      "fakeTitle": "Huvafen Fushi Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:nakatchafushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "jumeirah-olhahali-island-maldives",
+      "fakeTitle": "Jumeirah Olhahali Island Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:olhahali",
+      "score": 1
+    },
+    {
+      "fakeSlug": "kagi-island-maldives-resort-spa",
+      "fakeTitle": "Kagi Island Maldives Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "kurumba-maldives",
+      "fakeTitle": "Kurumba Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:vihamanaafushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "lux-north-male-atoll",
+      "fakeTitle": "LUX* North Male Atoll",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "makunudu-island",
+      "fakeTitle": "Makunudu Island",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:makunudu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "malahini-kuda-bandos",
+      "fakeTitle": "Malahini Kuda Bandos",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:kuda-bandos",
+      "score": 1
+    },
+    {
+      "fakeSlug": "the-marina-at-crossroads-maldives",
+      "fakeTitle": "The Marina at CROSSROADS Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "meeru-island-resort-spa",
+      "fakeTitle": "Meeru Island Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:meerufenfushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "oblu-select-lobigili",
+      "fakeTitle": "OBLU SELECT Lobigili",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:lobigili",
+      "score": 1
+    },
+    {
+      "fakeSlug": "oblu-select-sangeli",
+      "fakeTitle": "OBLU SELECT Sangeli",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:sangeli",
+      "score": 1
+    },
+    {
+      "fakeSlug": "oblu-xperience-ailafushi",
+      "fakeTitle": "OBLU XPERIENCE Ailafushi",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:ailafushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "oblu-nature-helengeli-by-sentido",
+      "fakeTitle": "OBLU NATURE Helengeli by SENTIDO",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:helengeli",
+      "score": 0.75
+    },
+    {
+      "fakeSlug": "ozen-life-maadhoo",
+      "fakeTitle": "OZEN LIFE MAADHOO",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:maadhoo",
+      "score": 1
+    },
+    {
+      "fakeSlug": "one-only-reethi-rah",
+      "fakeTitle": "One&Only Reethi Rah",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:reethi-rah",
+      "score": 1
+    },
+    {
+      "fakeSlug": "oaga-art-resort-maldives",
+      "fakeTitle": "Oaga Art Resort Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "ozen-reserve-bolifushi",
+      "fakeTitle": "OZEN RESERVE Bolifushi",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:bolifushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "patina-maldives-fari-islands",
+      "fakeTitle": "Patina Maldives, Fari Islands",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:fari-islands",
+      "score": 1
+    },
+    {
+      "fakeSlug": "saii-lagoon-maldives-curio-collection-by-hilton",
+      "fakeTitle": "SAii Lagoon Maldives, Curio Collection by Hilton",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:embudu-finolhu",
+      "score": 0.7
+    },
+    {
+      "fakeSlug": "sheraton-maldives-full-moon-resort-spa",
+      "fakeTitle": "Sheraton Maldives Full Moon Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:furanafushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "summer-island-maldives",
+      "fakeTitle": "Summer Island Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:ziyaaraifushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "taj-coral-reef-resort-spa",
+      "fakeTitle": "Taj Coral Reef Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:hembadhu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "taj-exotica-resort-spa",
+      "fakeTitle": "Taj Exotica Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:emboodhu-finolhu",
+      "score": 1
+    },
+    {
+      "fakeSlug": "the-ritz-carlton-maldives-fari-islands",
+      "fakeTitle": "The Ritz-Carlton Maldives, Fari Islands",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:fari-islands",
+      "score": 1
+    },
+    {
+      "fakeSlug": "villa-nautica-paradise-island",
+      "fakeTitle": "Villa Nautica Paradise Island",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:lankanfinolhu",
+      "score": 0.7
+    },
+    {
+      "fakeSlug": "waldorf-astoria-maldives-ithaafushi",
+      "fakeTitle": "Waldorf Astoria Maldives Ithaafushi",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:ithaafushi",
+      "score": 1
+    },
+    {
+      "fakeSlug": "centara-mirage-and-grand-island-resort-maldives",
+      "fakeTitle": "Centara Mirage and Grand Island Resort Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "needs-manual-review",
+      "resolvedTo": null,
+      "score": null
+    },
+    {
+      "fakeSlug": "club-med-kani-maldives",
+      "fakeTitle": "Club Med Kani Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "dhawa-ihuru",
+      "fakeTitle": "Dhawa Ihuru",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "hilton-maldives-amingiri-resort-spa",
+      "fakeTitle": "Hilton Maldives Amingiri Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    },
+    {
+      "fakeSlug": "joy-island-maldives",
+      "fakeTitle": "Joy Island Maldives",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "needs-manual-review",
+      "resolvedTo": null,
+      "score": null
+    },
+    {
+      "fakeSlug": "jw-marriott-maldives-resort-spa",
+      "fakeTitle": "JW Marriott Maldives Resort & Spa",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "accommodation",
+      "resolvedTo": "island:vagaru",
+      "score": 0.7
+    },
+    {
+      "fakeSlug": "rosewood-ranfaru-resort",
+      "fakeTitle": "Rosewood Ranfaru Resort",
+      "transferRoutesRepointed": 1,
+      "resolutionMethod": "atoll-fallback",
+      "resolvedTo": "atoll:kaafu",
+      "score": null
+    }
+  ]
+}

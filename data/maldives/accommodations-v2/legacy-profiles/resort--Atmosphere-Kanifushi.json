@@ -1,0 +1,86 @@
+{
+  "folder": "Atmosphere-Kanifushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Atmosphere-Kanifushi/Atmosphere-Kanifushi-Maldives.html",
+  "legacyTitle": "Atmosphere Kanifushi Island Resort Maldives",
+  "legacyH1": "Atmosphere Kanifushi Island Resort Maldives",
+  "metaDescription": "Atmosphere Kanifushi Island is a resort located in Lhaviyani atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "Tm37BJAKfiw",
+  "descriptionParagraphs": [
+    "Escape to a private island retreat surrounded by blue Indian Ocean waves. The island's two kilometres of beach and water homes have expansive living areas with exquisite décor. Our award-winning culinary experiences, along with exceptional service, are sure to impress even the most discriminating traveller, making it a standout among Maldives luxury resorts.",
+    "Our magnificent all-inclusive vacation package promises a relaxed, five-star resort experience. Offering premium wines and spirits, as well as buffet, fine dining, and theme night dining options, as well as a variety of experiences ranging from excursions and sunset fishing to snorkelling and non-motorized water sports.",
+    "A thrilling 35-minute seaplane trip from Malé's International Airport takes you to the beautiful Kanifushi Island. The island is about 2 kilometres long and 90 metres broad, and it is covered with lush tropical flora and natural coral reefs. Kanifushi's atmosphere will enchant you with its white sandy beaches, swaying palm trees, and lush tropical gardens. As the sun shines over the blue lake, time stands still. Under crystal pure waters, magical regions await exploration. Choose how you want to spend your days.",
+    "Atmosphere For guest solitude, Kanifushi Maldives provides 132 independent villas and suites separated by a few metres of tropical flora. All villas offer immediate access to the immaculate white beach and the stunning blue lagoon beyond, and are bordered by some of the region's tallest coconut palms and lush tropical flora.",
+    "Kanifushi Island, located in the sparsely populated Lhaviyani Atoll, is roughly 2 km long and 90 metres broad, with beautiful green palm trees and blooming tropical flora surrounded by a big natural coral reef."
+  ],
+  "rooms": [
+    {
+      "name": "Sunset Beach Villa",
+      "price": 800,
+      "priceInclTax": 851,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Atmosphere-Kanifushi/images/Atmosphere-Kanifushi-Maldives-Beach-VIlla.webp",
+        "/resorts/Atmosphere-Kanifushi/images/Atmosphere-Kanifushi-Maldives-Beach-VIlla1.webp"
+      ]
+    },
+    {
+      "name": "Sunset Pool Villa",
+      "price": 1000,
+      "priceInclTax": 1083,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Atmosphere-Kanifushi/images/Atmosphere-Kanifushi-Maldives-pool-VIlla.webp",
+        "/resorts/Atmosphere-Kanifushi/images/Atmosphere-Kanifushi-Maldives-pool-VIlla1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 875,
+      "priceInclTax": 933,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Atmosphere-Kanifushi/images/Atmosphere-Kanifushi-Maldives-water-VIlla.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Atmosphere-Kanifushi/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Atmosphere-Kanifushi-Maldives-Beach-VIlla.webp",
+    "Atmosphere-Kanifushi-Maldives-Beach-VIlla1.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Beach.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Resort-playground.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Resort-pool.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Resort-spa.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Resort.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-Sea.webp",
+    "Atmosphere-Kanifushi-Maldives-Island-map.webp",
+    "Atmosphere-Kanifushi-Maldives-Island.webp",
+    "Atmosphere-Kanifushi-Maldives-pool-VIlla.webp",
+    "Atmosphere-Kanifushi-Maldives-pool-VIlla1.webp",
+    "Atmosphere-Kanifushi-Maldives-water-VIlla.webp",
+    "Atmosphere-Kanifushi-Maldives.webp",
+    "Maldives-Island-Resort-Atmosphere-Kanifushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Lh"
+}

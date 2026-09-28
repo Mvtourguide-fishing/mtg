@@ -1,0 +1,91 @@
+{
+  "folder": "Emerald-Maldives",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Emerald-Maldives/Emerald-Maldives-Resort-and-Spa.html",
+  "legacyTitle": "Emerald Maldives Resort & Spa Island Resort Maldives",
+  "legacyH1": "Emerald Maldives Resort & Spa Fasmendhoo",
+  "metaDescription": "Emerald Maldives Resort & Spa is a resort located in Raa atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "C5NRgq0L8_8",
+  "descriptionParagraphs": [
+    "Welcome to the Emerald Maldives Resort & Spa, a new 5-star Deluxe All-Inclusive Resort and proud member of The Leading Hotels of the World. The Resort combines tropical nature with modern design, creating atmospheres of natural and informal elegance, offering the ideal backdrop for guests to construct fresh and memorable experiences.",
+    "The spacious Beach Villas have a private garden outside the bathroom, a bedroom, and covered and open patios to relax on after a long day in Paradise.",
+    "The Beach Villas with Pool have a private pool in the private garden right outside the bathroom, as well as a bedroom and covered and open patios, allowing guests to be rewarded by a refreshing and quiet moment whenever they choose.",
+    "The Water Villas, which are directly on the pier and overlook the turquoise saltwater, provide a bedroom with a bathroom and a walk-in closet, as well as a terrace with a view of the sea.",
+    "The Emerald Maldives Resort & Spa has 120 luxury villas with modern and tropical elements, separated into 60 beach villas and 60 overwater villas. Not to add that more than half of the Villas will have their own private pool and Jacuzzi.",
+    "Fasmendhoo is an island in Raa Atoll, in the Maldives' North West area. A breathtaking seaplane trip from Male will take 40 minutes, or you may take a 30-minute domestic flight to Ifuru Domestic Airport, where guests will enjoy a 15-minute speedboat ride to Emerald Maldives Resort. Guests will be able to conveniently connect with their intercontinental flights in the evening thanks to the domestic flight option."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 770,
+      "priceInclTax": 810,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Beach-Villa.webp",
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 944,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 800,
+      "priceInclTax": 861,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Water-Villa.webp",
+        "/resorts/Emerald-Maldives/images/Emerald-Maldives-Island-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Emerald-Maldives/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "Emerald-Maldives-Island-Resort-Beach-Pool-Villa-1.webp",
+    "Emerald-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+    "Emerald-Maldives-Island-Resort-Beach-Pool-Villa1.webp",
+    "Emerald-Maldives-Island-Resort-Beach-Villa.webp",
+    "Emerald-Maldives-Island-Resort-Beach-Villa1.webp",
+    "Emerald-Maldives-Island-Resort-Restaurant.webp",
+    "Emerald-Maldives-Island-Resort-Water-Villa.webp",
+    "Emerald-Maldives-Island-Resort-Water-Villa1.webp",
+    "Emerald-Maldives-Island-Resort.webp",
+    "Emerald-Maldives-Resort-Island-1.webp",
+    "Emerald-Maldives-Resort-Island.webp",
+    "Emerald-Maldives-Resort-and-Spa-Fasmendhoo.webp",
+    "Emerald-Maldives-Resort-and-Spa-Island-map.webp",
+    "Emerald-Maldives-Resort-and-Spa-Pool.webp",
+    "Emerald-Maldives-Resort-and-Spa-kids-area.webp",
+    "Emerald-Maldives-Resort-and-Spa.webp",
+    "Emerald-Maldives-Resort-pool.webp",
+    "Emerald-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

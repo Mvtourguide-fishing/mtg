@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-09-20T16:55:49.083Z",
+  "note": "Task 16 §25. 'High-value' here means high internal-link count within the legacy site itself (no Search Console export exists in this repository — confirmed absent, see legacy-url-inventory.json's own note).",
+  "totalLegacyUrls": 1037,
+  "keep": 1,
+  "redirect": 316,
+  "consolidate": 12,
+  "retire": 418,
+  "review": 290,
+  "chainIssuesFound": 0,
+  "highValueThreshold": 50,
+  "highValueTotal": 395,
+  "highValueMapped": 206,
+  "highValueUnmapped": 189,
+  "byType": {
+    "diving": {
+      "total": 54,
+      "keep": 0,
+      "redirect": 4,
+      "consolidate": 0,
+      "retire": 0,
+      "review": 50
+    },
+    "transfer": {
+      "total": 88,
+      "keep": 0,
+      "redirect": 72,
+      "consolidate": 0,
+      "retire": 3,
+      "review": 13
+    },
+    "map": {
+      "total": 11,
+      "keep": 0,
+      "redirect": 5,
+      "consolidate": 6,
+      "retire": 0,
+      "review": 0
+    },
+    "article": {
+      "total": 48,
+      "keep": 0,
+      "redirect": 41,
+      "consolidate": 1,
+      "retire": 0,
+      "review": 6
+    },
+    "accommodation": {
+      "total": 501,
+      "keep": 0,
+      "redirect": 3,
+      "consolidate": 5,
+      "retire": 342,
+      "review": 151
+    },
+    "other": {
+      "total": 23,
+      "keep": 0,
+      "redirect": 0,
+      "consolidate": 0,
+      "retire": 14,
+      "review": 9
+    },
+    "fishing": {
+      "total": 19,
+      "keep": 0,
+      "redirect": 0,
+      "consolidate": 0,
+      "retire": 2,
+      "review": 17
+    },
+    "surfing": {
+      "total": 1,
+      "keep": 0,
+      "redirect": 0,
+      "consolidate": 0,
+      "retire": 0,
+      "review": 1
+    },
+    "location": {
+      "total": 221,
+      "keep": 1,
+      "redirect": 191,
+      "consolidate": 0,
+      "retire": 7,
+      "review": 22
+    },
+    "package": {
+      "total": 64,
+      "keep": 0,
+      "redirect": 0,
+      "consolidate": 0,
+      "retire": 43,
+      "review": 21
+    },
+    "shopping": {
+      "total": 7,
+      "keep": 0,
+      "redirect": 0,
+      "consolidate": 0,
+      "retire": 7,
+      "review": 0
+    }
+  }
+}

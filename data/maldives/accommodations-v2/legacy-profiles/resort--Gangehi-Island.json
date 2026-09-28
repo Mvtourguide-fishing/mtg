@@ -1,0 +1,71 @@
+{
+  "folder": "Gangehi-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Gangehi-Island/Gangehi-Island-Resort-Maldives.html",
+  "legacyTitle": "Gangehi Island Resort Maldives",
+  "legacyH1": "Gangehi Island Resort Maldives",
+  "metaDescription": "Gangehi Maldives Island is a resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "m3ixdDDUZU4",
+  "descriptionParagraphs": [
+    "Discover a beautiful and serene island with rich flora and white sandy beaches, a spectacular and one-of-a-kind location on the planet. The island is a jewel of white sand and coconut trees surrounded by a crystal clear water, protected by its coral reef. Enjoy our gorgeous Overwater Villas, dine at our two restaurants, or unwind in the Ginger Spa. Gangehi Island Resort is the ideal destination for a fantasy Maldives vacation.",
+    "Our cosy and useful Club Rooms are designed with teak wood and provide a tranquil view of the garden. Every room has its own private balcony where you may unwind.",
+    "Our Overwater Villas in the Maldives give you the impression of waking up every day on the sea. All of the apartments are warmly decorated with teak wood and provide a fantastic view of the sunset and the magnificent lagoon. They consist of one spacious room and a stone bathroom."
+  ],
+  "rooms": [
+    {
+      "name": "Club Room",
+      "price": 220,
+      "priceInclTax": 254,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Gangehi-Island/images/Gangehi-Island-Resort-Club-room.webp",
+        "/resorts/Gangehi-Island/images/Gangehi-Island-Resort-Club-room1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 500,
+      "priceInclTax": 570,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Gangehi-Island/images/Gangehi-Island-Resort-Over-Water-VIlla.webp",
+        "/resorts/Gangehi-Island/images/Gangehi-Island-Resort-Over-Water-VIlla1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Gangehi-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Gangehi-Island-Maldives.webp",
+    "Gangehi-Island-Resort-Ari-Atoll.webp",
+    "Gangehi-Island-Resort-Beach-Activities.webp",
+    "Gangehi-Island-Resort-Club-room-Ari-Atoll.webp",
+    "Gangehi-Island-Resort-Club-room.webp",
+    "Gangehi-Island-Resort-Club-room1.webp",
+    "Gangehi-Island-Resort-Dinner.webp",
+    "Gangehi-Island-Resort-Maldives-map.webp",
+    "Gangehi-Island-Resort-Maldives.webp",
+    "Gangehi-Island-Resort-Over-Water-VIlla.webp",
+    "Gangehi-Island-Resort-Over-Water-VIlla1.webp",
+    "Gangehi-Island-Resort-Snorkeling.webp",
+    "Gangehi-Island-Resort-Spa.webp",
+    "Gangehi-Island-Resort-Sunset.webp",
+    "Gangehi-Island-Resort.webp"
+  ],
+  "atollConfidence": "ambiguousOnly",
+  "resolvedAtollCode": null
+}

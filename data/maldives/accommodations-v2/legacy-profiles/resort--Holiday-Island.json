@@ -1,0 +1,62 @@
+{
+  "folder": "Holiday-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Holiday-Island/Holiday-Island-Resort-Maldives.html",
+  "legacyTitle": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+  "legacyH1": "Four Seasons Maldives Private Island at Voavah Resort Maldives",
+  "metaDescription": "Four Seasons Maldives Private Island at Voavah is a resort located in Baa Atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 540,
+      "priceInclTax": 687,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Sunset Pool Villa",
+      "price": 739,
+      "priceInclTax": 923,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 775,
+      "priceInclTax": 968,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/sample/island.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Holiday-Island/images",
+  "imageCount": 1,
+  "imageFiles": [
+    "Holiday-Island-Resort-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "B"
+}

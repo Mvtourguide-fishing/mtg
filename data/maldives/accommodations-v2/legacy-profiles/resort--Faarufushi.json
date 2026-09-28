@@ -1,0 +1,67 @@
+{
+  "folder": "Faarufushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Faarufushi/Faarufushi-Island-Maldives.html",
+  "legacyTitle": "Emerald Faarufushi Island Resort Maldives",
+  "legacyH1": "Emerald Faarufushi Island Resort Maldives",
+  "metaDescription": "Emerald Faarufushi Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "_WWq9VYHs5I",
+  "descriptionParagraphs": [
+    "Welcome to the Emerald Faarufushi Resort & Spa, a new 5-star Deluxe All-Inclusive Resort and a proud member of The Leading Hotels of the World, where tropical landscapes and swaying palm trees welcome you to a refined fusion of nature and indulgence, creating an enchanting atmosphere of barefoot elegance. The resort is located in the Raa Atoll, in the northern part of the Maldives archipelago, on a beautiful private 7-hectare island with 1.2 kilometres of white sandy beach, and it is surrounded by a stunning 100-hectare lagoon with one of the Maldivian ecosystem's finest coral reefs.",
+    "Emerald Faarufushi was created with the discriminating visitor in mind, and it distinguishes out for its simple yet modern architecture, real cultural experiences, and precisely perfected services that defy pretence. The island has 80 magnificent homes divided into six types, including 38 beach villas and 42 overwater villas.",
+    "The Beach Villas include an own furnished terrace and an open-air bathroom. Clean lines, subdued wood tones, and delicate pastel accents characterise this elegantly modest building. Access to a covered timber deck bordered by greenery with views of the sea.",
+    "The Beach Villas with Pool give direct access to the white-sand beach of Emerald Faarufushi. Views that reach all the way to the horizon. Every morning, the view is front and centre thanks to the vaulted ceilings, simple décor, and floor-to-ceiling windows. The finishing touch is a private plunge pool between the front entrance and the sea. They also have a private infinity pool, a large closet, an air-conditioned bathroom, and a private covered terrace with lounge chairs.",
+    "The Water Villas with Pool are located along the jetty of Emerald Faarufushi. Because they are all about the vista, they are completed in warm wood tones and large glass. Whether you're relaxing in the tub, swimming in the pool, or spreading out on the terrace. Take it all in. They have a private infinity pool, a large closet, an air-conditioned bathroom, and a private covered terrace with lounge chairs.",
+    "All homes were developed with the purpose of blending in with the surrounding nature and have a simple, elegant style that integrates natural materials of stone and wood. The villas are luxuriously understated: sleek, contemporary, and delectably soothing. All 80 villas are meticulously curated havens with a stunning Indian Ocean view, perched either on the white sandy beach or immediately on the ocean. Flat satellite TVs, king size mattresses, walk-in and \"under the stars\" bathrooms, baths, ample closets, room-controlled air conditioning, and high-speed Wi-Fi are among the thoughtful pleasures. Seventy of the villas have their own private pool overlooking the ocean."
+  ],
+  "rooms": [
+    {
+      "name": "Ocean Retreat With Pool",
+      "price": 775,
+      "priceInclTax": 968,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Faarufushi/images/Emerald-Faarufushi-Maldives-Ocean-Retreat-Pool-Villa.webp",
+        "/resorts/Faarufushi/images/Emerald-Faarufushi-Maldives-Ocean-Retreat-Pool-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Faarufushi/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "Emerald-Faarufushi-Maldives-Activities.webp",
+    "Emerald-Faarufushi-Maldives-Beach-Bugalow.webp",
+    "Emerald-Faarufushi-Maldives-Beach-Bugalow1.webp",
+    "Emerald-Faarufushi-Maldives-Beach-Pool-Villa.webp",
+    "Emerald-Faarufushi-Maldives-Beach-Pool-Villa1.webp",
+    "Emerald-Faarufushi-Maldives-Beach-Resort.webp",
+    "Emerald-Faarufushi-Maldives-Beach.webp",
+    "Emerald-Faarufushi-Maldives-Island-Raa-Atoll.webp",
+    "Emerald-Faarufushi-Maldives-Island.webp",
+    "Emerald-Faarufushi-Maldives-Ocean-Retreat-Pool-Villa.webp",
+    "Emerald-Faarufushi-Maldives-Ocean-Retreat-Pool-Villa1.webp",
+    "Emerald-Faarufushi-Maldives-Pool.webp",
+    "Emerald-Faarufushi-Maldives-Raa-Atoll.webp",
+    "Emerald-Faarufushi-Maldives-Restaurant.webp",
+    "Emerald-Faarufushi-Maldives-Snorkeling.webp",
+    "Emerald-Faarufushi-Maldives-Spa.webp",
+    "Emerald-Faarufushi-Maldives.webp",
+    "Faarufushi-Island-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

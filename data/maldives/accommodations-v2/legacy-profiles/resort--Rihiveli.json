@@ -1,0 +1,35 @@
+{
+  "folder": "Rihiveli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Rihiveli/Rihiveli-Maldives.html",
+  "legacyTitle": "Rihiveli Maldives",
+  "legacyH1": "Rihiveli Maldives",
+  "metaDescription": "Rihiveli Maldives Private Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "kaafu south male"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [
+    "Enjoy being outside, whether on the beach or on your private balcony. Do you want to get a tan, listen to fantastic music, dive among the magnificent aquatic life, or drink your favourite cocktail? Rihiveli Maldives Resort offers the finest of what the Maldives has to offer in a barefoot island environment. Allow yourself to truly appreciate the Maldives' unparalleled and one-of-a-kind beauty.",
+    "Charming bungalows with a sea view (sunrise or sunset side), wonderfully covered by palm palms, keeping the rooms cool.",
+    "The island is located in the Kaafu South Male atoll, 43 kilometres from the airport, and can be accessed by speed boat in 50 minutes.",
+    "Serene, light, and airy beach settings to start or end the day; to enjoy healthy flavours in an interactive presentation of many cuisines and innovative meals enhanced with local flavours and tropical tones. Relax, sip, savour, and enjoy yourself every day.",
+    "After a day of relaxing on Voavah's magnificent coasts, treat yourself to a customised treatment at the Ocean of Consciousness - the island's unique Spa. Our signature treatment, which includes breath preparation, a salt-and-crystal scrub, a bath soak, an awakening massage, and a fully immersive sound bath, harnesses the unlimited power of sound to connect you to the layers of awakened wisdom both inside and outside of you.",
+    "At Voavah, there are no neighbours, no paparazzi, and no limits on what you may do. Continue the music all night and commemorate a major milestone with a well-known performer. Make your own mini-Woodstock or Coachella on the beach, organise an incredible island-wide proposal trail, or turn the island into a wedding fantasy."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Rihiveli/images",
+  "imageCount": 0,
+  "imageFiles": [],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

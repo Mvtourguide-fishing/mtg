@@ -1,0 +1,51 @@
+{
+  "folder": "Kandima",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Kandima/Kandima-Maldives.html",
+  "legacyTitle": "Kandima Maldives Island Resort",
+  "legacyH1": "Kandima Maldives Island Resort",
+  "metaDescription": "Kandima Maldives Island is a resort located in DHaalu Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Dh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "yUpZcB6oe_A",
+  "descriptionParagraphs": [
+    "KWelcome to one of the world's most beautiful islands: a UNESCO Biosphere Reserve wilderness where iridescent blues, jungle greens, and bright whites collide with innovation, conservation, and health. Snorkel with manta rays in aquarium-like waters, help sea turtles at our Marine Discovery Centre, relax at AyurMa, and eat at Blu Beach Club. Kandima Maldives is more than simply a vacation; it's a way of life! Experience this new game-changing location, which features 264 elegantly built apartments and villas, 10 amazing eating establishments, and a plethora of fun-filled activities. This very sophisticated resort welcomes visitors of all ages and income levels, including families, couples, groups of friends, and honeymooners. Kandima Maldives provides something for everyone, whether you're looking for a romance holiday, aquatic adventures, fitness activities, spa escapes, or just family time. The island, located in the Dhaalu Atoll, is only a thirty-minute flight from Velana International Airport, followed by a twenty-minute boat journey to this very elegant island.",
+    "Welcome to your own cool and elegant hideaway. Take in the breathtaking view of Kandima's huge lagoon from above the treetops, or just walk to the shore. Do you require extra space? We have 8 Two-Bedroom Family Sky Suites that are joined by a lounge space and are ideal for groups of friends or families that want to stay near together. That's what we mean by \"home away from home.\"",
+    "Do you need some sea rehabilitation? These villas are perched overwater and have direct access to the lagoon, making them ideal for those looking for the ultimate overwater vacation. The private sundeck with sun loungers and a bathroom give a stunning view of Kandima's expansive lagoon. Your daily \"vitamin sea\" dosage is assured.",
+    "Our 264 apartments and villas are not just elegantly pleasant, but also intelligent! Our apartments and villas are anything from average, with tech-savvy amenities, service at your fingertips, and bright and airy décor. Even if you're miles from anything, you can stay connected with free Wi-Fi.",
+    "Kandima Maldives is located on one of the Maldives' most secluded atolls. Only 7 of the atoll's 57 islands are inhabited, making Dhaalu atoll one of the country's most pristine places.",
+    "This trendy beach house on the beach with indoor and outdoor seating provides informal dining by day and sophisticated trademark dining on the beach by night. Enjoy an unlimited variety of Mediterranean cuisine, seafood, tapas, steaks, oven-baked pizzas, and great wines from our cellar. With a wide garden area, this restaurant is ideal for hosting outdoor gala dinner events for bigger parties or gatherings of family and friends."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Kandima/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Kandima-Maldives-Dhaalu-Atoll.webp",
+    "Kandima-Maldives-Island-Luxury-Resort-Dhaalu-Atoll.webp",
+    "Kandima-Maldives-Island-Luxury-Resort.webp",
+    "Kandima-Maldives-Island-Resort-Activities.webp",
+    "Kandima-Maldives-Island-Resort-Aqua-Villa.webp",
+    "Kandima-Maldives-Island-Resort-Aqua-Villa1.webp",
+    "Kandima-Maldives-Island-Resort-Beach-Dinner.webp",
+    "Kandima-Maldives-Island-Resort-Beach.webp",
+    "Kandima-Maldives-Island-Resort-Kids-Zone.webp",
+    "Kandima-Maldives-Island-Resort-Pool.webp",
+    "Kandima-Maldives-Island-Resort-Sky-Studio.webp",
+    "Kandima-Maldives-Island-Resort-Sky-Studio1.webp",
+    "Kandima-Maldives-Island-Resort-Spa.webp",
+    "Kandima-Maldives-Island.webp",
+    "Kandima-Maldives-Resort.webp",
+    "Kandima-Maldives.webp",
+    "Kandima-Maldivesi-Island-map.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "Dh"
+}

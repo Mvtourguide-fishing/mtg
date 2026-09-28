@@ -1,0 +1,88 @@
+{
+  "folder": "OZEN-LIFE-MAADHOO",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/OZEN-LIFE-MAADHOO/OZEN-LIFE-MAADHOO-Maldives.html",
+  "legacyTitle": "Ozen Life Maadhoo Maldives Island Resort",
+  "legacyH1": "Ozen Life Maadhoo Maldives Island Resort",
+  "metaDescription": "Ozen Life Maadhoo Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "UYUayGwigOI",
+  "descriptionParagraphs": [
+    "The first OZEN resort, a favourite among Maldives 5 star resorts, OZEN LIFE MAADHOO, is a serene palm-painted paradise of luxury located in the beautiful turquoise colours of South Malé Atoll. The resort provides exciting experiences and a dynamic island lifestyle, with 94 tastefully built villas and one unique Residence. An exquisite Maldives stay combines all the characteristics of an ultra-luxe vacation, from underwater dining at M6m to adrenaline ocean excursions.",
+    "Elegant, vibrant, and inviting. The Earth Villas are a cheerful and small beach holiday property. Bask in the assurance of Refined Elegance at these 185m2 stand-alone villas, which have a beautiful tropical garden that opens onto a relaxing, white, fine sandy beach and blue ocean waves. A balmy island atmosphere is created by high-pitched roofs, massive panoramic windows, open spaces, and trendy interiors done up in warm and bright colours. Each villa features a large sun terrace as well as a large outdoor bathroom with a handmade bathtub and a monsoon shower—a wonderfully refreshing vacation!",
+    "The Earth Villas with Pool is a Maldives villa that has all of the facilities of the Earth Villas as well as two more features for an even more luxurious vacation! The first is a 20-square-metre infinity pool with ambient underwater lighting. The other is stunning lagoon views, complete with a front-row ticket to the Maldivian sunset!",
+    "New, romantic, and inspiring! There are 24 charming 112 m2 Wind Villas located along the lagoon to the north of Maadhoo Island. They are built on stilts over the ocean and offer ultimate island life, which is often described as pleasant, romantic, and inspirational. Their stylish tropical décor and exquisite interiors provide a welcoming living place. The beautiful facilities, complete with free-standing elliptical bathtubs and unobstructed views of the horizon, provide for a profoundly pleasurable experience.",
+    "OZEN LIFE MAADHOO has 90 private villas in 6 categories, positioned overwater and beachfront, as well as a luxury superyacht. Each villa has its own private pool as well as direct beach or lagoon access. They provide visitors with the ultimate in luxury in massive vacation homes in the most beautiful places on the island. The opulent architecture, premium facilities, and exclusive services provide guests with an out-of-this-world experience.",
+    "Maadhoo Island is located in a remote area of the South Malé atoll. The island is reached by a 40-minute speedboat journey from Velana International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Earth Villa",
+      "price": 1150,
+      "priceInclTax": 1170,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Earth-Villa.webp",
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Earth-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Earth Pool Villa",
+      "price": 1400,
+      "priceInclTax": 1460,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Earth-Villa-Pool.webp",
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Earth-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Wind Villa",
+      "price": 1120,
+      "priceInclTax": 1223,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Wind-Villa.webp",
+        "/resorts/OZEN-LIFE-MAADHOO/images/OZEN-LIFE-MAADHOO-Maldives-Wind-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/OZEN-LIFE-MAADHOO/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "OZEN-LIFE-MAADHOO-Island.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Earth-Villa-Pool.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Earth-Villa-Pool1.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Earth-Villa.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Earth-Villa1.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Island-map.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Pool.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Spa.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Under-Water-Restaurant-South-Male-Atoll.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Under-Water-Restaurant.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Water-Sports.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Wind-Villa.webp",
+    "OZEN-LIFE-MAADHOO-Maldives-Wind-Villa1.webp",
+    "OZEN-LIFE-MAADHOO-Maldives.webp",
+    "OZEN-LIFE-MAADHOO-Resort-Maldives-Beach.webp",
+    "OZEN-LIFE-MAADHOO-South-Male-Atoll.webp",
+    "OZEN-LIFE-MAADHOO.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

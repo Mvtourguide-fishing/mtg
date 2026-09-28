@@ -1,0 +1,77 @@
+{
+  "folder": "Movenpick",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Movenpick/Movenpick-Resort-Kuredhivaru-Maldives.html",
+  "legacyTitle": "Movenpick Resort Kuredhivaru Maldives Resort",
+  "legacyH1": "Movenpick Resort Kuredhivaru Maldives Resort",
+  "metaDescription": "Movenpick Resort Kuredhivaru Maldives is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "N"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "hEpEZxGW_Js",
+  "descriptionParagraphs": [
+    "The Mövenpick Resort Kuredhivaru Maldives is a beautiful refuge and tropical paradise located in the unspoiled Noonu Atoll. Our 5 star luxury beach resort is located 45 minutes north of Male International Airport. In each of the 72 overwater pool villas, 30 beach pool suites, and three beach spa pool homes, you may relax in your own private plunge pool.",
+    "Mövenpick Resort Kuredhivaru Maldives' restaurants brilliantly mix gourmet delights with breathtaking views of the Maldives. You may treat yourself and your loved one endlessly throughout your relaxed vacation with us in the Maldives, from a seafood fine dining experience to a private romantic candlelit meal on the beach.",
+    "Feel the sand between your toes as you walk along the powder-white beaches and explore the plethora of colourful marine life that the Indian Ocean has to offer. Enjoy delicious food at three restaurants and a refreshing drink at our bar while admiring the breathtaking views of the Indian Ocean. Relax at the Healing Earth Sun Spa, redirect your energy with yoga, and let your kids play at the Little Birds Club. Allow us to tailor-make a very distinctive Maldives experience for you during your stay at Mövenpick Resort Kuredhivaru Maldives.",
+    "This home is surrounded by beautiful nature and is located right close to a white-sand beach. Relax by your own infinity pool or relax in a swinging chair outdoors. Enjoy the stunning Maldivian reef, as well as free Chocolate Hours, snorkelling equipment, and non-motorized watersports.",
+    "Our over water villas with see-through floors provide lagoon views and are located over the turquoise lagoon. Open the glass doors and dive into your infinity-edge pool. Daily Chocolate Hours, unlimited water, snorkelling equipment, and non-motorized water activities are all available.",
+    "Mövenpick Resort boasts a modern design with an emphasis on comfortable accommodations and a secluded, yet dynamic resort experience. Every modern convenience is integrated with the desert-island luxury, reflecting Mövenpick's famous devotion to authentic comforts provided extremely well."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Suite",
+      "price": 1000,
+      "priceInclTax": 1069,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Movenpick/images/Movenpick-Resort-Kuredhivaru-Maldives-Over-Beach-pool-suite-deluxe.webp",
+        "/resorts/Movenpick/images/Movenpick-Resort-Kuredhivaru-Maldives-Over-Beach-pool-suite-deluxe1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Pool Lagoon",
+      "price": 800,
+      "priceInclTax": 836,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Movenpick/images/Movenpick-Resort-Kuredhivaru-Maldives-Over-water-pool-villa.webp",
+        "/resorts/Movenpick/images/Movenpick-Resort-Kuredhivaru-Maldives-Over-water-pool-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Movenpick/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Movenpick-Resort-Kuredhivaru-Maldives-Banana-Ride.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Beach.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Noonu-Atoll.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Over-Beach-pool-suite-deluxe.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Over-Beach-pool-suite-deluxe1.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Over-water-pool-villa.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Over-water-pool-villa1.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Pool.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Restaurant.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Rooms.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Spa.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Welness-Noonu-Atoll.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-Welness.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-fiver-star-hotel.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives-map.webp",
+    "Movenpick-Resort-Kuredhivaru-Maldives.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

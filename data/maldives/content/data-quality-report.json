@@ -1,0 +1,4868 @@
+{
+  "generatedAt": "2026-09-20T12:59:17.563Z",
+  "note": "Read-only Task 14 data-quality summary. Nothing here was deleted or modified — it's an input to human review, same as media-match-report.json and article-migration-report.json.",
+  "pages": {
+    "totalClassified": 1037,
+    "emptyOrThinCount": 0,
+    "emptyOrThinPages": [],
+    "byContentSubType": {
+      "content-page": 22,
+      "partner-recruitment": 4,
+      "generic-template-marketing": 12,
+      "booking-form-widget": 40,
+      "structured-listing": 74
+    }
+  },
+  "duplicateTitles": {
+    "groupCount": 18,
+    "totalDuplicatePages": 425,
+    "groups": [
+      {
+        "title": "booking form",
+        "count": 386,
+        "sourceFiles": [
+          "hotels/Amra-Palace/Amra-Palace-Deluxe-Room-booking.html",
+          "hotels/Amra-Palace/Amra-Palace-Superior-Room-booking.html",
+          "hotels/arena-maafushi/arena-beach-hotel-double-seaview-room-booking.html",
+          "hotels/arena-maafushi/arena-beach-hotel-room-booking.html",
+          "hotels/arena-maafushi/arena-beach-hotel-tripple-seaview-room-booking.html",
+          "hotels/casa-retreat/casa-retreat-hotel-room-booking.html",
+          "hotels/crystal-beach/crystal-beach-hotel-room-booking.html",
+          "hotels/gaafaru-view-inn-maldives/gaafaru-view-inn-maldives-room-booking.html",
+          "hotels/island-break-fulidhoo/island-break-coconut-suit-booking.html",
+          "hotels/island-break-fulidhoo/island-break-ground-room-booking.html",
+          "hotels/island-break-fulidhoo/island-break-triple-suit-booking.html",
+          "hotels/island-break-fulidhoo/island-break-twin-suit-booking.html",
+          "hotels/kaanibeach-maafushi/kaani-beach-double-room-booking.html",
+          "hotels/kaanibeach-maafushi/kaani-beach-tripple-room-booking.html",
+          "hotels/maagiri/maagiri-hotel-junior-suit-booking.html",
+          "hotels/maagiri/maagiri-hotel-room-booking.html",
+          "hotels/mantha-view-hotel/mantha-view-hotel-room-booking.html",
+          "hotels/reveries-village/reveries-diving-village-surfandSpa-booking.html",
+          "hotels/rosemery-maafushi/rosemery-hotel-room-booking.html",
+          "hotels/rosemery-maafushi/rosemery-hotel-tripple-room-booking.html",
+          "hotels/surfview-male/surfview-hotel-seaview-room-booking.html",
+          "hotels/surfview-male/surfview-hotel-superior-room-booking.html",
+          "images/tours/dolphin-excursion-male-atoll-activities.html",
+          "images/tours/fullday-excursion-male-atoll-activities.html",
+          "images/tours/island-hopping-male-atoll-activities.html",
+          "images/tours/nurse-shark-snorkeling-male-atoll-activities.html",
+          "images/tours/sandbank-and-snorkeling-male-atoll-activities.html",
+          "images/tours/stingray-snorkeling-male-atoll-activities.html",
+          "images/tours/vaavu-excursion-male-atoll-activities.html",
+          "resorts/Aaaveee-Natures-Paradise/aaaveee-natures-paradise-beach-villa-booking.html",
+          "resorts/Aaaveee-Natures-Paradise/aaaveee-natures-paradise-deck-villa-booking.html",
+          "resorts/Adaaran-Hudhuranfushi/Adaaran-Select-Hudhuran-Fushi-beach-villa-booking.html",
+          "resorts/Adaaran-Hudhuranfushi/Adaaran-Select-Hudhuran-Fushi-water-villa-booking.html",
+          "resorts/Adaaran-Select/Adaaran-Select-Meedhupparu-Maldives-beach-villa-booking.html",
+          "resorts/Adaaran-Select/Adaaran-Select-Meedhupparu-Maldives-water-villa-booking.html",
+          "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-beach-villa-booking.html",
+          "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-pool-villa-booking.html",
+          "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-water-villa-booking.html",
+          "resorts/Alila-Kothaifaru/Alila-Kothaifaru-beach-villa-booking.html",
+          "resorts/Alila-Kothaifaru/Alila-Kothaifaru-water-villa-booking.html",
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-villa-booking.html",
+          "resorts/Alimathaa/Alimathaa-Maldives-water-villa-booking.html",
+          "resorts/Amari-Havodda/Amari-Havodda-beach-villa-booking.html",
+          "resorts/Amari-Havodda/Amari-Havodda-pool-villa-booking.html",
+          "resorts/Amari-Havodda/Amari-Havodda-water-villa-booking.html",
+          "resorts/Amaya-Resort/Amaya-Resort-Kuda-Rah-beach-pool-villa-booking.html",
+          "resorts/Amaya-Resort/Amaya-Resort-Kuda-Rah-water-villa-booking.html",
+          "resorts/Amilla-Fushi/Amilla-Fushi-beach-pool-villa-booking.html",
+          "resorts/Amilla-Fushi/Amilla-Fushi-water-villa-booking.html",
+          "resorts/Angaga-Island/Angaga-Island-beach-villa-booking.html",
+          "resorts/Angaga-Island/Angaga-Island-water-villa-booking.html",
+          "resorts/Angsana-Velavaru/Angsana-Velavaru-beach-pool-villa-booking.html",
+          "resorts/Angsana-Velavaru/Angsana-Velavaru-beach-villa-booking.html",
+          "resorts/Angsana-Velavaru/Angsana-Velavaru-water-villa-booking.html",
+          "resorts/Atmosphere-Kanifushi/Atmosphere-Kanifushi-beach-pool-villa-booking.html",
+          "resorts/Atmosphere-Kanifushi/Atmosphere-Kanifushi-beach-villa-booking.html",
+          "resorts/Atmosphere-Kanifushi/Atmosphere-Kanifushi-water-villa-booking.html",
+          "resorts/Ayada/Ayada-Maldives-beach-pool-villa-booking.html",
+          "resorts/Ayada/Ayada-Maldives-beach-villa-booking.html",
+          "resorts/Ayada/Ayada-Maldives-water-villa-booking.html",
+          "resorts/Baglioni-Resort/Baglioni-beach-villa-booking.html",
+          "resorts/Baglioni-Resort/Baglioni-water-villa-booking.html",
+          "resorts/Bandos-Island/Bandos-Island-beach-pool-villa-booking.html",
+          "resorts/Bandos-Island/Bandos-Island-beach-villa-booking.html",
+          "resorts/Bandos-Island/Bandos-Island-water-villa-booking.html",
+          "resorts/Banyan-Tree/Banyan-Tree-Vabbinfaru-beach-pool-villa-booking.html",
+          "resorts/Baros-Island/Baros-Island-beach-villa-booking.html",
+          "resorts/Baros-Island/Baros-Island-water-villa-booking.html",
+          "resorts/COMO-Cocoa/COMO-Cocoa-Island-Dhoni-water-villa-booking.html",
+          "resorts/COMO-Cocoa/COMO-Cocoa-Island-water-villa-booking.html",
+          "resorts/COMO-Maalifushi/COMO-Maalifushi-Water-Suite-booking.html",
+          "resorts/COMO-Maalifushi/COMO-Maalifushi-beach-suite-booking.html",
+          "resorts/Cinnamon-Dhonveli/Cinnamon-Dhonveli-beach-villa-booking.html",
+          "resorts/Cinnamon-Dhonveli/Cinnamon-Dhonveli-water-villa-booking.html",
+          "resorts/Cinnamon-Hakuraa/Cinnamon-Hakuraa-beach-villa-booking.html",
+          "resorts/Cinnamon-Hakuraa/Cinnamon-Hakuraa-water-villa-booking.html",
+          "resorts/Cinnamon-Velifushi/Cinnamon-Velifushi-beach-villa-booking.html",
+          "resorts/Cinnamon-Velifushi/Cinnamon-Velifushi-water-villa-booking.html",
+          "resorts/Coco-Bodu-Hithi/Coco-Bodu-Hithi-Island-villa-booking.html",
+          "resorts/Coco-Bodu-Hithi/Coco-Bodu-Hithi-water-villa-booking.html",
+          "resorts/Cocogiri-Island/Cocogiri-Island-beach-pool-villa-booking.html",
+          "resorts/Cocogiri-Island/Cocogiri-Island-beach-villa-booking.html",
+          "resorts/Cocogiri-Island/Cocogiri-Island-water-villa-booking.html",
+          "resorts/Cocoon/Cocoon-Maldives-beach-villa-booking.html",
+          "resorts/Cocoon/Cocoon-Maldives-water-villa-booking.html",
+          "resorts/Conrad-Rangali/Conrad-Maldives-beach-villa-booking.html",
+          "resorts/Conrad-Rangali/Conrad-Maldives-water-villa-booking.html",
+          "resorts/Cora-Cora/Cora-Cora-Maldives-beach-pool-villa-booking.html",
+          "resorts/Cora-Cora/Cora-Cora-Maldives-beach-villa-booking.html",
+          "resorts/Cora-Cora/Cora-Cora-Maldives-water-villa-booking.html",
+          "resorts/Dhigali/Dhigali-Maldives-beach-bungalow-booking.html",
+          "resorts/Dhigali/Dhigali-Maldives-beach-pool-villa-booking.html",
+          "resorts/Dhigali/Dhigali-Maldives-water-villa-booking.html",
+          "resorts/Dhiggiri/Nakai-Dhiggiri-beach-villa-booking.html",
+          "resorts/Dhiggiri/Nakai-Dhiggiri-water-villa-booking.html",
+          "resorts/Dhigufaru-Island/Dhigufaru-Island-beach-pool-villa-booking.html",
+          "resorts/Dhigufaru-Island/Dhigufaru-Island-beach-villa-booking.html",
+          "resorts/Dhigufaru-Island/Dhigufaru-Island-water-villa-booking.html",
+          "resorts/Diamonds-Thudufushi/Diamonds-Thudufushi-beach-villa-booking.html",
+          "resorts/Diamonds-Thudufushi/Diamonds-Thudufushi-water-villa-booking.html",
+          "resorts/Dusit-Thani/Dusit-Thani-beach-pool-villa-booking.html",
+          "resorts/Dusit-Thani/Dusit-Thani-beach-villa-booking.html",
+          "resorts/Dusit-Thani/Dusit-Thani-water-villa-booking.html",
+          "resorts/Emerald-Maldives/Emerald-Maldives-beach-pool-villa-booking.html",
+          "resorts/Emerald-Maldives/Emerald-Maldives-beach-villa-booking.html",
+          "resorts/Emerald-Maldives/Emerald-Maldives-water-villa-booking.html",
+          "resorts/Eriyadu-Island/Eriyadu-Island-beach-villa-booking.html",
+          "resorts/Faarufushi/Faarufushi-Island-beach-pool-villa-booking.html",
+          "resorts/Faarufushi/Faarufushi-Island-beach-villa-booking.html",
+          "resorts/Faarufushi/Faarufushi-Island-water-villa-booking.html",
+          "resorts/Fairmont/Fairmont-Maldives-beach-pool-villa-booking.html",
+          "resorts/Fairmont/Fairmont-Maldives-beach-villa-booking.html",
+          "resorts/Fairmont/Fairmont-Maldives-water-villa-booking.html",
+          "resorts/Filitheyo-Island/Filitheyo-Island-beach-villa-booking.html",
+          "resorts/Filitheyo-Island/Filitheyo-Island-water-villa-booking.html",
+          "resorts/Finolhu/Finolhu-Maldives-Lagoon-villa-booking.html",
+          "resorts/Finolhu/Finolhu-Maldives-beach-pool-villa-booking.html",
+          "resorts/Finolhu/Finolhu-Maldives-beach-villa-booking.html",
+          "resorts/Four-Seasons-Giraavaru/Four-Seasons-Landaa-Giraavaru-beach-pool-villa-booking.html",
+          "resorts/Four-Seasons-Giraavaru/Four-Seasons-Landaa-Giraavaru-water-villa-booking.html",
+          "resorts/Four-Seasons-Huraa/Four-Seasons-Huraa-beach-pool-villa-booking.html",
+          "resorts/Four-Seasons-Huraa/Four-Seasons-Huraa-water-villa-booking.html",
+          "resorts/Four-Seasons-Voavah/Four-Seasons-Voavah-beach-pool-villa-booking.html",
+          "resorts/Four-Seasons-Voavah/Four-Seasons-Voavah-beach-villa-booking.html",
+          "resorts/Four-Seasons-Voavah/Four-Seasons-Voavah-water-villa-booking.html",
+          "resorts/Fun-Island/Fun-Island-beach-villa-booking.html",
+          "resorts/Furaveri/Furaveri-Maldives-Water-villa-booking.html",
+          "resorts/Furaveri/Furaveri-Maldives-beach-pool-villa-booking.html",
+          "resorts/Furaveri/Furaveri-Maldives-beach-villa-booking.html",
+          "resorts/Fushifaru/Fushifaru-Maldives-Water-villa-booking.html",
+          "resorts/Fushifaru/Fushifaru-Maldives-beach-pool-villa-booking.html",
+          "resorts/Fushifaru/Fushifaru-Maldives-beach-villa-booking.html",
+          "resorts/Gangehi-Island/Gangehi-Island-Resort-Lagoon-villa-booking.html",
+          "resorts/Gangehi-Island/Gangehi-Island-Resort-beach-villa-booking.html",
+          "resorts/Gili-Lankanfushi/Gili-Lankanfushi-Lagoon-villa-booking.html",
+          "resorts/Gili-Lankanfushi/Gili-Lankanfushi-family-villa-booking.html",
+          "resorts/Gili-Lankanfushi/Gili-Lankanfushi-villa-suite-booking.html",
+          "resorts/Grand-Park-Kodhipparu/Grand-Park-Kodhipparu-Ocean-Water-villa-booking.html",
+          "resorts/Grand-Park-Kodhipparu/Grand-Park-Kodhipparu-beach-pool-villa-booking.html",
+          "resorts/Hard-Rock-Hotel/Hard-Rock-beach-villa-booking.html",
+          "resorts/Hard-Rock-Hotel/Hard-Rock-water-villa-booking.html",
+          "resorts/Heritance-Aarah/Heritance-Aarah-Ocean-villa-booking.html",
+          "resorts/Heritance-Aarah/Heritance-Aarah-beach-pool-villa-booking.html",
+          "resorts/Heritance-Aarah/Heritance-Aarah-beach-villa-booking.html",
+          "resorts/Hideaway-Beach/Hideaway-Beach-beach-pool-villa-booking.html",
+          "resorts/Hideaway-Beach/Hideaway-Beach-beach-villa-booking.html",
+          "resorts/Hideaway-Beach/Hideaway-Beach-water-villa-booking.html",
+          "resorts/Holiday-Island/Holiday-Island-Resort-beach-pool-villa-booking.html",
+          "resorts/Holiday-Island/Holiday-Island-Resort-beach-villa-booking.html",
+          "resorts/Holiday-Island/Holiday-Island-Resort-water-villa-booking.html",
+          "resorts/Hotel-Riu/Hotel-Riu-Palace-Junior-Suite-beach-booking.html",
+          "resorts/Hotel-Riu/Hotel-Riu-Palace-Overwater-Suite-booking.html",
+          "resorts/Hurawalhi-Island/Hurawalhi-Island-Ocean-Bungalow-booking.html",
+          "resorts/Hurawalhi-Island/Hurawalhi-Island-beach--bungalow-pool-booking.html",
+          "resorts/Innahura/Innahura-Maldives-beach-villa-booking.html",
+          "resorts/InterContinental/InterContinental-Maldives-beach-pool-villa-booking.html",
+          "resorts/InterContinental/InterContinental-Maldives-water-villa-booking.html",
+          "resorts/JA-Manafaru/JA-Manafaru-Maldives-Water-villa-booking.html",
+          "resorts/JA-Manafaru/JA-Manafaru-Maldivess-beach-pool-villa-booking.html",
+          "resorts/JOALI/JOALI-Maldives-Water-Villa-Pool-booking.html",
+          "resorts/JOALI/JOALI-Maldives-beach-pool-villa-booking.html",
+          "resorts/JW-Marriott/JW-Marriott-Beach-Pool-Villa-booking.html",
+          "resorts/JW-Marriott/JW-Marriott-Water-Villa-Pool-booking.html",
+          "resorts/Jumeirah-Olhahali/Jumeirah-Olhahali-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Jumeirah-Olhahali/Jumeirah-Olhahali-Maldives-Water-Villa-Pool-booking.html",
+          "resorts/Kandima/Kandima-Maldives-Sky-Villa-booking.html",
+          "resorts/Kandima/Kandima-Maldives-Water-Villa-booking.html",
+          "resorts/Kandolhu/Kandolhu-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Kandolhu/Kandolhu-Maldives-Beach-Villa-booking.html",
+          "resorts/Kandolhu/Kandolhu-Maldives-Water-Villa-booking.html",
+          "resorts/Komandoo-Island/Komandoo-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Komandoo-Island/Komandoo-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Kudadoo/Kudadoo-Maldives-Ocean-Pool-Residence-booking.html",
+          "resorts/Kurumba/Kurumba-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Kurumba/Kurumba-Maldives-Superior-Room-booking.html",
+          "resorts/LUX-South/LUX-South-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/LUX-South/LUX-South-Maldives-Beach-Villa-booking.html",
+          "resorts/LUX-South/LUX-South-Maldives-Water-Villa-booking.html",
+          "resorts/Lily-beach/Lily-beach-Lagoon-Villa-booking.html",
+          "resorts/Lily-beach/Lily-beach-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Lily-beach/Lily-beach-Maldives-Beach-Villa-booking.html",
+          "resorts/Maayafushi/Maayafushi-Maldives-Beach-Villa-booking.html",
+          "resorts/Maayafushi/Maayafushi-Maldives-Water-Villa-booking.html",
+          "resorts/Makunudu-Island/Makunudu-Island-Maldives-Beach-Bungalow-booking.html",
+          "resorts/Malahini-Kuda-Bandos/Malahini-Kuda-Bandos-Maldives-Dluxe-Room-booking.html",
+          "resorts/Medhufushi-Island/Medhufushi-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Medhufushi-Island/Medhufushi-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Meeru-Island/Meeru-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Meeru-Island/Meeru-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Milaidhoo/Milaidhoo-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Milaidhoo/Milaidhoo-Maldives-Water-Villa-booking.html",
+          "resorts/Mirihi-Island/Mirihi-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Mirihi-Island/Mirihi-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Movenpick/Movenpick-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Movenpick/Movenpick-Maldives-Water-Pool-Villa-booking.html",
+          "resorts/Nika-Island/Nika-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Nika-Island/Nika-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Noku/Noku-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Noku/Noku-Maldives-Beach-Villa-booking.html",
+          "resorts/Noku/Noku-Maldives-Water-Villa-booking.html",
+          "resorts/Nova/Nova-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Nova/Nova-Maldives-Beach-Villa-booking.html",
+          "resorts/Nova/Nova-Maldives-Water-Villa-booking.html",
+          "resorts/OBLU-NATURE-Helengeli/OBLU-NATURE-Maldives-Beach-Villa-booking.html",
+          "resorts/OBLU-NATURE-Helengeli/OBLU-NATURE-Maldives-Water-Villa-booking.html",
+          "resorts/OBLU-SELECT-Lobigili/OBLU-SELECT-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/OBLU-SELECT-Lobigili/OBLU-SELECT-Maldives-Water-Villa-booking.html",
+          "resorts/OBLU-SELECT-Sangeli/OBLU-SELECT-Sangeli-Beach-Pool-Villa-booking.html",
+          "resorts/OBLU-SELECT-Sangeli/OBLU-SELECT-Sangeli-Beach-Villa-booking.html",
+          "resorts/OBLU-SELECT-Sangeli/OBLU-SELECT-Sangeli-Water-Villa-booking.html",
+          "resorts/OBLU-XPERIENCE-Ailafushi/OBLU-XPERIENCE-Maldives-Beach-Villa-booking.html",
+          "resorts/OBLU-XPERIENCE-Ailafushi/OBLU-XPERIENCE-Maldives-Water-Villa-booking.html",
+          "resorts/OZEN-LIFE-MAADHOO/OZEN-MAADHOO-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/OZEN-LIFE-MAADHOO/OZEN-MAADHOO-Maldives-Beach-Villa-booking.html",
+          "resorts/OZEN-LIFE-MAADHOO/OZEN-MAADHOO-Maldives-Water-Villa-booking.html",
+          "resorts/One-and-Only/One-and-Only-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/One-and-Only/One-and-Only-Maldives-Beach-Villa-booking.html",
+          "resorts/One-and-Only/One-and-Only-Maldives-Water-Villa-booking.html",
+          "resorts/Outrigger-Konotta/Outrigger-Konotta-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Outrigger-Konotta/Outrigger-Konotta-Maldives-Water-Villa-booking.html",
+          "resorts/Outrigger-Maafushivaru/Outrigger-Maafushivaru-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Outrigger-Maafushivaru/Outrigger-Maafushivaru-Maldives-Beach-Villa-booking.html",
+          "resorts/Outrigger-Maafushivaru/Outrigger-Maafushivaru-Maldives-Water-Villa-booking.html",
+          "resorts/Ozen-Reserve-Bolifushi/Ozen-Reserve-Bolifushi-Earth-Pool-Villa-booking.html",
+          "resorts/Ozen-Reserve-Bolifushi/Ozen-Reserve-Bolifushi-Ocean-Pool-Suite-booking.html",
+          "resorts/Palm-Beach/Palm-Beach-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Palm-Beach/Palm-Beach-Maldives-Beach-Villa-booking.html",
+          "resorts/Palm-Beach/Palm-Beach-Maldives-Water-Villa-booking.html",
+          "resorts/Park-Hyatt/Park-Hyatt-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Park-Hyatt/Park-Hyatt-Maldives-Beach-Villa-booking.html",
+          "resorts/Park-Hyatt/Park-Hyatt-Maldives-Water-Villa-booking.html",
+          "resorts/Patina-Maldives/Patina-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Patina-Maldives/Patina-Maldives-Water-Villa-booking.html",
+          "resorts/Pullman/Pullman-Maldives-Aqua-Villa-booking.html",
+          "resorts/Pullman/Pullman-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Pullman/Pullman-Maldives-Beach-Villa-booking.html",
+          "resorts/Pullman/Pullman-Maldives-Ocean-Villa-booking.html",
+          "resorts/Radisson-Blu/Radisson-Blu-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Radisson-Blu/Radisson-Blu-Maldives-Water-Pool-Villa-booking.html",
+          "resorts/Raffles/Raffles-Maldives-Beach-Villa-booking.html",
+          "resorts/Raffles/Raffles-Maldives-Water-Villa-booking.html",
+          "resorts/Rahaa-Resort/Rahaa-Resort-Maldives-Ocean-View-Villa-booking.html",
+          "resorts/Reethi-Beach/Reethi-Beach-Maldives-Deluxe-Villa-booking.html",
+          "resorts/Reethi-Beach/Reethi-Beach-Maldives-Water-Villa-booking.html",
+          "resorts/Reethi-Faru/Reethi-Faru-Maldives-Beach-Villa-booking.html",
+          "resorts/Reethi-Faru/Reethi-Faru-Maldives-Water-Villa-booking.html",
+          "resorts/Residence-Dhigurah/Residence-Dhigurah-Beach-Pool-Villa-booking.html",
+          "resorts/Residence-Dhigurah/Residence-Dhigurah-Lagoon-Villa-booking.html",
+          "resorts/Residence-Falhumaafushi/Residence-Falhumaafushi-Beach-Pool-Villa-booking.html",
+          "resorts/Residence-Falhumaafushi/Residence-Falhumaafushi-Beach-Villa-booking.html",
+          "resorts/Residence-Falhumaafushi/Residence-Falhumaafushi-Water-Villa-booking.html",
+          "resorts/Rihiveli/Rihiveli-booking.html",
+          "resorts/Robinson-Club/Robinson-Club-Noonu-Maldives-Beach-Bungalow-booking.html",
+          "resorts/Robinson-Club/Robinson-Club-Noonu-Maldives-Deluxe-room-booking.html",
+          "resorts/Robinson-Club/Robinson-Club-Noonu-Maldives-Water-Pool-Bungalow-booking.html",
+          "resorts/Robinson-Maldives/Robinson-Maldives-Beach-Villa-booking.html",
+          "resorts/Robinson-Maldives/Robinson-Maldives-Lagoon-Villa-booking.html",
+          "resorts/Royal-Island/Royal-Island-Maldives-Beach-Family-Pool-Villa-booking.html",
+          "resorts/Royal-Island/Royal-Island-Maldives-Beach-Family-Villa-booking.html",
+          "resorts/Royal-Island/Royal-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/SAii-Lagoon/SAii-Lagoon-Maldives-Sky-Room-booking.html",
+          "resorts/SAii-Lagoon/SAii-Lagoon-Maldives-Water-Villa-booking.html",
+          "resorts/Safari-Island/safari-island-Maldives-Beach-Villa-booking.html",
+          "resorts/Safari-Island/safari-island-Maldives-Water-Villa-booking.html",
+          "resorts/Sheraton/Sheraton-Maldives-Beach-Villa-booking.html",
+          "resorts/Sheraton/Sheraton-Maldives-Water-Villa-booking.html",
+          "resorts/Six-Senses-Kanuhura/Six-Senses-Kanuhura-beach-pool-villa-booking.html",
+          "resorts/Six-Senses-Kanuhura/Six-Senses-Kanuhura-beach-villa-booking.html",
+          "resorts/Six-Senses-Kanuhura/Six-Senses-Kanuhura-water-villa-booking.html",
+          "resorts/Six-Senses-Laamu/Six-Senses-Laamu-Beach-Pool-Villa-booking.html",
+          "resorts/Six-Senses-Laamu/Six-Senses-Laamu-Water-Villa-booking.html",
+          "resorts/Siyam-World/Siyam-World-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Siyam-World/Siyam-World-Maldives-Lagoon-Villa-booking.html",
+          "resorts/Soneva-Fushi/Soneva-Fushi-Crusoe-Villa-Pool-booking.html",
+          "resorts/Soneva-Fushi/Soneva-Fushi-Three-Besdroom-Pool-Residence-booking.html",
+          "resorts/Soneva-Fushi/Soneva-Fushi-one-Bedroom-Water-Retreat-Slide-booking.html",
+          "resorts/Soneva-Jani/Soneva-Jani-One-Bedroom-Water-Retreat-Slide-booking.html",
+          "resorts/Soneva-Jani/Soneva-Jani-Three-Bedroom-Island-Reserve-Pool-Slide-booking.html",
+          "resorts/South-Palm/South-Palm-Maldives-Beach-Villa-booking.html",
+          "resorts/South-Palm/South-Palm-Maldives-Water-Villa-booking.html",
+          "resorts/Sun-Island/Sun-Island-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Sun-Island/Sun-Island-Maldives-Beach-Villa-booking.html",
+          "resorts/Sun-Island/Sun-Island-Maldives-Water-Villa-booking.html",
+          "resorts/Sun-Siyam-IruVeli/Sun-Siyam-IruVeli-Family-Suite-Pool-booking.html",
+          "resorts/Sun-Siyam-IruVeli/Sun-Siyam-IruVeliDolphin-Suite-booking.html",
+          "resorts/Sun-Siyam-Olhuveli/Sun-Siyam-Olhuveli-Garden-Villa-booking.html",
+          "resorts/Sun-Siyam-Olhuveli/Sun-Siyam-Olhuveli-Maldives-Water-Villa-booking.html",
+          "resorts/Sun-Siyam-ViluReef/Sun-Siyam-ViluReef-Aqua-Villa-booking.html",
+          "resorts/Sun-Siyam-ViluReef/Sun-Siyam-ViluReef-Beach-Villa-booking.html",
+          "resorts/Taj-Coral-Reef/Taj-Coral-Reef-Beach-Villa-booking.html",
+          "resorts/Taj-Coral-Reef/Taj-Coral-Reef-Water-Villa-booking.html",
+          "resorts/Taj-Exotica/Taj-Exotica-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Taj-Exotica/Taj-Exotica-Maldives-Water-Villa-booking.html",
+          "resorts/The-Ritz-Carlton/ritz-carlton-fari-island-beach-pool-villa-booking.html",
+          "resorts/The-Ritz-Carlton/ritz-carlton-fari-island-ocean-pool-villa-bookin.html",
+          "resorts/VARU-Atmosphere/VARU-by-Atmosphere-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/VARU-Atmosphere/VARU-by-Atmosphere-Maldives-Water-Villa-booking.html",
+          "resorts/Vakarufalhi/Vakarufalhi-Maldives-Beach-Villa-booking.html",
+          "resorts/Vakarufalhi/Vakarufalhi-Maldives-Water-Villa-booking.html",
+          "resorts/Vakkaru/Vakkaru-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Vakkaru/Vakkaru-Maldives-Water-Villa-booking.html",
+          "resorts/Velassaru/Velassaru-Maldives-Beach-Pool-Villa-booking.html",
+          "resorts/Velassaru/Velassaru-Maldives-Beach-Villa-booking.html",
+          "resorts/Velassaru/Velassaru-Maldives-Water-Villa-booking.html",
+          "resorts/Veligandu-Island/Veligandu-Island-Beach-Villa-booking.html",
+          "resorts/Veligandu-Island/Veligandu-Island-Water-Villa-booking.html",
+          "resorts/Vilamendhoo-Island/Vilamendhoo-Island-Beach-Villa-booking.html",
+          "resorts/Vilamendhoo-Island/Vilamendhoo-Island-Water-Villa-booking.html",
+          "resorts/Waldorf-Astoria/Waldorf-Astoria-Beach-Pool-Villa-booking.html",
+          "resorts/Waldorf-Astoria/Waldorf-Astoria-Water-Villa-Pool-booking.html",
+          "resorts/Westin-Miriandhoo/The-Westin-Miriandhoo-Beach-Pool-Villa-booking.html",
+          "resorts/Westin-Miriandhoo/The-Westin-Miriandhoo-Water-Villa-booking.html",
+          "resorts/You-and-Me/You-and-Me-Maldives-Beach-Suite-Pool-booking.html",
+          "resorts/You-and-Me/You-and-Me-Maldives-Dolphin-Villa-booking.html",
+          "resorts/adaaran-club-rannalhi/adaaran-club-rannalhi-standard-villa-booking.html",
+          "resorts/adaaran-club-rannalhi/adaaran-club-rannalhi-water-bungalow-booking.html",
+          "resorts/anantara-dhigu/anantara-dhigu-beach-pool-villa-booking.html",
+          "resorts/anantara-dhigu/anantara-dhigu-beach-villa-booking.html",
+          "resorts/anantara-dhigu/anantara-dhigu-family-villa-booking.html",
+          "resorts/anantara-dhigu/anantara-dhigu-water-villa-booking.html",
+          "resorts/bookingphp/index.html",
+          "resorts/centara-rasfushi/centara-rasfushi-beach-villa-booking.html",
+          "resorts/centara-rasfushi/centara-rasfushi-deluxe-beach-villa-booking.html",
+          "resorts/centara-rasfushi/centara-rasfushi-water-villa-booking.html",
+          "resorts/embudu-village/embudu-village-beach-room-booking.html",
+          "resorts/embudu-village/embudu-village-water-room-booking.html",
+          "resorts/fihalhohi/fihaalhohi-isand-beach-villa-booking.html",
+          "resorts/fihalhohi/fihaalhohi-isand-water-villa-booking.html",
+          "resorts/huvafenfushi/huvafen-fushi-beach-villa-booking.html",
+          "resorts/huvafenfushi/huvafen-fushi-water-villa-booking.html",
+          "resorts/kuda-Villingili/kuda-Villingili-Beach-Pool-Villa-booking.html",
+          "resorts/kuda-Villingili/kuda-Villingili-Beach-Villa-booking.html",
+          "resorts/kuda-Villingili/kuda-Villingili-Water-Villa-booking.html",
+          "resorts/nautilus/the-nautilus-beach-villa-booking.html",
+          "resorts/nautilus/the-nautilus-water-villa-booking.html",
+          "resorts/paradise/paradise-island-beach-pool-villa-booking.html",
+          "resorts/paradise/paradise-island-beach-villa-booking.html",
+          "resorts/paradise/paradise-island-water-villa-booking.html",
+          "resorts/summer-island/summer-island-beach-villa-booking.html",
+          "resorts/summer-island/summer-island-garden-villa-booking.html",
+          "resorts/summer-island/summer-island-water-villa-booking.html",
+          "resorts/vommuli/st-regis-vommuli-beach-villa-booking.html",
+          "resorts/vommuli/st-regis-vommuli-garden-villa-booking.html",
+          "resorts/vommuli/st-regis-vommuli-water-villa-booking.html",
+          "resorts/w-maldives/w-maldives-beach-villa-booking.html",
+          "resorts/w-maldives/w-maldives-water-villa-booking.html",
+          "tours/Chartered-Fishing-Trip-Booking.html",
+          "tours/Half-Day-Fly-Fishing-Booking.html",
+          "tours/Half-Day-Jigging-Booking.html",
+          "tours/Half-Day-Trolling-Booking.html",
+          "tours/Maldives-Fishing-Holiday-Package-Booking-1.html",
+          "tours/Maldives-Fishing-Holiday-Package-Booking.html",
+          "tours/Maldives-Fishing-Short-Holiday-Package-Booking.html",
+          "tours/activities/fullday-surfing-booking.html",
+          "tours/activities/half-day-surfing-booking.html",
+          "tours/activities/shrot-surfing-booking.html",
+          "tours/activities/shrot-surfing-holiday-booking.html",
+          "tours/activities/surfing-holiday-booking.html",
+          "tours/big-game-fishing-booking.html",
+          "tours/bookingphp/index.html",
+          "tours/car-tour-booking.html",
+          "tours/city-bike-tour-booking.html",
+          "tours/city-walking-tour-booking.html",
+          "tours/dayvisitresort-booking.html",
+          "tours/dolphin-excursion-male-atoll-activities.html",
+          "tours/dolphin-sunset-booking.html",
+          "tours/dolphingandgrill-booking.html",
+          "tours/fishing-trip-booking.html",
+          "tours/fullday-excursion-male-atoll-activities.html",
+          "tours/halfday-bike-tour-booking.html",
+          "tours/halfday-walking-tour-booking.html",
+          "tours/island-hopping-booking.html",
+          "tours/island-hopping-male-atoll-activities.html",
+          "tours/local-islandvisit-booking.html",
+          "tours/maafushi-transfer-booking.html",
+          "tours/sandbank-and-snorkeling-booking-magic - Copy.html",
+          "tours/sandbank-and-snorkeling-booking-magic.html",
+          "tours/sandbanksnorkeling-booking.html",
+          "tours/scuba-diving-booking.html",
+          "tours/snorkeling-booking.html",
+          "tours/stingray-snorkeling-male-atoll-activities.html",
+          "tours/vaavu-excursion-male-atoll-activities.html",
+          "tours/whale-submarine-booking.html",
+          "transfer/bookingphp/index.html",
+          "transfer/new-transfer-booking.html"
+        ]
+      },
+      {
+        "title": "liveaboard partners | maldives tour guide - diving & ocean adventures",
+        "count": 3,
+        "sourceFiles": [
+          "packages/activities.html",
+          "packages/liveaboards.html",
+          "partners/liveaboards.html"
+        ]
+      },
+      {
+        "title": "sample room booking",
+        "count": 3,
+        "sourceFiles": [
+          "resorts/room-booking-old.html",
+          "resorts/room-booking.html",
+          "resorts/transfer-booking.html"
+        ]
+      },
+      {
+        "title": "acitvities booking",
+        "count": 3,
+        "sourceFiles": [
+          "resorts/room-booking2.html",
+          "resorts/sample-booking.html",
+          "tours/maafushi-activity-booking.html"
+        ]
+      },
+      {
+        "title": "book maldives snorkeling, scuba diving and water sports activities",
+        "count": 3,
+        "sourceFiles": [
+          "snorkeling-and-diving-activities-in-maldives.html",
+          "tours/snorkeling-and-diving-activities-in-maldives.html",
+          "transfer/snorkeling-and-diving-activities-in-maldives.html"
+        ]
+      },
+      {
+        "title": "speedboat booking",
+        "count": 3,
+        "sourceFiles": [
+          "transfer/ga-transfer-booking.html",
+          "transfer/speedboat-booking.html",
+          "transfer/transfer-booking.html"
+        ]
+      },
+      {
+        "title": "romantic things to do in the maldives for couples",
+        "count": 2,
+        "sourceFiles": [
+          "articles/things-to-do-in-maldives-for-couples.html",
+          "articles/things-to-do-on-honeymoon.html"
+        ]
+      },
+      {
+        "title": "uligamu island | haa alifu atoll, maldives - authentic island experience",
+        "count": 2,
+        "sourceFiles": [
+          "atolls/haa-alifu-atoll/haa-alifu-uligamu-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-utheemu-island-maldives.html"
+        ]
+      },
+      {
+        "title": "thimarafushi island | thaa atoll, maldives - exceptional local island paradise",
+        "count": 2,
+        "sourceFiles": [
+          "atolls/thaa-atoll/thaa-madifushi-island-maldives.html",
+          "atolls/thaa-atoll/thaa-thimarafushi-island-maldives.html"
+        ]
+      },
+      {
+        "title": "contact us - maldives tour guide pvt ltd",
+        "count": 2,
+        "sourceFiles": [
+          "contact.html",
+          "contact/contact.html"
+        ]
+      },
+      {
+        "title": "one rock dive site | maldives - dramatic rock formation with rich marine life",
+        "count": 2,
+        "sourceFiles": [
+          "diving/one-rock-maldives.html",
+          "fishing/maldives-fishing-techniques.html"
+        ]
+      },
+      {
+        "title": "guesthouse partners | maldives tour guide - join our network",
+        "count": 2,
+        "sourceFiles": [
+          "packages/guesthouses.html",
+          "partners/guesthouses.html"
+        ]
+      },
+      {
+        "title": "package partners | maldives tour guide - tour operators & package providers",
+        "count": 2,
+        "sourceFiles": [
+          "packages/packages.html",
+          "partners/packages.html"
+        ]
+      },
+      {
+        "title": "hotel packages - find your perfect stay",
+        "count": 2,
+        "sourceFiles": [
+          "packages/partner-request.html",
+          "partners/partner-request.html"
+        ]
+      },
+      {
+        "title": "resort partners | maldives tour guide - luxury resort network",
+        "count": 2,
+        "sourceFiles": [
+          "packages/resorts.html",
+          "partners/resorts.html"
+        ]
+      },
+      {
+        "title": "transfer partners | maldives tour guide - transportation services",
+        "count": 2,
+        "sourceFiles": [
+          "packages/transfers.html",
+          "partners/transfers.html"
+        ]
+      },
+      {
+        "title": "four seasons maldives private island at voavah resort maldives",
+        "count": 2,
+        "sourceFiles": [
+          "resorts/Four-Seasons-Voavah/Four-Seasons-Maldives-Private-Island-Voavah.html",
+          "resorts/Holiday-Island/Holiday-Island-Resort-Maldives.html"
+        ]
+      },
+      {
+        "title": "centara ras fushi resort & spa speedboat transfer | male airport - $65 | maldives tour guide",
+        "count": 2,
+        "sourceFiles": [
+          "transfer/Centara-Rasfushi-Maldives-Transfer.html",
+          "transfer/maniafaru-Maldives-Transfer.html"
+        ]
+      }
+    ]
+  },
+  "brokenInternalLinks": {
+    "totalInternalLinksChecked": 139220,
+    "brokenTargetCount": 509,
+    "broken": [
+      {
+        "target": "atolls/vaavu-atoll-maldives.html",
+        "linkedFromCount": 169,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-transportation.html",
+        "linkedFromCount": 168,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/dhaalu-atoll/dhaalu-meedhoo-island-maldives.html",
+          "atolls/dhaalu-atoll/dhaalu-meedhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-bilehdhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-bilehdhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-islands/the-maldives-islands-and-beaches-travel-guide.html",
+        "linkedFromCount": 160,
+        "linkedFromSample": [
+          "atolls/baa-atoll/baa-dhonfanu-island-maldives.html",
+          "atolls/baa-atoll/baa-eydhafushi-island-maldives.html",
+          "atolls/baa-atoll/baa-fulhadhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-hithadhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-kendhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-all-inclusive-resorts.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-water-villas.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/dhaalu-atoll/dhaalu-gemendhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/dhaalu-atoll/dhaalu-rinbudhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/dhaalu-atoll/dhaalu-vaanee-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-dhaandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-dhevvadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-gemanafushi-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-kanduhulhudhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-kolamaafushi-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-kondey-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-maamendhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-nilandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-alifu/gaafu-alifu-villingili-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-fares-maathodaa-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-fiyoaree-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-gadhdhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-hoandeddhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-madaveli-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-nadellaa-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-rathafandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-thinadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu/gaafu-dhaalu-vaadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-baarah-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-dhidhdhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-filladhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-hoarafushi-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-ihavandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-kelaa-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-maarandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-molhadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-muraidhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-thakandhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-thuraakunu-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-uligamu-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu/haa-alifu-vashafaru-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-finey-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-hanimaadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-hirimaradhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-kulhudhuffushi-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-kumundhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-kunburudhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-makunudhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-naivaadhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-nellaidhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-neykurendhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-nolhivaram-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-nolhivaranfaru-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu/haa-dhaalu-vaikaradhoo-island-maldives.html",
+        "linkedFromCount": 159,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/laamu-atoll/laamu-kalaidhoo-island-maldives.html",
+        "linkedFromCount": 150,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-marine-life.html",
+        "linkedFromCount": 79,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-maalhos-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-maalhos-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-ukulhas-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-ukulhas-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-boduberu.html",
+        "linkedFromCount": 77,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhidhdhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhidhdhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu-atoll/seenu-hulhudhoo-island-maldives.html",
+        "linkedFromCount": 64,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu-atoll/seenu-maradhoo-feydhoo-island-maldives.html",
+        "linkedFromCount": 64,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu-atoll/seenu-meedhoo-island-maldives.html",
+        "linkedFromCount": 64,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "packages/maldives-packages.html",
+        "linkedFromCount": 62,
+        "linkedFromSample": [
+          "diving/advance-diving-in-maldives.html",
+          "diving/alimatha-jetty-maldives.html",
+          "diving/bathala-thila-maldives.html",
+          "diving/best-time-to-dive-in-maldives.html",
+          "diving/chaaya-reef-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu-atoll/seenu-maamendhoo-island-maldives.html",
+        "linkedFromCount": 52,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-himmafushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "terms-and-conditions.html",
+        "linkedFromCount": 51,
+        "linkedFromSample": [
+          "transfer/Bandos-Island-Maldives-Transfer.html",
+          "transfer/Banyan-Tree-Vabbinfaru-Maldives-Transfer.html",
+          "transfer/Biyadhoo-Island-Maldives-Transfer.html",
+          "transfer/COMO-Cocoa-Island-Maldives-Transfer.html",
+          "transfer/Centara-Rasfushi-Maldives-Transfer.html"
+        ]
+      },
+      {
+        "target": "packages/index.html",
+        "linkedFromCount": 49,
+        "linkedFromSample": [
+          "packages/business-travel-package.html",
+          "packages/business-travel-package.html",
+          "packages/business-travel-package.html",
+          "packages/business-travel-package.html",
+          "packages/diving-holiday-package.html"
+        ]
+      },
+      {
+        "target": "packages/maldives-diving-packages.html",
+        "linkedFromCount": 44,
+        "linkedFromSample": [
+          "diving/advance-diving-in-maldives.html",
+          "diving/alimatha-jetty-maldives.html",
+          "diving/alimatha-jetty-maldives.html",
+          "diving/banana-reef-maldives.html",
+          "diving/bathala-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-fishing.html",
+        "linkedFromCount": 40,
+        "linkedFromSample": [
+          "articles/maldives-culture.html",
+          "articles/maldives-culture.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "activities.html",
+        "linkedFromCount": 38,
+        "linkedFromSample": [
+          "activities-booking.html",
+          "articles/las-islas-maldivas.html",
+          "articles/las-islas-maldivas.html",
+          "best-travel-agency-in-maldives.html",
+          "hotels/Amra-Palace/Amra-Palace-Hotel-Maldives-Gan-Island.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-booking.html",
+        "linkedFromCount": 33,
+        "linkedFromSample": [
+          "articles/best-things-to-do-in-maldives.html",
+          "articles/things-to-do-in-maldives-for-family.html",
+          "atolls/kaafu-atoll-maldives.html",
+          "atolls/kaafu-atoll-maldives.html",
+          "maldives-capital-male-city.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-food.html",
+        "linkedFromCount": 31,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll/dhaalu-Vaanee-maldives.html",
+          "atolls/dhaalu-atoll/dhaalu-Vaanee-maldives.html",
+          "atolls/dhaalu-atoll/dhaalu-meedhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-bilehdhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-dharanboodhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/meemu-atoll/meemu-madifushi-island-maldives.html",
+        "linkedFromCount": 28,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll/gnaviyani-fuvahmulah-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/nurse-shark-snorkeling-male-atoll-activities.html",
+        "linkedFromCount": 23,
+        "linkedFromSample": [
+          "articles/maldives-accommodation.html",
+          "articles/maldives-accommodation.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-in-april.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-local-islands.html",
+        "linkedFromCount": 22,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-maalhos-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-maalhos-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-thoddoo-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-thoddoo-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-ukulhas-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/lhaviyani-atoll/lhaviyani-maafilaafushi-island-maldives.html",
+        "linkedFromCount": 22,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll/kaafu-dhiffushi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gaafaru-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-gulhi-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-guraidhoo-island-maldives.html",
+          "atolls/kaafu-atoll/kaafu-himmafushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "beautiful-places-in-maldives.html",
+        "linkedFromCount": 21,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/best-beaches-in-maldives.html",
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-accommodation.html",
+          "articles/maldives-huts-on-water.html"
+        ]
+      },
+      {
+        "target": "best-beaches-in-maldives.html",
+        "linkedFromCount": 20,
+        "linkedFromSample": [
+          "articles/maldives-accommodation.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "tours/diving-booking.html",
+        "linkedFromCount": 20,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "maldives-accommodation.html",
+        "linkedFromCount": 17,
+        "linkedFromSample": [
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-august.html"
+        ]
+      },
+      {
+        "target": "maldives-in-may.html",
+        "linkedFromCount": 16,
+        "linkedFromSample": [
+          "articles/maldives-honeymoon-packages.html",
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "maldives-culture.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "atolls/raa-atoll/raa-rasgetheem-island-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "atolls/raa-atoll/raa-alifushi-island-maldives.html",
+          "atolls/raa-atoll/raa-angolhitheemu-island-maldives.html",
+          "atolls/raa-atoll/raa-dhuvaafaru-island-maldives.html",
+          "atolls/raa-atoll/raa-fainu-island-maldives.html",
+          "atolls/raa-atoll/raa-hulhudhuffaaru-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/best-fishing-spots-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fish-species-maldives.html",
+          "fishing/fly-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/fishing-seasons-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fish-species-maldives.html",
+          "fishing/fly-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/fishing-techniques-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fish-species-maldives.html",
+          "fishing/fly-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/fish-species-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fish-species-maldives.html",
+          "fishing/fly-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/fishing-equipment-maldives.html",
+        "linkedFromCount": 15,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fish-species-maldives.html",
+          "fishing/fly-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-huts-on-water.html",
+        "linkedFromCount": 14,
+        "linkedFromSample": [
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu-atoll/haa-alifu-hoarafushi-island-maldives.html",
+        "linkedFromCount": 14,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll/haa-alifu-baarah-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-dhidhdhoo-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-filladhoo-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-hoarafushi-island-maldive.html",
+          "atolls/haa-alifu-atoll/haa-alifu-ihavandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/shaviyani-atoll/shaviyani-noomaraa-island-maldives.html",
+        "linkedFromCount": 14,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll/shaviyani-bileffahi-island-maldives.html",
+          "atolls/shaviyani-atoll/shaviyani-feevah-island-maldives.html",
+          "atolls/shaviyani-atoll/shaviyani-feydhoo-island-maldives.html",
+          "atolls/shaviyani-atoll/shaviyani-foakaidhoo-island-maldives.html",
+          "atolls/shaviyani-atoll/shaviyani-funadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-in-june.html",
+        "linkedFromCount": 13,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-july.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-excursion.html",
+        "linkedFromCount": 13,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping.html",
+        "linkedFromCount": 13,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-dhaalu-atoll/haa-dhaalu-nolhivaran-island-maldives.html",
+        "linkedFromCount": 13,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-finey-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-hanimaadhoo-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-hirimaradhoo-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-kulhudhuffushi-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-kumundhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/noonu-atoll/noonu-fodhdhoo-island-maldives.html",
+        "linkedFromCount": 13,
+        "linkedFromSample": [
+          "atolls/noonu-atoll/noonu-foddhoo-island-maldives.html",
+          "atolls/noonu-atoll/noonu-henbandhoo-island-maldives.html",
+          "atolls/noonu-atoll/noonu-holhudhoo-island-maldives.html",
+          "atolls/noonu-atoll/noonu-kendhikolhudhoo-island-maldives.html",
+          "atolls/noonu-atoll/noonu-kudafari-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-in-november.html",
+        "linkedFromCount": 11,
+        "linkedFromSample": [
+          "articles/adults-only-maldives.html",
+          "articles/best-maldives-resorts-for-couples.html",
+          "articles/maldives-honeymoon-packages.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "maldives-in-july.html",
+        "linkedFromCount": 11,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "tours/surfing-booking.html",
+        "linkedFromCount": 11,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-july.html",
+          "articles/maldives-in-july.html"
+        ]
+      },
+      {
+        "target": "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-vadhoo-island-maldives.html",
+        "linkedFromCount": 11,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-faresmaathodaa-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-fiyoaree-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-gadhdhoo-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-hoandedhdhoo-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-madaveli-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-diving-spots.html",
+        "linkedFromCount": 10,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-july.html"
+        ]
+      },
+      {
+        "target": "maldives-in-september.html",
+        "linkedFromCount": 10,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "maldives-in-august.html",
+        "linkedFromCount": 10,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "maldives-in-december.html",
+        "linkedFromCount": 9,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html",
+          "articles/maldives-in-april.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "maldives-in-october.html",
+        "linkedFromCount": 9,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "tours/dolphin-cruise.html",
+        "linkedFromCount": 9,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "diving/packages/specialty-dive-experiences-package.html",
+        "linkedFromCount": 9,
+        "linkedFromSample": [
+          "diving/packages/budget-dive-adventure-package.html",
+          "diving/packages/classic-maldives-route-liveaboard-package.html",
+          "diving/packages/deep-south-expedition-liveaboard-package.html",
+          "diving/packages/local-island-dive-week-package.html",
+          "diving/packages/manta-whale-shark-safari-liveaboard-package.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-cruise.html",
+        "linkedFromCount": 7,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "maldives-in-april.html",
+        "linkedFromCount": 7,
+        "linkedFromSample": [
+          "articles/maldives-in-july.html",
+          "articles/maldives-in-june.html",
+          "articles/maldives-in-june.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-may.html"
+        ]
+      },
+      {
+        "target": "partners/diving-holiday-package.html",
+        "linkedFromCount": 7,
+        "linkedFromSample": [
+          "packages/fishing-holiday-package.html",
+          "packages/liveaboard-safari-package.html",
+          "packages/longstay-holiday-package.html",
+          "packages/multi-island-package.html",
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "maldives-in-february.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "articles/adults-only-maldives.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "resorts/Conrad-Rangali/Conrad-Maldives-Rangali-Island-Resort.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-july.html",
+          "articles/maldives-in-june.html",
+          "articles/maldives-in-may.html",
+          "articles/maldives-in-october.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "maldives-in-january.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "diving/villingili-coral-garden-maldives.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "diving/best-time-to-dive-in-maldives.html",
+          "diving/best-time-to-dive-in-maldives.html",
+          "diving/local-island-diving-in-maldives.html",
+          "diving/maldives-diving-for-beginners.html",
+          "diving/maldives-diving-seasons.html"
+        ]
+      },
+      {
+        "target": "fishing/fishing-in-maldives.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fly-fishing-maldives.html",
+          "fishing/navigation.html"
+        ]
+      },
+      {
+        "target": "fishing/types-of-fishing-in-maldives.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html",
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/fly-fishing-maldives.html",
+          "fishing/navigation.html"
+        ]
+      },
+      {
+        "target": "tours/snorkelingdolphing-booking.html",
+        "linkedFromCount": 6,
+        "linkedFromSample": [
+          "snorkeling-and-diving-activities-in-maldives.html",
+          "snorkeling-and-diving-activities-in-maldives.html",
+          "tours/snorkeling-and-diving-activities-in-maldives.html",
+          "tours/snorkeling-and-diving-activities-in-maldives.html",
+          "transfer/snorkeling-and-diving-activities-in-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-overwater-bungalow.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "articles/Maldives-honeymoons.html",
+          "articles/Maldives-honeymoons.html",
+          "articles/Maldives-honeymoons.html",
+          "articles/Maldives-honeymoons.html",
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "maldives-diving.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-culture.html",
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-in-april.html"
+        ]
+      },
+      {
+        "target": "tours/water-sports-booking.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-surfing-islands-and-resorts.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/HuvafenFushi/HuvafenFushi-Maldives.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "resorts/Royal-Island/Royal-Island-Maldives-Beach-Family-Pool-Villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "resorts/Standard-Huruvalhi/The-Standard-Huruvalhi-Maldives.html",
+        "linkedFromCount": 5,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "resorts/Royal-Island/Royal-Island-Maldives-Beach-Family-Pool-Villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "tours/manta-ray-snorkeling.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-september.html",
+          "articles/maldives-in-september.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-history.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-himandhoo-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-himandhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-kendhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-kendhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/ramadan-in-maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhidhdhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-omadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/whale-sharks-in-maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-domestic-airports.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-southern-atolls.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-nadella-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-nadella-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-thinadhoo-island-maldives.html",
+          "atolls/gaafu-dhaalu-atoll/gaafu-dhaalu-thinadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-ecosystems.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll/haa-alifu-kelaa-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-kelaa-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-naivaadhoo-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-naivaadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing-in-maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "atolls/laamu-atoll/laamu-maavah-island-maldives.html",
+          "atolls/laamu-atoll/laamu-maavah-island-maldives.html",
+          "atolls/vaavu-atoll/vaavu-keyodhoo-island-maldives.html",
+          "atolls/vaavu-atoll/vaavu-keyodhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-liveaboard-diving.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "diving/cocoa-thila-maldives.html",
+          "diving/fesdhoo-wreck-maldives.html",
+          "diving/whale-shark-point-maldives.html",
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-capital-male.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "diving/local-island-diving-in-maldives.html",
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/nassimo-thila-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu/seenu-gan-island-maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "partners/surfing-holiday-package.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "packages/fishing-holiday-package.html",
+          "packages/liveaboard-safari-package.html",
+          "packages/longstay-holiday-package.html",
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "resorts/LUX-North/LUX-North-Male-Maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "resorts/Maafushivaru/Maafushivaru-Maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "resorts/Maayafushi/Maayafushi-Island-Resort-Maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "resorts/Mushimas-Migili/Mushimas-Migili-Maldives.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "resorts/Alimathaa/Alimathaa-Maldives-beach-pool-villa-booking.html",
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "tours/marina-day-visit-booking.html",
+        "linkedFromCount": 4,
+        "linkedFromSample": [
+          "snorkeling-and-diving-activities-in-maldives.html",
+          "snorkeling-and-diving-activities-in-maldives.html",
+          "transfer/snorkeling-and-diving-activities-in-maldives.html",
+          "transfer/snorkeling-and-diving-activities-in-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-diving.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "articles/beautiful-places-in-maldives.html",
+          "articles/beautiful-places-in-maldives.html",
+          "articles/beautiful-places-in-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-activities.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-culture.html"
+        ]
+      },
+      {
+        "target": "articles/the-maldives-country.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "articles/las-islas-maldivas.html",
+          "videos/index.html",
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "tours/romantic-dinner.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "tours/spa-treatments.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-march.html",
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-marine-protected-areas.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/baa-atoll/baa-eidhafushi-island-maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "atolls/baa-atoll/baa-dharavandhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-fehendhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-fehendhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Filitheyo-Island-Resort/Filitheyo-Island-Resort-Maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "atolls/faafu-atoll/faafu-bilehdhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-dharanboodhoo-island-maldives.html",
+          "atolls/faafu-atoll/faafu-nilandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/haa-alifu-atoll/haa-alifu-maalhos-island-maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll/haa-alifu-baarah-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-mulhadhoo-island-maldives.html",
+          "atolls/haa-alifu-atoll/haa-alifu-thuraakunu-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/kaafu/kaafu-male-island-maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "diving/alimatha-jetty-maldives.html",
+          "diving/banana-reef-maldives.html",
+          "diving/banana-reef-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/kaafu-atoll/kaafu-male-island-maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "diving/cocoa-thila-maldives.html",
+          "diving/fesdhoo-wreck-maldives.html",
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/ari-atoll-maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "diving/maldives-marine-life-guide.html",
+          "diving/maldives-marine-life-guide.html",
+          "diving/maldives-marine-life-guide.html"
+        ]
+      },
+      {
+        "target": "diving/maldives-diving-day-trips.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "diving/nassimo-thila-maldives.html",
+          "diving/one-rock-maldives.html",
+          "fishing/maldives-fishing-techniques.html"
+        ]
+      },
+      {
+        "target": "tours/Popping-Fishing-Booking.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "maldives-fishing-trips.html",
+          "maldives-fishing-trips.html",
+          "maldives-fishing-trips.html"
+        ]
+      },
+      {
+        "target": "packages/business-district-retreat.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "packages/family-holiday-package.html",
+          "packages/solo-traveler-package.html",
+          "packages/wedding-package.html"
+        ]
+      },
+      {
+        "target": "partners/liveaboard-safari-package.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "packages/fishing-holiday-package.html",
+          "packages/multi-island-package.html",
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "partners/maldives-luxury-package.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "packages/multi-island-package.html",
+          "packages/partner-request.html",
+          "packages/surfing-holiday-package.html"
+        ]
+      },
+      {
+        "target": "resorts/Adaaran-Vadoo/Adaaran-Prestige-Vadoo-Maldives-Island.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "resorts/Adaaran-HudhuranFushi/Adaaran-Select-Hudhuran-Fushi-Maldives.html",
+        "linkedFromCount": 3,
+        "linkedFromSample": [
+          "tours/maafushi-activity-booking.html",
+          "tours/maafushi-transfer-booking - Copy.html",
+          "transfer/bookingphp/index.html"
+        ]
+      },
+      {
+        "target": "maldives-family-resorts.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "Maldives-Luxury-Resorts.html",
+          "Maldives-Luxury-Resorts.html"
+        ]
+      },
+      {
+        "target": "maldives-honeymoon.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/Maldives-honeymoons.html",
+          "articles/best-beaches-in-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/conrad-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/Maldives-honeymoons.html",
+          "atolls/alifu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "affordable-maldives-resorts.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/adults-only-maldives.html",
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "maldives-budget-travel.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-in-april.html"
+        ]
+      },
+      {
+        "target": "maldives-transportation.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/best-beaches-in-maldives.html",
+          "articles/maldives-culture.html"
+        ]
+      },
+      {
+        "target": "gili-lankanfushi-review.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html",
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "soneva-jani-review.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html",
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "komandoo-review.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html",
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-at-the-risk-of-sinking.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/maldives-huts-on-water.html",
+          "articles/maldives-huts-on-water.html"
+        ]
+      },
+      {
+        "target": "resorts/Anantara-Kihavah/Anantara-Kihavah-Maldives-Villas.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html",
+          "articles/maldives-in-september.html"
+        ]
+      },
+      {
+        "target": "resorts/Baros/Baros-Maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "maldives-travel-health-tips.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html",
+          "articles/maldives-in-january.html"
+        ]
+      },
+      {
+        "target": "maldives-in-march.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html",
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-water-sports.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-mathiveri-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-mathiveri-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-snorkeling-spots.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-rasdhoo-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-rasdhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-agriculture.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-thoddoo-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-thoddoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-eco-tourism.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-ukulhas-island-maldives.html",
+          "atolls/alifu-alifu/alifu-alifu-ukulhas-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaallu/alifu-dhaalu-mahibadhoo-island-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-hangnaameedhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaallu/alifu-dhaalu-dhigurah-island-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-hangnaameedhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/conrad-maldives-rangali-island.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/holiday-island-resort.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-maamigili-island-maldives.html",
+          "atolls/alifu-dhaalu/alifu-dhaalu-mandhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/manta-ray-snorkeling-baa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping-baa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dolphin-watching-baa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-baa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/thulhaadhoo-lacquer-craft-tour.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-baa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html",
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-beaches.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll/baa-fulhadhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-fulhadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-fishing-traditions.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/baa-atoll/baa-hithadhoo-island-maldives.html",
+          "atolls/baa-atoll/baa-hithadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/snorkeling-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/kudahuvadhoo-cultural-tour.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dolphin-watching-dhaalu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-dhaalu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dhaalu-fishing-trip.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dhaalu-scuba-diving.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html",
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/snorkeling-faafu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping-faafu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-faafu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-faafu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-cruise-faafu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cultural-tour-nilandhoo.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html",
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/snorkeling-gaafu-alifu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping-gaafu-alifu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-gaafu-alifu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-gaafu-alifu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-cruise-gaafu-alifu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cultural-tour-vilingili.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html",
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/snorkeling-gaafu-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping-gaafu-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-gaafu-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-gaafu-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-cruise-gaafu-dhaalu-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cultural-tour-thinadhoo.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html",
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/tiger-shark-diving-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/freshwater-lakes-tour-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/thundi-beach-excursion-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cultural-heritage-tour-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cycling-tour-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/local-cuisine-experience-fuvahmulah.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html",
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-shopping.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-kulhudhuffushi-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-kulhudhuffushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-fishing.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-makunudhoo-island-maldives.html",
+          "atolls/haa-dhaalu-atoll/haa-dhaalu-makunudhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/six-senses-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/surfing-yin-yang-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/manta-ray-snorkeling-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/seagrass-meadows-tour-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/local-island-tour-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-laamu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html",
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "cultural-experiences-in-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/laamu-atoll/laamu-maamendhoo-island-maldives.html",
+          "atolls/laamu-atoll/laamu-maamendhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/shark-diving-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/local-island-tour-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dolphin-watching-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cooking-class-meemu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html",
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-dolphin-cruise-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/underwater-spa-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cinema-paradiso-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/observatory-experience-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cooking-class-noonu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html",
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/dolphin-watching-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/bioluminescent-beach-tour-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/local-island-tour-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/spa-wellness-raa.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html",
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/british-loyalty-wreck-dive-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/manta-ray-snorkeling-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/equator-crossing-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/bicycle-tour-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/historical-sites-tour-seenu.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html",
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/manta-ray-snorkeling-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-fishing-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/coralarium-tour-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/local-island-tour-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/boat-building-workshop-shaviyani.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html",
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/snorkeling-thaa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/island-hopping-thaa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/night-fishing-thaa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sandbank-picnic-thaa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/sunset-cruise-thaa-atoll.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "tours/cultural-tour-veymandoo.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html",
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-handicrafts.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll/vaavu-rakeedhoo-island-maldives.html",
+          "atolls/vaavu-atoll/vaavu-rakeedhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "diving-in-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll/vaavu-thinadhoo-island-maldives.html",
+          "atolls/vaavu-atoll/vaavu-thinadhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/baa-atoll/hanifaru-bay-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "diving/dhonfanu-thila-maldives.html",
+          "diving/dhonfanu-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Shangri-La-Villingili/Shangri-La-Villingili-Resort-Spa-Maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu/seenu-hithadhoo-island-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu/seenu-hulhumeedhoo-island-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "diving/meedhoo-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu/seenu-villingili-island-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "diving/villlingili-coral-garden-maldives.html",
+          "diving/villlingili-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-overwater-bungalow.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "fishing/bottom-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/huvadhoo-atoll-maldives.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "fishing/deep-sea-fishing-maldives.html",
+          "fishing/deep-sea-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "packages/family-beach-adventure.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "packages/business-travel-package.html",
+          "packages/wedding-package.html"
+        ]
+      },
+      {
+        "target": "packages/destination-wedding-package.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "packages/business-travel-package.html",
+          "packages/family-holiday-package.html"
+        ]
+      },
+      {
+        "target": "shopping/order_history.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "shopping/order-confirmation.html",
+          "shopping/order-confirmation.html"
+        ]
+      },
+      {
+        "target": "maafushi-island-activities.html",
+        "linkedFromCount": 2,
+        "linkedFromSample": [
+          "tours/maafushi-activity-booking.html",
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "maldives-honeymoon-packages.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "Maldives-Luxury-Resorts.html"
+        ]
+      },
+      {
+        "target": "activities/whale-shark-sighting.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/Maldives-honeymoons.html"
+        ]
+      },
+      {
+        "target": "activities/private-yacht-charter.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/Maldives-honeymoons.html"
+        ]
+      },
+      {
+        "target": "best-maldives-resorts-for-families.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/adults-only-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/beautiful-places-in-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-honeymoon.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/beautiful-places-in-maldives.html"
+        ]
+      },
+      {
+        "target": "articlles/maldives-transportation.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/beautiful-places-in-maldives.html"
+        ]
+      },
+      {
+        "target": "adults-only-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "cocoa-island-review.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "veligandu-review.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "maldives-wedding-packages.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "airfare-to-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/best-maldives-resorts-for-couples.html"
+        ]
+      },
+      {
+        "target": "maldives-holiday-packages.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/las-islas-maldivas.html"
+        ]
+      },
+      {
+        "target": "maafushi-island-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-budget-travel.html"
+        ]
+      },
+      {
+        "target": "dhiffushi-island-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-budget-travel.html"
+        ]
+      },
+      {
+        "target": "banana-reef-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "hp-reef-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "embudhoo-express-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "kuda-giri-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "maaya-thila-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "fish-head-dive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-diving-spots.html"
+        ]
+      },
+      {
+        "target": "affordable-maldives-honeymoon.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-honeymoon-packages.html"
+        ]
+      },
+      {
+        "target": "maldives-all-inclusive-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-honeymoon-packages.html"
+        ]
+      },
+      {
+        "target": "articles/what-to-pack-for-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-april.html"
+        ]
+      },
+      {
+        "target": "tours/fishing-booking.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-august.html"
+        ]
+      },
+      {
+        "target": "resorts/One-and-Only-Reethi-Rah/One-and-Only-Reethi-Rah-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "resorts/Waldorf-Astoria/Waldorf-Astoria-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "resorts/Four-Seasons-Landaa-Giraavaru/Four-Seasons-Landaa-Giraavaru-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-december.html"
+        ]
+      },
+      {
+        "target": "resorts/huvafenfushi/Huvafen-Fushi-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "resorts/Milaidhoo/Milaidhoo-Island-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-february.html"
+        ]
+      },
+      {
+        "target": "resorts/Four-Seasons-Landaa/Four-Seasons-Maldives-at-Landaa-Giraavaru.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-june.html"
+        ]
+      },
+      {
+        "target": "maldives-spa-wellness.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-march.html"
+        ]
+      },
+      {
+        "target": "resorts/Coco-Bodu-Hithi/Coco-Bodu-Hithi-Maldivess.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-may.html"
+        ]
+      },
+      {
+        "target": "resorts/Constance-Halaveli/Constance-Halaveli-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "resorts/Lily-Beach/Lily-Beach-Resort-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-november.html"
+        ]
+      },
+      {
+        "target": "resorts/Four-Seasons-Huraa/Four-Seasons-Maldives-at-Kuda-Huraa.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-october.html"
+        ]
+      },
+      {
+        "target": "resorts/Baros-Island/Baros-Isalnd-Maldives-Resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-october.html"
+        ]
+      },
+      {
+        "target": "resorts/Meeru-Island/Meeru-Island-Resort-and-Spa-Beach-Kaafu-Atoll.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-in-october.html"
+        ]
+      },
+      {
+        "target": "maldives-private-island.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Coco-Prive/Coco-Prive-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Four-Seasons-Voavah/Four-Seasons-Private-Island-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Waldorf-Astoria/Waldorf-Astoria-Maldives-Ithaafushi-Private-Island.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Velaa-Private-Island/Velaa-Private-Island-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Cheval-Blanc-Randheli/Cheval-Blanc-Randheli-Private-Island.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "resorts/Gili-Lankanfushi/Gili-Lankanfushi-Private-Reserve.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "tours/private-yacht-charter.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "articles/wellness-retreats-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "articles/destination-weddings-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "contact-us.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/maldives-private-island.html"
+        ]
+      },
+      {
+        "target": "articles/bioluminescent-beach-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/sea-of-stars-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Kuredu-Resort/Kuredu-Resort-and-Spa-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/sea-of-stars-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/Maldives-Travel-Seasons.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "articles/sea-of-stars-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/veligandu-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/sun-aqua-vilu-reef.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/alifu-alifu-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/alifu-alifu-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/bodu-view/bodu-view-guesthouse-bodufolhudhoo.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-bodufulhudhoo-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/ocean-breeze/ocean-breeze-guesthouse-bodufolhudhoo.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-bodufulhudhoo-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/sunset-paradise/sunset-paradise-bodufolhudhoo.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-alifu/alifu-alifu-bodufulhudhoo-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/mirihi-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/diamonds-athuruga.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/constance-moofushi.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/alifu-dhaalu-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/alifu-dhaalu-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Mahibadhoo-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Maamigili-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Dhigurah-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Mandhoo-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Omadhoo-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Fenfushi-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu-Dhidhdhoo-isand-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-dhangethi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu/mahibadhoo-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-dhaalu/alifu-dhaalu/dhigurah-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/alifu-dhaalu/alifu-dhaalu-fenfushi-island-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/soneva-fushi.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/four-seasons-landaa-giraavaru.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/amilla-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/baa-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/baa-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Soneva-Fushi-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Four-Seasons-Landaa-Giraavaru-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Amilla-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Vakkaru-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Dusit-Thani-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Finolhu-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Royal-Island-Resort-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/baa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/niyama-private-islands.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/st-regis-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/cheval-blanc-randheli.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/dhaalu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/dhaalu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/St-Regis-Vommuli/St-Regis-Vommuli-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll/dhaalu-Vaanee-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/RIU-Atoll/RIU-Atoll-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/dhaalu-atoll/dhaalu-meedhoo-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/faafu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/filitheyo-island-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/faafu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/faafu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/faafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/faafu-atoll/faafu-Bilehdhoo-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/faafu-atoll/faafu-feeali-island-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/gaafu-alifu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/park-hyatt-maldives-hadahaa.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/raffles-maldives-meradhoo.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/pullman-maldives-maamutaa.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/gaafu-alifu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/gaafu-alifu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Park-Hyatt-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Raffles-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/Pullman-Maldives-Transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/gaafu-dhaalu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/dusit-thani-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/amaya-kuda-rah.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/gaafu-dhaalu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/gaafu-dhaalu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/dusit-thani-maldives-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/amaya-kuda-rah-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gaafu-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/gnaviyani-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/tiger-shark-retreat-fuvahmulah.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/fuvahmulah-inn.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/thundi-beach-view-fuvahmulah.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/fuvahmulah-accommodations.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/fuvahmulah-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/fuvahmulah-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/fuvahmulah-domestic-flight.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/fuvahmulah-local-transport.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/gnaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/haa-alifu-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/huraa-lodge.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/northern-eco-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/haa-alifu-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/haa-alifu-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-alifu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/haa-dhaalu-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/kulhi-lodge.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/northern-paradise-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/haa-dhaalu-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/haa-dhaalu-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/haa-dhaalu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/baros-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/four-seasons-kuda-huraa.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/taj-exotica.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/kaafu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/kaafu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/kaafu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/laamu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/laamu-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "surfing/laamu-atoll-surfing.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/laamu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/laamu-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/laamu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/komandoo-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/lhaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/palm-beach-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/lhaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/lhaviyani-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/lhaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/lhaviyani-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/lhaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/meemu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/medhufushi-island-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/meemu-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/meemu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/meemu-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/meemu-atoll-seaplane-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/meemu-atoll-domestic-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/meemu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/noonu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/noonu-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/noonu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/noonu-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/noonu-atoll-seaplane-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/noonu-atoll-domestic-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/noonu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/raa-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/joali-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/alila-kothaifaru.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/intercontinental-maamunagau.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/raa-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/raa-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/raa-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/raa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/seenu-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/south-palm-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/equator-village.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/seenu-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/seenu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/seenu-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/seenu-atoll-flight-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/seenu-atoll-local-transfers.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/seenu-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/shaviyani-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/fairmont-sirru-fen-fushi.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "hotels/shaviyani-atoll-guesthouses.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/shaviyani-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "activities/shaviyani-atoll-activities.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/shaviyani-atoll-seaplane-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "transfer/shaviyani-atoll-domestic-transfer.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/shaviyani-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "maps/thaa-atoll-map.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/diamonds-thudufushi.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/thaa-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/thaa-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/thaa-atoll-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/alimatha-aquatic.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll.html"
+        ]
+      },
+      {
+        "target": "resorts/dhiggaru-lodge.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll.html"
+        ]
+      },
+      {
+        "target": "resorts/vaavu-atoll-resort.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll.html"
+        ]
+      },
+      {
+        "target": "resorts/vaavu-atoll-resorts.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll.html"
+        ]
+      },
+      {
+        "target": "diving/vaavu-atoll-diving.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "atolls/vaavu-atoll.html"
+        ]
+      },
+      {
+        "target": "atolls/vaavu-atoll/vaavu-alimatha-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/alimatha-jetty-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Paradise/paradise-island-resort-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/banana-reef-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-alifu/alifu-alifu-bathala-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/bathala-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/alifu-alifu/alifu-alifu-ellaidhoo-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/bathala-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/victory-wreck-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/courses/padi-advanced-open-water-course-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/courses/padi-deep-diver-specialty-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/courses/padi-enriched-air-nitrox-course-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/courses/padi-divemaster-course-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/courses/padi-rescue-diver-course-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-resorts/four-seasons-landaa-giraavaru.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/dhonfanu-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-resorts/soneva-fushi-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/dhonfanu-thila-maldives.html"
+        ]
+      },
+      {
+        "target": "articles/maldives-marine-life-guide.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fesdhoo-wreck-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Dhigufaru-Island/dhigufaru-island-resort-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fesdhoo-wreck-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/You-and-Me/you-and-me-by-cocoon-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fesdhoo-wreck-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Adaaran-Select/adaaran-select-meedhupparu-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fesdhoo-wreck-maldives.html"
+        ]
+      },
+      {
+        "target": "diving/maldives-diving-spots.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fesdhoo-wreck-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-resorts/conrad-maldives-rangali-island.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fish-head-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-resorts/w-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/fish-head-maldives.html"
+        ]
+      },
+      {
+        "target": "packages/maldives-resort-packages.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/hp-reef-maldives.html"
+        ]
+      },
+      {
+        "target": "atolls/seenu/seenu-meedhoo-island-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/meedhoo-coral-garden-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Conrad-Rangali/Conrad-Rangali-Island-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Lily-beach/Lily-Beach-Resort-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Diamonds-Thudufushi/Diamonds-Thudufushi-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "resorts/Sun-Siyam-ViluReef/Sun-Siyam-Vilu-Reef-Maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "diving/whale-shark-point-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/fullday-big-game.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/multi-day-big-game-trips.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/marlin-specialist-trip.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/private-big-game-charter.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/tournament-preperation.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "fishing/packages/big-game-and-accomodation.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/big-game-fishing-maldives.html"
+        ]
+      },
+      {
+        "target": "maldives-packages.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "fishing/navigation.html"
+        ]
+      },
+      {
+        "target": "partners/wedding-package.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "partners/solo-traveler-package.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "partners/longstay-holiday-package.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "partners/multi-island-package.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "packages/partner-request.html"
+        ]
+      },
+      {
+        "target": "partners/index.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "partners/partner-request.html"
+        ]
+      },
+      {
+        "target": "shopping/index.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "shopping/order-confirmation.html"
+        ]
+      },
+      {
+        "target": "resorts/adaaran-club-Nika/adaaran-club-Nika-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "transfer/nika-island-Maldives-Transfer.html"
+        ]
+      },
+      {
+        "target": "transfer/scuba-diving-in-maldives.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "transfer/snorkeling-and-diving-activities-in-maldives.html"
+        ]
+      },
+      {
+        "target": "about.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "island-hopping-tour.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "maafushi.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "isle-heron-hotel.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "clearsky-hotel.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "safari-tour.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "photography.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      },
+      {
+        "target": "speedboat-booking.html",
+        "linkedFromCount": 1,
+        "linkedFromSample": [
+          "videos/index.html"
+        ]
+      }
+    ]
+  },
+  "media": {
+    "totalFiles": 4606,
+    "confidenceCounts": {
+      "high": 87,
+      "medium": 766,
+      "low": 1074,
+      "unmatched": 2679
+    },
+    "unmatchedCount": 2679
+  },
+  "mediaDuplicates": {
+    "exactDuplicateGroups": 435,
+    "exactDuplicateFiles": 1055,
+    "duplicateFilenameGroups": 401,
+    "suspiciousFileCount": 8
+  },
+  "articles": {
+    "totalCandidates": 48,
+    "byConfidence": {
+      "high": 41,
+      "medium": 0,
+      "needs-review": 7
+    },
+    "nonEnglishExcluded": 5,
+    "duplicateContentExcluded": 1
+  },
+  "transfers": {
+    "totalPages": 88,
+    "byMigrationStatus": {
+      "needs-review": 86,
+      "already-covered": 2
+    },
+    "alreadyCoveredNotDuplicated": 2
+  },
+  "packages": {
+    "totalPages": 64,
+    "byMigrationStatus": {
+      "needs-review": 22,
+      "skipped": 42
+    },
+    "byPageSubType": {
+      "generic-template-marketing": 22,
+      "partner-recruitment": 4,
+      "booking-form-widget": 38
+    },
+    "fabricatedTrustSignalPages": [
+      "packages/business-travel-package.html",
+      "packages/diving-holiday-package.html",
+      "packages/family-holiday-package.html",
+      "packages/fishing-holiday-package.html",
+      "packages/honeymoon-package.html",
+      "packages/liveaboard-safari-package.html",
+      "packages/longstay-holiday-package.html",
+      "packages/maldives-luxury-package.html",
+      "packages/multi-island-package.html",
+      "packages/solo-traveler-package.html",
+      "packages/surfing-holiday-package.html",
+      "packages/wedding-package.html"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Private Full-Day Fishing Charter",
+    "day_type": "full-day",
+    "source_price": 1400,
+    "price_from": 1380,
+    "currency": "USD",
+    "price_unit": "per boat per full day",
+    "island_name": "Maamendhoo",
+    "atoll_administrative_code": "GA",
+    "operator_name": "Maldives Fishing and Holiday Pvt Ltd",
+    "max_participants": 5,
+    "boat_name": "Emperor",
+    "boat_length_ft": 32,
+    "boat_engine": "Twin 200 HP outboard engines",
+    "included": [
+      "Professional captain and crew",
+      "Fuel",
+      "Soft drinks and snacks",
+      "Basic fishing gear"
+    ],
+    "source": "MFH_Charter_Rate_sheet_.pdf, page 3 (full-day) / page 4 (half-day)"
+  },
+  {
+    "name": "Private Half-Day Fishing Charter",
+    "day_type": "half-day",
+    "source_price": 1000,
+    "price_from": 980,
+    "currency": "USD",
+    "price_unit": "per boat per half day",
+    "island_name": "Maamendhoo",
+    "atoll_administrative_code": "GA",
+    "operator_name": "Maldives Fishing and Holiday Pvt Ltd",
+    "max_participants": 5,
+    "boat_name": "Emperor",
+    "boat_length_ft": 32,
+    "boat_engine": "Twin 200 HP outboard engines",
+    "included": [
+      "Professional captain and crew",
+      "Fuel",
+      "Soft drinks and snacks",
+      "Basic fishing gear"
+    ],
+    "source": "MFH_Charter_Rate_sheet_.pdf, page 3 (full-day) / page 4 (half-day)"
+  }
+]

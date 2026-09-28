@@ -1,0 +1,77 @@
+{
+  "folder": "huvafenfushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/huvafenfushi/huvafen-fushi-maldives-island-resort.html",
+  "legacyTitle": "Huvafen Fushi Island Resort Maldives",
+  "legacyH1": "Huvafen Fushi Island Resort Maldives",
+  "metaDescription": "Huvafen Fushi Island is a resort located in Male atoll Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "jpzWIVnQNic",
+  "descriptionParagraphs": [
+    "Huvafen Fushi Maldives is a naturalist's paradise set inside its own lagoon, where the breathtaking scenery, both above and below the waterline, is an attraction in and of itself. Their ocean bungalow's glass floor captures a perfect vision of the turquoise waters and features extravagant and spacious villas. They have accommodation on the water as well as a designer yacht with modern and opulent amenities. Cruise about, savor the finest food prepared by international cooks, and relax with spa treatments. Huvafen Fushi Maldives is a stunning, luxurious, and expensive Maldivian property that is one of the best options in the Maldives.",
+    "Huvafen Fushi Maldives offers over-water and beach bungalows with private beaches, as well as free Wi-Fi and six dining options. A sundeck, big flat-screen satellite TV, and a Bang and Olufsen Bluetooth speaker are included with each spacious bungalow. A rain shower and a separate bathtub are included in the attached bathrooms."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Bungalow",
+      "price": 1054,
+      "priceInclTax": 1317,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/huvafenfushi/images/huvafenfushi-island-beach-pool-room.webp",
+        "/resorts/huvafenfushi/images/huvafenfushi-island-beach-pool-room1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow Pool",
+      "price": 1314,
+      "priceInclTax": 1417,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/huvafenfushi/images/huvafenfushi-island-lagoon-pool-room.webp",
+        "/resorts/huvafenfushi/images/huvafenfushi-island-lagoon-pool-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/huvafenfushi/images",
+  "imageCount": 22,
+  "imageFiles": [
+    "huvafen-fushi-island-maldives-resort.webp",
+    "huvafen-fushi-island-resort-maldives.webp",
+    "huvafen-fushi-island-resort-spa.jpg",
+    "huvafen-fushi-island-resort-spa.webp",
+    "huvafen-fushi-island-resort.webp",
+    "huvafen-fushi-maldives-spa.webp",
+    "huvafen-fushi-maldives.webp",
+    "huvafenfushi-island-beach-pool-room.jpg",
+    "huvafenfushi-island-beach-pool-room.webp",
+    "huvafenfushi-island-beach-pool-room1.webp",
+    "huvafenfushi-island-lagoon-pool-room.jpg",
+    "huvafenfushi-island-lagoon-pool-room.webp",
+    "huvafenfushi-island-lagoon-pool-room1.webp",
+    "huvafenfushi-island-maldives.webp",
+    "huvafenfushi-island-map.jpg",
+    "huvafenfushi-island-map.webp",
+    "huvafenfushi-island-resort-maldives.webp",
+    "huvafenfushi-island-resort.webp",
+    "huvafenfushi-island-spa.webp",
+    "huvafenfushi-island.webp",
+    "huvafenfushi-resort-maldives.webp",
+    "huvafenfushi.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

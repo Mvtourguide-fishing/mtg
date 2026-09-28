@@ -1,0 +1,49 @@
+{
+  "folder": "Outrigger-Konotta",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Outrigger-Konotta/Outrigger-Konotta-Maldives.html",
+  "legacyTitle": "Outrigger Konotta Maldives Island Resort",
+  "legacyH1": "Outrigger Konotta Maldives Island Resort",
+  "metaDescription": "Outrigger Konotta Maldives Island is a five star resort located in Gaafu Dhaalu Atoll, Maldives",
+  "metaAtollCodes": [
+    "GDh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GDh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "eZFc1P6ivgw",
+  "descriptionParagraphs": [
+    "Outrigger Konotta Maldives Resort offers full solitude and intimate luxury among the beautiful seas of Gaafu Dhaalu Atoll. Outrigger hospitality is unrivalled in this haven of superb over-water villas, inventive Maldivian cuisine, the relaxing Navasana Spa, reef adventure, and stunning sea life.",
+    "Outrigger Konotta Maldives Resort offers ultimate solitude and intimate luxury with 21 Beach Pool Villas, 21 Ocean Pool Villas, 8 Two Bedroom Beach Pool Villas, 2 Lagoon Pool Villas, and the Grand Konotta Villa.",
+    "Outrigger Konotta Maldives Resort is located on Konotta, a private island in the Gaafu Dhaalu Atoll, 340 kilometres south of Male' and easily accessible through a 55-minute flight to Kaadedhdhoo Airport (KDM), followed by a spectacular 30-minute speed boat ride."
+  ],
+  "rooms": [],
+  "imageDirRelative": "resorts/Outrigger-Konotta/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Outrigger-Konotta-Maldives-Hotel.webp",
+    "Outrigger-Konotta-Maldives-Resort-Activities.webp",
+    "Outrigger-Konotta-Maldives-Resort-Bar.webp",
+    "Outrigger-Konotta-Maldives-Resort-Beach-Gaafu-Dhaalu-Atoll.webp",
+    "Outrigger-Konotta-Maldives-Resort-Beach-Pool-Villa.webp",
+    "Outrigger-Konotta-Maldives-Resort-Beach-Pool-Villa1.webp",
+    "Outrigger-Konotta-Maldives-Resort-Beach.webp",
+    "Outrigger-Konotta-Maldives-Resort-Dinning.webp",
+    "Outrigger-Konotta-Maldives-Resort-Gaafu-Dhaalu-Atoll.webp",
+    "Outrigger-Konotta-Maldives-Resort-Island.webp",
+    "Outrigger-Konotta-Maldives-Resort-Over-Waterl-Villa-Pool.webp",
+    "Outrigger-Konotta-Maldives-Resort-Over-Waterl-Villa-Pool1.webp",
+    "Outrigger-Konotta-Maldives-Resort-Submarine.webp",
+    "Outrigger-Konotta-Maldives-Resort-Water-Sports.webp",
+    "Outrigger-Konotta-Maldives-Resort.webp",
+    "Outrigger-Konotta-Maldivesi-Island-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "GDh"
+}

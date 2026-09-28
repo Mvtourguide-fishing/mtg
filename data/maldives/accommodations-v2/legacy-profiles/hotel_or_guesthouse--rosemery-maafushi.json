@@ -1,0 +1,62 @@
+{
+  "folder": "rosemery-maafushi",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/rosemery-maafushi/rosemery-hotel-in-maafushi-maldives.html",
+  "legacyTitle": "Rosemery Hotel in Maafushi Maldives",
+  "legacyH1": null,
+  "metaDescription": "Rosemery is a hotel opened in the local island of maafushi male atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Maafushi",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Rosemary Boutique is a boutique on the beautiful island of Maafushi that offers a variety of events and thrilling journeys for visitors. Maafushi island is 24 kilometers from the airport and is easily accessible all over the island.",
+    "There are a variety of rooms available, ranging from simple double rooms to suites with modern amenities. There are a total of 22 rooms available to accommodate all travel classes."
+  ],
+  "rooms": [
+    {
+      "name": "Double Balcony Room",
+      "price": 44,
+      "priceInclTax": 56,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/rosemery-maafushi/images/rosemery-maafushi-double-balcony-room.webp"
+      ]
+    },
+    {
+      "name": "Tripple Balcony Room",
+      "price": 52,
+      "priceInclTax": 65,
+      "currency": "USD",
+      "bedType": "Maximum",
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/rosemery-maafushi/images/rosemery-maafushi-tripple-room.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/rosemery-maafushi/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "rosemary-hotel-map.webp",
+    "rosemary-island-hotel-in-maafushi-maldives.jpg",
+    "rosemary-island-hotel-in-maafushi-maldives.webp",
+    "rosemary-maafushi-island-hotel-maldives.webp",
+    "rosemary-maafushi-island-hotel.webp",
+    "rosemery-maafushi-double-balcony-room.webp",
+    "rosemery-maafushi-hotel-maldives.webp",
+    "rosemery-maafushi-island-maldives.webp",
+    "rosemery-maafushi-island.webp",
+    "rosemery-maafushi-tripple-room.webp",
+    "rosemery-maafushi.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

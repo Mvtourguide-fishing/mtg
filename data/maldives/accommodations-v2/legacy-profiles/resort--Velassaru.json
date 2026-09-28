@@ -1,0 +1,90 @@
+{
+  "folder": "Velassaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Velassaru/Velassaru-Maldives.html",
+  "legacyTitle": "Velassaru Maldives Island Resort",
+  "legacyH1": "Velassaru Maldives Island Resort",
+  "metaDescription": "Velassaru Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "UBywDUXX3dA",
+  "descriptionParagraphs": [
+    "Crystal-clear oceans, soft white beaches. A picture-perfect lovely lagoon with breathtaking sunset views. Chic private hideaways dot the coastline. Five restaurants and two pubs serve exquisite flavours from all around the world. Explore our abundant coral reefs, sail beyond the horizon, or simply unwind on our idyllic Maldivian beaches.",
+    "Luxurious in a subtle way. Your Deluxe Villa is a haven unto itself, with easy access to a lovely white sandy beach:",
+    "Each Beach Villa with Pool is located on the beach and has direct access to the ocean. Each one has all you need for a comfortable stay:",
+    "Our 24 Water Villas are sophisticated over-water ocean villas with stunning lagoon views. Each one has all you need for a comfortable stay:",
+    "Contemporary-styled villas and bungalows offer stylish seclusion tucked away in gorgeous gardens, located along the seaside, or perched above water. Every villa in Velassaru Maldives has everything you need for a relaxing stay.",
+    "Velassaru Maldives is a 25-minute speedboat journey from Malé International Airport in South Malé Atoll. Our guest services crew will be at the airport to greet visitors and transport them to waiting speedboats."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Villa",
+      "price": 800,
+      "priceInclTax": 869,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Velassaru/images/Velassaru-Maldives-Deluxe-Villa.webp",
+        "/resorts/Velassaru/images/Velassaru-Maldives-Deluxe-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1050,
+      "priceInclTax": 1114,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Velassaru/images/Velassaru-Maldives-Beach-Villa-Pool.webp",
+        "/resorts/Velassaru/images/Velassaru-Maldives-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1400,
+      "priceInclTax": 1471,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Velassaru/images/Velassaru-Maldives-Water-Villa.webp",
+        "/resorts/Velassaru/images/Velassaru-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Velassaru/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Velassaru-Maldives-Beach-Villa-Pool.webp",
+    "Velassaru-Maldives-Beach-Villa-Pool1.webp",
+    "Velassaru-Maldives-Beach.webp",
+    "Velassaru-Maldives-Deluxe-Villa.webp",
+    "Velassaru-Maldives-Deluxe-Villa1.webp",
+    "Velassaru-Maldives-Dinning.webp",
+    "Velassaru-Maldives-Diving.webp",
+    "Velassaru-Maldives-Holiday-Resort.webp",
+    "Velassaru-Maldives-Island-Beach.webp",
+    "Velassaru-Maldives-Island-Resort-Male-Atoll.webp",
+    "Velassaru-Maldives-Island-Resort.webp",
+    "Velassaru-Maldives-Pool-Male-Atoll.webp",
+    "Velassaru-Maldives-Pool.webp",
+    "Velassaru-Maldives-Resort.webp",
+    "Velassaru-Maldives-Snorkeling.webp",
+    "Velassaru-Maldives-Water-Villa.webp",
+    "Velassaru-Maldives-Water-Villa1.webp",
+    "Velassaru-Maldives-map.webp",
+    "Velassaru-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,79 @@
+{
+  "folder": "Sun-Siyam-IruVeli",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Sun-Siyam-IruVeli/Sun-Siyam-IruVeli-Maldives.html",
+  "legacyTitle": "Sun Siyam Iru Veli Maldives Island Resort",
+  "legacyH1": "Sun Siyam Iru Veli Maldives Island Resort",
+  "metaDescription": "Sun Siyam Iru Veli Maldives Island is a five star resort located in Dhaalu Atoll, Maldives",
+  "metaAtollCodes": [
+    "Dh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Dh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "south nilandhe"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "1ljyDTmN1Yk",
+  "descriptionParagraphs": [
+    "Sun Siyam Iru Veli is the perfect tropical hideaway, with sleek and spacious suites. With front-row lagoon views and a freshwater pool in each five-star room, all you have to do is check in, relax, and watch our neighbouring dolphins swim by each day. Shoes are left at the entrance from the time you walk in, so forget about dress rules and come as you are. We live in the barefoot idyll, so relax and bury your toes into the smoothest white sand - it doesn't get any better than this.",
+    "These suites are spacious and appealing, with views of the dawn or sunset and lots of space to assemble. Plenty of natural light is provided through floor-to-ceiling glass doors and an outdoor bathroom, as well as space to enjoy outside on the wide sundeck, your own length of beach, or in your private pool.",
+    "These suites provide front-row seats for seeing dolphins swim by every day - a spectacular sight you'll never forget. We've brought the beach right to your door, with your very own length of sand constructed into the deck.",
+    "Enjoy the good life in our 125 sun-drizzled suites, which are scattered over the lagoon and across sugar-fine dunes and are bathed in warm, natural light. Each is a luxurious hideaway with its own private pool.",
+    "Sun Siyam Iru Veli lives on Aluvifushi, an island in South Nilandhe Atoll (also known as Dhaalu Atoll). Sun Siyam Iru Veli is 40 minutes from Velana International Airport via seaplane.",
+    "The buffet at Aqua Orange is a visual feast, presenting an incredible assortment of cuisines from across the world. Following breakfast, lunch and supper will entice you with Italian classics, Maldivian specialties, and themed evenings. With tables placed out on the beach, you may enjoy stunning lagoon views as your backdrop."
+  ],
+  "rooms": [
+    {
+      "name": "Family Suite Pool",
+      "price": 1400,
+      "priceInclTax": 1471,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-IruVeli/images/Sun-Siyam-Iru-Veli-Maldives-Family-Suite-Pool.webp",
+        "/resorts/Sun-Siyam-IruVeli/images/Sun-Siyam-Iru-Veli-Maldives-Family-Suite-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Dolphin Ocean Suite",
+      "price": 1300,
+      "priceInclTax": 1367,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-IruVeli/images/Sun-Siyam-Iru-Veli-Maldives-Dolphin-Ocean-Suite.webp",
+        "/resorts/Sun-Siyam-IruVeli/images/Sun-Siyam-Iru-Veli-Maldives-Dolphin-Ocean-Suite1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Sun-Siyam-IruVeli/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Sun-Siyam-Iru-Veli-Island-Beach.webp",
+    "Sun-Siyam-Iru-Veli-Island.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Dhaalu-Atoll.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Dinning.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Dolphin-Ocean-Suite.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Dolphin-Ocean-Suite1.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Family-Suite-Pool.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Family-Suite-Pool1.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Island-Resort.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Poo-Dhaalu-Atoll.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Pool.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Resort.webp",
+    "Sun-Siyam-Iru-Veli-Maldives-Restaurant.webp",
+    "Sun-Siyam-Iru-Veli-Maldives.webp",
+    "Sun-Siyam-Iru-Veli.webp",
+    "Sun-Siyam-IruVeli-Maldives-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Dh"
+}

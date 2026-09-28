@@ -1,0 +1,72 @@
+{
+  "folder": "Cinnamon-Hakuraa",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Cinnamon-Hakuraa/Cinnamon-Hakuraa-Huraa-Maldives.html",
+  "legacyTitle": "Cinnamon Hakuraa Huraa Island Resort Maldives",
+  "legacyH1": "Cinnamon Hakuraa Huraa Island Resort Maldives",
+  "metaDescription": "Cinnamon Hakuraa Huraa Island is a resort located in Meemu atoll, Maldives",
+  "metaAtollCodes": [
+    "M"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "M"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "xOcMV9PMeSU",
+  "descriptionParagraphs": [
+    "The Maldives are a haven for couples in love, and the beauty of Cinnamon Hakuraa Huraa Maldives takes romance to a whole new level. You're staring at one of the Maldives' largest shallow lagoons - and a great location for a photo shoot! Following a warm welcome at the welcome pavilion, you will be brought to your luxurious room near the sandy beach or an overwater cottage. If you are on your honeymoon, a fruit basket and a bottle of wine will be waiting for you.",
+    "You'll be walking on water at this resort. Allow us to indulge you and your significant other with a delectable supper away from the hustle and bustle, on a romantic beach in barefoot luxury. Despite our numerous activities and excursions, we recognise that when you're in love, sometimes it's simply enough to be. Relax on a white sandy beach alongside a crystal blue lagoon in complete peace. Honeymooners are invited to the Platinum Island, an adults-only retreat at Cinnamon Hakuraa Huraa Maldives that features a private pool, Manzaru Restaurant, Vevu Bar and Lounge, and the magnificent Platinum Beach Bungalows. This is the place to go if you want complete seclusion.",
+    "Cinnamon Hakuraa Huraa offers Beach Bungalows, Water Bungalows, and Platinum Beach Bungalows for a higher level of luxury. Every bungalow has gone above and beyond the degree of design and décor of a luxury yet comfortable existence.",
+    "The huge, turquoise halo surrounding the land will be the first thing you notice as your seaplane glides across the seas through the faraway Meemu Atoll. You're staring at one of the Maldives' largest shallow lagoons - and an ideal location for a photo shoot.",
+    "When you're not having a romantic private dining experience for two on your own balcony, you may enjoy the aromas, colours, and breathtaking modern architecture of our restaurants and lounges.",
+    "Mandara Spa, a specialist in relaxation and luxurious therapies, is bringing some Balinese opulence to our humble island."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 430,
+      "priceInclTax": 470,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Hakuraa/images/Cinnamon-Hakuraa-Huraa-Maldives-Beach-Villa.webp",
+        "/resorts/Cinnamon-Hakuraa/images/Cinnamon-Hakuraa-Huraa-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 490,
+      "priceInclTax": 525,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Cinnamon-Hakuraa/images/Cinnamon-Hakuraa-Huraa-Maldives-Water-Villa.jpg",
+        "/resorts/Cinnamon-Hakuraa/images/Cinnamon-Hakuraa-Huraa-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Cinnamon-Hakuraa/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "Cinnamon-Hakuraa-Huraa-Maldives-Beach-Villa.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Beach-Villa1.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Island-map.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Island.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Pool.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Resort.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Water-Villa.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives-Water-Villa1.webp",
+    "Cinnamon-Hakuraa-Huraa-Maldives.webp",
+    "Cinnamon-Hakuraa-Huraa.webp",
+    "Maldives-Cinnamon-Hakuraa-Huraa.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "M"
+}

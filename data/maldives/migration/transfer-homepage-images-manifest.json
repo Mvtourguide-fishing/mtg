@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-09-25T15:26:06.013Z",
+  "files": [
+    {
+      "mediaId": "4ba4f135-adc5-d431-cd31-9f5d7f75149c",
+      "relativePath": "assets/uploads/transfers/maldives-speedboat.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-speedboat.webp",
+      "altText": "Speedboat transfer between Guraidhoo and Male",
+      "filename": "maldives-speedboat.webp"
+    },
+    {
+      "mediaId": "57316a45-c325-79d0-5ec4-be975efe817d",
+      "relativePath": "assets/uploads/transfers/maldives-speed-boat-transfers.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-speed-boat-transfers.webp",
+      "altText": "Speedboat transfer between Maafushi and Male",
+      "filename": "maldives-speed-boat-transfers.webp"
+    },
+    {
+      "mediaId": "4901355e-64ea-e0ed-0e83-396558bc546c",
+      "relativePath": "assets/uploads/transfers/maafushi-map2.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maafushi-map2.webp",
+      "altText": "Speedboat route map: Male Airport to Guraidhoo, Maafushi and Himmafushi",
+      "filename": "maafushi-map2.webp"
+    },
+    {
+      "mediaId": "e3987935-b355-11fb-12b9-79a394a09ce5",
+      "relativePath": "assets/uploads/transfers/maldives-ferry-transfer.webp",
+      "storagePath": "uploads/assets/uploads/transfers/maldives-ferry-transfer.webp",
+      "altText": "Ferry transfer between Male and Himmafushi",
+      "filename": "maldives-ferry-transfer.webp"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "folder": "You-and-Me",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/You-and-Me/You-and-Me-Maldives.html",
+  "legacyTitle": "You & Me by Cocoon Maldives Island Resort",
+  "legacyH1": "You & Me by Cocoon Maldives Island Resort",
+  "metaDescription": "You & Me by Cocoon Maldives Island is a five star resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "ncv136ZRUx0",
+  "descriptionParagraphs": [
+    "You & Me is a quiet, rustic, and romantic island located in a stunning, unspoiled area of the Maldives. You & Me is the place to unwind, snuggle up, and enjoy some quality 'us time' away from the worries of everyday life. You & Me is a brand new 5-star resort in Raa atoll, northern Maldives, about 20 minutes by speedboat from Ifuru domestic airport or a breathtaking 45-minute seaplane flight from Male' international airport. The adults-only island is aimed towards couples, honeymooners, and friends looking for a peaceful, relaxing escape away from other hotels.",
+    "These big rooms on the beach have a magnificent and rustic vibe, with a lovely bathroom complete with a couple's bathtub and rain shower, a king size bed overlooking the beach, a sofa, balcony, and private pool with private beach and sea views.",
+    "These rustic water villas have unrivalled sunset views and have polished hardwood flooring, a king-sized bed facing the ocean, a comfy sofa, a rain shower, and a seaside porch with lagoon views.",
+    "You & Me by Cocoon features 109 rooms, including 99 overlooking the ocean and 10 on the beach. You & Me by Cocoon is the place to unwind, snuggle up, and enjoy some quality 'us time' away from the worries of everyday life.",
+    "You & Me by Cocoon is in Raa atoll, northern Maldives, about 20 minutes by speedboat from Ifuru domestic airport or a breathtaking 45-minute seaplane flight from Velana international airport.",
+    "You & Me's standout feature is a totally submerged, underwater restaurant that provides customers with a glimpse of the Maldives' stunning marine environment as they enjoy a great meal."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Suite",
+      "price": 950,
+      "priceInclTax": 1010,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/You-and-Me/images/You-and-Me-by-Cocoon-Maldives-Beach-Suite-Pool.webp",
+        "/resorts/You-and-Me/images/You-and-Me-by-Cocoon-Maldives-Beach-Suite-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Dolphin Villa",
+      "price": 950,
+      "priceInclTax": 1005,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/You-and-Me/images/You-and-Me-by-Cocoon-Maldives-Dolphin-Villa.webp",
+        "/resorts/You-and-Me/images/You-and-Me-by-Cocoon-Maldives-Dolphin-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/You-and-Me/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "You-and-Me-Maldives-map.webp",
+    "You-and-Me-by-Cocoon-Island.webp",
+    "You-and-Me-by-Cocoon-Maldives-Beach-Suite-Pool.webp",
+    "You-and-Me-by-Cocoon-Maldives-Beach-Suite-Pool1.webp",
+    "You-and-Me-by-Cocoon-Maldives-Beach.webp",
+    "You-and-Me-by-Cocoon-Maldives-Dinning.webp",
+    "You-and-Me-by-Cocoon-Maldives-Diving.webp",
+    "You-and-Me-by-Cocoon-Maldives-Dolphin-Villa.webp",
+    "You-and-Me-by-Cocoon-Maldives-Dolphin-Villa1.webp",
+    "You-and-Me-by-Cocoon-Maldives-Resort-Raa-Atoll.webp",
+    "You-and-Me-by-Cocoon-Maldives-Resort.webp",
+    "You-and-Me-by-Cocoon-Maldives-Underwater-Restaurant-Raa-Atoll.webp",
+    "You-and-Me-by-Cocoon-Maldives-Underwater-Restaurant.webp",
+    "You-and-Me-by-Cocoon-Maldives-Water-Sports.webp",
+    "You-and-Me-by-Cocoon-Pool.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

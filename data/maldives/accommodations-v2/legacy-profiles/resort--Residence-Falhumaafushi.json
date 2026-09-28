@@ -1,0 +1,88 @@
+{
+  "folder": "Residence-Falhumaafushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Residence-Falhumaafushi/The-Residence-Falhumaafushi-Maldives.html",
+  "legacyTitle": "The Residence Maldives at Falhumaafushi Island Resort",
+  "legacyH1": "The Residence Maldives at Falhumaafushi Island Resort",
+  "metaDescription": "The Residence Maldives at Falhumaafushi Island is a five star resort located in GA Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Falhumaafushi",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "SE3hjQNVa-c",
+  "descriptionParagraphs": [
+    "The Residence Maldives is located on Falhumaafushi, a beautiful island in the Gaafu Alifu Atoll, one of the world's biggest atolls. Indulge in our hidden retreat's private island feeling, where nature's unrivalled beauty forms a mesmerising background for your blissful relaxation.",
+    "The Residence Maldives creates the time and space for you to rediscover the meaning of leisure, carefully taken care of by our attentive yet discreet hospitality. The resort was designed to be in sync with the natural environment, perfectly blending traditional Maldivian architecture with contemporary elegance and modern conveniences. Relax in the tranquilly of the resort's beachfront and over-water villas, which provide a sanctuary only feet from the sand, or enjoy the delight of slipping directly from your deck into the cold, clear waters to reach your own private lagoon.",
+    "Embrace the destination with our one-of-a-kind culinary experiences and a plethora of activities ranging from sunbathing on sun-kissed beaches to snorkelling, island hopping, or seeing the incredible marine life at several local diving spots. Whether you're looking for the ideal couple's hideaway or a spectacular family vacation, let The Residence Maldives captivate you.",
+    "Experience the airy tranquilly of our Beach Villas, which are situated among peaceful flora along the glittering shoreline. Enjoy immediate beach access, a palm-fringed playground for your children, and a huge living area that opens out to a private terrace with magnificent ocean views.",
+    "Relax on the beach or by your private pool, just steps away from the luxurious internal amenities of this huge beachfront property with amazing ocean views. A great place to stay for families travelling together. Twin beds are available in the second bedroom.",
+    "Beautiful views of the water. Gentle waves lapping at your front door. In the shimmering seas beneath your feet, schools of fish fly across vibrant coral reefs. Such are the joys of our Water Villas, which each include a big living area that opens to a private verandah where you may bask in the Maldivian sun and marvel at the live aquarium right in front of your eyes."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 950,
+      "priceInclTax": 1078,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Beach-Villa.webp",
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1100,
+      "priceInclTax": 1175,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Beach-Pool-Villa.webp",
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1250,
+      "priceInclTax": 1315,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Water-Villa.webp",
+        "/resorts/Residence-Falhumaafushi/images/The-Residence-Maldives-at-Falhumaafushi-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Residence-Falhumaafushi/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "The-Residence-Falhumaafushi-Maldives-map.webp",
+    "The-Residence-Maldives-Falhumaafushi.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Activities.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Alifu-Atoll.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Beach-Pool-Villa.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Beach-Pool-Villa1.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Beach-Villa.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Beach-Villa1.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Beach.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Honeymoon.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Pool-Gaafu-Alifu-Atoll.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Pool.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Resort.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Spa.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Water-Villa.webp",
+    "The-Residence-Maldives-at-Falhumaafushi-Water-Villa1.webp",
+    "The-Residence-Maldives-at-Falhumaafushi.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "GA"
+}

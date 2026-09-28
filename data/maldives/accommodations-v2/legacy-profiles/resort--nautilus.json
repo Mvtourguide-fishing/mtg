@@ -1,0 +1,75 @@
+{
+  "folder": "nautilus",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/nautilus/the-nautilus-island-maldives.html",
+  "legacyTitle": "The Nautilus Island Resort Maldives",
+  "legacyH1": "The Nautilus Island Resort Maldives",
+  "metaDescription": "The Nautilus Island is a resort located in Baa atoll",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "K4RmfjxrmyY",
+  "descriptionParagraphs": [
+    "Each house and residence at The Nautilus is a distinct and sophisticated escape, inspired by the lasting shape of the nautilus shell. Each space is replete with curved lines and spiraled components. Our philosophy, like this symbol of the deep, is universal and eternal.",
+    "The Nautilus has 26 ultra-private beach and overwater homes, each with a luxurious master suite, separate dining space, expansive sundeck, and private pool. These bohemian, suite-style sanctuaries each come with private butler service and are steps away from azure seas."
+  ],
+  "rooms": [
+    {
+      "name": "Beach House",
+      "price": 2262,
+      "priceInclTax": 2714,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/nautilus/images/the-nautilus-island-beach-pool-room.webp",
+        "/resorts/nautilus/images/the-nautilus-island-beach-pool-room1.webp"
+      ]
+    },
+    {
+      "name": "Ocean House",
+      "price": 2069,
+      "priceInclTax": 2586,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/nautilus/images/the-nautilus-island-water-pool-room.webp",
+        "/resorts/nautilus/images/the-nautilus-island-water-pool-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/nautilus/images",
+  "imageCount": 20,
+  "imageFiles": [
+    "nautilus-island-map.jpg",
+    "nautilus-island-map.webp",
+    "nautilus-island-resort-maldives.webp",
+    "the-nautilus-island-beach-pool-room.jpg",
+    "the-nautilus-island-beach-pool-room.webp",
+    "the-nautilus-island-beach-pool-room1.jpg",
+    "the-nautilus-island-beach-pool-room1.webp",
+    "the-nautilus-island-maldives-resort.jpg",
+    "the-nautilus-island-maldives-resort.webp",
+    "the-nautilus-island-maldives.webp",
+    "the-nautilus-island-resort-maldives-beach.webp",
+    "the-nautilus-island-resort-maldives.webp",
+    "the-nautilus-island-resort.webp",
+    "the-nautilus-island-water-pool-room.jpg",
+    "the-nautilus-island-water-pool-room.webp",
+    "the-nautilus-island-water-pool-room1.jpg",
+    "the-nautilus-island-water-pool-room1.webp",
+    "the-nautilus-island.webp",
+    "the-nautilus-maldives.webp",
+    "the-nautilus-resort-maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "B"
+}

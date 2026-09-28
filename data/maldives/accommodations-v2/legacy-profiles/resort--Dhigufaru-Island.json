@@ -1,0 +1,90 @@
+{
+  "folder": "Dhigufaru-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Dhigufaru-Island/Dhigufaru-Island-Resort-Maldives.html",
+  "legacyTitle": "Dhigufaru Island Resort Maldives",
+  "legacyH1": "Dhigufaru Island Resort Maldives",
+  "metaDescription": "Dhigufaru Island is a resort located in Baa atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "ni9GAZMyeBY",
+  "descriptionParagraphs": [
+    "Dhigufaru Island, meaning \"a long reef,\" is the essence of an exotic hideaway, nestled in the protected Biosphere reserve of Baa Atoll. We offer the right blend of both if you choose to kick back, relax, and take in the majestic, stunning beauty of the island and surrounding coral, or if you prefer a more action-packed, exotic trip. Dhigufaru Island Resort welcomes you.",
+    "We invite you to a whole unique experience, one that lets you to discover the Maldives' natural beauty from both above and below the water. We offer you an opportunity unlike any other, one that allows you to be as busy or as peaceful as you desire.",
+    "With breathtaking views and direct beach access from each of the 10 Veli Pool Beach Villas, 12 Veli Beach Villas, 8 Boaku Beach Villas, and 2 Family Beach Villas, you may choose between the serenity and tranquillity of the eastern facing Boaku beach and the stunning majesty of the Veli beach. Each Villa contains a semi-outdoor shower area, an inside bathroom, and a vanity area for him and her. The room is outfitted with all of the modern conveniences you'll need. Each accommodation connects to your own veranda, which is surrounded by a private garden and offers views of the beach and lagoon.",
+    "The 10 Veli Pool Villas, located just within the beach tree line, offer the ultimate tropical luxury with views of the sun, sea, and sand. Everything you need for your comfort is provided within the room, including elegantly constructed comfy furnishings, satellite television, air conditioning, and ambient lighting. Step through to the decked veranda imbedded with a plunge pool facing the beach, fitted with comfortable sun loungers for all-day sunbathing.",
+    "Our amazing 20 Fidhanfulhu Water Villas are the pinnacle of comfort and enjoyment. These exquisite Water villas are big, bright, and luxuriously outfitted. Every Villa has its own stairway that leads down to the crystal clear lagoon below, ideal for swimming or snorkelling. Spend your days reclining just a few feet above the beautiful waves of the Indian Ocean on your private chaise, soaking up the sun while being pampered by our attentive staff.",
+    "The accommodations are positioned along the island's perimeter, allowing you to appreciate the unique natural characteristics that make Dhigufaru Island Resort so fascinating."
+  ],
+  "rooms": [
+    {
+      "name": "Boaku Beach Villa",
+      "price": 480,
+      "priceInclTax": 527,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Boaku-Beach-Villa.webp",
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Boaku-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Veli Pool Villa",
+      "price": 600,
+      "priceInclTax": 657,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Veli-Beach-Pool-Villa.webp",
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Veli-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Fidhanfulhu Water Villa",
+      "price": 700,
+      "priceInclTax": 786,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Fidhanfulhu-Water-Villa.webp",
+        "/resorts/Dhigufaru-Island/images/Dhigufaru-Island-Resort-Maldives-Fidhanfulhu-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Dhigufaru-Island/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Dhigufaru-Island-Maldives-Island-map.webp",
+    "Dhigufaru-Island-Resort-1.webp",
+    "Dhigufaru-Island-Resort-Maldives-Activities.webp",
+    "Dhigufaru-Island-Resort-Maldives-Beach-Dinner.webp",
+    "Dhigufaru-Island-Resort-Maldives-Beach.webp",
+    "Dhigufaru-Island-Resort-Maldives-Boaku-Beach-Villa.webp",
+    "Dhigufaru-Island-Resort-Maldives-Boaku-Beach-Villa1.webp",
+    "Dhigufaru-Island-Resort-Maldives-Fidhanfulhu-Water-Villa.webp",
+    "Dhigufaru-Island-Resort-Maldives-Fidhanfulhu-Water-Villa1.webp",
+    "Dhigufaru-Island-Resort-Maldives-Kids-Club.webp",
+    "Dhigufaru-Island-Resort-Maldives-Restaurant.webp",
+    "Dhigufaru-Island-Resort-Maldives-Spa.webp",
+    "Dhigufaru-Island-Resort-Maldives-Veli-Beach-Pool-Villa.webp",
+    "Dhigufaru-Island-Resort-Maldives-Veli-Beach-Pool-Villa1.webp",
+    "Dhigufaru-Island-Resort-Maldives-snorkeling.webp",
+    "Dhigufaru-Island-Resort-Maldives.webp",
+    "Dhigufaru-Island-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

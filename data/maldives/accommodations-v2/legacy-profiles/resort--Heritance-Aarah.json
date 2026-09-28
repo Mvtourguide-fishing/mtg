@@ -1,0 +1,90 @@
+{
+  "folder": "Heritance-Aarah",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Heritance-Aarah/Heritance-Aarah-Maldives.html",
+  "legacyTitle": "Heritance Aarah Maldives Island Resort",
+  "legacyH1": "Heritance Aarah Maldives Island Resort",
+  "metaDescription": "Heritance Aarah Maldives Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "kEchVUUdLCg",
+  "descriptionParagraphs": [
+    "Return to Heritance Aarah… Wake up to the sound of the sea in paradise, dive among unique underwater wonders, and dine beneath a beautiful star-studded sky over one of the greatest Maldives luxury resorts.",
+    "With golden sands at your doorstep and the pull of the sea all around, the options for relaxation and pleasure at our Beach Villa in Maldives seem limitless. Each house is elegantly constructed and has immediate beach access as well as a wide open-air terrace where you can soak in the lovely coastal environment.",
+    "Our trademark accommodation, the beautiful Pool Beach Villa, includes a private pool with sun loungers. This Maldives pool property has immediate beach access, ideal for a refreshing plunge in the Indian Ocean's stunning seas.",
+    "Our Ocean Villas, which lie over a beautiful lagoon and overlook a limitless horizon, are the ideal getaway for romantic times. These exquisite Maldives overwater villas provide a separate outdoor space where you may snuggle up on a daybed together or step down to the seas below.",
+    "For solitude, Heritance Aarah has 150 villas and suites divided by tropical flora. Every property has immediate access to the pure sandy beach and the stunning blue lagoon beyond. The Resort was planned and developed with a combination of indigenous Maldivian and modern architecture, providing an overall contemporary luxury feel with a Maldivian touch - delivering solitude and comfort for a well-deserved vacation experience.",
+    "The resort is located in Raa Atoll, in a picturesque lagoon surrounded by an unending stretch of white sandy beach, and provides visitors with a premium 5-star Maldivian resort experience. A 40-minute seaplane flight from Velana International Airport provides stunning views of the Indian Ocean."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 900,
+      "priceInclTax": 931,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Beach-Villa.webp",
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1000,
+      "priceInclTax": 1088,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 950,
+      "priceInclTax": 1010,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Ocean-Villa.webp",
+        "/resorts/Heritance-Aarah/images/Heritance-Aarah-Maldives-Ocean-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Heritance-Aarah/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Heritance-Aarah-Maldives-Beach-Island.webp",
+    "Heritance-Aarah-Maldives-Beach-Pool-Villa.webp",
+    "Heritance-Aarah-Maldives-Beach-Pool-Villa1.webp",
+    "Heritance-Aarah-Maldives-Beach-Villa.webp",
+    "Heritance-Aarah-Maldives-Beach-Villa1.webp",
+    "Heritance-Aarah-Maldives-Gym.webp",
+    "Heritance-Aarah-Maldives-Island-Resort-Raa-Atoll.webp",
+    "Heritance-Aarah-Maldives-Island-Resort.webp",
+    "Heritance-Aarah-Maldives-Island-map.webp",
+    "Heritance-Aarah-Maldives-Ocean-Villa.webp",
+    "Heritance-Aarah-Maldives-Ocean-Villa1.webp",
+    "Heritance-Aarah-Maldives-Pool.webp",
+    "Heritance-Aarah-Maldives-Resort-Raa-Atoll.webp",
+    "Heritance-Aarah-Maldives-Resort-Spa.webp",
+    "Heritance-Aarah-Maldives-Resort.webp",
+    "Heritance-Aarah-Maldives-Spa.webp",
+    "Heritance-Aarah-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

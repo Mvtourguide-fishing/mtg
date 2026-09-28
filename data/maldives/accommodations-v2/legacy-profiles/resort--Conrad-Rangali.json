@@ -1,0 +1,78 @@
+{
+  "folder": "Conrad-Rangali",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Conrad-Rangali/Conrad-Maldives-Rangali-Island.html",
+  "legacyTitle": "Conrad Maldives Rangali Island Resort Maldives",
+  "legacyH1": "Conrad Maldives Rangali Island Resort Maldives",
+  "metaDescription": "Conrad Maldives Rangali Island is a resort located in South Ari atoll, Maldives",
+  "metaAtollCodes": [
+    "ADh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "Conrad Maldives Rangali Island is on an environmental mission. Our partnership with the environmental nonprofit Parley For The Oceans strives to influence change and promote sustainable travel. Each villa will be given a Parley Kit, which will encourage visitors to use less of the materials that have a negative influence on the environment and the ocean. Join us in honouring our oceans and caring for our threatened ecosystem.",
+    "Conrad Maldives Rangali Island will give you a new perspective on life. THE MURAKA is a one-of-a-kind property nestled in a private portion of the dazzling lagoon, providing completely integrated living, dining, entertaining, and sleeping above and below the Indian Ocean with unimpeded views at every step.",
+    "This property on Rangali-Finolhu Island is nestled among swaying palm trees and tropical foliage and has direct access to the powder soft white sand beach and turquoise sea of the Indian Ocean. Relax in the enormous bedroom with floor-to-ceiling glass windows; for further privacy, this villa has the option of creating a curtained-off section morphing into an alcove for a day bed.",
+    "Soak in the sound of the waves on the intimate outdoor patio, or take advantage of a one-of-a-kind open-air bathroom with rain shower and a magnificent thatch-roofed outdoor bathing pavilion. Beach villas are positioned on either side of the island, with some facing the morning sunrise and others facing the evening sunset.",
+    "Wake up to the relaxing sound of the ocean and the sun shining through your private sundeck, which offers unobstructed views of infinite blue. This villa is located on Rangali Island, our isolated adults-only island, and is ideal for a romantic island escape for two.",
+    "Spend the day snorkelling directly from your sundeck steps, swimming with exotic reef species in crystal clear water, or simply relaxing and sunbathing in the infinity plunge pool. This stilted thatch-roofed water villa has a big room with a lounge area, a glass desk set atop a glass-paneled floor with views into the ocean below, and a bathroom with an ocean-view tub, rain shower, and double vanity."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1200,
+      "priceInclTax": 1288,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Conrad-Rangali/images/Conrad-Maldives-Rangali-Island-Resort-Beach-Villa.webp",
+        "/resorts/Conrad-Rangali/images/Conrad-Maldives-Rangali-Island-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Sunrise Water Villa",
+      "price": 1700,
+      "priceInclTax": 1758,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Conrad-Rangali/images/Conrad-Maldives-Rangali-Island-Resort-Water-Villa.webp",
+        "/resorts/Conrad-Rangali/images/Conrad-Maldives-Rangali-Island-Resort-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Conrad-Rangali/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Conrad-Maldives-Island-Resort.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Activities.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Beach-Villa.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Beach-Villa1.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Beach.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Dinner.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Kids-area.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Pool.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Underwater-Restaurant.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Underwater-Room.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Water-Villa.webp",
+    "Conrad-Maldives-Rangali-Island-Resort-Water-Villa1.webp",
+    "Conrad-Maldives-Rangali-Island-Resort.webp",
+    "Conrad-Maldives-Rangali-Island-map.webp",
+    "Conrad-Maldives-Rangali-Island.webp",
+    "Conrad-Maldives-Rangali-Resort.webp",
+    "Maldives-Underwater-Hotel-Conrad-Rangali-Island-Resort.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "ADh"
+}

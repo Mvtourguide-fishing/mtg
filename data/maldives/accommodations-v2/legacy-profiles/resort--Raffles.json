@@ -1,0 +1,76 @@
+{
+  "folder": "Raffles",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Raffles/Raffles-Maldives-Meradhoo-Resort.html",
+  "legacyTitle": "Raffles Maldives Meradhoo Island Resort",
+  "legacyH1": "Raffles Maldives Meradhoo Island Resort",
+  "metaDescription": "Raffles Maldives Meradhoo Island is a five star resort located in Gaafu Alifu Atoll, Maldives",
+  "metaAtollCodes": [
+    "GA"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "q5l7E02JyYY",
+  "descriptionParagraphs": [
+    "Raffles Maldives Meradhoo is an exceptional refuge. It is as far removed from the rhythm of regular life as one can get in its isolated location on the southern extremity of the Maldives archipelago. Guests establish their own beat here. They rest, reconnect, and realign in harmony with nature. It's easy to forget about the outer world when you're surrounded by clear Indian Ocean seas teeming with unspoiled house reefs and their wonderful residents. For its exceptional service and magnificent beauty, Raffles Maldives Meradhoo has been named one of the greatest new hotels in the Indian Ocean by discriminating travel enthusiasts and guests. The crew works hard to ensure that guests have a good time and remember it fondly.",
+    "This property, just yards from the beach, is stunning from the moment you step inside. The interior colour scheme is inspired by the maritime environment and is soothing to the senses. With spacious outdoor areas featuring a private garden and pool, a wide verandah opening directly onto the beach, and a choice of daybeds both inside and outdoors, this wonderful spot is designed for leisure. Take a step outside and let the ocean wind wash away your problems.",
+    "A stay at our Overwater Villa is set against the backdrop of nature. The sun glinting on the lagoon's calm, clear water, a kaleidoscope of colours beneath the surface as fish dart across the ocean bottom beneath you, and the brightest stars in the night sky. It is the ideal venue for appreciating the natural world's beauties. Comfort is entirely up to you within your villa. Enclose the living rooms for air-conditioned comfort or open up the entire area to the soothing wind and sounds of the sea. Relax in your private pool or deep indoor bathtub, or indulge in the ultimate luxury by stepping down from your balcony into the clear waters of the lagoon and interacting with the marine life.",
+    "The resort's beach villas are located on a natural island, only steps away from pristine sands and the vast Indian Ocean. The rooms are decorated in gentle sky blue and duck egg tones that mirror the natural beauty of their surrounds, and include furnishings such as the famed Raffles' writer's desk. A private pool and outdoor shower on the terrace are ideal for cool starry nights. On the natural island is also located the spectacular Raffles Royal Residence. The magnificent Overwater Residence and Sunset Overwater Residence are located alongside the villas.",
+    "A remarkable oasis located at the southern extremity of the Maldives, among the beautiful seas of the Indian Ocean: Meradhoo Raffles Maldives.",
+    "From pastries and fresh fruits for breakfast to vivid salads and a la carte meals for lunch and themed dinner evenings, visitors may unwind in this casual, open atmosphere as the soothing ocean breeze cools them."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1900,
+      "priceInclTax": 2006,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Raffles/images/Raffles-Maldives-Meradhoo-Resort-Beach-Villa.webp",
+        "/resorts/Raffles/images/Raffles-Maldives-Meradhoo-Resort-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa Pool",
+      "price": 2250,
+      "priceInclTax": 2329,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Raffles/images/Raffles-Maldives-Meradhoo-Resort-Over-Water-Villa.webp",
+        "/resorts/Raffles/images/Raffles-Maldives-Meradhoo-Resort-Over-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Raffles/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Raffles-Maldives-Meradhoo-Resort-Beach-Alifu-Atoll.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Beach-Villa.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Beach-Villa1.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Beach.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Dinning.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Diving.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Gaafu-Alifu-Atoll.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Island-map.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Island.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Over-Water-Villa.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Restaurant.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Snorkeling.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Water-sports.webp",
+    "Raffles-Maldives-Meradhoo-Resort-Wedding.webp",
+    "Raffles-Maldives-Meradhoo-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "GA"
+}

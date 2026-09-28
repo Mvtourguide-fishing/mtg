@@ -1,0 +1,77 @@
+{
+  "folder": "Nika-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Nika-Island/Nika-Island-Reosrt-Maldives.html",
+  "legacyTitle": "Nika Island Resort & Spa Maldives",
+  "legacyH1": "Nika Island Resort & Spa Maldives",
+  "metaDescription": "Nika Island Resort & Spa Maldives is a five star resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "AA"
+  ],
+  "bodyAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Nika",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "7WBGJrqLLz4",
+  "descriptionParagraphs": [
+    "Nika Island is a piece of Maldivian history, since it was one of the first islands in Ari Atoll to become a world-renowned tourist attraction. Nika Island is our collective imagination's paradise island. A forum where traditional Maldivian beauty and custom meet Italian culture. Nothing has changed on the island of Nika. A destination where you may relive the Maldives of yesteryear. \"A item of beauty is a delight forever,\" said the English poet Keats, and Nika's beauty beyond words. This island is frozen in time, impervious to the tremendous tourism forces that are altering the Maldives today. An unrepeatable and completely successful alchemical experiment that has written a significant chapter in history.",
+    "10 Beach Villas (about 80 square feet) with a double room, living area, and bathroom. They are on the north side of the island, facing a big lagoon, with swimming access to the barrier reef from your own private beach. All Beach Villas face the ocean and are constructed with natural materials in accordance with Maldives architectural heritage norms. They are separated from one another by thick greenery and are encircled by a garden with gazebo and hot tub. One Beach Villa has been modified to accommodate people with disabilities.",
+    "8 Water Villas (about 1200sqft) with double room, living room, bathroom, terrace with direct beach access, and solarium. Water Villas are located on the north side of the island in the lagoon, facing one of the best maintained barrier reefs in the Indian Ocean. Water Villas are divided into three levels: the first is on the water, where you can dive right in; the second is a wooden terrace where you can rest on comfy deck chairs; and the third is on the roof, where you can watch the ocean and enjoy the wonderful sea wind. Guests have access to two public beaches with sun loungers, bathrooms, and beach umbrellas, one near the Water Villas boardwalk and one in front of the hotel.",
+    "Only 43 villas on an island surrounded by a gorgeous house reef, rich greenery, and helpful personnel will make you feel perfectly at home: 6 Garden rooms, 10 Beach Villas, 10 Deluxe Beach Villas, 3 Family Beach Villas, 3 Family Deluxe Beach Villas, 1 Sultan Suite, and 10 Water Villas.",
+    "Nika Island Resort & Spa is situated on its own own island on the western fringe of North Ari Atoll. Male International Airport is 75 kilometres away and may be reached in 25/30 minutes by seaplane. The Nika Maldives experience begins with a warm greeting from the resort host at the arrival port, who will accompany visitors to the Nika lounge till the departure by sea plane for the breathtaking ride to the resort.",
+    "Nika Restaurant provides full-board, half-board, and all-inclusive packages, with a buffet meal rotating alongside an à la carte menu. A Maldivian feast and BBQ is offered once a week. The restaurant is a big open-air building that is appealing. The food is mostly Italian and Mediterranean. Our chefs are available to accommodate any requirement, even customers with dietary sensitivities. The wine cellar on the island has approximately 100 different varieties of wine. A unique candlelit meal with a fish-and-shellfish-based cuisine may be organised upon request, either on your villa's private beach or on the desert island within a few minutes boat ride from Nika."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 400,
+      "priceInclTax": 441,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Nika-Island/images/Nika-Island-Resort-Maldives-Beach-Villa.webp",
+        "/resorts/Nika-Island/images/Nika-Island-Resort-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 450,
+      "priceInclTax": 492,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Nika-Island/images/Nika-Island-Resort-Maldives-Water-Villa.webp",
+        "/resorts/Nika-Island/images/Nika-Island-Resort-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Nika-Island/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Nika-Island-Reosrt-Maldives-map.webp",
+    "Nika-Island-Resort-Maldives-Beach-Villa.webp",
+    "Nika-Island-Resort-Maldives-Beach-Villa1.webp",
+    "Nika-Island-Resort-Maldives-Water-Villa.webp",
+    "Nika-Island-Resort-Maldives-Water-Villa1.webp",
+    "Nika-Island-Resort-Maldives.webp",
+    "Nika-Island-Resort-and-Spa-Holiday'.webp",
+    "Nika-Island-Resort-and-Spa-Luxury-hotel.webp",
+    "Nika-Island-Resort-and-Spa-Maldives-Ari-Atoll.webp",
+    "Nika-Island-Resort-and-Spa-Maldives-Restaurant.webp",
+    "Nika-Island-Resort-and-Spa-Maldives-beach-North-Ari-Atoll.webp",
+    "Nika-Island-Resort-and-Spa-Maldives-beach.webp",
+    "Nika-Island-Resort-and-Spa-Maldives-pool.webp",
+    "Nika-Island-Resort-and-Spa-Maldives.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "AA"
+}

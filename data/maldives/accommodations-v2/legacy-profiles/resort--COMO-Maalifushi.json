@@ -1,0 +1,75 @@
+{
+  "folder": "COMO-Maalifushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/COMO-Maalifushi/COMO-Maalifushi-Maldives.html",
+  "legacyTitle": "COMO Maalifushi Island Resort Maldives",
+  "legacyH1": "COMO Maalifushi Island Resort Maldives",
+  "metaDescription": "COMO Maalifushi Island is a resort located in Thaa atoll, Maldives",
+  "metaAtollCodes": [
+    "Th"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Th"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "JXF1GshPotc",
+  "descriptionParagraphs": [
+    "The Maldives' largest private island resort, COMO, includes multi-room villas both above water and in tropical gardens. In the Indian Ocean, we're surrounded by uninhabited islands, world-class surf breaks, and teeming marine life – a world away.",
+    "COMO Maalifushi offers a variety of elegantly furnished hotel rooms with indigenous style and decor. Guests can pick from seven distinct accommodation categories. Each room provides complete solitude and is well equipped with the newest equipment and amenities, allowing you to relax and enjoy the natural tropical surroundings.",
+    "COMO Maalifushi is located in Thaa Atoll, in the southern Maldives, and may be reached by a 50-minute sea plane flight from Velana International Airport.",
+    "Our Japanese restaurant, Tai, serves local seafood as sushi and sashimi in the evenings. With beach barbecues, nutritious salads, and COMO Cuisine classics, Madi's all-day eating emphasises flavour and freshness. In-room access to our healthy COMO Shambhala meals is also available.",
+    "COMO Shambhala Retreat offers wellbeing in the Maldives, where the sea breeze sweeps through our open-air yoga pavilion and our overwater treatment rooms overlook blue horizons. This is the island where our award-winning holistic health method is based.",
+    "Exploring excellent surf breaks and uninhabited private islands under the Maldives' endless sunshine is one of the experiences available at COMO Maalifushi. Play by COMO's carefully curated programmes benefit younger guests."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Suite",
+      "price": 1260,
+      "priceInclTax": 1322,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/COMO-Maalifushi/images/COMO-Maalifushi-Island-Resort-Maldives-Beach-Suite.webp",
+        "/resorts/COMO-Maalifushi/images/COMO-Maalifushi-Island-Resort-Maldives-Beach-Suite1.webp"
+      ]
+    },
+    {
+      "name": "Water Suite",
+      "price": 1560,
+      "priceInclTax": 1638,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/COMO-Maalifushi/images/COMO-Maalifushi-Island-Resort-Maldives-Water-Suite.webp",
+        "/resorts/COMO-Maalifushi/images/COMO-Maalifushi-Island-Resort-Maldives-Water-Suite1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/COMO-Maalifushi/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "COMO-Maalifushi-Island-Resort-Beach.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-1.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-Beach-Suite.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-Beach-Suite1.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-Water-Suite.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-Water-Suite1.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-pool.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives-shop.webp",
+    "COMO-Maalifushi-Island-Resort-Maldives.webp",
+    "COMO-Maalifushi-Island-Resort-Reef.webp",
+    "COMO-Maalifushi-Island-Resort-pool.webp",
+    "COMO-Maalifushi-Island-Resort.webp",
+    "COMO-Maalifushi-Island.webp",
+    "COMO-Maalifushi-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Th"
+}

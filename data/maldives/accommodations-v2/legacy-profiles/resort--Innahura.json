@@ -1,0 +1,62 @@
+{
+  "folder": "Innahura",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Innahura/Innahura-Maldives-Resort.html",
+  "legacyTitle": "Innahura Maldives Island Resort",
+  "legacyH1": "Innahura Maldives Island Resort",
+  "metaDescription": "Innahura Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Innahura",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "6JHqOSK--sw",
+  "descriptionParagraphs": [
+    "Innahura's formula for a fantastic Maldives vacation is simple: we take the key sun, sea, and sand ingredients, add a traditional twist to modern amenities, and top it off with a large dose of unique experiences. This modest jewel in the south-east Lhaviyani Atoll entices sunseekers, young and old, who are looking for a Maldives resort where letting your hair down and savouring life's simple pleasures are the norm. You'll fall in love with Innahura because it's laid-back, fun, and constantly ready for new adventures, just like you.",
+    "Palm trees sway in the air, loungers vie for your attention under them, a length of sand so silky it tickles your feet and takes you from your bungalow to a lagoon as clear as it gets - welcome to Innahura! This is most likely how you imagined your Maldives vacation...",
+    "Innahura's allure rests in his return to simplicity. The bungalows at the resort are designed for folks like you and me: they are simple yet comfortable, unassuming yet unforgettable. They deliver on the promise of a tropical, laid-back refuge from which to lavish on the island's many attractions. These bright bungalows are big, on the beach, with a minibar, and private sunloungers - these are all your Maldives fantasies are made of, without the expensive price tag.",
+    "Innahura Maldives has 78 luxurious accommodations, including 33 Sunset Beach Bungalows and 45 Sunrise Beach Bungalows, as well as 4 neighbouring bungalows for families.",
+    "The island of Innahura Maldives is located in the Lhaviyani Atoll to the north of the Maldives. It takes 40 minutes by seaplane, during which you may enjoy a breathtaking view of the Maldives' garland of islands.",
+    "Life is better at the beach, especially when accompanied with delicious food, refreshing beverages, and great company. The resort's venues bring it all together and contribute to the mix of Innahura's characteristic casual ambiance; mellow places that keep your tummy full, your thirst satiated, and your days filled with get-togethers and unplanned meet-ups with newly made friends."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 300,
+      "priceInclTax": 350,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Innahura/images/Innahura-Maldives-Resort-Sunris-Beach-Bangalow.webp",
+        "/resorts/Innahura/images/Innahura-Maldives-Resort-Sunris-Beach-Bangalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Innahura/images",
+  "imageCount": 13,
+  "imageFiles": [
+    "Innahura-Maldives-Resort-Activities.webp",
+    "Innahura-Maldives-Resort-Beach-Lhaviyani-Atoll.webp",
+    "Innahura-Maldives-Resort-Beach.webp",
+    "Innahura-Maldives-Resort-Diving.webp",
+    "Innahura-Maldives-Resort-Island-map.webp",
+    "Innahura-Maldives-Resort-Island.webp",
+    "Innahura-Maldives-Resort-Lhaviyani-Atoll.webp",
+    "Innahura-Maldives-Resort-Snorkeling.webp",
+    "Innahura-Maldives-Resort-Spa.webp",
+    "Innahura-Maldives-Resort-Sports.webp",
+    "Innahura-Maldives-Resort-Sunris-Beach-Bangalow.webp",
+    "Innahura-Maldives-Resort-Sunris-Beach-Bangalow1.webp",
+    "Innahura-Maldives-Resort.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

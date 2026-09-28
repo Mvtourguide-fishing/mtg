@@ -1,0 +1,61 @@
+{
+  "folder": "mantha-view-hotel",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/mantha-view-hotel/mantha-view-hotel-maldives.html",
+  "legacyTitle": "Mantha view Hotel Maldives",
+  "legacyH1": "Mantha view Hotel Maldives",
+  "metaDescription": "Mantha view is a hotel opened in the local island of Keyodhoo vaavu atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": true,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "The Maldives' Manta View Guest House is located in Vaavu, Keyodhoo. It includes five rooms, each with a double bed and a toilet. There are four rooms with air conditioning. We provide the following activities: Snorkeling with a professional guide [sandbanks and reefs] Snorkeling for half a day Fishing for the entire day Fishing in the morning Fishing at night Bivacco journey Trip to the Alimatha Resort",
+    "When visiting the Maldives Islands, Keyodhoo Manta View Guest House, which offers exceptional accommodation and excellent service, will make you feel right at home. Guests will have easy access to everything the vibrant city has to offer from here. The hotel's ideal location allows guests to easily access the city's must-see attractions. This Maldives Islands hotel offers an abundance of exceptional services and amenities. On-site amenities include 24-hour room service, daily housekeeping, portable wi-fi rental, luggage storage, and valet parking for hotel guests. During your visit, you will have access to high-quality room amenities.",
+    "Towels, air conditioning, wireless internet connection (fees apply), shower, and washing machine are available in some rooms to let guests unwind after a hard day. Top-notch recreational facilities such as snorkeling, private beach, and fishing will keep you amused whether you're a fitness fanatic or simply searching for a way to unwind after a long day. Keyodhoo Manta View Guest House is a fantastic choice for your stay in the Maldives Islands, whatever your reason for visiting."
+  ],
+  "rooms": [
+    {
+      "name": "Room",
+      "price": 40,
+      "priceInclTax": 60,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/mantha-view-hotel/images/mantha-view-room.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/mantha-view-hotel/images",
+  "imageCount": 20,
+  "imageFiles": [
+    "hotel-mantha-view-maldives.jpg",
+    "hotel-mantha-view-maldives.webp",
+    "hotel-mantha-view.jpg",
+    "hotel-mantha-view.webp",
+    "mantha-view-hotel-maldives.jpg",
+    "mantha-view-hotel-maldives.webp",
+    "mantha-view-hotel.jpg",
+    "mantha-view-hotel.webp",
+    "mantha-view-keyodhoo.jpg",
+    "mantha-view-keyodhoo.webp",
+    "mantha-view-maldives-hotel.jpg",
+    "mantha-view-maldives-hotel.webp",
+    "mantha-view-maldives.jpg",
+    "mantha-view-maldives.webp",
+    "mantha-view-room.jpg",
+    "mantha-view-room.webp",
+    "mantha-view.jpg",
+    "mantha-view.webp",
+    "manthaview-map.jpg",
+    "paradise-island-maldives-resort.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

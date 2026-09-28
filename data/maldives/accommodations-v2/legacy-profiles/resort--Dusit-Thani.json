@@ -1,0 +1,92 @@
+{
+  "folder": "Dusit-Thani",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Dusit-Thani/Dusit-Thani-Maldives.html",
+  "legacyTitle": "Dusit Thani Island Resort Maldives",
+  "legacyH1": "Dusit Thani Island Resort Maldives",
+  "metaDescription": "Dusit Thani Island is a resort located in Baa atoll, Maldives",
+  "metaAtollCodes": [
+    "B"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "B"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "PmHX8kEUcLI",
+  "descriptionParagraphs": [
+    "Thai heritage combined with the warm and welcoming Maldivian island culture Dusit Thani Maldives is located on Mudhdhoo Island in Baa Atoll, Maldives' first UNESCO World Biosphere Reserve, and is only 35 minutes by seaplane from the capital city, Malé, or a 25-minute domestic flight and 10 minutes by speedboat from Dharavandhoo Airport.",
+    "Guests seeking island adventure, fine dining, and relaxation will find a luxurious Maldives hotel on the beach as well as over-water villas and residences. The house reef is teeming with marine life, Devarana Spa provides elevated treatment rooms among the coconut trees, and full-service amenities cater to every whim.",
+    "Your luxurious Beach Villa awaits, spread across 122 square metres and surrounded by tropical flora, with modern amenities and full-service facilities on hand. Relax on your private terrace before taking a step down to the secluded sands below.",
+    "Your stylish Beach Villa offers poolside luxury in paradise, with a generous 122 sq. m of living space enhanced by elegant Thai decor. Take a dip on your private deck or relax on the terrace. Take advantage of the open-air garden bathroom and the direct beach access.",
+    "Your luxurious Water Villa, suspended over the turquoise lagoon's crystal waters, measures 150 square metres and is decorated with Thai flourishes and equipped with all the amenities you require. Relax on your private terrace by the pool or plunge into the ocean.",
+    "Choose from a variety of beach and over-water villas and residences to create your ideal private paradise. Dusit Thani Maldives is a 5-star resort in the Maldives with elegant Thai interiors, modern conveniences, and butler service. Luxurious beach retreats await at Dusit Thani Maldives."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1000,
+      "priceInclTax": 1062,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dusit-Thani/images/Dusit-Thani-Maldives-Island-Resort-Beach-Villa.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1150,
+      "priceInclTax": 1221,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dusit-Thani/images/Dusit-Thani-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+        "/resorts/Dusit-Thani/images/Dusit-Thani-Maldives-Island-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Pool Water Villa",
+      "price": 1300,
+      "priceInclTax": 1379,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Dusit-Thani/images/Dusit-Thani-Maldives-Island-Resort-Water-Pool-Villa.webp",
+        "/resorts/Dusit-Thani/images/Dusit-Thani-Maldives-Island-Resort-Water-Pool-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Dusit-Thani/images",
+  "imageCount": 20,
+  "imageFiles": [
+    "Dusit-Thani-Maldives-1.webp",
+    "Dusit-Thani-Maldives-Beach.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Beach-Pool-Villa1.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Beach-Villa.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Dinner.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Diving.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Kids-Area.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Pool.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Spa.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Tennis.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Water-Pool-Villa.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Water-Pool-Villa1.webp",
+    "Dusit-Thani-Maldives-Island-Resort-Water-Sports.webp",
+    "Dusit-Thani-Maldives-Island-Resort-gym.webp",
+    "Dusit-Thani-Maldives-Island-Resort.webp",
+    "Dusit-Thani-Maldives-Island-Snorkeling.webp",
+    "Dusit-Thani-Maldives-Island-map.webp",
+    "Dusit-Thani-Maldives-Island.webp",
+    "Dusit-Thani-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "B"
+}

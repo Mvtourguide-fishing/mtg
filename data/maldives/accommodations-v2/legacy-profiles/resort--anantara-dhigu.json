@@ -1,0 +1,98 @@
+{
+  "folder": "anantara-dhigu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/anantara-dhigu/anantara-dhigu-maldives.html",
+  "legacyTitle": "Anantara Dhigu Island Resort Maldives",
+  "legacyH1": "Anantara Dhigu Island Resort Maldives",
+  "metaDescription": "Anantara Dhigu Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "CqbUr7mdR6w",
+  "descriptionParagraphs": [
+    "Anantara Dhigu Maldives is a tropical haven in the Indian Ocean. Indulge in barefoot sophistication in a tropical haven that caters to the entire family. This is a great place to build an unforgettable vacation, with a range of luxurious accommodations offering breathtaking views and private pools. For easy fun, try a variety of cuisines, relax with soothing spa treatments, and explore the nearby lagoon.",
+    "The 110 villas and suites at Anantara Maldives offer a variety of room sizes, with some perched above the water and others nestled on unspoiled sands. Choose from sunrise or sunset views, or a villa with your own private pool."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 540,
+      "priceInclTax": 687,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-villa1.webp",
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-villa.webp"
+      ]
+    },
+    {
+      "name": "Sunset Pool Villa",
+      "price": 739,
+      "priceInclTax": 923,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-pool-villa.webp",
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-pool-villa2.webp"
+      ]
+    },
+    {
+      "name": "Two bedroom Family Villa",
+      "price": 1426,
+      "priceInclTax": 1774,
+      "currency": "USD",
+      "bedType": "Double",
+      "maxOccupancy": null,
+      "images": [
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-family-villa.webp",
+        "/resorts/anantara-dhigu/images/anantara-dhigu-beach-family-villa2.webp"
+      ]
+    },
+    {
+      "name": "Over Water Villa",
+      "price": 775,
+      "priceInclTax": 968,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/anantara-dhigu/images/anantara-dhigu-water-villa.webp",
+        "/resorts/anantara-dhigu/images/anantara-dhigu-water-villa2.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/anantara-dhigu/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "anantara-dhigu-beach-family-villa.webp",
+    "anantara-dhigu-beach-family-villa2.webp",
+    "anantara-dhigu-beach-pool-villa.webp",
+    "anantara-dhigu-beach-pool-villa2.webp",
+    "anantara-dhigu-beach-villa.webp",
+    "anantara-dhigu-beach-villa1.webp",
+    "anantara-dhigu-hotel.webp",
+    "anantara-dhigu-island.webp",
+    "anantara-dhigu-maldives.webp",
+    "anantara-dhigu-resort-in-maldives.jpg",
+    "anantara-dhigu-resort-in-maldives.webp",
+    "anantara-dhigu-resort-maldives.webp",
+    "anantara-dhigu-resort.webp",
+    "anantara-dhigu-water-villa.webp",
+    "anantara-dhigu-water-villa2.webp",
+    "anantara-dhigu.webp",
+    "anatara-maldives-map.jpg",
+    "anatara-maldives-map.webp",
+    "island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

@@ -1,0 +1,76 @@
+{
+  "folder": "Siyam-World",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Siyam-World/Siyam-World-Maldives.html",
+  "legacyTitle": "Siyam World Maldives Island Resort",
+  "legacyH1": "Siyam World Maldives Island Resort",
+  "metaDescription": "Siyam World Maldives Island is a five star resort located in Noonu Atoll, Maldives",
+  "metaAtollCodes": [
+    "N"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "N"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "FPEuNEfCHv8",
+  "descriptionParagraphs": [
+    "Siyam World is a stunning new picture of the Maldives' rich natural beauties, a carefree playground with an intriguing, diversified, and never-before-seen assortment of 'never-seen-before' experiences guaranteed to leave you speechless. Premium An all-inclusive island vacation that bridges cultures and boundaries. Designed for fun-loving, open-minded couples, romance seekers, families, or bigger groups of friends who like to wander, socialise, and participate in an island community. Siyam World is one of the Maldives' biggest islands, including a resort and spectacular villas - The Beach House Collection.",
+    "Are there any sunset chasers around? Sunset Pool Beach Villas are located on the beachfront and have easy access to the beach where you may sway into the sunset on a fun fox swing. Take use of a private pool, a mini bar, Wi-Fi, a bathroom with a bathtub, and indoor and outdoor showers. Isn't it amazing?",
+    "These unique Water Villas provide your own private pool as well as a fun slide. Ideal for people who enjoy having a little fun on their vacations in order to create great memories. Enjoy your private sundeck with sun loungers, a bathroom with an indoor shower, a mini bar, Wi-Fi, and breathtaking views. We believe that sliding into the lagoon is more enjoyable.",
+    "Our villas are located right on the beach. All of the villas are on the beach or on stilts over the lagoon, and half have their own pool. They not only provide excellent amenities, but also a high level of seclusion - while you sleep, rest, and wash outside. Dreams come true at our villas, which have been identified as being among the top Maldives island resorts!",
+    "Located in the famous Noonu Atoll, the resort is only a 45-minute direct seaplane journey or a 40-minute domestic flight from Maafaru International Airport, followed by a 10-minute speedboat ride.",
+    "Tempo, located east of the island and set on a gorgeous beach terrace, serves a variety of world cuisines. This casual dining restaurant serves a worldwide marketplace of scents and sensations in a buffet format with live cooking stations."
+  ],
+  "rooms": [
+    {
+      "name": "Sunset Beach Pool Villa",
+      "price": 750,
+      "priceInclTax": 815,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Siyam-World/images/Siyam-World-Maldives-Sunset-Beach-Pool-Villa.webp",
+        "/resorts/Siyam-World/images/Siyam-World-Maldives-Sunset-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Pool Villa Slide",
+      "price": 700,
+      "priceInclTax": 772,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Siyam-World/images/Siyam-World-Maldives-Water-Villa-Pool-Slide.webp",
+        "/resorts/Siyam-World/images/Siyam-World-Maldives-Water-Villa-Pool-Slide1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Siyam-World/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Siyam-World-Maldives-Beach.webp",
+    "Siyam-World-Maldives-Dinning.webp",
+    "Siyam-World-Maldives-Hotel.webp",
+    "Siyam-World-Maldives-Island-resort.webp",
+    "Siyam-World-Maldives-Noonu-Atoll.webp",
+    "Siyam-World-Maldives-Pool-Noonu-Atoll.webp",
+    "Siyam-World-Maldives-Pool.webp",
+    "Siyam-World-Maldives-Resort.webp",
+    "Siyam-World-Maldives-Spa.webp",
+    "Siyam-World-Maldives-Sunset-Beach-Pool-Villa.webp",
+    "Siyam-World-Maldives-Sunset-Beach-Pool-Villa1.webp",
+    "Siyam-World-Maldives-Water-Villa-Pool-Slide.webp",
+    "Siyam-World-Maldives-Water-Villa-Pool-Slide1.webp",
+    "Siyam-World-Maldives-map.webp",
+    "Siyam-World-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "N"
+}

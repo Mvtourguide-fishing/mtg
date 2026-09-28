@@ -1,0 +1,92 @@
+{
+  "folder": "Hideaway-Beach",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Hideaway-Beach/Hideaway-Beach-Resort-Maldives.html",
+  "legacyTitle": "Hideaway Beach Resort & Spa Maldives Island",
+  "legacyH1": "Hideaway Beach Resort & Spa Maldives Island",
+  "metaDescription": "Hideaway Beach Resort & Spa Maldives Island is a resort located in Haa Alif Atoll, Maldives",
+  "metaAtollCodes": [
+    "HA"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "HA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "cckWsTSD3l4",
+  "descriptionParagraphs": [
+    "Enjoy the ultimate Maldives beach holiday experience at Hideaway Beach Resort & Spa with our White Platinum All Inclusive Plan. We think that the finest vacations happen naturally, so we've included everything you could want in your White Platinum Plan, from excellent meals to fantastic adventures.",
+    "The Sunset Beach Villa is a cosy home away from home in a tropical paradise - an excellent setting for a relaxing Maldives beach vacation. This beachside home epitomises understated elegance, located on your very own private beach only moments away from the welcoming blue of the Indian Ocean. In addition to the main bedroom, the villa offers a separate living space. The Sunset Beach Villa includes its own Personal Butler to assist you in tailoring your stay and attending to your requirements.",
+    "The Beach Residence with Plunge Pool at Hideaway Beach Resort and Spa in the Maldives is your very own hidden beach home - a luxury villa, the ideal spot to unwind and appreciate paradise's luxurious surrounds. The villa itself has a living and dining space, a master bedroom, and a spacious bathroom with a jacuzzi bath tub. This villa may be configured to suit families or groups of people. A master bedroom that can be locked affords total seclusion. Its own white sand beach is readily accessible from both the bright and large bedroom and living area. The Beach Residence with Plunge Pool includes its own Personal Butler to assist you in tailoring your stay and attending to your requirements.",
+    "The Deluxe Water Villa with Pool at Hideaway Beach Resort and Spa in the Maldives is the pinnacle of Maldivian luxury villa vacations. Allow yourself to be surrounded by the beauty and immensity of the ocean. Built on wooden stilts above the glistening blue lagoon, with floor-to-ceiling windows that maximise the spectacular panoramic Maldivian views. The Deluxe Water Villa with Pool is divided into two portions by an entry space, with the main bedroom on one side and the bathroom on the other. The enormous outside terrace runs the entire length of the property. Couples will appreciate this aquatic hideaway's subtle modern comfort.",
+    "The 103 apartments are located on the beach among coconut trees and lush flora, or on stilts over the lovely lagoon, and provide world-class services as well as incomparable solitude. Each villa at Hideaway Beach Resort Maldives has its own butler to take care of all requirements. Our 10 various villa models, ranging from 130 sqm to 1,420 sqm, are among the largest luxury villas in the Maldives, and all beachfront villas have their own private beach.",
+    "Hideaway Beach Resort & Spa is located on the crescent-shaped Dhonakulhi Island in the Maldives' northwestern Haa Alifu Atoll. Malé is 290 kilometres away."
+  ],
+  "rooms": [
+    {
+      "name": "Sunset Beach Villa",
+      "price": 700,
+      "priceInclTax": 799,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-Sunset-beach-Villa.webp",
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-Sunset-beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Residence With Pool",
+      "price": 880,
+      "priceInclTax": 930,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-beach-residence-pool.webp",
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-beach-residence-pool1.webp"
+      ]
+    },
+    {
+      "name": "Deluxe Water Villa With Pool",
+      "price": 1220,
+      "priceInclTax": 1300,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-deluxe-water-villa.webp",
+        "/resorts/Hideaway-Beach/images/Hideaway-Beach-Resort-and-Spa-deluxe-water-villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Hideaway-Beach/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Hideaway-Beach-Island-Resort-and-Spa-Haa-Alif-Atoll.webp",
+    "Hideaway-Beach-Island-Resort-and-Spa.webp",
+    "Hideaway-Beach-Resort-Maldives-Island-map.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Beach.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Dhonakulhi-Island.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Dhonakulhi.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Island-Pool.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Kids-Club.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Pool-Haa-Alif-Atoll.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Pool.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives-Spa.webp",
+    "Hideaway-Beach-Resort-and-Spa-Maldives.webp",
+    "Hideaway-Beach-Resort-and-Spa-Sunset-beach-Villa.webp",
+    "Hideaway-Beach-Resort-and-Spa-Sunset-beach-Villa1.webp",
+    "Hideaway-Beach-Resort-and-Spa-beach-residence-pool.webp",
+    "Hideaway-Beach-Resort-and-Spa-beach-residence-pool1.webp",
+    "Hideaway-Beach-Resort-and-Spa-deluxe-water-villa.webp",
+    "Hideaway-Beach-Resort-and-Spa-deluxe-water-villa1.webp",
+    "Hideaway-Beach-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "HA"
+}

@@ -1,0 +1,557 @@
+{
+  "generatedAt": "2026-09-26T21:51:19.015Z",
+  "files": [
+    {
+      "mediaId": "a90a6479-9f96-9d9f-db9d-6d6d24f65952",
+      "relativePath": "assets/uploads/activities/dolphin/Maldives-Lucky-Dolphin-Trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/dolphin/maldives-lucky-dolphin-trip.webp",
+      "altText": "Maldives Lucky Dolphin Trip — Maldives activities"
+    },
+    {
+      "mediaId": "b8faf7b9-1941-ea95-8b17-758ce375657c",
+      "relativePath": "assets/uploads/activities/dolphin/maldives-dolphin-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/dolphin/maldives-dolphin-excursion.webp",
+      "altText": "maldives dolphin excursion — Maldives activities"
+    },
+    {
+      "mediaId": "cd0a8647-cb3e-72da-e64f-876cf9902ef7",
+      "relativePath": "assets/uploads/activities/dolphin/maldives-dolphin-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/dolphin/maldives-dolphin-trip.webp",
+      "altText": "maldives dolphin trip — Maldives activities"
+    },
+    {
+      "mediaId": "d528c70b-442f-3452-957c-3ee397953979",
+      "relativePath": "assets/uploads/activities/dolphin/male-atoll-dolphin-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/dolphin/male-atoll-dolphin-trip.webp",
+      "altText": "male atoll dolphin trip — Maldives activities"
+    },
+    {
+      "mediaId": "4f5eeda2-2663-6a3f-2497-a9749f9a5d85",
+      "relativePath": "assets/uploads/activities/dolphin/male-atoll-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/dolphin/male-atoll-excursion.webp",
+      "altText": "male atoll excursion — Maldives activities"
+    },
+    {
+      "mediaId": "db20933b-db38-7f4d-899f-5ac744e7f141",
+      "relativePath": "assets/uploads/activities/full-day/Maldives-Lucky-Dolphin-Trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-lucky-dolphin-trip.webp",
+      "altText": "Maldives Lucky Dolphin Trip — Maldives activities"
+    },
+    {
+      "mediaId": "29972e7b-128a-cddd-130c-03c8a26a6229",
+      "relativePath": "assets/uploads/activities/full-day/Maldives-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-snorkeling.webp",
+      "altText": "Maldives snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "c4d0b60e-1d1e-4d53-417d-e14862bec071",
+      "relativePath": "assets/uploads/activities/full-day/Nurse-Shark-Point-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/nurse-shark-point-snorkeling.webp",
+      "altText": "Nurse Shark Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "0316bad5-785e-cedd-b5cf-f12fb8cb05db",
+      "relativePath": "assets/uploads/activities/full-day/Stingray-Point-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/stingray-point-snorkeling.webp",
+      "altText": "Stingray Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "1e9679b3-2a13-5e4b-c7ac-37966e6ebdf6",
+      "relativePath": "assets/uploads/activities/full-day/hushaan-fromtinyisles-7hB1sVEZ04k-unsplash.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/hushaan-fromtinyisles-7hb1svez04k-unsplash.webp",
+      "altText": "hushaan fromtinyisles 7hB1sVEZ04k unsplash — Maldives activities"
+    },
+    {
+      "mediaId": "c68ba906-6c92-5368-4c8f-a0ce89a38647",
+      "relativePath": "assets/uploads/activities/full-day/island-hopping-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/island-hopping-tour.webp",
+      "altText": "island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "19e18816-19e5-e1d4-55ec-c8c2361d3359",
+      "relativePath": "assets/uploads/activities/full-day/local-island-visit.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/local-island-visit.webp",
+      "altText": "local island visit — Maldives activities"
+    },
+    {
+      "mediaId": "6c82f207-cb5c-0949-a2ca-42d281823799",
+      "relativePath": "assets/uploads/activities/full-day/maldives-dolphin-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-dolphin-excursion.webp",
+      "altText": "maldives dolphin excursion — Maldives activities"
+    },
+    {
+      "mediaId": "351f4f37-9ef8-d4d5-04a3-0d505962258e",
+      "relativePath": "assets/uploads/activities/full-day/maldives-dolphin-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-dolphin-trip.webp",
+      "altText": "maldives dolphin trip — Maldives activities"
+    },
+    {
+      "mediaId": "d1b0a83f-8d60-59c8-1f6e-544b434ddd39",
+      "relativePath": "assets/uploads/activities/full-day/maldives-sandbank.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-sandbank.webp",
+      "altText": "maldives sandbank — Maldives activities"
+    },
+    {
+      "mediaId": "6db6a623-07eb-a903-3fc4-6a8c7cb78e95",
+      "relativePath": "assets/uploads/activities/full-day/maldives-snorkleing-point.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/maldives-snorkleing-point.webp",
+      "altText": "maldives snorkleing point — Maldives activities"
+    },
+    {
+      "mediaId": "bf8b516e-d106-888b-52b3-11cb0b1070c0",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-dolphin-trip.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-dolphin-trip.jpeg",
+      "altText": "male atoll dolphin trip — Maldives activities"
+    },
+    {
+      "mediaId": "01024993-72e5-b716-23cf-31a35a6f3938",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-dolphin-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-dolphin-trip.webp",
+      "altText": "male atoll dolphin trip — Maldives activities"
+    },
+    {
+      "mediaId": "ecd745e3-b02a-28d3-c3ae-1bc08484ba56",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-excursion.webp",
+      "altText": "male atoll excursion — Maldives activities"
+    },
+    {
+      "mediaId": "99a356e1-3a60-393d-4729-fb4188c98d15",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-island-hopping-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-island-hopping-tour.webp",
+      "altText": "male atoll island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "ac4c275e-7846-07cb-2275-de57bb0546e7",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-sand-bank-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-sand-bank-trip.webp",
+      "altText": "male atoll sand bank trip — Maldives activities"
+    },
+    {
+      "mediaId": "a4855a69-d7f3-91bd-b668-233821d25b6d",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-sandbank.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-sandbank.webp",
+      "altText": "male atoll sandbank — Maldives activities"
+    },
+    {
+      "mediaId": "b451b9f6-9b44-e642-5a20-0939a760a3b8",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-snorkeling.webp",
+      "altText": "male atoll snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "ee7d9c98-6c4b-714e-8565-d6401f377802",
+      "relativePath": "assets/uploads/activities/full-day/male-atoll-turtle-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/male-atoll-turtle-snorkeling.webp",
+      "altText": "male atoll turtle snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "7d3aa51e-55bc-d5da-ca3a-0dc5e0e88014",
+      "relativePath": "assets/uploads/activities/full-day/sand-bank-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/sand-bank-excursion.webp",
+      "altText": "sand bank excursion — Maldives activities"
+    },
+    {
+      "mediaId": "c5f2e254-40ca-b2f6-0a3b-8a22909ff286",
+      "relativePath": "assets/uploads/activities/full-day/sandbank-excursion-male-atoll.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/sandbank-excursion-male-atoll.webp",
+      "altText": "sandbank excursion male atoll — Maldives activities"
+    },
+    {
+      "mediaId": "eec2bbd1-bc7f-e11c-29f2-add04afd03a8",
+      "relativePath": "assets/uploads/activities/full-day/sandbank-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/sandbank-excursion.webp",
+      "altText": "sandbank excursion — Maldives activities"
+    },
+    {
+      "mediaId": "4efb385b-6dd9-3275-81b6-8ecdcf365ff1",
+      "relativePath": "assets/uploads/activities/full-day/sandbank-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/sandbank-maldives.webp",
+      "altText": "sandbank maldives — Maldives activities"
+    },
+    {
+      "mediaId": "7859900f-60e1-a05b-3447-1fe55292bccc",
+      "relativePath": "assets/uploads/activities/full-day/sandbank-visit-mael-atoll.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/sandbank-visit-mael-atoll.webp",
+      "altText": "sandbank visit mael atoll — Maldives activities"
+    },
+    {
+      "mediaId": "555cb82d-3aea-a8da-7801-0be168ef1344",
+      "relativePath": "assets/uploads/activities/full-day/snorkeling-activities-in-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/snorkeling-activities-in-maldives.webp",
+      "altText": "snorkeling activities in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "07f92260-a6c2-0c5a-df37-24d84a0b97fe",
+      "relativePath": "assets/uploads/activities/full-day/snorkeling-in-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/snorkeling-in-maldives.webp",
+      "altText": "snorkeling in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "cf539589-c6bf-3a61-fa5a-6965dc8a9d0c",
+      "relativePath": "assets/uploads/activities/full-day/stingray-snorkeling-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/stingray-snorkeling-maldives.webp",
+      "altText": "stingray snorkeling maldives — Maldives activities"
+    },
+    {
+      "mediaId": "5bc5e8ac-1ccc-e140-c6e2-e65d400e4ad1",
+      "relativePath": "assets/uploads/activities/full-day/turtle-snorkeling-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/turtle-snorkeling-maldives.webp",
+      "altText": "turtle snorkeling maldives — Maldives activities"
+    },
+    {
+      "mediaId": "d37a3e46-f546-d07e-9d60-a5bee5fbc262",
+      "relativePath": "assets/uploads/activities/full-day/vaavu-nurse-shark-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/vaavu-nurse-shark-excursion.webp",
+      "altText": "vaavu nurse shark excursion — Maldives activities"
+    },
+    {
+      "mediaId": "a8a47539-8cc2-c847-8f6b-3ead13f7e6f9",
+      "relativePath": "assets/uploads/activities/full-day/vaavu-shipwreck-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/vaavu-shipwreck-excursion.webp",
+      "altText": "vaavu shipwreck excursion — Maldives activities"
+    },
+    {
+      "mediaId": "562993cb-02c3-2ced-01b9-e1fc1aef3b6f",
+      "relativePath": "assets/uploads/activities/full-day/vaavu-shipwreck-excursioon.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/vaavu-shipwreck-excursioon.webp",
+      "altText": "vaavu shipwreck excursioon — Maldives activities"
+    },
+    {
+      "mediaId": "c659adc5-ba2a-b971-13f8-ee23b29ed529",
+      "relativePath": "assets/uploads/activities/full-day/vaavu-shipwreck-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/vaavu-shipwreck-snorkeling.webp",
+      "altText": "vaavu shipwreck snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "46953cfd-286c-4827-2e95-fd6c486d05c6",
+      "relativePath": "assets/uploads/activities/full-day/vaavu-shipwreck.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/vaavu-shipwreck.webp",
+      "altText": "vaavu shipwreck — Maldives activities"
+    },
+    {
+      "mediaId": "c8488a67-4fc4-18ac-1916-063ec467d38e",
+      "relativePath": "assets/uploads/activities/full-day/visit-local-island-school.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/visit-local-island-school.webp",
+      "altText": "visit local island school — Maldives activities"
+    },
+    {
+      "mediaId": "a2a714cf-a8e2-dd89-8a1a-9fceb6c578b2",
+      "relativePath": "assets/uploads/activities/full-day/visit-local-island-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/full-day/visit-local-island-tour.webp",
+      "altText": "visit local island tour — Maldives activities"
+    },
+    {
+      "mediaId": "7cb8da4d-bb3e-cda4-3da9-a3cc6a1801a1",
+      "relativePath": "assets/uploads/activities/nurse-shark/Nurse-Shark-Point-Snorkeling.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/nurse-shark-point-snorkeling.jpeg",
+      "altText": "Nurse Shark Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "65cbd30d-b2de-2c1f-c9c7-1442242be678",
+      "relativePath": "assets/uploads/activities/nurse-shark/Nurse-Shark-Point-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/nurse-shark-point-snorkeling.webp",
+      "altText": "Nurse Shark Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "2432349b-609d-170f-215d-79575000aa25",
+      "relativePath": "assets/uploads/activities/nurse-shark/maldives-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/maldives-snorkeling.webp",
+      "altText": "maldives snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "3b59eec2-b067-2219-1483-0cf609ec254c",
+      "relativePath": "assets/uploads/activities/nurse-shark/male-atoll-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/male-atoll-snorkeling.webp",
+      "altText": "male atoll snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "7b9cf078-a55b-da31-2c90-ffca456094b4",
+      "relativePath": "assets/uploads/activities/nurse-shark/nurs-shark-snorkeling.JPG",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/nurs-shark-snorkeling.jpg",
+      "altText": "nurs shark snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "6688dc2d-b55f-8537-d07d-12addff10ced",
+      "relativePath": "assets/uploads/activities/nurse-shark/nurs-shark-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/nurs-shark-snorkeling.webp",
+      "altText": "nurs shark snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "25e02866-b8fc-e48a-ffd6-8fd096204ef8",
+      "relativePath": "assets/uploads/activities/nurse-shark/snorkeling-activity.JPG",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/snorkeling-activity.jpg",
+      "altText": "snorkeling activity — Maldives activities"
+    },
+    {
+      "mediaId": "2063c0d6-4061-839c-6c57-b62f543731e9",
+      "relativePath": "assets/uploads/activities/nurse-shark/snorkeling-activity.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/snorkeling-activity.webp",
+      "altText": "snorkeling activity — Maldives activities"
+    },
+    {
+      "mediaId": "b205a2d3-c95d-156c-1c3e-e961d7706127",
+      "relativePath": "assets/uploads/activities/nurse-shark/snorkeling-in-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/snorkeling-in-maldives.webp",
+      "altText": "snorkeling in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "e4cc2faa-96a5-d364-7a87-b7e4a5cc4d81",
+      "relativePath": "assets/uploads/activities/nurse-shark/snorkeling-trip-to-nurs-shark.JPG",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/snorkeling-trip-to-nurs-shark.jpg",
+      "altText": "snorkeling trip to nurs shark — Maldives activities"
+    },
+    {
+      "mediaId": "a6f77b06-20f3-0c15-8900-35fb34e40143",
+      "relativePath": "assets/uploads/activities/nurse-shark/snorkeling-trip-to-nurs-shark.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/snorkeling-trip-to-nurs-shark.webp",
+      "altText": "snorkeling trip to nurs shark — Maldives activities"
+    },
+    {
+      "mediaId": "7e0df579-f101-a86c-6b66-f51527442d98",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-nurse-shark-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-nurse-shark-excursion.webp",
+      "altText": "vaavu nurse shark excursion — Maldives activities"
+    },
+    {
+      "mediaId": "6f239b8d-847f-ddd7-2b4c-806f84ce6892",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-shipwreck-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-shipwreck-excursion.webp",
+      "altText": "vaavu shipwreck excursion — Maldives activities"
+    },
+    {
+      "mediaId": "876dc241-f551-ccf1-64cc-4e2a6d929f8d",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-shipwreck-excursioon.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-shipwreck-excursioon.webp",
+      "altText": "vaavu shipwreck excursioon — Maldives activities"
+    },
+    {
+      "mediaId": "100e8f5b-5f02-64cc-fa7b-fae8d07415eb",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-shipwreck-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-shipwreck-snorkeling.webp",
+      "altText": "vaavu shipwreck snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "36dd8227-b8f3-148b-772d-57c8f81a7732",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-shipwreck.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-shipwreck.jpeg",
+      "altText": "vaavu shipwreck — Maldives activities"
+    },
+    {
+      "mediaId": "bf9f3393-7ad2-1ac9-5d65-928c155fefe9",
+      "relativePath": "assets/uploads/activities/nurse-shark/vaavu-shipwreck.webp",
+      "storagePath": "uploads/assets/uploads/activities/nurse-shark/vaavu-shipwreck.webp",
+      "altText": "vaavu shipwreck — Maldives activities"
+    },
+    {
+      "mediaId": "f0546bd0-11a9-1175-4694-1cb8a7e35b83",
+      "relativePath": "assets/uploads/activities/sand-bank/maldives-sandbank.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/maldives-sandbank.webp",
+      "altText": "maldives sandbank — Maldives activities"
+    },
+    {
+      "mediaId": "d77b59a1-c4b8-b2ef-eadb-15db8eaf0680",
+      "relativePath": "assets/uploads/activities/sand-bank/male-atoll-sand-bank-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/male-atoll-sand-bank-trip.webp",
+      "altText": "male atoll sand bank trip — Maldives activities"
+    },
+    {
+      "mediaId": "4b45d026-bd7d-15fa-a120-59bd75da3a89",
+      "relativePath": "assets/uploads/activities/sand-bank/male-atoll-sandbank.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/male-atoll-sandbank.webp",
+      "altText": "male atoll sandbank — Maldives activities"
+    },
+    {
+      "mediaId": "2ae7045d-29d0-6db4-6e68-15a37827265c",
+      "relativePath": "assets/uploads/activities/sand-bank/sand-bank-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sand-bank-excursion.webp",
+      "altText": "sand bank excursion — Maldives activities"
+    },
+    {
+      "mediaId": "76ab04c6-e5ac-40f2-988b-66028bac5cee",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-excursion-male-atoll.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-excursion-male-atoll.webp",
+      "altText": "sandbank excursion male atoll — Maldives activities"
+    },
+    {
+      "mediaId": "361c27f2-bd8a-6aaf-1826-a845539ee57e",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-excursion.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-excursion.webp",
+      "altText": "sandbank excursion — Maldives activities"
+    },
+    {
+      "mediaId": "3e241050-9687-ae0c-f4cb-268c6c4f9819",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-maldives.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-maldives.jpeg",
+      "altText": "sandbank maldives — Maldives activities"
+    },
+    {
+      "mediaId": "e8bb6fde-2bd0-a178-a119-6f508c70bcc3",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-maldives.webp",
+      "altText": "sandbank maldives — Maldives activities"
+    },
+    {
+      "mediaId": "eae978b6-8345-0714-7cc1-ab2cfe4bbac7",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-trip.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-trip.webp",
+      "altText": "sandbank trip — Maldives activities"
+    },
+    {
+      "mediaId": "218713f9-f247-0d52-dfb0-29fd30157eb5",
+      "relativePath": "assets/uploads/activities/sand-bank/sandbank-visit-mael-atoll.webp",
+      "storagePath": "uploads/assets/uploads/activities/sand-bank/sandbank-visit-mael-atoll.webp",
+      "altText": "sandbank visit mael atoll — Maldives activities"
+    },
+    {
+      "mediaId": "8b735221-0b19-647d-8747-b3a2ef0b846f",
+      "relativePath": "assets/uploads/activities/stingray/Maldives-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/maldives-snorkeling.webp",
+      "altText": "Maldives snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "0d38ad5c-7fab-c0b0-990c-a1828a8b447a",
+      "relativePath": "assets/uploads/activities/stingray/Stingray-Point-Snorkeling.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/stingray/stingray-point-snorkeling.jpeg",
+      "altText": "Stingray Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "8fbf8e7f-a2da-3593-cbd0-f6e1b7e18dda",
+      "relativePath": "assets/uploads/activities/stingray/Stingray-Point-Snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/stingray-point-snorkeling.webp",
+      "altText": "Stingray Point Snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "3654841d-39a8-85b2-4329-efda5c968352",
+      "relativePath": "assets/uploads/activities/stingray/maldives-snorkleing-point.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/maldives-snorkleing-point.webp",
+      "altText": "maldives snorkleing point — Maldives activities"
+    },
+    {
+      "mediaId": "2924a90c-6230-436d-1366-05f194cd807f",
+      "relativePath": "assets/uploads/activities/stingray/male-atoll-turtle-snorkeling.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/male-atoll-turtle-snorkeling.webp",
+      "altText": "male atoll turtle snorkeling — Maldives activities"
+    },
+    {
+      "mediaId": "9e423538-2739-16bb-1d11-2ad43567510d",
+      "relativePath": "assets/uploads/activities/stingray/snorkeling-activities-in-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/snorkeling-activities-in-maldives.webp",
+      "altText": "snorkeling activities in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "3611dc34-4c4f-8a35-7f09-3d8d21aac232",
+      "relativePath": "assets/uploads/activities/stingray/stingray-snorkeling-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/stingray-snorkeling-maldives.webp",
+      "altText": "stingray snorkeling maldives — Maldives activities"
+    },
+    {
+      "mediaId": "1c46a23a-0809-d2a2-c705-a6b473820306",
+      "relativePath": "assets/uploads/activities/stingray/turtle-snorkeling-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/stingray/turtle-snorkeling-maldives.webp",
+      "altText": "turtle snorkeling maldives — Maldives activities"
+    },
+    {
+      "mediaId": "3b67e938-259e-48aa-604e-24dab70ab899",
+      "relativePath": "assets/uploads/activities/island-hopping/Things to do in maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/things-to-do-in-maldives.webp",
+      "altText": "Things to do in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "1d24de20-21f8-c291-83c4-6d970d50d1c7",
+      "relativePath": "assets/uploads/activities/island-hopping/fish-market-in-maldives.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/fish-market-in-maldives.webp",
+      "altText": "fish market in maldives — Maldives activities"
+    },
+    {
+      "mediaId": "dfa79407-4228-b4ac-d2fa-1eadc66f9bf6",
+      "relativePath": "assets/uploads/activities/island-hopping/fullday-activities-male-atoll.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/fullday-activities-male-atoll.jpg",
+      "altText": "fullday activities male atoll — Maldives activities"
+    },
+    {
+      "mediaId": "a2e279e3-2c6e-9135-444c-e13d56aa07df",
+      "relativePath": "assets/uploads/activities/island-hopping/fullday-activities-male-atoll.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/fullday-activities-male-atoll.webp",
+      "altText": "fullday activities male atoll — Maldives activities"
+    },
+    {
+      "mediaId": "a7a76bbf-5705-784c-01ea-84ce12128dcf",
+      "relativePath": "assets/uploads/activities/island-hopping/hushaan-fromtinyisles-7hB1sVEZ04k-unsplash.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/hushaan-fromtinyisles-7hb1svez04k-unsplash.webp",
+      "altText": "hushaan fromtinyisles 7hB1sVEZ04k unsplash — Maldives activities"
+    },
+    {
+      "mediaId": "e4e16cdb-ff4a-1742-12f1-0db90d54f453",
+      "relativePath": "assets/uploads/activities/island-hopping/island-hopping-tour.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/island-hopping-tour.jpg",
+      "altText": "island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "92388d6f-6543-a3cc-b60a-98efb37829c0",
+      "relativePath": "assets/uploads/activities/island-hopping/island-hopping-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/island-hopping-tour.webp",
+      "altText": "island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "3862a41d-63c9-20c7-d247-8c4d98da045f",
+      "relativePath": "assets/uploads/activities/island-hopping/local-island-visit.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/local-island-visit.jpg",
+      "altText": "local island visit — Maldives activities"
+    },
+    {
+      "mediaId": "c742c024-7507-22ea-a996-b6ae773b4174",
+      "relativePath": "assets/uploads/activities/island-hopping/local-island-visit.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/local-island-visit.webp",
+      "altText": "local island visit — Maldives activities"
+    },
+    {
+      "mediaId": "b4d1965d-c267-a8e0-3771-5c7e4878457a",
+      "relativePath": "assets/uploads/activities/island-hopping/male-atoll-island-hopping-tour.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/male-atoll-island-hopping-tour.jpg",
+      "altText": "male atoll island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "5497fe83-2d61-fbb7-719d-f60d7cff092d",
+      "relativePath": "assets/uploads/activities/island-hopping/male-atoll-island-hopping-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/male-atoll-island-hopping-tour.webp",
+      "altText": "male atoll island hopping tour — Maldives activities"
+    },
+    {
+      "mediaId": "9e562789-3b71-9e3b-cc30-bd8bc1d3f2d6",
+      "relativePath": "assets/uploads/activities/island-hopping/male-city-car-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/male-city-car-tour.webp",
+      "altText": "male city car tour — Maldives activities"
+    },
+    {
+      "mediaId": "cd8b3f0a-4b95-8012-3de3-1a686e514e76",
+      "relativePath": "assets/uploads/activities/island-hopping/mtg.jpeg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/mtg.jpeg",
+      "altText": "mtg — Maldives activities"
+    },
+    {
+      "mediaId": "243f4bce-b05b-0a77-604b-7a46e27537a0",
+      "relativePath": "assets/uploads/activities/island-hopping/visit-local-island-school.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/visit-local-island-school.jpg",
+      "altText": "visit local island school — Maldives activities"
+    },
+    {
+      "mediaId": "73f638f5-133c-0a50-ee18-ebfdc983c895",
+      "relativePath": "assets/uploads/activities/island-hopping/visit-local-island-school.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/visit-local-island-school.webp",
+      "altText": "visit local island school — Maldives activities"
+    },
+    {
+      "mediaId": "2c5e8ec3-4a24-3098-dfd9-52df6f71b60d",
+      "relativePath": "assets/uploads/activities/island-hopping/visit-local-island-tour.jpg",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/visit-local-island-tour.jpg",
+      "altText": "visit local island tour — Maldives activities"
+    },
+    {
+      "mediaId": "4c0edd3e-bb81-bcb8-d1f7-890a3a962f4c",
+      "relativePath": "assets/uploads/activities/island-hopping/visit-local-island-tour.webp",
+      "storagePath": "uploads/assets/uploads/activities/island-hopping/visit-local-island-tour.webp",
+      "altText": "visit local island tour — Maldives activities"
+    }
+  ]
+}

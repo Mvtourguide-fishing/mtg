@@ -1,0 +1,74 @@
+{
+  "folder": "Radisson-Blu",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Radisson-Blu/Radisson-Blu-Maldives.html",
+  "legacyTitle": "Radisson Blu Maldives Island Resort",
+  "legacyH1": "Radisson Blu Maldives Island Resort",
+  "metaDescription": "Radisson Blu Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "excursions south ari"
+  ],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "od5aJv768h4",
+  "descriptionParagraphs": [
+    "The Radisson Blu Resort Maldives, a hidden jewel in the Indian Ocean, allows you to escape from the world and rest in elegance. Our knowledgeable team will arrange for your transportation to the hotel's island. Enjoy world-class snorkelling and diving, as well as some of the greatest spots on the planet to observe whale sharks, throughout your vacation. You may explore nearby islands such as Dhigurah and Maamigili, or you can dive right here at our Dive and Water Sports Center. Relax with a glass of champagne in your villa's own pool and share your fondest Fenfushi coral reef memories.",
+    "In this property, enjoy your coffee while relaxing on the sun porch. This contemporary option offers amazing views of the Indian Ocean, unimpeded access to the beach, and a private pool. When you're ready to go, refresh up in the bathroom, which has a bathtub, a rain shower, and a dual vanity counter. An IPTV, a sofa, a daybed, a vanity kit, IDD phones, and outside lounge chairs are among common features.",
+    "With spectacular views, a private outdoor terrace, an overwater hammock, and easy access to the pristine ocean waters, our overwater home helps you experience island life. Sunbathe on a beach chair or take a break from the sun by watching your favourite show on IPTV. A walk-in closet, a daybed, a sofa, a vanity kit, twin vanity counters, and IDD phones are other standard features.",
+    "Whether you're visiting the Maldives for world-class snorkelling and diving activities or to celebrate your honeymoon with your spouse, our villa-style accommodations provide the finest of island life with private pools, breathtaking ocean views, and 24-hour room service. To have direct access to the gorgeous beach, book a beachfront villa. Outdoor decks, sun loungers, and dual vanity counters are standard features in all villas. Begin your day with a complimentary breakfast and a hot beverage from the espresso machine. Please keep in mind that additional guests who exceed a villa's standard occupancy may be charged. Children under the age of 12 are admitted free of charge. Furthermore, we do not recommend that minors under the age of 12 stay in our overwater lodgings.",
+    "The resort is adjacent to Velana International Airport and provides two modes of transportation (domestic aircraft and seaplane) between the airport and the resort. Located in Alifu Dhaalu Atoll, an atoll known for its diverse marine life, multiple diving locations, and year-round whale shark and manta sightings.",
+    "Our restaurants at the Radisson Blu Resort Maldives inspire guests to experience something different, from Japanese cuisine to Mediterranean dishes flavoured with Asian flare. Visit Raha for an international buffet breakfast, lunch, and supper, or make an appointment at Alifaan for grilled specialties from around the world. Dine at Kabuki, our Japanese restaurant, for a journey of discovery prepared by our expert Japanese chefs, which includes a variety of drinks from Japan and the rest of the world."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1180,
+      "priceInclTax": 1231,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Radisson-Blu/images/Radisson-Blu-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Radisson-Blu/images/Radisson-Blu-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Pool Villa",
+      "price": 950,
+      "priceInclTax": 1020,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Radisson-Blu/images/Radisson-Blu-Maldives-Water-Pool-Villa.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Radisson-Blu/images",
+  "imageCount": 12,
+  "imageFiles": [
+    "Radisson-Blu-Maldives-Alifu-Dhaalu-Atoll.webp",
+    "Radisson-Blu-Maldives-Beach-Pool-Villa.webp",
+    "Radisson-Blu-Maldives-Beach-Pool-Villa1.webp",
+    "Radisson-Blu-Maldives-Honeymoon.webp",
+    "Radisson-Blu-Maldives-Island-Resort.webp",
+    "Radisson-Blu-Maldives-Island-map.webp",
+    "Radisson-Blu-Maldives-Island.webp",
+    "Radisson-Blu-Maldives-Resort-Alifu-Dhaalu-Atoll.webp",
+    "Radisson-Blu-Maldives-Resort.webp",
+    "Radisson-Blu-Maldives-Spa.webp",
+    "Radisson-Blu-Maldives-Water-Pool-Villa.webp",
+    "Radisson-Blu-Maldives.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "Baglioni-Resort",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Baglioni-Resort/Baglioni-Resort-Maldives.html",
+  "legacyTitle": "Baglioni Island Resort Maldives",
+  "legacyH1": "Baglioni Island Resort Maldives",
+  "metaDescription": "Baglioni Island is a resort located in DHaalu atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Dh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": "Maagau",
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "5d1Pp6Ky0-8",
+  "descriptionParagraphs": [
+    "Lose yourself in the expanse of the Indian Ocean, only to resurface peacefully under a palm tree. This is just one of the extraordinary experiences available at the Baglioni Resort Maldives. This amazing resort is bathed in tropical natural splendour and is dreamily dazzling on the island of Maagau in Dhaalu atoll.",
+    "Baglioni Resort Maldives received outstanding recognitions at the World Luxury Hotel Awards (Continent Winner, Luxury Beach Resort Spa - Country Winner, Fine Dining Cuisine - Regional Winner) and the Luxury Lifestyle Awards in 2022. (Best Luxury Beach Hotel).",
+    "Luxury villas surrounded by lush tropical vegetation, blue seas, and velvety-soft white beaches. Accommodation designed with typical Italian attention to detail, employing materials and design approaches for maximum sustainability while maximising the natural surroundings and its all-encompassing beauty.",
+    "Baglioni Resort Maldives is drenched with tropical natural beauty and is dreamily resplendent on the island of Maagau in Dhaalu atoll, a 40-minute seaplane ride from Malé, the Maldives' capital. Baglioni Resort Maldives was designed to minimise environmental impact, with sustainable materials and measures for maximum sustainability and efficiency. It is the ideal destination for an unforgettable stay between sport and relaxation, all complemented by a prestigious gastronomic offer for the most discerning international clientele.",
+    "From breakfast to after dinner, the Resort's unique Italian cuisine will thrill the most discerning international clients. A pool bar and grill, three excellent restaurants serving gourmet cuisine, and a Kids' Menu designed specifically for younger guests are available. Sophisticated aperitivi, wine tastings, and bespoke private dinners round out the menu.",
+    "Relax and revitalise the body and spirit with Maldivian tradition's rich rituals. At the Baglioni SPA, your Italian paradise in the middle of nature, you may share beauty and health experiences with your loved ones. In addition, our visiting professional practitioner will assist you through your inner self awareness and holistic well-being: meditation, Kundalini yoga, stress reduction and chakra balancing, alternative medical treatments such as Acupuncture and Naturopathy."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1180,
+      "priceInclTax": 1263,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Baglioni-Resort/images/Baglioni-Maldives-Beach-Villa.webp",
+        "/resorts/Baglioni-Resort/images/Baglioni-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1320,
+      "priceInclTax": 1400,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Baglioni-Resort/images/Baglioni-Maldives-Water-Villa.webp",
+        "/resorts/Baglioni-Resort/images/Baglioni-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Baglioni-Resort/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Baglioni-Maldives-Beach-Villa.webp",
+    "Baglioni-Maldives-Beach-Villa1.webp",
+    "Baglioni-Maldives-Island-Resort.webp",
+    "Baglioni-Maldives-Island.webp",
+    "Baglioni-Maldives-Water-Villa.webp",
+    "Baglioni-Maldives-Water-Villa1.webp",
+    "Baglioni-Maldives.webp",
+    "Baglioni-Resort-Maldives-Island-Beacj.webp",
+    "Baglioni-Resort-Maldives-Island-Reef.webp",
+    "Baglioni-Resort-Maldives-Island-map.webp",
+    "Baglioni-Resort-Maldives-Island-pool.webp",
+    "Baglioni-Resort-Maldives-Island-spa.webp",
+    "Baglioni-Resort-Maldives-Island.webp",
+    "Baglioni-Resort-Maldives.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "Dh"
+}

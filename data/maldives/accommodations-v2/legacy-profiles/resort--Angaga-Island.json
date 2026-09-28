@@ -1,0 +1,86 @@
+{
+  "folder": "Angaga-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Angaga-Island/Angaga-Island-Resort-Maldives.html",
+  "legacyTitle": "Angaga Island Resort & Spa Maldives",
+  "legacyH1": "Angaga Island Resort & Spa Maldives",
+  "metaDescription": "Angaga Island Resort & Spa is a resort located in Alifu atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "p21Ix-mticw",
+  "descriptionParagraphs": [
+    "The Angaga Island resort and spa is located in the heart of Ari Atoll's south. South Ari Atoll is well renowned for its abundant marine life and excellent diving opportunities. The island is bordered by white powdery sandy beaches, a crystal clear water lagoon, and a house reef teeming with colourful fish species, making it a snorkelling and diving paradise. The island is roughly 42372 square metres in size. The island is around 85 kilometres from Male airport and takes about 25 minutes to arrive by seaplane.",
+    "Your house surrounded by tropical trees, turquoise and crystal clear blue seas to stare up on where the sun always smiles. The main jetty provides access to the resort's excellent house reef for snorkelling. Keep an eye out for schools of snappers, soldierfish, batfish, and other species. Stingrays, sharks, and turtles frequent the reef, and you are extremely likely to see them when snorkelling or diving near it.",
+    "Because Angaga Island Resort & Spa is located in the heart of South Ari Atoll in the Maldives, it is a popular diving destination, and many visitors come year after year. Angaga has 50 freestanding beach bungalows, 20 water villas built on stilts over the lagoon, and another 20 premium water villas that were just erected.",
+    "Angaga Island Resort is located in the heart of South Ari Atoll, on a tiny island of 320 x 160 metres that can be accessed by seaplane in 25 minutes from Velana International Airport. Because of its handy location, it is simple to combine the tranquillity of the island with a few days of sightseeing in the surrounding town."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Bungalow",
+      "price": 250,
+      "priceInclTax": 295,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Angaga-Island/images/Angaga-Island-Resort-Spa-beach-bungalow.webp",
+        "/resorts/Angaga-Island/images/Angaga-Island-Resort-Spa-beach-bungalow1.webp"
+      ]
+    },
+    {
+      "name": "Water Bungalow",
+      "price": 350,
+      "priceInclTax": 394,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Angaga-Island/images/Angaga-Island-Resort-Spa-water-bungalow.webp",
+        "/resorts/Angaga-Island/images/Angaga-Island-Resort-Spa-beach-bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Angaga-Island/images",
+  "imageCount": 27,
+  "imageFiles": [
+    "Angaga-Island-Maldives.jpg",
+    "Angaga-Island-Maldives.webp",
+    "Angaga-Island-Resort-Maldives-map.webp",
+    "Angaga-Island-Resort-Maldives.jpg",
+    "Angaga-Island-Resort-Maldives.webp",
+    "Angaga-Island-Resort-Spa-Maldives-liabrary.jpg",
+    "Angaga-Island-Resort-Spa-Maldives-liabrary.webp",
+    "Angaga-Island-Resort-Spa-Maldives-restaurant.jpg",
+    "Angaga-Island-Resort-Spa-Maldives-restaurant.webp",
+    "Angaga-Island-Resort-Spa-Maldives.jpg",
+    "Angaga-Island-Resort-Spa-Maldives.webp",
+    "Angaga-Island-Resort-Spa-beach-bungalow.jpg",
+    "Angaga-Island-Resort-Spa-beach-bungalow.webp",
+    "Angaga-Island-Resort-Spa-beach-bungalow1.jpg",
+    "Angaga-Island-Resort-Spa-beach-bungalow1.webp",
+    "Angaga-Island-Resort-Spa-beach.jpg",
+    "Angaga-Island-Resort-Spa-beach.webp",
+    "Angaga-Island-Resort-Spa-water-bungalow.jpg",
+    "Angaga-Island-Resort-Spa-water-bungalow.webp",
+    "Angaga-Island-Resort-Spa-water-bungalow1.jpg",
+    "Angaga-Island-Resort-Spa-water-bungalow1.webp",
+    "Angaga-Island-Resort-Spa.jpg",
+    "Angaga-Island-Resort-Spa.webp",
+    "Angaga-Island-Resort.jpg",
+    "Angaga-Island-Resort.webp",
+    "Maldives-Angaga-Island-Resort-Spa.jpg",
+    "Maldives-Angaga-Island-Resort-Spa.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

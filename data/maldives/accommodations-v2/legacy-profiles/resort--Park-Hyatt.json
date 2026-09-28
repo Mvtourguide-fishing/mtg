@@ -1,0 +1,92 @@
+{
+  "folder": "Park-Hyatt",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Park-Hyatt/Park-Hyatt-Maldives-Hadahaa.html",
+  "legacyTitle": "Park Hyatt Maldives Hadahaa Island Resort",
+  "legacyH1": "Park Hyatt Maldives Hadahaa Island Resort",
+  "metaDescription": "Park Hyatt Maldives Hadahaa Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [
+    "huvadhoo"
+  ],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "MHEVNKQTr28",
+  "descriptionParagraphs": [
+    "Explore the natural beauty of the remote Huvadhoo Atoll, whether as a 'castaway' learning essential survival skills before feasting on a BBQ of fresh fish from the lagoon, picnicking on a remote uninhabited island, or snorkelling and diving among sea turtles, black tip reef sharks, barracudas, spotted eagle rays, and colourful tropical fish species. Engaging children's activities immersed in nature's playground, as well as a deeper dive into the ocean and marine life preservation at the Blue Journeys Dive and Activity Center, provide insights into long-term projects to protect the endangered ecosystem and traditional Maldivian way of life. Exquisite culinary excursions await at sophisticated but relaxed restaurant, bar, and lounge options, as well as amazing personalised private dining.",
+    "Our 165-square-meter villas have a king bed with chaise lounge, a private deck with table and chairs, loungers, an indoor and outdoor shower area with terrazzo bathtub and rain shower, and direct beach access.",
+    "Our 180-square-meter villas have a king bed, a chaise lounge overlooking a private plunge pool and balcony, an indoor and outdoor shower room with terrazzo bathtub and rain shower area, and direct beach access.",
+    "Relax in our 115 sq m water villas, which include 180° views of the ocean, a king bed, an indoor bathtub, a sun porch with a daybed, and direct access to the house reef.",
+    "This resort has 51 villas, each having a private deck with table and chairs, an outdoor garden bathroom with bathtub and rain shower, and private beach access with two sun loungers. The Deluxe Beach Pool Villas and Two Bedroom Beach Pool Villas have a private 55 sq m (592 sq ft) luxury plunge pool, as well as an outside bale/cabana with table and chairs. Overwater Sunset Pool Villas include their own freshwater plunge pool and outdoor cabana. From the private terrace outside, all water villas have stunning panoramic ocean views and individual access to the coral-filled seas below. Every villa has a personal home entertainment system, a digital media centre, an in-villa iPad with an interactive resort compendium, a flat-screen television, a DVD player, and a CD player.",
+    "Guests take a pleasant domestic flight with Maldivian to Kooddoo Domestic Airport on the North Huvadhoo (Gaafu Alifu) atoll, which takes between 60 and 105 minutes depending on the route, followed by an entertaining 30-minute speedboat ride to the resort."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 1300,
+      "priceInclTax": 1379,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Beach-Villa.webp",
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1600,
+      "priceInclTax": 1643,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Beach-Pool-Villa.webp",
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 1950,
+      "priceInclTax": 2023,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Water-Villa.webp",
+        "/resorts/Park-Hyatt/images/Park-Hyatt-Maldives-Hadahaa-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Park-Hyatt/images",
+  "imageCount": 19,
+  "imageFiles": [
+    "Park-Hyatt-Maldives-Hadahaa-Beach-Pool-Villa.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Beach-Pool-Villa1.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Beach-Villa.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Beach-Villa1.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Beach.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Gaafu-Alifu-Atoll.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Honeymoon.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Island-resort.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Jetty.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Pool.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Reception-Gaafu-Alifu-Atoll.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Reception.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Restaurant.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Spa.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Water-Villa.webp",
+    "Park-Hyatt-Maldives-Hadahaa-Water-Villa1.webp",
+    "Park-Hyatt-Maldives-Hadahaa-map.webp",
+    "Park-Hyatt-Maldives-Hadahaa-residence.webp",
+    "Park-Hyatt-Maldives-Hadahaa.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

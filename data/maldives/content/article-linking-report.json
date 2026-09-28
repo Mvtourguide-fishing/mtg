@@ -1,0 +1,482 @@
+{
+  "generatedAt": "2026-09-20T12:59:16.878Z",
+  "note": "Task 15 §25. Every number here reflects real, already-generated data: relatedEntities/relatedArticles from data/maldives/content/article-migration-report.json (Task 14's token-overlap matching against the real MTG catalogue, persisted to node_relationships by scripts/import-legacy-articles.mjs's writeCommitMigration), and in-body link counts read directly from each article's cleaned body HTML. Nothing here is a separate estimate.",
+  "summary": {
+    "totalReadyArticles": 41,
+    "byRelatedEntityType": {
+      "island": 49,
+      "resort": 8,
+      "dive_site": 4,
+      "package": 3,
+      "transfer_route": 5,
+      "surf_break": 4,
+      "atoll": 1
+    },
+    "totalLocationTags": 58,
+    "totalNonLocationEntityRelationships": 16,
+    "totalArticleToArticleRelationships": 86,
+    "totalNodeRelationshipRows": 102,
+    "totalInBodyContextualLinks": 43,
+    "articlesWithNoRelatedContent": 16,
+    "articlesWithAtLeastOneRelatedArticle": 23,
+    "articlesWithAtLeastOneInBodyLink": 21
+  },
+  "articlesWithNoRelatedContent": [
+    "the-cheapest-time-to-visit-the-maldives-a-comprehensive-guide",
+    "las-islas-maldivas",
+    "maldives-in-august-weather-activities-expert-travel-guide",
+    "maldives-in-december-weather-activities-expert-travel-guide",
+    "maldives-in-february-weather-activities-expert-travel-guide",
+    "maldives-in-january-weather-activities-expert-travel-guide",
+    "maldives-in-july-weather-activities-expert-travel-guide",
+    "maldives-in-march-weather-activities-expert-travel-guide",
+    "maldives-in-may-the-perfect-shoulder-season-escape",
+    "maldives-in-november-weather-activities-expert-travel-guide",
+    "maldives-in-october-weather-activities-expert-travel-guide",
+    "maldives-in-september-weather-activities-expert-travel-guide",
+    "maldives-religion-a-comprehensive-analysis-of-faith-history-and-demographics",
+    "malediven-urlaub",
+    "most-famous-places-in-the-world",
+    "romantic-things-to-do-in-the-maldives-for-couples"
+  ],
+  "articles": [
+    {
+      "candidateSlug": "maldives-honeymoon-ultimate-romantic-getaway-guide",
+      "candidateTitle": "Maldives Honeymoon: Ultimate Romantic Getaway Guide",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "best-adults-only-maldives-resorts",
+      "candidateTitle": "Best Adults-Only Maldives Resorts",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 1,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "15-most-beautiful-places-in-maldives-paradise-found",
+      "candidateTitle": "15 Most Beautiful Places in Maldives: Paradise Found",
+      "relatedLocationCount": 4,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 3,
+      "inBodyLinkCount": 4,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "beautiful-places-to-visit-in-maldives",
+      "candidateTitle": "Beautiful Places to Visit in Maldives",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 2,
+      "relatedEntityTypes": [
+        "resort",
+        "package"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "12-best-beaches-in-maldives-ultimate-paradise-guide",
+      "candidateTitle": "12 Best Beaches in Maldives: Ultimate Paradise Guide",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "best-maldives-resorts-for-couples-romantic-getaways",
+      "candidateTitle": "Best Maldives Resorts for Couples: Romantic Getaways",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 2,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "100-best-things-to-do-in-the-maldives-an-ultimate-guide",
+      "candidateTitle": "100 Best things to Do in the Maldives: An Ultimate Guide",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "the-cheapest-time-to-visit-the-maldives-a-comprehensive-guide",
+      "candidateTitle": "The Cheapest Time to Visit the Maldives: A Comprehensive Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "ilhas-maldivas-para-visitantes",
+      "candidateTitle": "Ilhas Maldivas para visitantes",
+      "relatedLocationCount": 8,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 7,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "las-islas-maldivas",
+      "candidateTitle": "Las Islas Maldivas",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-accommodation-guide-where-to-stay-in-paradise",
+      "candidateTitle": "Maldives Accommodation Guide: Where to Stay in Paradise",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-on-a-budget-complete-2024-guide-to-affordable-travel",
+      "candidateTitle": "Maldives on a Budget: Complete 2024 Guide to Affordable Travel",
+      "relatedLocationCount": 3,
+      "relatedEntityCount": 2,
+      "relatedEntityTypes": [
+        "transfer_route"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-culture-guide-traditions-customs-cultural-experiences",
+      "candidateTitle": "Maldives Culture Guide: Traditions, Customs & Cultural Experiences",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "best-maldives-diving-spots-ultimate-guide",
+      "candidateTitle": "Best Maldives Diving Spots: Ultimate Guide",
+      "relatedLocationCount": 7,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 4,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "best-maldives-honeymoon-packages-for",
+      "candidateTitle": "Best Maldives Honeymoon Packages for",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-huts-on-water-the-ultimate-overwater-villas",
+      "candidateTitle": "Maldives Huts On Water : The Ultimate Overwater Villas",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-in-april-perfect-weather-lower-prices",
+      "candidateTitle": "Maldives in April: Perfect Weather, Lower Prices",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-in-august-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in August: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-december-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in December: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-february-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in February: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-january-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in January: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-july-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in July: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-june-weather-activities-travel-guide",
+      "candidateTitle": "Maldives in June: Weather, Activities & Travel Guide",
+      "relatedLocationCount": 3,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-in-march-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in March: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-may-the-perfect-shoulder-season-escape",
+      "candidateTitle": "Maldives in May: The Perfect Shoulder Season Escape",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-november-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in November: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-october-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in October: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-in-september-weather-activities-expert-travel-guide",
+      "candidateTitle": "Maldives in September: Weather, Activities & Expert Travel Guide",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "male-airport-velana-international-airport",
+      "candidateTitle": "Malé Airport | Velana International Airport",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "transfer_route"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "the-people-of-the-maldives-a-cultural-tapestry-of-resilience-and-tradition",
+      "candidateTitle": "The People of the Maldives: A Cultural Tapestry of Resilience and Tradition",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-private-islands-ultimate-luxury-getaway-guide",
+      "candidateTitle": "Maldives Private Islands: Ultimate Luxury Getaway Guide",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 3,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "maldives-religion-a-comprehensive-analysis-of-faith-history-and-demographics",
+      "candidateTitle": "Maldives Religion: A Comprehensive Analysis of Faith, History, and Demographics",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "maldives-weather-guide-month-by-month-climate-information-for",
+      "candidateTitle": "Maldives Weather Guide: Month by Month Climate Information for",
+      "relatedLocationCount": 4,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "resort"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 3,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "malediven-urlaub",
+      "candidateTitle": "Malediven Urlaub",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "most-famous-places-in-the-world",
+      "candidateTitle": "Most Famous Places In The World",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "romantic-things-to-do-in-the-maldives-for-couples",
+      "candidateTitle": "Romantic Things to Do in the Maldives for Couples",
+      "relatedLocationCount": 0,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 0,
+      "inBodyLinkCount": 0,
+      "hasAnyRelatedContent": false
+    },
+    {
+      "candidateSlug": "things-to-do-in-the-maldives-for-family-a-comprehensive-guide",
+      "candidateTitle": "Things to Do in the Maldives for Family: A Comprehensive Guide",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 2,
+      "relatedEntityTypes": [
+        "resort",
+        "package"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 2,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "things-to-do-in-maldives",
+      "candidateTitle": "Things to do in Maldives",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "package"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "underwater-hotels-and-restaurants-in-maldives",
+      "candidateTitle": "Underwater Hotels and Restaurants In Maldives",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 0,
+      "relatedEntityTypes": [],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "where-is-maldives-located",
+      "candidateTitle": "Where Is Maldives Located?",
+      "relatedLocationCount": 1,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "transfer_route"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    },
+    {
+      "candidateSlug": "the-maldives",
+      "candidateTitle": "The Maldives",
+      "relatedLocationCount": 2,
+      "relatedEntityCount": 1,
+      "relatedEntityTypes": [
+        "transfer_route"
+      ],
+      "relatedArticleCount": 4,
+      "inBodyLinkCount": 1,
+      "hasAnyRelatedContent": true
+    }
+  ]
+}

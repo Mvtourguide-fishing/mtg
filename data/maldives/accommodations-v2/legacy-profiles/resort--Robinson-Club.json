@@ -1,0 +1,92 @@
+{
+  "folder": "Robinson-Club",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Robinson-Club/Robinson-Club-Noonu-Maldives.html",
+  "legacyTitle": "Robinson Club Noonu Maldives Island Resort",
+  "legacyH1": "Robinson Club Noonu Maldives Island Resort",
+  "metaDescription": "Robinson Club Noonu Maldives Island is a five star resort located in Noonu Atoll, Maldives",
+  "metaAtollCodes": [
+    "N"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "N"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "orivaru noonu"
+  ],
+  "explicitIslandName": "Orivaru",
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "UXjDrUMTT-Y",
+  "descriptionParagraphs": [
+    "Robinson Club Noonu, You'll experience the Maldives in a whole new manner with ROBINSON, whether you're barefoot on the sand at our famous Sundowner bar on the peninsula, tastefully attired in our Teppanyaki restaurant elevated on stilts, or on a dive over the stunning Noonu Atoll. Our all-inclusive \"crafted by ROBINSON\" package and our island's easy accessibility from Malé (only 45 minutes) make it ideal for families. We hope to see you there!",
+    "The Robinson Club Noonu has 150 rooms, three restaurants, and two bars to keep you entertained during your stay.",
+    "The club situated on the island of Orivaru Noonu Atoll, some 200 kilometres north of Male International Airport. Transfer time: 45 minutes by seaplane from/to Male, or 35 minutes by domestic aircraft to Ifuru, followed by 45 minutes by speedboat.",
+    "Vegetarian dishes, vegan dinners, whole foods, food combining alternatives, gourmet plated meals, nutrition-conscious cuisine, lactose-free dishes, regional and seasonal produce. Meals tailored to individual dietary needs (e.g., allergies) in collaboration with the resort and based on area alternatives.",
+    "Dive locations with pristine coral reefs, club-owned reefs, and rare marine life. PADI organises the ROBINSON diving centre, and the instructors are trained in compliance with the applicable association requirements.",
+    "Snorkeling or diving: the Maldives are suitable for all types of underwater activities. Both services are offered for an extra fee at ROBINSON NOONU."
+  ],
+  "rooms": [
+    {
+      "name": "Deluxe Room Seaview Balcony",
+      "price": 300,
+      "priceInclTax": 364,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Beach-Seaview-Room.webp",
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Beach-Seaview-Room1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Bungalow",
+      "price": 530,
+      "priceInclTax": 606,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Beach-Pool-Bungalow.webp",
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Beach-Pool-Bungalowq.webp"
+      ]
+    },
+    {
+      "name": "Overwater Pool Bungalow",
+      "price": 500,
+      "priceInclTax": 547,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Overwater-Pool-Bungalow.webp",
+        "/resorts/Robinson-Club/images/Robinson-Club-Noonu-Overwater-Pool-Bungalow1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Robinson-Club/images",
+  "imageCount": 17,
+  "imageFiles": [
+    "Robinson-Club-Noonu-Beach-Pool-Bungalow-Noonu-Atoll.webp",
+    "Robinson-Club-Noonu-Beach-Pool-Bungalow.webp",
+    "Robinson-Club-Noonu-Beach-Pool-Bungalowq.webp",
+    "Robinson-Club-Noonu-Beach-Seaview-Room.webp",
+    "Robinson-Club-Noonu-Beach-Seaview-Room1.webp",
+    "Robinson-Club-Noonu-Beach.webp",
+    "Robinson-Club-Noonu-Hotel-Maldives.webp",
+    "Robinson-Club-Noonu-Island-Resort.webp",
+    "Robinson-Club-Noonu-Maldives-Noonu-Atoll.webp",
+    "Robinson-Club-Noonu-Maldives-map.webp",
+    "Robinson-Club-Noonu-Maldives.webp",
+    "Robinson-Club-Noonu-Overwater-Pool-Bungalow.webp",
+    "Robinson-Club-Noonu-Overwater-Pool-Bungalow1.webp",
+    "Robinson-Club-Noonu-Resort.webp",
+    "Robinson-Club-Noonu-Snorkeling.webp",
+    "Robinson-Club-Noonu-hotel.webp",
+    "Robinson-Club-Noonu.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "N"
+}

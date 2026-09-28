@@ -1,0 +1,74 @@
+{
+  "folder": "JA-Manafaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/JA-Manafaru/JA-Manafaru-Maldives.html",
+  "legacyTitle": "JA Manafaru Maldives Island Resort",
+  "legacyH1": "JA Manafaru Maldives Island Resort",
+  "metaDescription": "JA Manafaru Maldives Island is a resort located in H,Alif Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "HA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "RUmR4femVf4",
+  "descriptionParagraphs": [
+    "Dreams of Romance in a Tropical Island Paradise Experience an enchanting island retreat in the Maldives' remote sanctuary of JA Manafaru. A tropical Maldives resort in the Indian Ocean blends the tranquillity of the Maldives with six venues, extra In-villa and Destination Dining offers, numerous recreational activities, and unique spa and wellness amenities.",
+    "Set amid a beautiful oasis around the resort's main swimming pool, the Mediterranean-inspired Bistro is available for lunch and afternoon meals until early evening. Ideal for couples and families that require all-day dining till late meal.",
+    "Pool on the beach Villa surrounded by tropical vegetation, just steps from the gorgeous beach and your private beach cabana. Cozy living rooms with an open-air bathroom that leads to an attractive sundeck, a pool, a daybed and sun loungers in the garden and on the beach. While dining al fresco in your private beach dining cabana, take in the wind.",
+    "Wake awake to the sound of the Indian Ocean. As the sun rises over the horizon, watch the water below your villa reflect the morning light from your sun terrace. Connect with nature directly from your villa or view from the glass floor panel in luxury. Relax your body and mind in your own infinity pool or on the terrace with the most breathtaking views.",
+    "Do you fantasise of a romantic getaway in your own overwater villa with direct access to the ocean? Maybe you fantasise of walking out of your Beach Villa onto the lovely beach that surrounds the island. Whatever your heart desires, we offer many of alternatives for your island stay, and all of them include your very own private plunge pool and daily breakfast. Discover nature's splendours at their best. Whether you choose beachfront or waterfront living, each of JA Manafaru's 84 villas and homes has been designed to fit in with the island's natural scenery.",
+    "Domestic flight: The trip from Male' International Airport to Hanimadhoo Island takes around 55 minutes. After that, a 45-minute speedboat ride from Hanimadhoo Island to JA Manafaru Private Island follows. Private seaplane flight: The voyage from Male' International Airport to JA Manafaru Private Island takes around 90 minutes."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1200,
+      "priceInclTax": 1284,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JA-Manafaru/images/JA-Manafaru-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+        "/resorts/JA-Manafaru/images/JA-Manafaru-Maldives-Island-Resort-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Sunrise Water Villa Pool",
+      "price": 1400,
+      "priceInclTax": 1463,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/JA-Manafaru/images/JA-Manafaru-Maldives-Island-Resort-Sunrise-Water-Villa.webp",
+        "/resorts/JA-Manafaru/images/JA-Manafaru-Maldives-Island-Resort-Sunrise-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/JA-Manafaru/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "JA-Manafaru-Dhidhdhoo-Maldives-Island-Resort-Beach.webp",
+    "JA-Manafaru-Dhidhdhoo-Maldives-Island-Resort-Pool.webp",
+    "JA-Manafaru-Dhidhdhoo-Maldives-Island-Resort.webp",
+    "JA-Manafaru-Dhidhoo-Maldives-Island-Resort-Haa-Alif-Atoll.webp",
+    "JA-Manafaru-Dhidhoo-Maldives-Island-Resort.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Activities-Haa-Alif-Atoll.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Activities.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Beach-Pool-Villa.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Beach-Pool-Villa1.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Dinning.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Restaurant.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Sunrise-Water-Villa.webp",
+    "JA-Manafaru-Maldives-Island-Resort-Sunrise-Water-Villa1.webp",
+    "JA-Manafaru-Maldives-Island-Resort.webp",
+    "JA-Manafaru-Maldivesi-Island-map.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "HA"
+}

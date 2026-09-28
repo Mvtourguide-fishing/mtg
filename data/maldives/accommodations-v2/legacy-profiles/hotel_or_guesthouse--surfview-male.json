@@ -1,0 +1,61 @@
+{
+  "folder": "surfview-male",
+  "propertyKind": "hotel_or_guesthouse",
+  "sourceFile": "hotels/surfview-male/surfview-hotel-in-male-maldives.html",
+  "legacyTitle": "Surfview Hotel in Male Maldives",
+  "legacyH1": "Surfview Hotel Male Maldives",
+  "metaDescription": "Surfview is a hotel opened in the local island of male\nmale atoll",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": null,
+  "descriptionParagraphs": [
+    "The hotel has spectacular sea and city views and is located on the seafront with 11 signature rooms that offer comfort and connectivity. Surfview Raalhugandhu is centrally located in Male' City, just a short walk from banks, parks, and souvenir shops.",
+    "Surfview Raalhugandhu has 11 signature rooms that will provide guests with the best in service and comfort."
+  ],
+  "rooms": [
+    {
+      "name": "Superior Room",
+      "price": 64,
+      "priceInclTax": 106,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/surfview-male/images/surfview-hotel-superior-room.webp"
+      ]
+    },
+    {
+      "name": "Sea View Room",
+      "price": 93,
+      "priceInclTax": 117,
+      "currency": "USD",
+      "bedType": null,
+      "maxOccupancy": null,
+      "images": [
+        "/hotels/surfview-male/images/surfview-hotel-seaview-room.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "hotels/surfview-male/images",
+  "imageCount": 10,
+  "imageFiles": [
+    "surfview-hotel-in-male-maldives.jpg",
+    "surfview-hotel-in-male-maldives.webp",
+    "surfview-hotel-male-city-maldives.webp",
+    "surfview-hotel-male-city.webp",
+    "surfview-hotel-male-maldives.webp",
+    "surfview-hotel-male.webp",
+    "surfview-hotel-map.webp",
+    "surfview-hotel-seaview-room.webp",
+    "surfview-hotel-superior-room.webp",
+    "surfview-hotel.webp"
+  ],
+  "atollConfidence": "none",
+  "resolvedAtollCode": null
+}

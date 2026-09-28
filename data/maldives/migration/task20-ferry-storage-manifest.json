@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-20T16:54:39.929Z",
+  "files": [
+    {
+      "mediaId": "ffd6ee63-6d63-f58c-c820-806354b742c6",
+      "relativePath": "images/ferry/Kulhudhufushi-ferry-transfer.webp",
+      "storagePath": "legacy/images/ferry/kulhudhufushi-ferry-transfer.webp"
+    },
+    {
+      "mediaId": "c2b9b196-dfef-f863-db02-323dab5feadf",
+      "relativePath": "images/ferry/manadhoo-ferry-schedule.webp",
+      "storagePath": "legacy/images/ferry/manadhoo-ferry-schedule.webp"
+    },
+    {
+      "mediaId": "0efd6172-3488-e3cf-9e44-c3d5480f0653",
+      "relativePath": "images/ferry/noonu-atoll-ferry-transfer.webp",
+      "storagePath": "legacy/images/ferry/noonu-atoll-ferry-transfer.webp"
+    },
+    {
+      "mediaId": "75f5c523-664c-689d-4dea-100cf466a73b",
+      "relativePath": "images/ferry/raa-atoll-transfer-schedule.webp",
+      "storagePath": "legacy/images/ferry/raa-atoll-transfer-schedule.webp"
+    },
+    {
+      "mediaId": "06f9023d-4ca8-bdec-b645-2ff2066ff509",
+      "relativePath": "images/ferry/maldives-ferry-transfer-schedules.webp",
+      "storagePath": "legacy/images/ferry/maldives-ferry-transfer-schedules.webp"
+    },
+    {
+      "mediaId": "a1ac62d5-efab-9389-3aec-f5a9f9f78871",
+      "relativePath": "images/ferry/alifu-atoll-ferry-transfer-schedule.webp",
+      "storagePath": "legacy/images/ferry/alifu-atoll-ferry-transfer-schedule.webp"
+    },
+    {
+      "mediaId": "3816c30e-7384-4502-f381-7022cf59ad3d",
+      "relativePath": "images/ferry/maldives-island-transfers-schedules.webp",
+      "storagePath": "legacy/images/ferry/maldives-island-transfers-schedules.webp"
+    },
+    {
+      "mediaId": "4d34471f-a93b-6dae-2ef4-cdeaee1d08a0",
+      "relativePath": "images/ferry/vaavu-atoll-ferry-transfer-schedules.webp",
+      "storagePath": "legacy/images/ferry/vaavu-atoll-ferry-transfer-schedules.webp"
+    },
+    {
+      "mediaId": "3ac2a2fe-55c8-86ba-269b-b5d4d35e7043",
+      "relativePath": "images/ferry/maamigili-ferry-transfer-schedule.webp",
+      "storagePath": "legacy/images/ferry/maamigili-ferry-transfer-schedule.webp"
+    }
+  ]
+}

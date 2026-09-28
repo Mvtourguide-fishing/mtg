@@ -1,0 +1,75 @@
+{
+  "folder": "Jumeirah-Olhahali",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Jumeirah-Olhahali/Jumeirah-Olhahali-Island-Maldives.html",
+  "legacyTitle": "Jumeirah Maldives Olhahali Island Resort",
+  "legacyH1": "Jumeirah Maldives Olhahali Island Resort",
+  "metaDescription": "Jumeirah Maldives Olhahali Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "EAExZzTcTGI",
+  "descriptionParagraphs": [
+    "The Jumeirah Maldives Olhahali Island is an all-day dining venue with professional chefs serving a diverse menu of foreign delicacies. Take in the soft sea breeze on the open-air terrace atop the seclusion of your beautiful villa while you revel in your rooftop movie experience, whether it's a treasured family event or a significant romantic getaway. Our beach boutique offers an uplifting luxury experience for discerning travellers seeking serenity away from it all. Discover a diverse range of outstanding and ecologically responsible resort wear, menswear, womenswear, childrenswear, accessories, and jewellery from across the world, as well as Maldivian crafts.",
+    "A isolated one-bedroom villa with its own infinity pool that ends only with the atoll's beautiful dunes and blue ocean. Relax on your rooftop or poolside and enjoy views that are uniquely yours.",
+    "Our Water Villa is perched atop the coral, on a pier extending out into the blue waters of the North Lagoon. From your private rooftop terrace, where you may dine or simply rest, you can see even further across the ocean. Sit in a covered sunken salon on the lower deck, or chill off and drift in your own pool.",
+    "Each house is capped with a stunning private Sky-Lounge for the first time in the Maldives. Every room, whether on the beach or on stilts over water, has a private pool and an inspiring expanse of sky-lounge roof deck. With all seven accommodation types elevating indoor-outdoor living to new heights of breezy sophistication, this is a Maldives-exclusive elevated island experience.",
+    "It takes 45 minutes by luxury speedboat from Velana International Airport to reach this tiny resort, which is a visual feast of nautical forms and tones. Each of the 67 double-story villas offers a private pool with a vibrant South Beach vibe, thanks to the new vision of Singaporean design studio Miaja.",
+    "Set sail over the glistening sea on one of Jumeirah Maldives' special yachts, from awe-inspiring sunset cruises to a joyous adventure in search of the friendly Maldivian dolphins. Guests at Jumeirah Maldives may also book chartered tailored excursions, including as fishing trips or visits to other local islands."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 2300,
+      "priceInclTax": 2383,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Jumeirah-Olhahali/images/Jumeirah-Olhahali-Island-Maldives-Beach-Villa-Pool.webp",
+        "/resorts/Jumeirah-Olhahali/images/Jumeirah-Olhahali-Island-Maldives-Beach-Villa-Pool1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa Pool",
+      "price": 2100,
+      "priceInclTax": 2171,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Jumeirah-Olhahali/images/Jumeirah-Olhahali-Island-Maldives-Water-Villa-Pool.webp",
+        "/resorts/Jumeirah-Olhahali/images/Jumeirah-Olhahali-Island-Maldives-Water-Villa-Pool1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Jumeirah-Olhahali/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Jumeirah-Olhahali-Island-Maldives-Beach-Villa-Pool.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Beach-Villa-Pool1.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Beach.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Dinning.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Island-map.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Luxury-Hotel-Male-Atoll.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Luxury-Hotel.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Male-Atoll.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Pool.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Resort.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Water-Villa-Pool.webp",
+    "Jumeirah-Olhahali-Island-Maldives-Water-Villa-Pool1.webp",
+    "Jumeirah-Olhahali-Island-Maldives-five-star-hotel.webp",
+    "Jumeirah-Olhahali-Island-Maldives.webp",
+    "Jumeirah-Olhahali-Island-Resort-Maldives.webp",
+    "Jumeirah-Olhahali-Maldives.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

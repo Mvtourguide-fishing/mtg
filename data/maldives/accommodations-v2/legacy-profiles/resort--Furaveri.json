@@ -1,0 +1,89 @@
+{
+  "folder": "Furaveri",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Furaveri/Furaveri-Maldives.html",
+  "legacyTitle": "Furaveri Maldives Island Resort",
+  "legacyH1": "Furaveri Maldives Island Resort",
+  "metaDescription": "Furaveri Maldives Island is a resort located in Raa Atoll, Maldives",
+  "metaAtollCodes": [
+    "R"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "R"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "qucF2L2aKvY",
+  "descriptionParagraphs": [
+    "We tuned in to the basic beauty of the surroundings, staying loyal to key ideals such as making the best of what we had. Furaveri Maldives is a five-star premium resort where the open ocean meets the lagoon and the warm sunset yellow of wonderful evenings by the beach lulls you to sleep in a tree-fortified hideaway. An island abounding in life, as seen by the white herons that can be found across the island, the vivid screwpine trees, the numerous turtles in our reef, and the gentle mantas that visit us on occasion.",
+    "Our Beach Villas, perched along Furaveri's secluded beachfront, appear to move more leisurely, the perfect fantasy of carefree island living. As you relax in the maximum luxury of your strange, hidden sanctuary, take in clear views of the hypnotic blues beyond. Barefoot luxury in its purest form.",
+    "Enjoy maximum seaside enjoyment at our magnificent Beach Pool Villas, which combine all of the wonders that the Maldives is famous for. These villas, located in front of Furaveri's pure unspoilt beach, are the ideal choice for anyone looking to relax and soak in the island enchantment. What you have here is pure and simple bliss.",
+    "The view from our sleek and modern Water Villas is never the same twice, surrounded by ever-changing blue colours. Relax in an artistically crafted area, and when the ocean beckons, stroll down a few steps and slide into the lagoon directly from your sundeck. A delightful getaway in a wonderfully gorgeous environment.",
+    "We offer a variety of cosy options for your stay at Furaveri Maldives, from entry level Garden Villas to luxurious Ocean Pool Villas and Residences, all of which have been specifically designed to meet guests' individual preferences and are set among lush vegetation and over water, on a sandy white beach, or settled above a sparkling turquoise lagoon.",
+    "Furaveri Maldives is a tropical 23-hectare coral island that is around 750m long and 400m broad. It is located in the unique Raa Atoll, some 151km north of the capital city, Malé. Furaveri is only a lovely 45-minute seaplane journey from the international airport. Domestic flights from adjacent Dharavandhoo and Ifuru airports take 20 minutes, followed by a 45-minute speed boat trip to Furaveri Maldives."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 450,
+      "priceInclTax": 482,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Furaveri/images/Furaveri-Maldives-Beach-Villa.webp",
+        "/resorts/Furaveri/images/Furaveri-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 600,
+      "priceInclTax": 640,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Furaveri/images/Furaveri-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Furaveri/images/Furaveri-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 500,
+      "priceInclTax": 5600,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Furaveri/images/Furaveri-Maldives-Water-Villa.webp",
+        "/resorts/Furaveri/images/Furaveri-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Furaveri/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Furaveri-Maldives-Activities.webp",
+    "Furaveri-Maldives-Beach-Pool-Villa.webp",
+    "Furaveri-Maldives-Beach-Pool-Villa1.webp",
+    "Furaveri-Maldives-Beach-Raa-Atoll.webp",
+    "Furaveri-Maldives-Beach-Villa.webp",
+    "Furaveri-Maldives-Beach-Villa1.webp",
+    "Furaveri-Maldives-Beach.webp",
+    "Furaveri-Maldives-Dinning.webp",
+    "Furaveri-Maldives-Diving.webp",
+    "Furaveri-Maldives-Island-Resort.webp",
+    "Furaveri-Maldives-Island-map.webp",
+    "Furaveri-Maldives-Island.webp",
+    "Furaveri-Maldives-Raa-Atoll.webp",
+    "Furaveri-Maldives-Water-Villa.webp",
+    "Furaveri-Maldives-Water-Villa1.webp",
+    "Furaveri-Maldives.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "R"
+}

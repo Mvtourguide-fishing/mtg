@@ -1,0 +1,76 @@
+{
+  "folder": "OBLU-XPERIENCE-Ailafushi",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/OBLU-XPERIENCE-Ailafushi/OBLU-XPERIENCE-Ailafushi-Maldives.html",
+  "legacyTitle": "OBLU XPErience Ailafushi Maldives Island Resort",
+  "legacyH1": "OBLU XPErience Ailafushi Maldives Island Resort",
+  "metaDescription": "OBLU XPErience Ailafushi Maldives Island is a five star resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "K"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "2KS4bmFNL7Y",
+  "descriptionParagraphs": [
+    "Immerse yourself in carefree tropical island living at OBLU Xperience Ailafushi, with exhilarating activities, whimsical decor, and a vibrant party environment. Ailafushi island, which means \"family island\" in Dhivehi, is a 15-minute speedboat journey from Malé International Airport. This limited-service 4-Star Island Resort has 268 rooms divided into four categories. With its busy retail and café environment, La Promenade offers a touch of sophistication where you can socialise with like-minded folks. Simply unbeatable!",
+    "The beautiful Beach Villas are only a few steps away from the white, sandy beach. Dip into the lagoon whenever you like. Alternatively, relax on your private outside veranda and garden. Warm, oak floors, a soft bed, a large sofa, beautiful themes, and vivid fabrics make the interiors just as appealing. A walk-in closet connects to a spa-like bathroom with marble vanity and an outdoor shower overlooking a garden. Everything you need to unwind in luxury is available! Enjoy your favourite beverages in your villa, with a selection of wines and spirits available for buy separately at the Wine Boutique at La Promenade and other resort locations.",
+    "The water homes are accessible through a wooden pier that stretches into the beautiful lagoon. Each overwater refuge is designed in the style of a traditional Maldivian boat - a 'dhoni' - giving the impression of an intimate, romantic getaway. Relax on your private terrace or descend the staircase for a relaxing dip in the warm sea lapped softly against your villa. Enjoy your favourite beverages in your villa, with a selection of wines and spirits available for buy separately at the Wine Boutique at La Promenade and other resort locations.",
+    "Experience the magnificent Indian Ocean from a bright beach or overwater villa with spectacular ocean views. A joyful, free-spirited stay is created by refreshingly warm, compassionate service and delightfully furnished spaces.",
+    "The OBLU XPErience Ailafushi is conveniently positioned on the northwestern tip of Male' Atoll, about 20 minutes via speed boat from Velana International Airport. The magnificent Beach & Water Villas on their own.",
+    "At Element X, a limited-service all-day eating restaurant, a joyful, chilled-out balance is at the centre of the dining experience. Share wonderful family memories over delectable feasts and self-service beverage kiosks. Immerse in a multi-layered experience at the vibrant X360 bar - with a distinctively engaging, joyful, and exuberant ambiance. Try the Copper Pot Food Truck's refreshing 'Surf & Turf' grills beneath a starlit sky, or book a reservation for a refined Modern Gastronomic experience at the iconic under ocean restaurant, Only BLU. The Fushi PlanTM includes the Element X and X360 bar. Dining at Copper Pot Food Truck and Only BLU is fee-based."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 500,
+      "priceInclTax": 532,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-XPERIENCE-Ailafushi/images/OBLU-XPErience-Ailafushi-Maldives-Beach-Villa.webp",
+        "/resorts/OBLU-XPERIENCE-Ailafushi/images/OBLU-XPErience-Ailafushi-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 500,
+      "priceInclTax": 585,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/OBLU-XPERIENCE-Ailafushi/images/OBLU-XPErience-Ailafushi-Maldives-Water-Villa.webp",
+        "/resorts/OBLU-XPERIENCE-Ailafushi/images/OBLU-XPErience-Ailafushi-Maldives-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/OBLU-XPERIENCE-Ailafushi/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "OBLU-XPERIENCE-Ailafushi-Maldives-Island-map.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Beach-Island.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Beach-Villa.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Beach-Villa1.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Beach.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Pool-North-male-Atoll.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Pool.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Resort.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Rooms.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Water-Villa.webp",
+    "OBLU-XPErience-Ailafushi-Maldives-Water-Villa1.webp",
+    "OBLU-XPErience-Ailafushi-Maldives.webp",
+    "OBLU-XPErience-Ailafushi-North-male-Atoll.webp",
+    "OBLU-XPErience-Ailafushi-Pool.webp",
+    "OBLU-XPErience-Ailafushi.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "K"
+}

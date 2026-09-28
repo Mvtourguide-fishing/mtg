@@ -1,0 +1,78 @@
+{
+  "folder": "Komandoo-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Komandoo-Island/Komandoo-Island-Resort-Maldives.html",
+  "legacyTitle": "Komandoo Island Resort and Spa Maldives",
+  "legacyH1": "Komandoo Island Resort and Spa Maldives",
+  "metaDescription": "Komandoo Island Resort and Spa Maldives is a resort located in Lhaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "the lhaviyani"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "USCSU8yKo_Y",
+  "descriptionParagraphs": [
+    "Komandoo is tailor-made for romance, combining the splendour of the Maldives with the charm of a tiny resort. A laid-back hideaway guaranteed by award-winning attentiveness and a variety of leisure activities, ideal for your honeymoon, a calm romantic holiday, or a trip with friends. Pure and uncomplicated paradise awaits. The Maldives is linked with honeymoons and unforgettable vacations, and it is a popular destination for adults-only retreats. One of the many reasons people pick the Maldives as a vacation destination is the 'One Island, One Resort' idea.",
+    "Komandoo's Beach Villas, with their tastefully equipped environment reminiscent of traditional Maldives, are the ideal hideaway for those looking for a romantic break. Enjoy your own private terrace with views of Komandoo's stunning blue lagoon. The Komandoo Beach Villas are huge timber bungalows tucked away along the beach. Each villa includes a wooden balcony from which to enjoy the sound of the ocean and the breathtaking scenery. These traditional Maldivian villas create a peaceful environment for your stay at Komandoo.",
+    "The most coveted villas on Komandoo ensure a magnificent and romantic setting for your stay in paradise. A spacious, partially roofed wooden terrace with a stairway running down to the water provides you with your own own slice of paradise. The tranquillity of the lagoon makes these villas an ideal choice for your honeymoon or a romantic holiday with your sweetheart. Relax in your own Jacuzzi or spa bath while staring out over the horizon where turquoise seas meet sapphire-colored skies.",
+    "Nothing says \"vacation\" like a lovely villa that provides much-needed peace and relaxation. Offering genuine Maldivian luxury and charm, as well as a picture-perfect site, either on the beach or above the lagoon. The villas at Komandoo will take your breath away with their lovely surroundings.",
+    "Komandoo is located in the Lhaviyani Atoll, a scenic 40-minute seaplane ride from Male\"s Velana International Airport.",
+    "Whether it's a romantic lunch for two beneath the stars, a bountiful buffet, or fine dining, Komandoo provides great dining options for all occasions, including the opportunity to dine under the sea at our sister resort, Hurawalhi Maldives. Komandoo's dining and drinking options are rounded out with a selection of bars where you may sip your favourite libation. Aqua, Komandoo's a-la-carte restaurant, is just breathtaking. Diners may savour exquisite delicacies while perched on stilts over the lagoon, surrounded by the natural splendour of the Maldives."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 500,
+      "priceInclTax": 555,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Komandoo-Island/images/Komandoo-Island-Resort-and-Spa-Beach-Villa.webp",
+        "/resorts/Komandoo-Island/images/Komandoo-Island-Resort-and-Spa-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "JACUZZI WATER VILLA",
+      "price": 700,
+      "priceInclTax": 754,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Komandoo-Island/images/Komandoo-Island-Resort-and-Spa-Water-Villa.webp",
+        "/resorts/Komandoo-Island/images/Komandoo-Island-Resort-and-Spa-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Komandoo-Island/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "Komandoo-Island-Resort-Maldives-map.webp",
+    "Komandoo-Island-Resort-and-Spa-Beach-Villa.webp",
+    "Komandoo-Island-Resort-and-Spa-Beach-Villa1.webp",
+    "Komandoo-Island-Resort-and-Spa-Dinning.webp",
+    "Komandoo-Island-Resort-and-Spa-Diving.webp",
+    "Komandoo-Island-Resort-and-Spa-Gym.webp",
+    "Komandoo-Island-Resort-and-Spa-Lhaviyani-Atoll.webp",
+    "Komandoo-Island-Resort-and-Spa-Maldives.webp",
+    "Komandoo-Island-Resort-and-Spa-Pool-Lhaviyani-Atoll.webp",
+    "Komandoo-Island-Resort-and-Spa-Pool.webp",
+    "Komandoo-Island-Resort-and-Spa-Restaurant.webp",
+    "Komandoo-Island-Resort-and-Spa-Water-Sports.webp",
+    "Komandoo-Island-Resort-and-Spa-Water-Villa.webp",
+    "Komandoo-Island-Resort-and-Spa-Water-Villa1.webp",
+    "Komandoo-Island-Resort-and-Spa.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Lh"
+}

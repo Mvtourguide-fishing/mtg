@@ -1,0 +1,83 @@
+{
+  "folder": "Nova",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Nova/Nova-Maldives.html",
+  "legacyTitle": "NOVA Maldives Island Resort",
+  "legacyH1": "NOVA Maldives Island Resort",
+  "metaDescription": "NOVA Maldives Island is a five star resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "ADh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "pNaa-necLJQ",
+  "descriptionParagraphs": [
+    "Everyone is welcome to our home-away-from-home, whether they are travelling alone, with loved ones, friends, or family. You may do whatever you want here, as much or as little as your spirit wishes. Dive, go to the gym, or relax beneath the palm trees and enjoy something simple and genuine. I'm glad to be here. Happy in the moment- at Nova, one of the top all-inclusive resorts in the Maldives.",
+    "These accommodations are just a few feet from the beach and provide direct access to the endless blue lagoons. The 80-square-meter rooms have bespoke furnishings, natural light, and warmth, as well as a king-size bed with soft linen and cushions.",
+    "Beach Villa with Private Pool is a sanctuary of comfort overlooking the turquoise waves, with direct access to the coastline. It is set in an immensely soothing environment. Each room has 160 square metres of space and a king-size bed with luxury linen and cushions.",
+    "These suites provide an unrivalled view of the Indian Ocean and direct access to the lagoon below. Spend the day relaxing on the sun loungers on the expansive sun terrace, or down the private stairway and swim laps in the lagoon.",
+    "It's a novel spin on the all-inclusive concept, going beyond meals and services and inviting everyone to take use of everything Nova has to offer. There are 76 lovely beach and over-water villas, beach volleyball, diving, local art and culture, and delightfully fresh dining at its three restaurants and two bars. People in Nova make time for the things that make them happy.",
+    "Nova is located in South Ari Atoll and may be accessed by a picturesque 25-minute seaplane flight."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 600,
+      "priceInclTax": 632,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Nova/images/NOVA-Maldives-Island-Beach-Villa.webp",
+        "/resorts/Nova/images/NOVA-Maldives-Island-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 1100,
+      "priceInclTax": 1174,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Nova/images/NOVA-Maldives-Island-Beach-Pool-Villa.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 900,
+      "priceInclTax": 935,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Nova/images/NOVA-Maldives-Island-Water-Villa.webp",
+        "/resorts/Nova/images/NOVA-Maldives-Island-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Nova/images",
+  "imageCount": 11,
+  "imageFiles": [
+    "NOVA-Maldives-Island-Beach-Pool-Villa.webp",
+    "NOVA-Maldives-Island-Beach-Villa.webp",
+    "NOVA-Maldives-Island-Beach-Villa1.webp",
+    "NOVA-Maldives-Island-Resort-South-Ari-Atoll.webp",
+    "NOVA-Maldives-Island-Resort.webp",
+    "NOVA-Maldives-Island-South-Ari-Atoll.webp",
+    "NOVA-Maldives-Island-Water-Villa.webp",
+    "NOVA-Maldives-Island-Water-Villa1.webp",
+    "NOVA-Maldives-Island.webp",
+    "NOVA-Maldives.webp",
+    "Nova-Maldives-Island-map.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "ADh"
+}

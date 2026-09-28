@@ -1,0 +1,77 @@
+{
+  "folder": "Hurawalhi-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Hurawalhi-Island/Hurawalhi-Island-Resort-Maldives.html",
+  "legacyTitle": "Hurawalhi Island Resort Maldives",
+  "legacyH1": "Hurawalhi Island Resort Maldives",
+  "metaDescription": "Hurawalhi Island Resort Maldives is a resort located in Lhaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "xznjFXZmNPI",
+  "descriptionParagraphs": [
+    "Hurawalhi Island Resort, located on an idyllic private island in the Maldives' pristine Lhaviyani Atoll, is much like your relationship: it is a perfect balance of calm and excitement, comfort and adventure; it stirs up your every atom with an intricate blend of closeness and adrenaline.",
+    "Hurawalhi is where you may fill your days with an abundance of extraordinary people, your head with wonder, and your heart with romance. The 90-villa, adults-only luxury resort is as beautiful as the ocean that laps against its beaches and more stunning than any island you've ever seen. Nothing prepares you for the stunning combination of barefoot joy and contemporary style found at Hurawalhi than photographs of the Maldives.",
+    "Enjoy the best of seaside happiness - Beach Pool Villas have a clean, unassuming appeal and an outstanding location on Hurawalhi's attractive beach. They are popular with couples whose dream vacation includes seaside luxury.",
+    "The Maldives' grandeur is epitomised by sleek and beautiful homes hung over the gleaming Indian Ocean. Slip into the lagoon from the sundeck and experience Hurawalhi's spectacular grandeur from the solitude of your villa or your very own infinity pool.",
+    "Hurawalhi Island Resort's villas pamper with opulent luxury, exclusivity, and breathtaking views. With the option of beach-side or over-water luxury, you may enjoy your chosen perspective and setting while having paradise at your fingertips - with the ocean just outside your door.",
+    "Hurawalhi Island Resort, nestled away in the north of the pristine Lhaviyani Atoll, combines striking natural beauty and elegant design. During the day, a picturesque 40-minute seaplane ride from Velana' International Airport will take you to this tropical paradise (MLE). The resort is situated on a private coral island that is approximately 400 m x 165 m in size and is surrounded by the Indian Ocean; the year-round warmth of the water in which Hurawalhi Island Resort is situated is comparable to the shades and variations of blue that stretch out as far as the eye can see."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Pool Villa",
+      "price": 1150,
+      "priceInclTax": 1231,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hurawalhi-Island/images/Hurawalhi-Island-Resort-Maldives-Beach-Pool-Villa.webp",
+        "/resorts/Hurawalhi-Island/images/Hurawalhi-Island-Resort-Maldives-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 900,
+      "priceInclTax": 976,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Hurawalhi-Island/images/Hurawalhi-Island-Resort-Maldives-Ocean-Villa.webp",
+        "/resorts/Hurawalhi-Island/images/Hurawalhi-Island-Resort-Maldives-Ocean-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Hurawalhi-Island/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Hurawalhi-Island-Resort-Maldives-Beach-Lhaviyani-Atoll.webp",
+    "Hurawalhi-Island-Resort-Maldives-Beach-Pool-Villa.webp",
+    "Hurawalhi-Island-Resort-Maldives-Beach-Pool-Villa1.webp",
+    "Hurawalhi-Island-Resort-Maldives-Beach.webp",
+    "Hurawalhi-Island-Resort-Maldives-Dinning.webp",
+    "Hurawalhi-Island-Resort-Maldives-Diving.webp",
+    "Hurawalhi-Island-Resort-Maldives-Ocean-Villa.webp",
+    "Hurawalhi-Island-Resort-Maldives-Ocean-Villa1.webp",
+    "Hurawalhi-Island-Resort-Maldives-Ocean.webp",
+    "Hurawalhi-Island-Resort-Maldives-Pool.webp",
+    "Hurawalhi-Island-Resort-Maldives-Spa.webp",
+    "Hurawalhi-Island-Resort-Maldives-Underwater-Restaurant-Lhaviyani-Atoll.webp",
+    "Hurawalhi-Island-Resort-Maldives-Underwater-Restaurant.webp",
+    "Hurawalhi-Island-Resort-Maldives-map.webp",
+    "Hurawalhi-Island-Resort-Maldives.webp",
+    "Hurawalhi-Island-Resort.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "Lh"
+}

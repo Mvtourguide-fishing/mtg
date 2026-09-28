@@ -1,0 +1,61 @@
+{
+  "folder": "Kudadoo",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Kudadoo/Kudadoo-Maldives-Private-Island.html",
+  "legacyTitle": "Kudadoo Maldives Private Island Resort",
+  "legacyH1": "Kudadoo Maldives Private Island Resort",
+  "metaDescription": "Kudadoo Maldives Private Island is a resort located in Lhaviyani Atoll, Maldives",
+  "metaAtollCodes": [
+    "Lh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Kmbrx_LYk0Q",
+  "descriptionParagraphs": [
+    "KUDADOO MALDIVES PRIVATE ISLAND PROVIDES A COMPLETE EXPERIENCE WITH EVERYTHING UNDER THE MOON AVAILABLE TO YOU AT ANY TIME AND FROM ANYWHERE. THIS PRIVATE ISLAND HAS BEEN DESIGNED FOR ESCAPES FROM THE CONFINES OF EVERYDAY LIFE AND IS SURE TO IMPRESS EVEN THE MOST DISCERNING TRAVELLER. MAGNIFICENT MOMENTS TAKE THE FORM OF DELICIOUS CULINARY CREATIONS, ENDLESS LEISURE ACTIVITIES, AND WELLNESS. SEIZE YOUR DAYS ON THIS TINY TROPICAL ISLAND WITH THE HELP OF YOUR PERSONAL BUTLER, WHO CAN ASSIST YOU IN CREATING THE PERFECT HOLIDAY ITINERARY. KUDADOO SETS A NEW STANDARD IN SUSTAINABLE LUXURY HOSPITALITY WITH THE ARCHITECTURAL MASTERMIND, YUJI YAMAZAKI; WE TAKE GREAT PRIDE IN THE FOLLOWING ACCOLADES: LUXURY TRAVEL INTELLIGENCE'S BEST NEW LUXURY HOTEL FOR 2018; ROBB REPORT'S BEST ISLAND RESORT 2019.",
+    "YOUR SECLUDED HIDEAWAY IS LOCATED ON TOP OF AN AQUAMARINE LAGOON. THE RESIDENCES ON KUDADOO MALDIVES PRIVATE ISLAND HAVE CAREFULLY CRAFTED INTERIORS AND EXTERIORS. THEY BRING FREEDOM OF TIME, SPACE, AND UNRESTRICTED CONNECTIONS. IN PRECIOUS MOMENTS OF INDULGENCE, AN ENVIRONMENTALLY CONSCIOUS DESIGN, SHEER COMFORT, AND THE UTMOST PRIVACY COME TOGETHER. THIS IS A PLACE WHERE YOU CAN EXPLORE YOURSELF.",
+    "Hurawalhi's Kudadoo Maldives Private Island is an elite resort with just 15 large, overwater Ocean Residences with 44 sq metre terrace pools. Each property floats on an azure lagoon and boasts a carefully crafted interior and outdoor space that exudes connection.",
+    "Kudadoo Maldives is a private island with a gorgeous lagoon, a stunning house reef, and extensive lengths of white sandy beach. Kudadoo is approximately 200 metres long and 200 metres broad. A direct seaplane trip from Velana International Airport takes 40 minutes and is a picturesque flight.",
+    "LIKE GOOD FOOD, NOTHING BRINGS PEOPLE TOGETHER. KUDADOO IS FULL OF TASTE EXPERIENCES CAREFULLY CURATE BY THE EXECUTIVE CHEF. THE MENUS INCLUDE ALL-TIME FAVORITES IN ADDITION TO FINE DINING TREATS, AND A RANGE OF DIETARY REQUIREMENTS AND PREFERENCES CAN BE ACCOMMODATED UPON REQUEST.",
+    "SULHA SPA AT THE RETREAT IS A SANCTUARY SUSPENDED OVER THE OCEAN THAT ALLOWS YOU TO CALM THE PERSISTENT CONSCIOUS LOOP WITH IMMERSIVE EXPERIENCES SO YOU CAN REST, RESET, AND CONNECT. YOU WILL FEEL BETTER THAN YOU HAVE IN YEARS IF YOU SPEND AS MUCH TIME AS YOU WISH ENJOYING WORLD-CLASS SPA AND WELL-BEING EXPERIENCES."
+  ],
+  "rooms": [
+    {
+      "name": "Ocean Pool Residence Single Bedroom",
+      "price": 4300,
+      "priceInclTax": 4419,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Kudadoo/images/Kudadoo-Maldives-Private-Island-Resort-Ocean-Pool-Residence.webp",
+        "/resorts/Kudadoo/images/Kudadoo-Maldives-Private-Island-Resort-Ocean-Pool-Residence1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Kudadoo/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Kudadoo-Maldives-Private-Island-Lhaviyani-Atoll.webp",
+    "Kudadoo-Maldives-Private-Island-Luxury-Resort.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Activities-Lhaviyani-Atoll.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Activities.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Bar.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Beach.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Dinning.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Honeymoon.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Ocean-Pool-Residence.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Ocean-Pool-Residence1.webp",
+    "Kudadoo-Maldives-Private-Island-Resort-Pool.webp",
+    "Kudadoo-Maldives-Private-Island-Resort.webp",
+    "Kudadoo-Maldives-Private-Island-map.webp",
+    "Kudadoo-Maldives-Private-Island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "Lh"
+}

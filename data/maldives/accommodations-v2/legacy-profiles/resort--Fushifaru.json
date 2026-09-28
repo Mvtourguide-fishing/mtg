@@ -1,0 +1,91 @@
+{
+  "folder": "Fushifaru",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Fushifaru/Fushifaru-Maldives.html",
+  "legacyTitle": "Fushifaru Maldives Island Resort",
+  "legacyH1": "Fushifaru Maldives Island Resort",
+  "metaDescription": "Fushifaru Maldives Island is a resort located in Male Atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "Lh"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "Lr0Y0xhbVsY",
+  "descriptionParagraphs": [
+    "Fushifaru Maldives is your private paradise island. The resort is blissfully marooned in the midst of the Indian Ocean, surrounded by powder white sand beaches and brilliant turquoise waters, and provides exquisite amenities and complete seclusion.",
+    "These villas are positioned on the island's eastern side, facing the sunrise, and have a view of the \"Maakandu,\" the huge Indian Ocean.",
+    "Facing the blue lagoon, the Pool Beach Villas look out towards 'Maakandu' - the wild open Indian Ocean. Sip cocktails from your private deck or enjoy.",
+    "The thatch-roof water villas are perched on top of timber stilts and include a romantic outdoor Jacuzzi with views of the pristine lagoon. Take a swim in.",
+    "Fushifaru Maldives has 49 Beach and Water Villas that will highlight your experience of nature while enveloping you in its comfortable interiors. These sanctuaries are built on land and on water, with views of the \"Maakandu,\" the wild open sea, the \"Etherevari,\" the peaceful lagoon, and the \"Kandu-olhi,\" the active channel.",
+    "Fushifaru Maldives is an amazing tiny island located on the far north east boundary of Lhaviyani Atoll, wedged between a national Marine Protected Area and three of the Maldives' most renowned diving spots. Velana International Airport is approximately a 35-minute spectacular seaplane trip away."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 550,
+      "priceInclTax": 625,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Beach-Villa.webp",
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Beach Pool Villa",
+      "price": 900,
+      "priceInclTax": 984,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Beach-Pool-Villa.webp",
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Jacuzzi Water Villa",
+      "price": 900,
+      "priceInclTax": 940,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Water-Villa.webp",
+        "/resorts/Fushifaru/images/Fushifaru-Maldives-Island-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Fushifaru/images",
+  "imageCount": 18,
+  "imageFiles": [
+    "Fushifaru-Maldives-Island-Beach-Pool-Villa.webp",
+    "Fushifaru-Maldives-Island-Beach-Pool-Villa1.webp",
+    "Fushifaru-Maldives-Island-Beach-Villa.webp",
+    "Fushifaru-Maldives-Island-Beach-Villa1.webp",
+    "Fushifaru-Maldives-Island-Resort-Activities.webp",
+    "Fushifaru-Maldives-Island-Resort-Beach.webp",
+    "Fushifaru-Maldives-Island-Resort-Dinning.webp",
+    "Fushifaru-Maldives-Island-Resort-Lhaviyani-Atoll.webp",
+    "Fushifaru-Maldives-Island-Resort-Pool.webp",
+    "Fushifaru-Maldives-Island-Resort-Sandbank-Lhaviyani-Atoll.webp",
+    "Fushifaru-Maldives-Island-Resort-Sandbank.webp",
+    "Fushifaru-Maldives-Island-Resort.webp",
+    "Fushifaru-Maldives-Island-Water-Villa.webp",
+    "Fushifaru-Maldives-Island-Water-Villa1.webp",
+    "Fushifaru-Maldives-Island-map.webp",
+    "Fushifaru-Maldives-Island.webp",
+    "Fushifaru-Maldives-Resort.webp",
+    "Fushifaru-Maldives.webp"
+  ],
+  "atollConfidence": "conflict",
+  "resolvedAtollCode": null
+}

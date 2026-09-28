@@ -1,0 +1,368 @@
+[
+  {
+    "name": "5-Night Maafushi Local Island Escape",
+    "summary": "A budget-friendly 5-night stay on Maafushi, a popular local island in Kaafu Atoll, combining a guesthouse-style hotel stay with a real diving session and a sunset fishing trip.",
+    "duration_nights": 5,
+    "traveler_types": ["budget"],
+    "styles": ["local-island"],
+    "themes": ["beach-holiday"],
+    "inclusions": [],
+    "destinations": [{ "name": "Maafushi", "type": "island", "atoll_administrative_code": "K" }],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 5,
+        "night_count": 5,
+        "title": "Maafushi",
+        "description": "Five nights on Maafushi, one of the Maldives' best-known local islands for independent, budget-conscious travel — public beaches, guesthouses, and easy access to reef diving and fishing trips.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-maafushi",
+            "operator_name": "Kaani Hotels",
+            "service_name": "Shared Speedboat Transfer (Kaani Hotels)",
+            "sort_order": 1,
+            "notes": "Arrival transfer, arranged directly through Kaani Beach Hotel."
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "kaani-beach-hotel",
+            "sort_order": 2,
+            "notes": null
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "fun-dive-single-tank",
+            "sort_order": 3,
+            "notes": "One single-tank dive, run by Maafushi Dive and Water Sports."
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "sunset-fishing-trip-maafushi",
+            "sort_order": 4,
+            "notes": "Sunset fishing trip, run by Kaani Hotels."
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 5,
+        "day_end": 5,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Return transfer to Velana International Airport for your onward flight. No specific return service is tracked in this dataset — arrange the return leg with Kaani Beach Hotel or a local operator on Maafushi.",
+        "items": []
+      }
+    ]
+  },
+  {
+    "name": "7-Night Kurumba Resort Escape",
+    "summary": "Seven nights at Kurumba Maldives, the country's first resort, a short speedboat ride from Velana International Airport, with a PADI Open Water course and a sunset reef fishing trip.",
+    "duration_nights": 7,
+    "traveler_types": ["couple"],
+    "styles": ["resort"],
+    "themes": ["diving", "beach-holiday"],
+    "inclusions": [],
+    "destinations": [{ "name": "Vihamanaafushi", "type": "island", "atoll_administrative_code": "K" }],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 7,
+        "night_count": 7,
+        "title": "Kurumba Maldives",
+        "description": "Seven nights at Kurumba Maldives on Vihamanaafushi island — one of the shortest resort transfers in the country at around 5 minutes by speedboat.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-vihamanaafushi",
+            "operator_name": "Universal Resorts",
+            "service_name": "Shared Speedboat Transfer (Kurumba Maldives)",
+            "sort_order": 1,
+            "notes": null
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "kurumba-maldives",
+            "sort_order": 2,
+            "notes": null
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "padi-open-water-diver-course-vihamanaafushi",
+            "sort_order": 3,
+            "notes": "Run by Euro-Divers Kurumba, the resort's onsite dive centre."
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "sunset-reef-fishing",
+            "sort_order": 4,
+            "notes": "Run by Universal Resorts."
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 7,
+        "day_end": 7,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Return speedboat transfer to Velana International Airport. No specific return service is tracked in this dataset — arrange the return leg with Kurumba Maldives.",
+        "items": []
+      }
+    ]
+  },
+  {
+    "name": "Maldives Honeymoon Escape — Soneva Fushi",
+    "summary": "Five nights at the all-inclusive Soneva Fushi in Baa Atoll, reached by shared seaplane, with a guided reef dive through the resort's own dive centre.",
+    "duration_nights": 5,
+    "traveler_types": ["honeymoon"],
+    "styles": ["resort"],
+    "themes": ["romantic", "beach-holiday"],
+    "inclusions": ["all-inclusive"],
+    "destinations": [{ "name": "Kunfunadhoo", "type": "island", "atoll_administrative_code": "B" }],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 5,
+        "night_count": 5,
+        "title": "Soneva Fushi",
+        "description": "Five all-inclusive nights at Soneva Fushi, Kunfunadhoo island, Baa Atoll — a UNESCO Biosphere Reserve — reached by the resort's own shared seaplane transfer.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-kunfunadhoo",
+            "operator_name": "Soneva Management (BVI) Limited",
+            "service_name": "Shared Seaplane Transfer (Soneva Fushi)",
+            "sort_order": 1,
+            "notes": "Seasonal fare — see the transfer route page for current pricing."
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "soneva-fushi",
+            "sort_order": 2,
+            "notes": "All-inclusive."
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "fun-dive",
+            "sort_order": 3,
+            "notes": "Run by Soleni Dive Center, the resort's onsite dive centre."
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 5,
+        "day_end": 5,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Return seaplane transfer to Velana International Airport. No specific return service is tracked in this dataset — arrange the return leg with Soneva Fushi.",
+        "items": []
+      }
+    ]
+  },
+  {
+    "name": "Maldives Diving Holiday — Baros",
+    "summary": "Five nights at Baros Maldives with two real dives — a Discover Scuba Diving session and a fluorescence night dive — through the resort's own long-established dive centre.",
+    "duration_nights": 5,
+    "traveler_types": ["couple"],
+    "styles": ["resort"],
+    "themes": ["diving"],
+    "inclusions": [],
+    "destinations": [{ "name": "Baros", "type": "island", "atoll_administrative_code": "K" }],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 5,
+        "night_count": 5,
+        "title": "Baros Maldives",
+        "description": "Five nights at Baros Maldives, Kaafu Atoll, home to Divers Baros Maldives, a long-established PADI Five Star Gold Palm dive centre.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-baros",
+            "operator_name": "Baros Maldives",
+            "service_name": "Shared Speedboat Transfer (Baros Maldives)",
+            "sort_order": 1,
+            "notes": null
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "baros-maldives",
+            "sort_order": 2,
+            "notes": null
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "discover-scuba-diving",
+            "sort_order": 3,
+            "notes": "Run by Divers Baros Maldives."
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "fluo-night-diving",
+            "sort_order": 4,
+            "notes": "A fluorescence night dive, run by Divers Baros Maldives."
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 5,
+        "day_end": 5,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Return speedboat transfer to Velana International Airport. No specific return service is tracked in this dataset — arrange the return leg with Baros Maldives.",
+        "items": []
+      }
+    ]
+  },
+  {
+    "name": "Family Maldives Holiday — Velassaru",
+    "summary": "Seven nights at Velassaru Maldives with a Discover Scuba Diving session and a big game fishing trip — real activities bookable through the resort's own operators.",
+    "duration_nights": 7,
+    "traveler_types": ["family"],
+    "styles": ["resort"],
+    "themes": ["family-activities"],
+    "inclusions": [],
+    "destinations": [{ "name": "Velassaru", "type": "island", "atoll_administrative_code": "K" }],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 7,
+        "night_count": 7,
+        "title": "Velassaru Maldives",
+        "description": "Seven nights at Velassaru Maldives, Kaafu Atoll. The resort's airport transfer is mandatory and resort-operated (third-party transfers are not permitted).",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-velassaru",
+            "operator_name": "Universal Resorts",
+            "service_name": "Mandatory Speedboat Transfer (Velassaru Maldives)",
+            "sort_order": 1,
+            "notes": "Mandatory resort transfer — flight details required at least 72 hours before arrival."
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "velassaru-maldives",
+            "sort_order": 2,
+            "notes": null
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "discover-scuba-diving-velassaru",
+            "sort_order": 3,
+            "notes": "Run by Immersion Dive Centre, in the resort's own lagoon."
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "big-game-fishing-trip",
+            "sort_order": 4,
+            "notes": "Run by Universal Resorts."
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 7,
+        "day_end": 7,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Return mandatory speedboat transfer to Velana International Airport. No specific return service is tracked in this dataset — arrange the return leg with Velassaru Maldives.",
+        "items": []
+      }
+    ]
+  },
+  {
+    "name": "Maldives Fishing & Island Hopping Package",
+    "summary": "A 4-night trip combining Malé and the local island of Maafushi, connected by the real MTCC public ferry network, with a night fishing trip on Maafushi.",
+    "duration_nights": 4,
+    "traveler_types": ["group"],
+    "styles": ["island-hopping"],
+    "themes": ["fishing", "island-hopping-theme"],
+    "inclusions": [],
+    "destinations": [
+      { "name": "Maafushi", "type": "island", "atoll_administrative_code": "K" },
+      { "name": "Malé", "type": "island", "atoll_administrative_code": "MLE" }
+    ],
+    "operator_name": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "day_start": 1,
+        "day_end": 1,
+        "night_count": 0,
+        "title": "Arrival — Malé",
+        "description": "Arrive at Velana International Airport and take the airport ferry across to Malé for the day before continuing to Maafushi on the afternoon public ferry.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "velana-international-airport-to-male",
+            "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+            "service_name": "Airport Ferry (Velana International Airport–Malé)",
+            "sort_order": 1,
+            "notes": null
+          }
+        ]
+      },
+      {
+        "stage_number": 2,
+        "day_start": 1,
+        "day_end": 4,
+        "night_count": 3,
+        "title": "Maafushi",
+        "description": "Three nights on Maafushi, reached by the government-run MTCC public ferry (route 309) from Malé — departs Malé at 15:00, does not run on Fridays.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "male-to-maafushi",
+            "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+            "service_name": "Public Ferry (Malé–Maafushi)",
+            "sort_order": 1,
+            "notes": null
+          },
+          {
+            "component_role": "accommodation",
+            "accommodation_slug": "kaani-beach-hotel",
+            "sort_order": 2,
+            "notes": null
+          },
+          {
+            "component_role": "activity",
+            "activity_slug": "night-fishing-trip",
+            "sort_order": 3,
+            "notes": "Run by iCom Tours."
+          }
+        ]
+      },
+      {
+        "stage_number": 3,
+        "day_start": 4,
+        "day_end": 4,
+        "night_count": 0,
+        "title": "Departure",
+        "description": "Public ferry back to Malé, then onward to Velana International Airport for departure. The Malé-to-airport leg is not separately tracked in this dataset.",
+        "items": [
+          {
+            "component_role": "transfer",
+            "transfer_route_slug": "maafushi-to-male",
+            "operator_name": "Maldives Transport and Contracting Company (MTCC)",
+            "service_name": "Public Ferry (Maafushi–Malé)",
+            "sort_order": 1,
+            "notes": null
+          }
+        ]
+      }
+    ]
+  }
+]

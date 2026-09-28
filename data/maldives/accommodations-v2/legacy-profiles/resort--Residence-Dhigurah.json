@@ -1,0 +1,76 @@
+{
+  "folder": "Residence-Dhigurah",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Residence-Dhigurah/The-Residence-Dhigurah-Maldives.html",
+  "legacyTitle": "The Residence Maldives at Dhigurah Island Resort",
+  "legacyH1": "The Residence Maldives at Dhigurah Island Resort",
+  "metaDescription": "The Residence Maldives at Dhigurah Island is a five star resort located in Gaafu Alifu Atoll, Maldives",
+  "metaAtollCodes": [
+    "GA"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [
+    "GA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "1rqPO5YR71c",
+  "descriptionParagraphs": [
+    "Discover your own own luxury retreat at The Residence Maldives at Dhigurah, nestled in the Gaafu Alifu Atoll in the southern Maldives. A palm-fringed paradise surrounded by turquoise lagoons, relaxing ocean blues, and a beautiful natural wilderness of over 2500 well-preserved coconut palm trees where you may immerse yourself in blissful relaxation.",
+    "Feel the stresses of contemporary life fade away as this 173-villa resort takes you to a haven of unsurpassed serenity and relaxation, surrounded by nature's pristine splendour. Lounging on pristine sun-kissed beaches, snorkelling amid colourful coral reefs in clear lagoons, and diving with marine critters in the ocean depths are all pure delights here.",
+    "Relax in the comfort of the island's large villas, which have been thoughtfully constructed to blend in with their surroundings. At Li Bai, you may savour a fascinating world of exotic flavours ranging from Indian Ocean specialities to Mediterranean tapas and contemporary Cantonese cuisine. The resort's unique Spa by Clarins health retreat, set in lush tropical gardens, promises a journey to blissful wellbeing for the ultimate in pampering.",
+    "Children are also well cared for, with a variety of Kids Club activities designed to keep young brains occupied and interested. On a marine exploration or garden ramble, uncover nature's complicated eco-systems while gathering freshly produced vegetables from the resort's own Earth Basket. Picnics on our private Castaway Island or at Dhigurah's sister resort on neighbouring Falhumaafushi island, which you may reach through a one-kilometer bridge. The Residence Maldives at Dhigurah is the ideal hideaway you've been looking for, from romantic getaways to unforgettable family vacations.",
+    "With a lagoon-facing bedroom that opens out onto a big verandah and indoor and outdoor baths, these tastefully fitted villas have an intimate environment cocooned within the natural surroundings. Relax on the sun loungers beside your own pool, sipping a beverage and taking in the sense of total relaxation and the caress of the ocean air.",
+    "The Lagoon Pool Villas, which are located above the lagoon, provide a haven of peace and comfort. Immerse yourself in a magnificent bathroom experience that includes a huge bathtub as well as indoor and outdoor showers. Enjoy the picturesque surroundings from your private verandah and pool, as well as a private garden just outside your door."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Pool Villa",
+      "price": 1100,
+      "priceInclTax": 1208,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Residence-Dhigurah/images/The-Residence-Maldives-at-Dhigurah-Sunrise-Beach-Pool-Villa.webp",
+        "/resorts/Residence-Dhigurah/images/The-Residence-Maldives-at-Dhigurah-Sunrise-Beach-Pool-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Lagoon Villa",
+      "price": 1340,
+      "priceInclTax": 1419,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Residence-Dhigurah/images/The-Residence-Maldives-at-Dhigurah-Lagoon-Villa.webp",
+        "/resorts/Residence-Dhigurah/images/The-Residence-Maldives-at-Dhigurah-Lagoon-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Residence-Dhigurah/images",
+  "imageCount": 15,
+  "imageFiles": [
+    "The-Residence-Dhigurah-Maldives-map.webp",
+    "The-Residence-Maldives-Dhigurah-Gaafu-Alifu-Atoll.webp",
+    "The-Residence-Maldives-Dhigurah.webp",
+    "The-Residence-Maldives-at-Dhigurah-Dinning.webp",
+    "The-Residence-Maldives-at-Dhigurah-Gym.webp",
+    "The-Residence-Maldives-at-Dhigurah-Kids-Club.webp",
+    "The-Residence-Maldives-at-Dhigurah-Lagoon-Villa.webp",
+    "The-Residence-Maldives-at-Dhigurah-Lagoon-Villa1.webp",
+    "The-Residence-Maldives-at-Dhigurah-Pool.webp",
+    "The-Residence-Maldives-at-Dhigurah-Resort-Gaafu-Alifu-Atoll.webp",
+    "The-Residence-Maldives-at-Dhigurah-Resort.webp",
+    "The-Residence-Maldives-at-Dhigurah-Spa.webp",
+    "The-Residence-Maldives-at-Dhigurah-Sunrise-Beach-Pool-Villa.webp",
+    "The-Residence-Maldives-at-Dhigurah-Sunrise-Beach-Pool-Villa1.webp",
+    "The-Residence-Maldives-at-Dhigurah.webp"
+  ],
+  "atollConfidence": "agree",
+  "resolvedAtollCode": "GA"
+}

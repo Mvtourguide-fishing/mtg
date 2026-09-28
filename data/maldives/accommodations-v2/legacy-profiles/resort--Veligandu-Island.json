@@ -1,0 +1,77 @@
+{
+  "folder": "Veligandu-Island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Veligandu-Island/Veligandu-Island-Resort-Maldives.html",
+  "legacyTitle": "Veligandu Island Resort & Spa Maldives",
+  "legacyH1": "Veligandu Island Resort & Spa Maldives",
+  "metaDescription": "Veligandu Island Resort & Spa Maldives is a five star resort located in Ari Atoll, Maldives",
+  "metaAtollCodes": [],
+  "metaAtollAmbiguous": [
+    "ari"
+  ],
+  "bodyAtollCodes": [
+    "AA"
+  ],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "8RTjyBXGrJA",
+  "descriptionParagraphs": [
+    "The jewel of the Indian Ocean is Veligandu Island Resort & Spa. A charming tropical paradise filled with swaying palm palms, white sand beaches, crystal clear water, and exuberant coral reefs alive with marine life. This green island retreat provides peace and serenity, which feed one's well-being.",
+    "Enjoy beachfront views from your Maldives Beach Villa, which is only a few steps from the water. All of our 11 Beach Villas are set among lush tropical flora and beneath swaying coconut palms and offer the needed facilities for a pleasant, comfortable vacation in paradise.",
+    "Slip away to your private ocean retreat and enjoy the pleasure of direct access to the blue waters of the ocean through the stairs on your Water Villa's sun-kissed balcony.",
+    "Private porches, lagoon views, flat-screen TVs, and complimentary high-speed Internet are available in the exquisite villas. Upgraded villas have whirlpool spas or Jacuzzis, and some are perched on stilts over the lagoon. Some villas accept children aged 14 and under.",
+    "A 20-minute seaplane journey from Velana International Airport takes you to this quiet resort on a 600-meter-long island. Surrounded by stunning lagoons, a great house reef, and long expanses of pristine white sand,",
+    "Enjoy the exquisite joys of paradise while tickling your taste senses. Veligandu, home to some of the top restaurants in the Maldives, serves flavorful native food as well as cuisines from across the world. Dhonveli, our primary restaurant, offers a wide range of cuisines. During breakfast, lunch, and supper, the buffet offers a diverse selection of gastronomic pleasures. Madivaru, our famous à la carte restaurant, serves a fine dining menu full of delectable specialties, all while overlooking the lagoon. Relaxed afternoons and evenings are best spent at one of our bars, with a cool drink in hand."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 600,
+      "priceInclTax": 697,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Veligandu-Island/images/Veligandu-Island-Resort-and-Spa-Beach-Villa.webp",
+        "/resorts/Veligandu-Island/images/Veligandu-Island-Resort-and-Spa-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 600,
+      "priceInclTax": 697,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Veligandu-Island/images/Veligandu-Island-Resort-and-Water-Villa.webp",
+        "/resorts/Veligandu-Island/images/Veligandu-Island-Resort-and-Water-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Veligandu-Island/images",
+  "imageCount": 16,
+  "imageFiles": [
+    "Veligandu-Island-Resort-Maldives-map.webp",
+    "Veligandu-Island-Resort-Spa.webp",
+    "Veligandu-Island-Resort-and-Spa-Activities.webp",
+    "Veligandu-Island-Resort-and-Spa-Beach-Ari-Atoll.webp",
+    "Veligandu-Island-Resort-and-Spa-Beach-Villa.webp",
+    "Veligandu-Island-Resort-and-Spa-Beach-Villa1.webp",
+    "Veligandu-Island-Resort-and-Spa-Beach.webp",
+    "Veligandu-Island-Resort-and-Spa-Diving.webp",
+    "Veligandu-Island-Resort-and-Spa-Excursions.webp",
+    "Veligandu-Island-Resort-and-Spa-Gym.webp",
+    "Veligandu-Island-Resort-and-Spa-North-Ari-Atoll.webp",
+    "Veligandu-Island-Resort-and-Spa-Pool.webp",
+    "Veligandu-Island-Resort-and-Spa-Wedding.webp",
+    "Veligandu-Island-Resort-and-Spa.webp",
+    "Veligandu-Island-Resort-and-Water-Villa.webp",
+    "Veligandu-Island-Resort-and-Water-Villa1.webp"
+  ],
+  "atollConfidence": "bodyOnly",
+  "resolvedAtollCode": "AA"
+}

@@ -1,0 +1,12 @@
+-- Task 15: legacy package pages migrated into the existing packages/
+-- package_itinerary_stages/package_itinerary_items architecture (Task 11 -
+-- no new schema).
+-- GENERATED FILE - do not hand-edit. Regenerate with:
+--   node scripts/import-legacy-packages.mjs --commit
+-- Source: data/maldives/content/package-migration-report.json (status=ready).
+--
+-- Every package here named a specific accommodation that confidently
+-- matched the real MTG catalogue AND carried a real, extractable price and
+-- night count - legacy pricing is preserved as historical context, not
+-- presented as a current live rate (see each package's summary text).
+

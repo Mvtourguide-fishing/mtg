@@ -1,0 +1,69 @@
+{
+  "folder": "Adaaran-Select",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Adaaran-Select/Adaaran-Select-Meedhupparu-Maldives.html",
+  "legacyTitle": "Adaaran Select Meedhupparu Island Resort Maldives",
+  "legacyH1": "Adaaran Select Meedhupparu Island Resort Maldives",
+  "metaDescription": "Adaaran Select Meedhupparu Island is a resort located in Male atoll, Maldives",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [
+    "maldives ra"
+  ],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "1JV3MeBgVFs",
+  "descriptionParagraphs": [
+    "Adaaran Select Meedhupparu, one of the greatest resorts in Maldives, offers heavenly accommodation for the discriminating tourist to the Maldives with the promise of an exceptional experience in the tropics. Bask in the healing sun and take in the tempting sights and sounds of a really wonderful tropical island. Adaaran Select Meedhupparu provides calm settings that are oozing with elegance. Set your sights on a vacation filled with stunning adventures that will leave you with memories to last a lifetime.",
+    "Adaaran Select Meedhupparu - Premium All Inclusive- Premium All Inclusive is located in the Maldives' Ra Atoll and offers large bungalows with views of the beach and ocean. The resort also has an outdoor swimming pool, specialty spa services, and 5 dining options.",
+    "Each beach cottage has a private bathroom and a balcony with sun loungers. A minibar is available for a cost, as well as a tea and coffee machine.",
+    "At the water sports centre, guests may learn to dive. There are recreation amenities accessible, such as a workout centre, beach volleyball, and snorkelling.",
+    "The resort's main restaurant has a breakfast, lunch, and supper buffet with Asian and Western cuisines, with beverages available at four bars.",
+    "Adaaran Select Meedhupparu - Premium All Inclusive is a 45-minute picturesque sea plane flight from Malé International Airport."
+  ],
+  "rooms": [
+    {
+      "name": "Sunrise Beach Villa",
+      "price": 356,
+      "priceInclTax": 386,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": []
+    },
+    {
+      "name": "Water Villa With Jaccuzi",
+      "price": 775,
+      "priceInclTax": 820,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": []
+    }
+  ],
+  "imageDirRelative": "resorts/Adaaran-Select/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Adaaran-Select-Meedhupparu-Island-Maldives-Resort.webp",
+    "Adaaran-Select-Meedhupparu-Island-Maldives.webp",
+    "Adaaran-Select-Meedhupparu-Island-Resort-Maldives.webp",
+    "Adaaran-Select-Meedhupparu-Island-Resort.webp",
+    "Adaaran-Select-Meedhupparu-Island-map.webp",
+    "Adaaran-Select-Meedhupparu-Maldives-Resort-Beach-villa.webp",
+    "Adaaran-Select-Meedhupparu-Maldives-Resort-Island.webp",
+    "Adaaran-Select-Meedhupparu-Maldives-Resort-Water-villa.webp",
+    "Adaaran-Select-Meedhupparu-Maldives-Resort-Water-villa1.webp",
+    "Adaaran-Select-Meedhupparu-Maldives-Resort.webp",
+    "Adaaran-Select-Meedhupparu-Maldives.webp",
+    "Adaaran-Select-Meedhupparu-Resort-Maldives.webp",
+    "Adaaran-Select-Meedhupparu.webp",
+    "Maldives-Resort-Adaaran-Select-Meedhupparu.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

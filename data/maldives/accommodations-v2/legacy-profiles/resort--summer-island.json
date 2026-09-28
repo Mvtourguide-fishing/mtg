@@ -1,0 +1,90 @@
+{
+  "folder": "summer-island",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/summer-island/summer-island-resort-maldives.html",
+  "legacyTitle": "Summer Island Resort Maldives",
+  "legacyH1": "Summer Island Resort Maldives",
+  "metaDescription": "Summer Island is a resort located in Male atoll",
+  "metaAtollCodes": [
+    "K"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": null,
+  "isGuesthouseMention": false,
+  "videoId": "kZCfEKeP9dM",
+  "descriptionParagraphs": [
+    "Summer Island Maldives mixes a barefoot beach lifestyle with all the amenities of a beach. The resort, which is owned and operated locally, has been meticulously designed to have a truly Maldivian experience.",
+    "Summer Island's rooms are light and airy, with zesty interiors and plenty of space to spread out and lounge. Each space and villa has open balconies or verandas that look out onto a spectacular summer sunrise or sunset."
+  ],
+  "rooms": [
+    {
+      "name": "Garden Villa",
+      "price": 153,
+      "priceInclTax": 191,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/summer-island/images/summer-island-maldives-garden-room.webp",
+        "/resorts/summer-island/images/summer-island-maldives-garden-room1.webp"
+      ]
+    },
+    {
+      "name": "Beach Villa",
+      "price": 216,
+      "priceInclTax": 269,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/summer-island/images/summer-island-maldives-beach-room.webp",
+        "/resorts/summer-island/images/summer-island-maldives-beach-room1.webp"
+      ]
+    },
+    {
+      "name": "Water Villa",
+      "price": 332,
+      "priceInclTax": 415,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/summer-island/images/summer-island-maldives-water-room.webp",
+        "/resorts/summer-island/images/summer-island-maldives-water-room1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/summer-island/images",
+  "imageCount": 23,
+  "imageFiles": [
+    "summer-island-hotel.webp",
+    "summer-island-maldives-beach-room.jpg",
+    "summer-island-maldives-beach-room.webp",
+    "summer-island-maldives-beach-room1.jpg",
+    "summer-island-maldives-beach-room1.webp",
+    "summer-island-maldives-garden-room.jpg",
+    "summer-island-maldives-garden-room.webp",
+    "summer-island-maldives-garden-room1.jpg",
+    "summer-island-maldives-garden-room1.webp",
+    "summer-island-maldives-resort-hotel.webp",
+    "summer-island-maldives-resort.jpg",
+    "summer-island-maldives-resort.webp",
+    "summer-island-maldives-water-room.jpg",
+    "summer-island-maldives-water-room.webp",
+    "summer-island-maldives-water-room1.jpg",
+    "summer-island-maldives-water-room1.webp",
+    "summer-island-maldives.webp",
+    "summer-island-map.jpg",
+    "summer-island-map.webp",
+    "summer-island-resort-hotel.webp",
+    "summer-island-resort-maldives.webp",
+    "summer-island-resort.webp",
+    "summer-island.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "K"
+}

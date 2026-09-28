@@ -1,0 +1,73 @@
+{
+  "folder": "Sun-Siyam-ViluReef",
+  "propertyKind": "resort",
+  "sourceFile": "resorts/Sun-Siyam-ViluReef/Sun-Siyam-ViluReef-Maldives.html",
+  "legacyTitle": "Sun Siyam Vilu Reef Maldives Island Resort",
+  "legacyH1": "Sun Siyam Vilu Reef Maldives Island Resort",
+  "metaDescription": "Sun Siyam Vilu Reef Maldives Island is a five star resort located in Dhaalu Atoll, Maldives",
+  "metaAtollCodes": [
+    "Dh"
+  ],
+  "metaAtollAmbiguous": [],
+  "bodyAtollCodes": [],
+  "bodyAtollAmbiguous": [],
+  "bodyAtollUnresolved": [],
+  "explicitIslandName": null,
+  "starRating": 5,
+  "isGuesthouseMention": false,
+  "videoId": "KWl90P4Oe10",
+  "descriptionParagraphs": [
+    "Stay at Sun Siyam Vilu Reef Maldives' water villas and enjoy 5 star luxury with sand beneath your feet. Sink into new depths of relaxation with the waves as your soundtrack in this perfect honeymoon destination. You'll quickly understand why we welcome so many familiar faces back year after year. Sun Siyam Vilu Reef's water villas are surrounded by some of the nicest coral reef in the Maldives, and we've been sharing the resort's island home with unique flora and animals for over 20 years. Coconut palms flutter in the air, and don't be shocked if you see a heron or a hermit crab on your walk to breakfast.",
+    "Our 14 Beach Bungalows are directly on the beach, only steps from the lagoon. Bright white furnishings contrast with tropical colour accents, and each suite has a king-size bed, an alcoved daybed, an outdoor bathroom with a rain shower, and a covered terrace with loungers and a dining space.",
+    "There are just six Aqua Villas on the jetty, and with infinity plunge pools, overwater hammocks, and big outside terraces with stairs straight down to the lagoon, it's simple to understand why. Sliding glass doors let in natural light and seaside breezes, and the bathrooms include freestanding tubs and separate showers.",
+    "Sun Siyam Vilu Reef villas provide a taste of island living - a relaxed luxury brimming with friendliness. Sleep to the sound of the waves and jump into the sea from your own private jetty. They truly offer something for everyone, with 103 beautiful Villas, 6 Suites, 62 Land Villas, and 35 Over Water Villas.",
+    "Get away from the fast-paced city life and start your trip to luxury. Sun Siyam Vilu Reef is approximately a 35-minute seaplane journey from the international airport. The ride to Vilu Reef is breathtaking, so your escape to paradise begins as soon as you land at the airport.",
+    "Seafood lovers should attend to our monthly lobster and champagne feast, served on the beach with live music, from the restaurants and bars at Sun Siyam Vilu Reef Maldives. Cocktail experts will like our herb-infused creations, while wine connoisseurs will enjoy our award-winning cellar, which houses over 1,400 wines."
+  ],
+  "rooms": [
+    {
+      "name": "Beach Villa",
+      "price": 800,
+      "priceInclTax": 800,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-ViluReef/images/Sun-Siyam-Vilu-Reef-Maldives-Beach-Villa.webp",
+        "/resorts/Sun-Siyam-ViluReef/images/Sun-Siyam-Vilu-Reef-Maldives-Beach-Villa1.webp"
+      ]
+    },
+    {
+      "name": "Aqua Villa",
+      "price": 1000,
+      "priceInclTax": 1097,
+      "currency": "USD",
+      "bedType": "King",
+      "maxOccupancy": 3,
+      "images": [
+        "/resorts/Sun-Siyam-ViluReef/images/Sun-Siyam-Vilu-Reef-Maldives-Aqua-Villa.webp",
+        "/resorts/Sun-Siyam-ViluReef/images/Sun-Siyam-Vilu-Reef-Maldives-Aqua-Villa1.webp"
+      ]
+    }
+  ],
+  "imageDirRelative": "resorts/Sun-Siyam-ViluReef/images",
+  "imageCount": 14,
+  "imageFiles": [
+    "Sun-Siyam-Vilu-Reef-Island-Dhaalu-Atoll.webp",
+    "Sun-Siyam-Vilu-Reef-Island.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Aqua-Villa.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Aqua-Villa1.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Beach-Dhaalu-Atoll.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Beach-Villa.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Beach-Villa1.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Beach.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Dinning.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Pool.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives-Water-Sports.webp",
+    "Sun-Siyam-Vilu-Reef-Maldives.webp",
+    "Sun-Siyam-Vilu-Reef-Resort.webp",
+    "Sun-Siyam-ViluReef-Maldives-map.webp"
+  ],
+  "atollConfidence": "metaOnly",
+  "resolvedAtollCode": "Dh"
+}
