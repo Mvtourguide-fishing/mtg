@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 import { publicStorageUrl } from "@/lib/media/types";
 import type { MediaAsset } from "@/lib/media/types";
 
@@ -49,20 +47,25 @@ export function MediaImage({
 
   if (fillParent) {
     return (
-      <Image
+      <img
         src={url}
         alt={asset.altText || alt}
-        fill
-        sizes={sizes}
-        className={["object-cover", className].filter(Boolean).join(" ")}
-        priority={priority}
+        loading={priority ? "eager" : "lazy"}
+        decoding="async"
+        className={["absolute inset-0 h-full w-full object-cover", className].filter(Boolean).join(" ")}
       />
     );
   }
 
   return (
     <div className={["relative overflow-hidden", aspectClassName, className].filter(Boolean).join(" ")}>
-      <Image src={url} alt={asset.altText || alt} fill sizes={sizes} className="object-cover" priority={priority} />
+      <img
+        src={url}
+        alt={asset.altText || alt}
+        loading={priority ? "eager" : "lazy"}
+        decoding="async"
+        className="absolute inset-0 h-full w-full object-cover"
+      />
     </div>
   );
 }
