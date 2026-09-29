@@ -12,6 +12,7 @@ import { SurfBreakCard } from "@/components/surfing/surf-break-card";
 import { TransferRouteCard } from "@/components/transfers/transfer-route-card";
 import { CONTAINER_CLASS } from "@/components/ui/container";
 import { PageHero } from "@/components/ui/page-hero";
+import { LocationMap } from "@/components/locations/location-map";
 import { getAccommodationsByAtoll } from "@/lib/accommodations/repository";
 import { getActivitiesByAtoll } from "@/lib/activities/repository";
 import { getArticlesRelatedToNodes } from "@/lib/articles/repository";
@@ -151,6 +152,8 @@ export async function AtollDetailPage({ slug }: { slug: string }) {
           <dd className="font-medium">{islands.length}</dd>
         </div>
       </dl>
+
+      <LocationMap title={atoll.title} lat={atoll.lat} lng={atoll.lng} />
 
       {aboutHtml && (
         <section className="mt-10">

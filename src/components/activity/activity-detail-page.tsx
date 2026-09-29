@@ -6,6 +6,7 @@ import { PackageCard } from "@/components/packages/package-card";
 import { CONTAINER_CLASS } from "@/components/ui/container";
 import { MediaImage } from "@/components/ui/media-image";
 import { PageHero } from "@/components/ui/page-hero";
+import { LocationMap } from "@/components/locations/location-map";
 import { WhereToStaySection } from "@/components/accommodation/where-to-stay-section";
 import { NodeInquiryToggle } from "@/components/bookings/node-inquiry-toggle";
 import { bookingCta } from "@/lib/bookings/copy";
@@ -185,6 +186,8 @@ export async function ActivityDetailPage({ slug }: { slug: string }) {
           </div>
         )}
       </dl>
+
+      <LocationMap title={activity.title} lat={primaryLocation?.lat ?? null} lng={primaryLocation?.lng ?? null} />
 
       {packages.length > 0 && (
         <section className="mt-10">

@@ -14,6 +14,7 @@ import { PackageCard } from "@/components/packages/package-card";
 import { TransferRouteCard } from "@/components/transfers/transfer-route-card";
 import { CONTAINER_CLASS } from "@/components/ui/container";
 import { PageHero } from "@/components/ui/page-hero";
+import { LocationMap } from "@/components/locations/location-map";
 import { getAccommodationBySlug } from "@/lib/accommodations/repository";
 import { ACCOMMODATION_TYPE_SEGMENT, type AccommodationType } from "@/lib/accommodations/types";
 import { getNearbyActivities } from "@/lib/activities/repository";
@@ -186,6 +187,8 @@ export async function AccommodationDetailPage({ type, slug }: { type: Accommodat
           </div>
         )}
       </dl>
+
+      <LocationMap title={accommodation.title} lat={primaryLocation?.lat ?? null} lng={primaryLocation?.lng ?? null} />
 
       <RoomsSection rooms={accommodation.rooms} accommodationTitle={accommodation.title} />
 

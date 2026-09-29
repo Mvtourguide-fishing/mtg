@@ -107,8 +107,8 @@ function locationDetailOf(row: NodeLocationRow, heroImage: MediaAsset | null = n
 function locationSummaryOf(row: NodeLocationRow, heroImage: MediaAsset | null = null): LocationSummary | null {
   const detail = locationDetailOf(row, heroImage);
   if (!detail) return null;
-  const { id, slug, title, summary, locationType, parentId, isInhabited } = detail;
-  return { id, slug, title, summary, locationType, parentId, isInhabited, heroImage };
+  const { id, slug, title, summary, locationType, parentId, lat, lng, isInhabited } = detail;
+  return { id, slug, title, summary, locationType, parentId, lat, lng, isInhabited, heroImage };
 }
 
 /** The single `location_type = 'country'` node (Maldives). */

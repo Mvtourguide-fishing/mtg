@@ -13,6 +13,7 @@ import { SurfBreakCard } from "@/components/surfing/surf-break-card";
 import { TransferRouteCard } from "@/components/transfers/transfer-route-card";
 import { CONTAINER_CLASS } from "@/components/ui/container";
 import { PageHero } from "@/components/ui/page-hero";
+import { LocationMap } from "@/components/locations/location-map";
 import { getAccommodationsByLocation } from "@/lib/accommodations/repository";
 import { getActivitiesByLocation } from "@/lib/activities/repository";
 import { getArticlesRelatedToNodes } from "@/lib/articles/repository";
@@ -187,6 +188,8 @@ export async function IslandDetailPage({ slug }: { slug: string }) {
           </div>
         )}
       </dl>
+
+      <LocationMap title={island.title} lat={island.lat} lng={island.lng} />
 
       {content && content.quickFacts.length > 0 && (
         <section className="mt-8 rounded-2xl border border-neutral-200 bg-sand-50 p-6">

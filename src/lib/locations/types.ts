@@ -28,6 +28,8 @@ export interface LocationSummary {
   summary: string | null;
   locationType: LocationType;
   parentId: string | null;
+  lat: number | null;
+  lng: number | null;
   isInhabited: boolean | null;
   /** Real legacy/uploaded photo, when one has been attached (see
    * scripts/attach-island-images.mjs) — never a placeholder. Most
