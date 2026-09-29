@@ -64,10 +64,18 @@ async function getFishingTypesInUseUncached(): Promise<CategorySummary[]> {
   const allTypes = await getCategoriesByGroup("activity-type");
   if (allTypes.length === 0) return [];
 
+  // `node_categories` is shared by every vertical. Restrict its node ids to
+  // published fishing activities before collecting the taxonomy tags; otherwise
+  // diving, surfing, and other activity types leak into this filter.
+  const fishingActivities = await getFishingActivities({ pageSize: 1000 });
+  const fishingNodeIds = fishingActivities.items.map((activity) => activity.id);
+  if (fishingNodeIds.length === 0) return [];
+
   const supabase = await createClient();
   const { data } = await supabase
     .from("node_categories")
     .select("category_id")
+    .in("node_id", fishingNodeIds)
     .in(
       "category_id",
       allTypes.map((t) => t.id),

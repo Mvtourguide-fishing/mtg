@@ -67,6 +67,12 @@ export async function resolveLegacyRedirect(pathname: string): Promise<ResolvedR
 
   const sourcePath = normalizeLegacyPath(pathname);
 
+  // Keep this critical legacy URL available even if the redirect table is
+  // temporarily unavailable during deployment or database maintenance.
+  if (sourcePath === "/maldives-transportation-ferry-speedboat-transfers.html") {
+    return { targetPath: "/maldives/transfers", statusCode: 308 };
+  }
+
   try {
     const supabase = createClient(url, anonKey);
     const { data, error } = await supabase
